@@ -85,7 +85,7 @@
 					- in p-type region
 					- x=0 (edge of depletion layer)
 						- excess carriers are 0
-					-
+						- Because any $$e$$
 				-
 				-
 				-
