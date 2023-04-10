@@ -172,9 +172,12 @@
 		  $$
 		- Also T dependent
 			- Maximal power output: $$P_m$$ decreases
-		- ![image.png](../assets/image_1681134301793_0.png){:height 241, :width 355}
+		- ![image.png](../assets/image_1681134301793_0.png){:height 241, :width 355} #.ol
 			- Long-wavelength losses
-				- Only photons with sufficient energy to let electrons bridge bandgap can be absorbed
+				- Only photons with sufficient energy to let electrons bridge bandgap will be absorbed
+			- Excess-energy losses
+				-
+			-
 -
 	-
 	-
