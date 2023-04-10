@@ -171,5 +171,6 @@
 		  \end{equation*}
 		  $$
 		- Also T dependent
+			- $$P_m$$ decreases
 			-
 - Factors influencing energy conversion efficiency
