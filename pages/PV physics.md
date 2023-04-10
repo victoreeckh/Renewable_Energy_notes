@@ -162,6 +162,7 @@
 	- $$
 	  \begin{equation*}
 	  \begin{aligned}
+	  \eta &= \frac{P_M}{P_L}\\
 	  \end{aligned}
 	  \end{equation*}
 	  $$
