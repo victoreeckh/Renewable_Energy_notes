@@ -25,6 +25,8 @@
 				- Balanced by drift current: thermally generated minority carriers which drift from p->n
 		- Diode at forward voltage
 			- Potential barrier decreased with $$qV$$
+			- Diffusion of many majority carriers from n->p
+			- Thus $$I_D$$ increased
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
