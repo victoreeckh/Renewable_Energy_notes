@@ -21,10 +21,10 @@
 	- Diode in the dark
 		- Diode at zero voltage
 			- Thermal equilibrium
-				- Diffusion of majority carriers from n->p
+				- Diffusion of few majority carriers from n->p
 				- Balanced by drift current: thermally generated minority carriers which drift from p->n
 		- Diode at forward voltage
-			-
+			- Pot
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
