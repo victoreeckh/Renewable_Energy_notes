@@ -73,7 +73,8 @@
 			-
 			-
 - #### Diode under illumination: quantitative
-	-
+	- Simplified 1-D description of diode under illumination
+		- ![image.png](../assets/image_1681128018952_0.png)
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
