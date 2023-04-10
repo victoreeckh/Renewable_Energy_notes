@@ -33,7 +33,7 @@
 			- Potential barrier increased with $$qV$$
 			- Very few diffusion majority carriers from n->p
 			- With negative $$V$$, $$I_D = I_0$$
-				- W
+				- With: $$I_0$$ limited by thermally generated minority carriers w
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
