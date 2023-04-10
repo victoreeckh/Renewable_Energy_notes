@@ -102,7 +102,7 @@
 				- No generation
 			- Boundary conditions
 				- ![image.png](../assets/image_1681128679380_0.png){:height 50, :width 257}
-					-
+					- excess carriers ()
 			-
 - Networkmodel
 - Alternative collecting junction structures
