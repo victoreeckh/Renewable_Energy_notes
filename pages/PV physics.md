@@ -192,6 +192,7 @@
 				- No voltage higher than the $$V_{OC}$$ is extractable
 			- FF
 		- around $$30\%$$ at most
+		-
 -
 	-
 	-
