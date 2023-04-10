@@ -62,6 +62,7 @@
 						- holes: n->p
 			- Current flows through short cicruit (No load)
 		- What if load?
+			- See sl.13
 			-
 			-
 - #### Diode under illumination: quantitative
