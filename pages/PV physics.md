@@ -110,8 +110,11 @@
 				- $$J = J_1(x=0)+J_2(x=0)$$
 				- ![image.png](../assets/image_1681130005244_0.png){:height 139, :width 220}
 			- Effect of temperature
-				- $$I_{sc}$$
+				- Short circuit current: $$I_{sc}$$
 					- small increase
+				- Open circuit voltage: $$V_{oc}$$
+					-
+					-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
