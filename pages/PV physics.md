@@ -22,8 +22,8 @@
 		- Diode at zero voltage
 			- Thermal equilibrium
 				- Diffusion of majority carriers from n->p
-				- Balanced by thermally generated minority carriers
-				-
+				- Balanced by drift current: thermally generated minority carriers which drift from p->n
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
