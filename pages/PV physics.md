@@ -113,6 +113,7 @@
 				- Short circuit current: $$I_{sc}$$
 					- small increase
 				- Open circuit voltage: $$V_{oc}$$
+					- strong dependence on intrinsic carrier concentrations $$n_i$$
 					-
 					-
 - Networkmodel
