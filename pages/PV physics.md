@@ -120,7 +120,9 @@
 	-
 - #### Networkmodel
 	- Idea
-		- Start from photogenerated current
+		- Start from photogenerated current (current source) $$I_{ph}$$
+			- losses:
+				-
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
