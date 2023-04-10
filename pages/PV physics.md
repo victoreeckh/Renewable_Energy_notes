@@ -23,7 +23,8 @@
 			- Thermal equilibrium
 				- Diffusion of majority carriers from n->p
 				- Balanced by drift current: thermally generated minority carriers which drift from p->n
-		- Diode at for
+		- Diode at forward voltage
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
