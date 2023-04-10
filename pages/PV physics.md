@@ -135,6 +135,9 @@
 - #### Alternative collecting junction structures
 	- ==Heterojunctions==
 		- Emitter and base material are not necessarily based on the same material
+		- e.g.:
+			- p-CuInGaSe(S)2/n-CdS junction
+				- CdS is window layer ()
 	- ==pin-structures==
 	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
