@@ -76,7 +76,9 @@
 	- Simplified 1-D description of diode under illumination
 		- ![image.png](../assets/image_1681128127398_0.png){:height 89, :width 224}
 			- In p-type region
-			- Divergence of diffusion current +
+			- Divergence of diffusion current + recombination - generation =0
+		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
+			- in n-type region
 			- Diode under illumination and no bias
 				- Boundary conditions:
 					- ![image.png](../assets/image_1681128062263_0.png){:height 88, :width 244}
