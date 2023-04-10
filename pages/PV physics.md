@@ -111,6 +111,8 @@
 		- Diode under illumination
 			- Superposition of the previous
 				- $$J = J_1(x=0)+J_2(x=0)$$
+				- ![image.png](../assets/image_1681130005244_0.png){:height 139, :width 220}
+				-
 				-
 - Networkmodel
 - Alternative collecting junction structures
