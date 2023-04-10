@@ -31,7 +31,7 @@
 			- Exponential increase $$I_D>I_{drift}$$
 		- Diode at reverse voltage
 			- Potential barrier increased with $$qV$$
-			-
+			- Very few iffusion majority carriers from n->p
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
