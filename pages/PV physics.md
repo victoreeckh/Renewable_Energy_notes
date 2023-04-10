@@ -170,5 +170,6 @@
 		  \end{aligned}
 		  \end{equation*}
 		  $$
-		-
+		- Also T dependent
+			-
 - Factors influencing energy conversion efficiency
