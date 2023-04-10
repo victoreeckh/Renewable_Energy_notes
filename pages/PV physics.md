@@ -183,7 +183,10 @@
 			- Reflection losses outside fingers
 				- Cell not perfectly black
 				- can be mitigated with multilayer anti reflective coating
-				-
+			- Incomplete absorption
+			- Incomple
+			- Voltage factor
+			-
 -
 	-
 	-
