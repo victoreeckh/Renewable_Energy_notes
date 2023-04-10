@@ -32,7 +32,11 @@
 			- Diffusion in quasi-neutral region under influence of concentration gradient: $$-\frac{dp}{dx}$$ and $$\frac{dn}{dx}$$
 				- $$
 				  \begin{equation*}
-				  \begin{}
+				  \begin{aligned}
+				  \left\{
+				  
+				  \right.
+				  \end{aligned}
 				  \end{equation*}
 				  $$
 		- Diode at reverse voltage
