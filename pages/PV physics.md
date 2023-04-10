@@ -78,11 +78,12 @@
 			- In p-type region
 			- Divergence of diffusion current + recombination - generation =0
 		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
-			- in n-type region
-			- Diode under illumination and no bias
-				- Boundary conditions:
-					- ![image.png](../assets/image_1681128062263_0.png){:height 88, :width 244}
-					-
+			- in n-type region (analogous)
+		- Diode under illumination and no bias
+			- Boundary conditions:
+				-
+				-
+				-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
