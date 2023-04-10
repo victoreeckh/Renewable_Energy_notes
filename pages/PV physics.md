@@ -18,6 +18,8 @@
 		- front: fingerstructure
 			- let light penetrate
 			- in between contacts
+	- Diode in the dark
+		- Diffusion of carriers from
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
