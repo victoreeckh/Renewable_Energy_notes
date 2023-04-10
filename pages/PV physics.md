@@ -68,6 +68,7 @@
 					- Shift from Q1->Q4: Deliver $$P$$ to environment
 			-
 			-
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
