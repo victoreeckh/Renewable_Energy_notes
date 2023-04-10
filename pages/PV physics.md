@@ -1,5 +1,5 @@
 - #### Diode under illumination: qualitative
-	- First equilibrium concentration of carriers in both conduction and valence band (determined by intrinsic concentration )
+	- First equilibrium concentration of carriers in both conduction (excited through heat) and valence band (determined by intrinsic concentration of carriers in semiconductor)
 	- Photovoltaic effect
 		-
 		- light is absorbed, causing excitation of (an electron or other) charge carrier to a higher-energy state
