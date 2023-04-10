@@ -20,8 +20,8 @@
 			- in between contacts
 	- Diode in the dark
 		- Thermal equilibrium
-			- Diffusion of carriers from n->p
-			-
+			- Diffusion of majority carriers from n->p
+			- Balanced by thermally gener
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
