@@ -24,7 +24,8 @@
 				- Diffusion of few majority carriers from n->p
 				- Balanced by drift current: thermally generated minority carriers which drift from p->n
 		- Diode at forward voltage
-			- Pot
+			- Potential barrier decreased with $$qV$$
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
