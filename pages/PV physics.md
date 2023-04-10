@@ -161,13 +161,14 @@
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
 		- FF depends on $$V_{OC}$$
 			- Different materials have different $$V_{OC}$$s
-	- $$
-	  \begin{equation*}
-	  \begin{aligned}
-	  \eta &= \frac{P_M}{P_L}\\
-	  &= \frac{J_{SC}V_{OC}FF}{\int_0^\infty P(\lambda)d\lambda}
-	  \end{aligned}
-	  \end{equation*}
-	  $$
+	- Efficiency $$\eta$$
+		- $$
+		  \begin{equation*}
+		  \begin{aligned}
+		  \eta &= \frac{P_M}{P_L}\\
+		  &= \frac{J_{SC}V_{OC}FF}{\int_0^\infty P(\lambda)d\lambda}
+		  \end{aligned}
+		  \end{equation*}
+		  $$
 	-
 - Factors influencing energy conversion efficiency
