@@ -108,8 +108,7 @@
 				- Analogous for wholes on n-side
 				- Solution:
 					- ![image.png](../assets/image_1681129727489_0.png){:height 129, :width 291}
-					-
-				-
+			-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
