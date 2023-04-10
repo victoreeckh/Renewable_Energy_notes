@@ -63,7 +63,8 @@
 			- Current flows through short cicruit (No load)
 		- What if load?
 			- See sl.13
-			-
+			- Net current is superposition of:
+				-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
