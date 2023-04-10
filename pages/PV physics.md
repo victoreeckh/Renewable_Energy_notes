@@ -170,5 +170,5 @@
 		  \end{aligned}
 		  \end{equation*}
 		  $$
-	-
+		-
 - Factors influencing energy conversion efficiency
