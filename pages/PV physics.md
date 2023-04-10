@@ -129,7 +129,8 @@
 				- Series resistance
 					- dissipation
 					- Finger structure
-				-
+				- Shunt resistance
+					- leakage
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
