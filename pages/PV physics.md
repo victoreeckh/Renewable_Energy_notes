@@ -21,7 +21,6 @@
 			- let light penetrate
 			- in between contacts
 	- Diode in the dark
-	  collapsed:: true
 		- Diode at zero voltage
 			- Thermal equilibrium
 				- Diffusion of few majority carriers from n->p
