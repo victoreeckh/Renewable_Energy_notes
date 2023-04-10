@@ -64,7 +64,8 @@
 		- What if load?
 			- See sl.13
 			- Net current is superposition of:
-				- Current bij forward bias:
+				- Current bij forward bias: $$I_d = I_{dark}$$
+				-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
