@@ -123,10 +123,10 @@
 		- Start from photogenerated current (current source) $$I_{ph}$$
 			- losses:
 				- Current lost in diode
-					-
+					- Can be modelled by forward bias
 				- Series resistance
 					- dissipation
-					-
+					- Finger structure
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
