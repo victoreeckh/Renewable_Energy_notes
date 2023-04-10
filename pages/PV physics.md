@@ -186,8 +186,11 @@
 			- Incomplete absorption
 				- Cell has finite thickness -> not all photons can be absorbed
 			- Incomplete collection
-				- Diffusion length ($$L_D$$) not sufficiently large in comparison with
+				- Diffusion length ($$L_D$$) not sufficiently large in comparison with thickness
+				- Low when using high quality Si
 			- Voltage factor
+				-
+			- FF
 			-
 -
 	-
