@@ -182,7 +182,8 @@
 				- Can be limited through technology
 			- Reflection losses outside fingers
 				- Cell not perfectly black
-				- mi
+				- can be mitigated with multilayer anti reflective coating
+				-
 -
 	-
 	-
