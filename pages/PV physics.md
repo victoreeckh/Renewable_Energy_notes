@@ -12,6 +12,7 @@
 			- Use p-n junction (inherent potential difference) to establish potential difference
 		- Photovoltaic cell
 			- rear side: metal cover
+				- to close system
 			- front: fingerstructure
 				- let light penetrate
 				- in between contacts
