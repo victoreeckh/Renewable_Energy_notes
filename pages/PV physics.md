@@ -2,6 +2,7 @@
 	- First equilibrium concentration of carriers in both conduction (excited through heat e.g.) and valence band (determined by intrinsic concentration of carriers in semiconductor)
 		- No external factors
 	- ==Photovoltaic effect==
+	  collapsed:: true
 		- external illumination: solar light
 			- penetratrion of photons (depth is function of absorption coefficient)
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
@@ -13,6 +14,7 @@
 			- Use p-n junction (inherent potential difference) to establish potential difference
 			- Electrical field in the depletion layer
 	- Photovoltaic cell
+	  collapsed:: true
 		- rear side: metal cover
 			- to close system
 		- front: fingerstructure
@@ -28,6 +30,7 @@
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
 		- Diode at reverse voltage
+			-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
