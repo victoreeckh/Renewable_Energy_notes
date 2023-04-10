@@ -9,7 +9,7 @@
 			- free electrons in conduction band
 			- ->recombination (conversion: heat-> heat)
 		- Solve by separation
-			-
+			- Use p-n junction to establish potential d
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
