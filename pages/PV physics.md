@@ -80,6 +80,7 @@
 		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
 			- in n-type region (analogous)
 		- Diode under illumination and no bias
+		  collapsed:: true
 			- Boundary conditions:
 				- ![image.png](../assets/image_1681128241169_0.png){:height 67, :width 255}
 					- in p-type region
@@ -91,10 +92,13 @@
 				- ![image.png](../assets/image_1681128402278_0.png){:height 56, :width 279}
 					- in n-type region (analogous)
 			- Solution:
+				- ![image.png](../assets/image_1681128441322_0.png){:height 198, :width 222}
 				-
 				-
 				-
 				-
+		- Diode in the dark
+			-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
