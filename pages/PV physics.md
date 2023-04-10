@@ -48,7 +48,8 @@
 				- With: $$I_0$$ limited by thermally generated minority carriers which diffuse to junction, then drift from p-> n
 		-
 			-
-	-
+	- Diode under illumination
+		-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
