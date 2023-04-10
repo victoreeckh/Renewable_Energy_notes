@@ -98,6 +98,9 @@
 				-
 				-
 		- Diode in the dark
+			- ![image.png](../assets/image_1681128515423_0.png){:height 149, :width 241}
+			- No generation
+			-
 			-
 - Networkmodel
 - Alternative collecting junction structures
