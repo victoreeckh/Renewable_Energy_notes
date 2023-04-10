@@ -1,6 +1,6 @@
 - #### Diode under illumination: qualitative
 	- Photovoltaic effect
-		- light is absorbed, causing excitation of an [electron](https://en.wikipedia.org/wiki/Electron) or other [charge carrier](https://en.wikipedia.org/wiki/Charge_carrier) to a higher-energy state
+		- light is absorbed, causing excitation of an electron or other charge carrier to a higher-energy state
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
