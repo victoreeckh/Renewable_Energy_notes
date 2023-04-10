@@ -57,7 +57,9 @@
 				- Near junction
 					- Minority carriers are swept over by the field near the junction
 				- This results in gradient of minority carriers to the junction
-					-
+					- from the region where it is minority carrier to the region where it is majority carrier
+						- electrons: p->n
+						-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
