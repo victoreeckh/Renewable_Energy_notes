@@ -21,6 +21,7 @@
 			- let light penetrate
 			- in between contacts
 	- Diode in the dark
+	  collapsed:: true
 		- Diode at zero voltage
 			- Thermal equilibrium
 				- Diffusion of few majority carriers from n->p
@@ -52,6 +53,7 @@
 			- Absorption of photons→creation of excess carriers
 			- Separation of carriers by the junction
 				- Far from junction
+					- generation recombinatio
 					-
 			-
 - #### Diode under illumination: quantitative
