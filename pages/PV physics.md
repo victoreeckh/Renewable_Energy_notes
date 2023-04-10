@@ -152,7 +152,9 @@
 	- ==Excitonic solar cell==
 		- Exciton bound pair
 			- In many materials however the coulombic interaction between excess hole and electron is sufficiently strong to make them move together
-			- Additional energy is needed for seperation
+			- Additional energy is needed for separation
+				- Electrical field (field-enhanced exciton dissociation)
+				- Dissociation at an hetero-interface
 				-
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
