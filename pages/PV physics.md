@@ -1,4 +1,5 @@
 - #### Diode under illumination: qualitative
+  collapsed:: true
 	- First equilibrium concentration of carriers in both conduction (excited through heat e.g.) and valence band (determined by intrinsic concentration of carriers in semiconductor)
 		- No external factors
 	- ==Photovoltaic effect==
@@ -67,10 +68,12 @@
 					- Photogenerated current (other direction; $$V=0V$$): $$I_{ph}$$
 						- Shift from Q1->Q4: Deliver $$P$$ to environment
 			- See sl. 14
-				- Diffusion is determined by concentration profiles
+				- Diffusion is determined by concentration profiles of minority carriers in quasi neutral regions
+			-
 			-
 			-
 - #### Diode under illumination: quantitative
+	-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
