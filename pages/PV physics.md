@@ -66,7 +66,8 @@
 			- Net current is superposition of:
 				- Current bij forward bias: $$I_d = I_{dark}$$
 				- Photogenerated current (other direction; $$V=0V$$): $$I_{ph}$$
-					- Shift from Q1->Q4:
+					- Shift from Q1->Q4: Deliver $$P$$ to environment
+			-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
