@@ -1,7 +1,8 @@
 - #### Diode under illumination: qualitative
-	- First equilibrium concentration of carriers in both conduction (excited through heat) and valence band (determined by intrinsic concentration of carriers in semiconductor)
+	- First equilibrium concentration of carriers in both conduction (excited through heat e.g.) and valence band (determined by intrinsic concentration of carriers in semiconductor)
+		- No external factors
 	- Photovoltaic effect
-		-
+		- external illumination: solar light
 		- light is absorbed, causing excitation of (an electron or other) charge carrier to a higher-energy state
 - Diode under illumination: quantitative
 - Networkmodel
