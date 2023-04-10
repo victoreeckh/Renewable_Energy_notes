@@ -13,7 +13,8 @@
 		- Photovoltaic cell
 			- rear side: metal cover
 			- front: fingerstructure
-				- let light pen
+				- let light penetrate
+				- in between contacts
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
