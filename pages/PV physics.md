@@ -186,7 +186,7 @@
 			- Incomplete absorption
 				- Cell has finite thickness -> not all photons can be absorbed
 			- Incomplete collection
-				- $$L_D$$
+				- Diffusion length ($$L_D$$) not sufficiently large in comparison with
 			- Voltage factor
 			-
 -
