@@ -161,6 +161,9 @@
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
 	- $$
 	  \begin{equation*}
+	  \begin{aligned}
+	  \end{aligned}
+	  \end{equation*}
 	  $$
 	-
 - Factors influencing energy conversion efficiency
