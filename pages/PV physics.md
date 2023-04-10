@@ -51,7 +51,9 @@
 	- Diode under illumination
 		- Carrier generation
 			- Absorption of photons→creation of excess carriers
-			-
+			- Separation of carriers by the junction
+				- Near junction:
+					-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
