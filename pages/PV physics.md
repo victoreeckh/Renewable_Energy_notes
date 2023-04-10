@@ -86,7 +86,9 @@
 					- x=0 (edge of depletion layer)
 						- excess carriers are 0
 						- Because any $$e^-$$ at edge of depletion layer is immediately swept over
-					- x =
+					- x =$$\infty$$
+						- Equilibrium between generation and recombination
+				-
 				-
 				-
 				-
