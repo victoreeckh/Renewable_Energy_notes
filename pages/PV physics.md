@@ -119,6 +119,7 @@
 		-
 	-
 - #### Networkmodel
+  collapsed:: true
 	- Idea
 		- Start from photogenerated current (current source) $$I_{ph}$$
 			- losses:
@@ -131,9 +132,9 @@
 					- Finger structure
 				- Shunt resistance
 					- leakage
-- Alternative collecting junction structures
-	- Heterojunctions
-	- pin-structures
-	- Excitonic solar cell
+- #### Alternative collecting junction structures
+	- ==Heterojunctions==
+	- ==pin-structures==
+	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
