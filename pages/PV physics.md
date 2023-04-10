@@ -75,8 +75,8 @@
 - #### Diode under illumination: quantitative
 	- Simplified 1-D description of diode under illumination
 		- ![image.png](../assets/image_1681128127398_0.png){:height 89, :width 224}
-			- In
-			-
+			- In p-type region
+			- Divergence of diffusion current +
 			- Diode under illumination and no bias
 				- Boundary conditions:
 					- ![image.png](../assets/image_1681128062263_0.png){:height 88, :width 244}
