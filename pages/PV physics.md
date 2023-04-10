@@ -119,6 +119,8 @@
 		-
 	-
 - #### Networkmodel
+	- Idea
+		- Start from photogenerated current
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
