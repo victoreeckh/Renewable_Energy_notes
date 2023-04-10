@@ -5,7 +5,8 @@
 		- external illumination: solar light
 			- penetratrion of photons (depth is function of absorption coefficient)
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
-			-
+			- holes in valence band
+			- free electrons in conduction band
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
