@@ -30,7 +30,8 @@
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
 		- Diode at reverse voltage
-			- Potential barrier incre
+			- Potential barrier increased with $$qV$$
+			-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
