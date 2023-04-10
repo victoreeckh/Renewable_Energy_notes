@@ -4,7 +4,8 @@
 	- Photovoltaic effect
 		- external illumination: solar light
 			- penetratrion of photons (depth is function of absorption coefficient)
-		- light is absorbed, causing excitation of (an electron or other) charge carrier to a higher-energy state
+		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
+			-
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
