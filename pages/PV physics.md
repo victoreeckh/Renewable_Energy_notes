@@ -104,7 +104,7 @@
 				- ![image.png](../assets/image_1681128679380_0.png){:height 50, :width 257}
 					- excess carriers (electrons at p-side) are exponentially more than the equilibrium concentration because of forward (barrier decrease) bias at start depletion layer
 				- ![image.png](../assets/image_1681129007734_0.png){:height 28, :width 140}
-					- far from
+					- far from junction, the carrier concentration is
 				-
 - Networkmodel
 - Alternative collecting junction structures
