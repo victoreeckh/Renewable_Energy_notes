@@ -29,6 +29,7 @@
 			- Potential barrier decreased with $$qV$$
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
+			-
 		- Diode at reverse voltage
 			- Potential barrier increased with $$qV$$
 			- Very few diffusion majority carriers from n->p
