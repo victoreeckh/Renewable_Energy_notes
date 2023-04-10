@@ -135,6 +135,7 @@
 				- Shunt resistance
 					- leakage
 - #### Alternative collecting junction structures
+  collapsed:: true
 	- ==Heterojunctions==
 		- Emitter and base material are not necessarily based on the same material
 		- e.g.:
@@ -156,5 +157,6 @@
 				- Electrical field (field-enhanced exciton dissociation)
 				- Dissociation at an hetero-interface
 				-
-- Definition of energy conversion efficiency
+- #### Definition of energy conversion efficiency
+	-
 - Factors influencing energy conversion efficiency
