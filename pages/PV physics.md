@@ -27,7 +27,7 @@
 			- Potential barrier decreased with $$qV$$
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
-		- Dif
+		- Diode at reverse voltage
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
