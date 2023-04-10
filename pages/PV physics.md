@@ -80,7 +80,6 @@
 		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
 			- in n-type region (analogous)
 		- Diode under illumination and no bias
-		  collapsed:: true
 			- Boundary conditions:
 				- ![image.png](../assets/image_1681128241169_0.png){:height 67, :width 255}
 					- in p-type region
@@ -93,11 +92,8 @@
 					- in n-type region (analogous)
 			- Solution:
 				- ![image.png](../assets/image_1681128441322_0.png){:height 198, :width 222}
-				-
-				-
-				-
-				-
 		- Diode in the dark
+		  collapsed:: true
 			- ![image.png](../assets/image_1681128515423_0.png){:height 149, :width 241}
 				- No generation
 			- Boundary conditions
@@ -109,6 +105,7 @@
 			- Solution:
 				- ![image.png](../assets/image_1681129727489_0.png){:height 129, :width 291}
 		- Diode under illumination
+		  collapsed:: true
 			- Superposition of the previous
 				- $$J = J_1(x=0)+J_2(x=0)$$
 				- ![image.png](../assets/image_1681130005244_0.png){:height 139, :width 220}
