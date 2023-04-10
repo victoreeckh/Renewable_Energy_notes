@@ -114,8 +114,8 @@
 					- small increase
 				- Open circuit voltage: $$V_{oc}$$
 					- strong dependence on intrinsic carrier concentrations $$n_i$$
-					-
-					-
+					- Which is independent on $$T$$
+				-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
