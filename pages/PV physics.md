@@ -141,10 +141,11 @@
 			- p-CuInGaSe(S)2/n-CdS junction
 				- CdS is window layer (high band gap, therefore all absorption on p-side)
 	- ==pin-structures==
-		- Electrical field present throughout nearly whole cell volume
-		- Collection determined by drift (driftlength)
-		- Recombination determined by depletion layer (~ni)
-		- Fill factor lower
+		- Comparison to pn:
+			- Electrical field present throughout nearly whole cell volume
+			- Collection determined by drift (driftlength)
+			- Recombination determined by depletion layer (~ni)
+			- Fill factor lower: $$L_{}$$
 	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
