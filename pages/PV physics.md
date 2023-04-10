@@ -184,7 +184,8 @@
 				- Cell not perfectly black
 				- can be mitigated with multilayer anti reflective coating
 			- Incomplete absorption
-			- Incomple
+				- Cell has finite thickness -> not all photons
+			- Incomplete collection
 			- Voltage factor
 			-
 -
