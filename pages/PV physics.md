@@ -189,7 +189,7 @@
 				- Diffusion length ($$L_D$$) not sufficiently large in comparison with thickness
 				- Low when using high quality Si
 			- Voltage factor
-				-
+				- No voltage higher than the
 			- FF
 			-
 -
