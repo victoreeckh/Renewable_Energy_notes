@@ -159,6 +159,8 @@
 				-
 - #### Definition of energy conversion efficiency
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
+		- FF depends on $$V_{OC}$$
+			- Different materials have different $$V_{OC}$$s
 	- $$
 	  \begin{equation*}
 	  \begin{aligned}
@@ -167,7 +169,5 @@
 	  \end{aligned}
 	  \end{equation*}
 	  $$
-	- FF depends on $$V_{OC}$$
-		- Different materials have different $$V_{OC}$$s
 	-
 - Factors influencing energy conversion efficiency
