@@ -7,8 +7,9 @@
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
 			- holes in valence band
 			- free electrons in conduction band
-			- ->recombination (coneversion: heat-> heat)
-		-
+			- ->recombination (conversion: heat-> heat)
+		- Solve by separation
+			-
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
