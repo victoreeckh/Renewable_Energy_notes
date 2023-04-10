@@ -134,6 +134,7 @@
 					- leakage
 - #### Alternative collecting junction structures
 	- ==Heterojunctions==
+		- Emitter and base material are not necessarily based on the same material
 	- ==pin-structures==
 	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
