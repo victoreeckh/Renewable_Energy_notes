@@ -26,7 +26,7 @@
 		- Diode at forward voltage
 			- Potential barrier decreased with $$qV$$
 			- Diffusion of many majority carriers from n->p
-			- Thus $$I_D$$ increased
+			- More diffusion than drift -> $$I_D$$ increased
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
