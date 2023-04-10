@@ -124,10 +124,12 @@
 			- losses:
 				- Current lost in diode
 					- Can be modelled by forward bias when not illuminated
-					- Can be further splitted in losses of $$J_{01}$$
+					- Can be further splitted in losses of $$J_{01}$$ and $$J_{02}$$
+						- with different ideality factors $$n_i$$
 				- Series resistance
 					- dissipation
 					- Finger structure
+				-
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
