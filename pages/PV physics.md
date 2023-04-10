@@ -158,6 +158,7 @@
 				- Dissociation at an hetero-interface
 				-
 - #### Definition of energy conversion efficiency
-	- Fill factor $$= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
+	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
+	-
 	-
 - Factors influencing energy conversion efficiency
