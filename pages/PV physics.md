@@ -61,7 +61,8 @@
 						- electrons: p->n
 						- holes: n->p
 			- Current flows through short cicruit (No load)
-		-
+		- What if load?
+			-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
