@@ -1,5 +1,5 @@
 - #### Diode under illumination: qualitative
-	-
+	- Photovolt
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
