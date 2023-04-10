@@ -79,7 +79,7 @@
 			- In p-type region
 			- Divergence of diffusion current + recombination - generation =0
 				- electron minority carrier lifetime: $$\tau_n$$
-				-
+				- Diffusion constant: $$D_n$$
 		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
 			- in n-type region (analogous)
 		- Diode under illumination and no bias
