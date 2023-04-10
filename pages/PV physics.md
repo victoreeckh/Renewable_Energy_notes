@@ -150,5 +150,7 @@
 				- Electrical field: $$E$$
 			- Problem: low efficiency
 	- ==Excitonic solar cell==
+		- Exciton bound pair
+			-
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
