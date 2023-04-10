@@ -29,7 +29,7 @@
 			- Potential barrier decreased with $$qV$$
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
-			- Diffusion in quasi-neutral region under influence of concentration gradient: $$-\frac{dp}{dx}$$ and $$\frac{dn}{dx}$$
+			- (Current)diffusion in quasi-neutral region under influence of concentration gradient: $$-\frac{dp}{dx}$$ and $$\frac{dn}{dx}$$
 				- $$
 				  \begin{equation*}
 				  \left\{
