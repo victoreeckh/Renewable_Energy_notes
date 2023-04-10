@@ -180,7 +180,9 @@
 			- Shadowing
 				- E.g. fingering pattern
 				- Can be limited through technology
-			-
+			- Reflection losses outside fingers
+				- Cell not perfectly black
+				- mi
 -
 	-
 	-
