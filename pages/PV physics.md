@@ -176,6 +176,7 @@
 			- Long-wavelength losses
 				- Only photons with sufficient energy to let electrons bridge bandgap will be absorbed
 			- Excess-energy losses
+				- Whole energy (of photons) above minimum of the conduction band will be lost through heat
 				-
 			-
 -
