@@ -178,7 +178,9 @@
 			- Excess-energy losses
 				- Whole energy (of photons) above minimum of the conduction band will be lost through heat
 			- Shadowing
-				- E
+				- E.g. fingering pattern
+				- Can be limited through technology
+			-
 -
 	-
 	-
