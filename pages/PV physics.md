@@ -10,7 +10,8 @@
 			- ->recombination (conversion: heat-> heat)
 		- Solve by separation
 			- Use p-n junction (inherent potential difference) to establish potential difference
-			-
+		- Photovoltaic cell
+			- re
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
