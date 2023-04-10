@@ -148,7 +148,7 @@
 			- Fill factor lower: $$L_{drift}=\mu\tau E$$
 				- Mobility of carrier: $$\tau$$
 				- Electrical field: $$E$$
-			-
+			- Problem: low efficiency
 	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
