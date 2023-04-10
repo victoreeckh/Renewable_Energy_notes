@@ -163,6 +163,7 @@
 	  \begin{equation*}
 	  \begin{aligned}
 	  \eta &= \frac{P_M}{P_L}\\
+	  &= \frac{J_{SC}V_{OC}FF}{}
 	  \end{aligned}
 	  \end{equation*}
 	  $$
