@@ -1,0 +1,7 @@
+- Diode under illumination: qualitative
+- Diode under illumination: quantitative
+- Networkmodel
+- Alternative collecting junction structures ▸ Heterojunctions
+	- pin-structures
+	- Excitonic solar cell
+- Definition of energy conversion efficiency Factors influencing energy conversion efficiency
