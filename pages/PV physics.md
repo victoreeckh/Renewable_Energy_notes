@@ -73,6 +73,7 @@
 			-
 			-
 - #### Diode under illumination: quantitative
+  collapsed:: true
 	- Simplified 1-D description of diode under illumination
 		- ![image.png](../assets/image_1681128127398_0.png){:height 89, :width 224}
 			- In p-type region
@@ -115,8 +116,9 @@
 				- Open circuit voltage: $$V_{oc}$$
 					- strong dependence on intrinsic carrier concentrations $$n_i$$
 					- Which is independent on $$T$$
-				-
-- Networkmodel
+		-
+	-
+- #### Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
