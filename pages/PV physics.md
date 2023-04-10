@@ -74,7 +74,9 @@
 			-
 - #### Diode under illumination: quantitative
 	- Simplified 1-D description of diode under illumination
-		- ![image.png](../assets/image_1681128018952_0.png)
+	- ![image.png](../assets/image_1681128018952_0.png){:height 135, :width 222}
+		- Diode under illumination and no bias
+			-
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
