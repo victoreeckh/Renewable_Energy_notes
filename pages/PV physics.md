@@ -32,7 +32,8 @@
 		- Diode at reverse voltage
 			- Potential barrier increased with $$qV$$
 			- Very few diffusion majority carriers from n->p
-			- $$I_D = I_0$$
+			- With negative $$V$$, $$I_D = I_0$$
+				- W
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
