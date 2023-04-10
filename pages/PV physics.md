@@ -56,7 +56,7 @@
 					- generation recombination
 				- Near junction
 					- Minority carriers are swept over by the field near the junction
-				- This results in Gradient of minority carriers to the junction
+				- This results in gradient of minority carriers to the junction
 					-
 			-
 - #### Diode under illumination: quantitative
