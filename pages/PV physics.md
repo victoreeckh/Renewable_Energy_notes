@@ -109,7 +109,8 @@
 			- Solution:
 				- ![image.png](../assets/image_1681129727489_0.png){:height 129, :width 291}
 		- Diode under illumination
-			- Superpos
+			- Superposition of the previous
+				- $$J = J_1($$
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
