@@ -83,6 +83,9 @@
 			- Boundary conditions:
 				- ![image.png](../assets/image_1681128241169_0.png){:height 67, :width 255}
 					- in p-type region
+					- x=0 (edge of depletion layer)
+						- excess carriers are 0
+					-
 				-
 				-
 				-
