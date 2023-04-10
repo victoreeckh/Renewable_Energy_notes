@@ -53,7 +53,10 @@
 			- Absorption of photons→creation of excess carriers
 			- Separation of carriers by the junction
 				- Far from junction
-					- generation recombinatio
+					- generation recombination
+				- Near junction
+					- Minority carriers are swept over by the field near the junction
+				- This results in Gradient of minority carriers to the junction
 					-
 			-
 - #### Diode under illumination: quantitative
