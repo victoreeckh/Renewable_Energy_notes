@@ -7,7 +7,9 @@
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
 			- holes in valence band
 			- free electrons in conduction band
-			- ->recombination (conversion: heat-> heat)
+			- ->recombination
+				- Electrical field in the depletion layer
+				- conversion: heat-> heat
 		- Solve by separation
 			- Use p-n junction (inherent potential difference) to establish potential difference
 	- Photovoltaic cell
