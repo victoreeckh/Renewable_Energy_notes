@@ -1,7 +1,7 @@
 - #### Diode under illumination: qualitative
 	- First equilibrium concentration of carriers in both conduction (excited through heat e.g.) and valence band (determined by intrinsic concentration of carriers in semiconductor)
 		- No external factors
-	- Photovoltaic effect
+	- ==Photovoltaic effect==
 		- external illumination: solar light
 			- penetratrion of photons (depth is function of absorption coefficient)
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
