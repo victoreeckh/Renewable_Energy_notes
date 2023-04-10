@@ -34,7 +34,8 @@
 				  \begin{equation*}
 				  \begin{aligned}
 				  \left\{
-				  
+				  j_p & = -qD_p\frac{dp}{dx}
+				  j_p & = -qD_p\frac{dp}{dx}
 				  \right.
 				  \end{aligned}
 				  \end{equation*}
