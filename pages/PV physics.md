@@ -21,6 +21,7 @@
 			- let light penetrate
 			- in between contacts
 	- Diode in the dark
+	  collapsed:: true
 		- Diode at zero voltage
 			- Thermal equilibrium
 				- Diffusion of few majority carriers from n->p
@@ -47,6 +48,7 @@
 				- With: $$I_0$$ limited by thermally generated minority carriers which diffuse to junction, then drift from p-> n
 		-
 			-
+	-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
