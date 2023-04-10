@@ -124,6 +124,7 @@
 			- losses:
 				- Current lost in diode
 					- Can be modelled by forward bias when not illuminated
+					- Can be further splitted in losses of $$J_{01}$$
 				- Series resistance
 					- dissipation
 					- Finger structure
