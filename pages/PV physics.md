@@ -145,7 +145,8 @@
 			- Electrical field present throughout nearly whole cell volume
 			- Collection determined by drift (driftlength)
 			- Recombination determined by depletion layer (~ni)
-			- Fill factor lower: $$L_{}$$
+			- Fill factor lower: $$L_{drift}=\mu\tau E$$
+				- Mobility
 	- ==Excitonic solar cell==
 - Definition of energy conversion efficiency
 - Factors influencing energy conversion efficiency
