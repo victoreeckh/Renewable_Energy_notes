@@ -33,9 +33,9 @@
 				- $$
 				  \begin{equation*}
 				  \begin{aligned}
-				  \left\{
-				  j_p & = -qD_p\frac{dp}{dx}
-				  j_p & = -qD_p\frac{dp}{dx}
+				  \left{
+				  j_p &= -qD_p\frac{dp}{dx}\\
+				  j_n &= qD_n\frac{dn}{dx}
 				  \right.
 				  \end{aligned}
 				  \end{equation*}
