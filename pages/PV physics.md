@@ -89,6 +89,9 @@
 					- x =$$\infty$$
 						- Equilibrium between generation and recombination
 				- ![image.png](../assets/image_1681128402278_0.png){:height 56, :width 279}
+					- in n-type region (analogous)
+			- Solution:
+				-
 				-
 				-
 				-
