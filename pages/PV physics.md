@@ -167,5 +167,6 @@
 	  \end{aligned}
 	  \end{equation*}
 	  $$
-	- FF d
+	- FF depends on $$V_{OC}$$
+	-
 - Factors influencing energy conversion efficiency
