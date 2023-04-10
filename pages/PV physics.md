@@ -3,7 +3,7 @@
 		- No external factors
 	- Photovoltaic effect
 		- external illumination: solar light
-			- penetratrion of photons
+			- penetratrion of photons (depth is function of absorption coefficient)
 		- light is absorbed, causing excitation of (an electron or other) charge carrier to a higher-energy state
 - Diode under illumination: quantitative
 - Networkmodel
