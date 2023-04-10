@@ -101,7 +101,8 @@
 			- ![image.png](../assets/image_1681128515423_0.png){:height 149, :width 241}
 				- No generation
 			- Boundary conditions
-				-
+				- ![image.png](../assets/image_1681128679380_0.png){:height 50, :width 257}
+					-
 			-
 - Networkmodel
 - Alternative collecting junction structures
