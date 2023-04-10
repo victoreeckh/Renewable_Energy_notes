@@ -81,6 +81,8 @@
 			- in n-type region (analogous)
 		- Diode under illumination and no bias
 			- Boundary conditions:
+				- ![image.png](../assets/image_1681128241169_0.png){:height 67, :width 255}
+					- in p-type region
 				-
 				-
 				-
