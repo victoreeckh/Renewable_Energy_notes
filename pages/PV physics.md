@@ -158,5 +158,5 @@
 				- Dissociation at an hetero-interface
 				-
 - #### Definition of energy conversion efficiency
-	-
+	- Fill factor $$= \frac{V_M\cdot V_s}{}$$
 - Factors influencing energy conversion efficiency
