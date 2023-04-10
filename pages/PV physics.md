@@ -60,7 +60,8 @@
 					- from the region where it is minority carrier to the region where it is majority carrier
 						- electrons: p->n
 						- holes: n->p
-				-
+			- Current flows through short cicruit (No load)
+		-
 			-
 - #### Diode under illumination: quantitative
 - Networkmodel
