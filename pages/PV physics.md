@@ -30,7 +30,11 @@
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
 			- Diffusion in quasi-neutral region under influence of concentration gradient: $$-\frac{dp}{dx}$$ and $$\frac{dn}{dx}$$
-				-
+				- $$
+				  \begin{equation*}
+				  \begin{}
+				  \end{equation*}
+				  $$
 		- Diode at reverse voltage
 			- Potential barrier increased with $$qV$$
 			- Very few diffusion majority carriers from n->p
