@@ -10,13 +10,13 @@
 			- ->recombination (conversion: heat-> heat)
 		- Solve by separation
 			- Use p-n junction (inherent potential difference) to establish potential difference
-		- Photovoltaic cell
-			- rear side: metal cover
-				- to close system
-			- front: fingerstructure
-				- let light penetrate
-				- in between contacts
-- Diode under illumination: quantitative
+	- Photovoltaic cell
+		- rear side: metal cover
+			- to close system
+		- front: fingerstructure
+			- let light penetrate
+			- in between contacts
+- #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
 	- Heterojunctions
