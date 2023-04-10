@@ -1,4 +1,5 @@
 - ### [[Intro semiconductors and diodes]]
 - ### [[Intro+PV why?]]
-- ###
+- ### [[Radiation]]
+-
 -
