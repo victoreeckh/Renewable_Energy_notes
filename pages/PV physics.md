@@ -52,6 +52,7 @@
 		- Carrier generation
 			- Absorption of photons→creation of excess carriers
 			-
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
