@@ -173,7 +173,9 @@
 		- Also T dependent
 			- Maximal power output: $$P_m$$ decreases
 		- ![image.png](../assets/image_1681134301793_0.png){:height 241, :width 355}
-			- Long
-			-
-			-
+			- Long-wavelength losses
+				-
+-
+	-
+	-
 - Factors influencing energy conversion efficiency
