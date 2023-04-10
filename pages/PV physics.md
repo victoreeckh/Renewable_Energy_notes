@@ -19,7 +19,9 @@
 			- let light penetrate
 			- in between contacts
 	- Diode in the dark
-		- Diffusion of carriers from
+		- Thermal equilibrium
+			- Diffusion of carriers from n->p
+			-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
