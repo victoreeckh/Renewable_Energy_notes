@@ -163,9 +163,9 @@
 	  \begin{equation*}
 	  \begin{aligned}
 	  \eta &= \frac{P_M}{P_L}\\
-	  &= \frac{J_{SC}V_{OC}FF}{\int_0^\infty P{\lambda}d\lambda}
+	  &= \frac{J_{SC}V_{OC}FF}{\int_0^\infty P(\lambda)d\lambda}
 	  \end{aligned}
 	  \end{equation*}
 	  $$
-	-
+	- FF d
 - Factors influencing energy conversion efficiency
