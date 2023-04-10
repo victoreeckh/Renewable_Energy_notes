@@ -122,7 +122,11 @@
 	- Idea
 		- Start from photogenerated current (current source) $$I_{ph}$$
 			- losses:
-				-
+				- Current lost in diode
+					-
+				- Series resistance
+					- dissipation
+					-
 - Alternative collecting junction structures
 	- Heterojunctions
 	- pin-structures
