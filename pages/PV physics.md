@@ -49,7 +49,8 @@
 		-
 			-
 	- Diode under illumination
-		-
+		- Carrier generation
+			- Abs
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
