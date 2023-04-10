@@ -37,7 +37,7 @@
 				  j_p &= -qD_p\frac{dp}{dx}\\
 				  j_n &= qD_n\frac{dn}{dx}
 				  \end{aligned}
-				  
+				  \right.
 				  \end{equation*}
 				  $$
 		- Diode at reverse voltage
