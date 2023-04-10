@@ -11,7 +11,9 @@
 		- Solve by separation
 			- Use p-n junction (inherent potential difference) to establish potential difference
 		- Photovoltaic cell
-			- re
+			- rear side: metal cover
+			- front: fingerstructure
+				- let light pen
 - Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
