@@ -8,10 +8,10 @@
 			- holes in valence band
 			- free electrons in conduction band
 			- ->recombination
-				- Electrical field in the depletion layer
 				- conversion: heat-> heat
 		- Solve by separation
 			- Use p-n junction (inherent potential difference) to establish potential difference
+			- Electrical field in the depletion layer
 	- Photovoltaic cell
 		- rear side: metal cover
 			- to close system
