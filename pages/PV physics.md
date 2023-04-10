@@ -159,6 +159,8 @@
 				-
 - #### Definition of energy conversion efficiency
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
-	-
+	- $$
+	  \begin{equation*}
+	  $$
 	-
 - Factors influencing energy conversion efficiency
