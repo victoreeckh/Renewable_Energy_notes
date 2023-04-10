@@ -168,5 +168,5 @@
 	  \end{equation*}
 	  $$
 	- FF depends on $$V_{OC}$$
-	-
+		- Different materials have different $$V_{}$$
 - Factors influencing energy conversion efficiency
