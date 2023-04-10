@@ -19,9 +19,11 @@
 			- let light penetrate
 			- in between contacts
 	- Diode in the dark
-		- Thermal equilibrium
-			- Diffusion of majority carriers from n->p
-			- Balanced by thermally gener
+		- Diode at zero voltage
+			- Thermal equilibrium
+				- Diffusion of majority carriers from n->p
+				- Balanced by thermally generated minority carriers
+				-
 - #### Diode under illumination: quantitative
 - Networkmodel
 - Alternative collecting junction structures
