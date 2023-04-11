@@ -33,7 +33,8 @@
 	- #### Crystalline Si solar cells
 		- Sand to cell
 			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
-		-
+			- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
+			-
 	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
