@@ -85,7 +85,27 @@
 			- cost of Ag and wafer breakage
 			- bowing for wafer thickness < 200 micron
 	- ### Thin-film PV Technologies
-		-
+		- Why look for Si alternative?
+			- Much less material needed for same absorption fraction
+			- However those materials not always readily available
+		- ==Amorphous Si==
+			- hydrogen needed to passivate dangling bonds (Covalent binding)
+				- Improve electronic qualities
+					- increased bandgap
+					- Improves minority carrier lifetime $$\tau$$
+			- But used for pin-junction
+				- Carrier generation by $$L_{drift}$$ instead of $$L_p$$
+			- CBA
+				- Pro
+					- High absorption coefficient
+					- Thinner layers
+					- Production at lower temperature (RF-PECVD, High-frequency PECVD, ETP, HW-CVD)
+					- Compatible with cheaper substrates
+						- Flexible solar cells
+							- Glass
+							- Steel foils
+							- Polymers
+					- Monolithic module production = production of cell & module at the same moment
 	- Multijunction cells
 - ### PV module technology
   collapsed:: true
