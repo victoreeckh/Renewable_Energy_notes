@@ -40,12 +40,14 @@
 			- feedstock to Wafer with multiwire sawing
 			- Screen printed cell
 				- Texturing: make wafer even rougher
+				  collapsed:: true
 					- Chemical solution to remove mechanical damage but increase unevenness
 					- Why? -> reduces reflection
 				- Create pn junction
 					- diffusion of fosphorus -> n side
 						- Through POCl3 vapor diffusion
 						- Gettering:
+						  collapsed:: true
 							- Intrinsic effect of P emitter formation
 							- Diffusion of impurities to P rich layers
 					- remove phosphorus-silicate glass (PSG) chemically
@@ -53,15 +55,22 @@
 					- to reduce reflection even more
 					- Si-N coating
 						- Antireflection coating
+						  collapsed:: true
 							- Optimal refractive index: $$n_{ARC}=\sqrt{n_0 n_{Si}}=2$$
-							- Optimal thickness: $$=\frac{\lambda_{highest\; flux}}$$
+							- Optimal thickness: $$=\frac{\lambda_{highest\; flux}}{4n}$$
 						- Bulk passivation
+						  collapsed:: true
 							- reduces recombination
 						- Surface passivation
+						  collapsed:: true
 							- reduces recombination
-				- Contacting
+							- Achieved because of Hydrogen
+								- Positive fixed charge repels electrons from the surface and reduces the surface recombination velocity
+				- Contacting: screen printing
 					- Rear -> Al
 					- Front -> Ag
+					-
+					-
 		- Problems:
 			- cost of Ag and wafer breakage
 			- bowing for wafer thickness < 200 micron
