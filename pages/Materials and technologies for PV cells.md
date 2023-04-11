@@ -32,6 +32,7 @@
 	- Overview of PV-technologies
 		- ![image.png](../assets/image_1681196383643_0.png){:height 275, :width 542}
 	- #### Crystalline Si solar cells
+	  collapsed:: true
 		- Sand to cell
 			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
 		- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
@@ -98,6 +99,7 @@
 				- Carrier generation by $$L_{drift}$$ instead of $$L_p$$
 			- CBA
 				- Pro
+				  collapsed:: true
 					- High absorption coefficient
 					- Thinner layers
 					- Production at lower temperature (RF-PECVD, High-frequency PECVD, ETP, HW-CVD)
@@ -108,9 +110,11 @@
 							- Polymers
 					- Monolithic module production = production of cell & module at the same moment
 				- Contra
+				  collapsed:: true
 					- Low $$\eta \;(\pm6\%)$$
 						- Can be slightly increased by using multijunction (multi layers increase absorption)
 		- ==CdTe==
+		  collapsed:: true
 			- Main properties
 				- Basic properties:
 					- Bandgap = 1.5 eV
@@ -123,9 +127,11 @@
 					- Also spraying, electrodeposition and screenprinting can be used
 					- Substrate: soda-lime glass
 		- ==I-III-VI compounds==
+		  collapsed:: true
 			- Cover broad bandgap range
 			- See CIGS
 	- ### Multijunction cells
+	  collapsed:: true
 		- Stack cells with different bandgaps on top of each other
 			- Still broad spectral absorption
 			- reduce thermalisation losses (excess energy losses)
@@ -235,6 +241,11 @@
 				- or, more absorbing encapsulant -> Optical losses increase
 			- Ongeveer: $$\pm19\%-15\%$$
 	- #### Thin-film PV-modules
+		- Thinner cells
+			- Therefore already fabricated on carrier substrate or superstrate
+			- Module can be made similarly as is done for the deposition of the different layers of the cell
+			- Upscaling is challenging
+			- Interconnectio
 		-
 - P V-systems
 	- Different PV-systems
