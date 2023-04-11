@@ -10,4 +10,6 @@
 			- Suitable for light reception from the rear side (-> higher electricity output)
 		- Reasonable cost
 			- Because efficiency and manufacturing is similar to monofacial cells
+- Light collection
+	- Direct (front)
 	-
