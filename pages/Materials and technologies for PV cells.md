@@ -162,66 +162,77 @@
   collapsed:: true
 	- #### Si-PV modules
 		- STD cell
-		  collapsed:: true
 			- Front
 				- Metal grid contacting front polarity while letting as much solar radiation as possible through
 				- Current collected by fingers, collected at busbars
 			- Back
 				- Al metalization
 				- Ag Busbars (solderable) will bring out backside polarity of cell
-		- Build-up
-			- Cells -> string
-				- Interconnecting individual cells
-					- in series ($$V$$ buildup)
-					- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
-			- String ->  module
-				- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
-				- Lay-up of strings and bussing
-				  collapsed:: true
-					- Strings switched upside down
-					- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
-					- Strings are soldered in series using thick bussing ribbons
-				- Layup for lamination
-				  collapsed:: true
-					- First extra encapsulant
-					- Followed by backsheet (Polymer layer that will not melt during lamination)
-					- Contacts brought out of module through hole in the backsheet
-				- Lamination
-				  collapsed:: true
-					- To protect against humidity
-					- Vacuum applied
-					- Exposed to heat of laminator, melting the encapsulant material, while membrane pushes on the stack
-					- After 10-30min laminate is brought out to cool down
-					- (For cells thinner than 0.12mm process becomes tricky, as mechanical yields can become problematic)
-				- Framing
-				  collapsed:: true
-					- Al frame glued around laminate
-					- Junction box, output cables and bypass diode applied
-						- to provide two polarities of the module
-				- Modules are measured
-				  collapsed:: true
-					- classification
-					- Provide data for installer
-					- Performance parameters (through simulation)
-						- At operating cell temperature (NOCT): 800 W/m2 @ AM1.5g, 20gr. C (ambient), 1m/s wind
-						- Through $$I-V$$ characteristics
-						- Parameters: $$I/V_{sc,oc,mpp}$$
-						- -> $$W_p$$
-					- results in datasheets
-						- I-V curves at various temperature and irradiance levels
-						- Mechanical data
-						- NOC T Temperature coefficients
-		- Cell-to-module performance
-			- Geometrical losses
-				- 1. Border loss
-					- Area increased without adding extra Power
-				- 2. Spacing loss
-			- Optical losses
+			- Build-up
+				- Cells -> string
+					- Interconnecting individual cells
+						- in series ($$V$$ buildup)
+						- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
+				- String ->  module
+					- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
+					- Lay-up of strings and bussing
+					  collapsed:: true
+						- Strings switched upside down
+						- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
+						- Strings are soldered in series using thick bussing ribbons
+					- Layup for lamination
+					  collapsed:: true
+						- First extra encapsulant
+						- Followed by backsheet (Polymer layer that will not melt during lamination)
+						- Contacts brought out of module through hole in the backsheet
+					- Lamination
+					  collapsed:: true
+						- To protect against humidity
+						- Vacuum applied
+						- Exposed to heat of laminator, melting the encapsulant material, while membrane pushes on the stack
+						- After 10-30min laminate is brought out to cool down
+						- (For cells thinner than 0.12mm process becomes tricky, as mechanical yields can become problematic)
+					- Framing
+					  collapsed:: true
+						- Al frame glued around laminate
+						- Junction box, output cables and bypass diode applied
+							- to provide two polarities of the module
+					- Modules are measured
+					  collapsed:: true
+						- classification
+						- Provide data for installer
+						- Performance parameters (through simulation)
+							- At operating cell temperature (NOCT): 800 W/m2 @ AM1.5g, 20gr. C (ambient), 1m/s wind
+							- Through $$I-V$$ characteristics
+							- Parameters: $$I/V_{sc,oc,mpp}$$
+							- -> $$W_p$$
+						- results in datasheets
+							- I-V curves at various temperature and irradiance levels
+							- Mechanical data
+							- NOC T Temperature coefficients
+			- Cell-to-module performance
+				- ==Geometrical losses== ($$\eta$$)
+					- 1. Border loss
+						- Area increased without adding extra Power
+					- 2. Spacing loss
+				- ==Optical losses/gains== ($$I_{sc}$$)
+					- 3. Air-glass reflection
+					  4. Glass absorption
+					  5. Glass-encapsulant reflection
+					  6. encapsulant absorprtion
+					  7. (Additional) ribbon shading
+					  8. Coupling front (Refractive index matching)
+					  9. Coupling backsheet
+				- ==Electrical (resistive) losses== ($$FF$$)
+					- 10. Cell interconnections
+					  11. String interconnections
+					  12. Cabling
+				- Balance depends on actual implementation
+					- e.g. Higer cell current -> Electrical losses increase
+					- or, more absorbing encapsulant -> Optical losses increase
+				- Ongeveer: $$\pm19\%-15\%$$
 				-
-				-
-				-
-				-
-				-
+					-
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
