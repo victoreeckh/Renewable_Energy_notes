@@ -160,7 +160,18 @@
 				  $$
 - ### PV module technology
   collapsed:: true
-	- Si-PV modules
+	- #### Si-PV modules
+		- STD cell
+			- Front
+				- Metal grid contacting front polarity while letting as much solar radiation as possible through
+				- Current collected by fingers, collected at busbars
+			- Back
+				- Al metalization
+				- Ag Busbars (solderable) will bring out backside polarity of cell
+		- Cells ->
+			- Interconnecting individual cells
+				- in series ($$V$$ buildup)
+			-
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
