@@ -32,7 +32,6 @@
 	- Overview of PV-technologies
 		- ![image.png](../assets/image_1681196383643_0.png){:height 275, :width 542}
 	- #### Crystalline Si solar cells
-	  collapsed:: true
 		- Sand to cell
 			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
 		- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
@@ -46,6 +45,7 @@
 				- Chemical solution to remove mechanical damage but increase unevenness
 				- Why? -> reduces reflection
 			- Create pn junction
+			  collapsed:: true
 				- diffusion of fosphorus -> n side
 					- Through POCl3 vapor diffusion
 					- Gettering:
@@ -54,6 +54,7 @@
 						- Diffusion of impurities to P rich layers
 				- remove phosphorus-silicate glass (PSG) chemically
 			- Put on Anti-Reflective Coating (ARC)
+			  collapsed:: true
 				- to reduce reflection even more
 				- Si-N coating
 					- Antireflection coating
@@ -69,6 +70,7 @@
 						- Achieved because of Hydrogen
 							- Positive fixed charge repels electrons from the surface and reduces the surface recombination velocity
 			- Contacting: screen printing
+			  collapsed:: true
 				- Rear -> Al
 				- Front -> Ag
 				- Working
@@ -76,6 +78,7 @@
 					- Put paste (ink) on it
 					- Squeegee pushes the paste through the openings, from the screen onto the wafer
 				- CBA
+				  collapsed:: true
 					- Pro
 						- Robustness
 						- Flexibility
@@ -84,6 +87,7 @@
 						- Smallest line width limited to 80 microns
 						- Cost of Ag
 		- Problems:
+		  collapsed:: true
 			- cost of Ag and wafer breakage
 			- bowing for wafer thickness < 200 micron
 	- ### Thin-film PV Technologies
@@ -91,6 +95,7 @@
 			- Much less material needed for same absorption fraction
 			- However those materials not always readily available
 		- ==Amorphous Si==
+		  collapsed:: true
 			- hydrogen needed to passivate dangling bonds (Covalent binding)
 				- Improve electronic qualities
 					- increased bandgap
@@ -131,7 +136,6 @@
 			- Cover broad bandgap range
 			- See CIGS
 	- ### Multijunction cells
-	  collapsed:: true
 		- Stack cells with different bandgaps on top of each other
 			- Still broad spectral absorption
 			- reduce thermalisation losses (excess energy losses)
@@ -166,8 +170,8 @@
 				  \end{equation*}
 				  $$
 - ### PV module technology
+  collapsed:: true
 	- #### Si-PV modules
-	  collapsed:: true
 		- STD cell
 		  collapsed:: true
 			- Front
@@ -178,6 +182,7 @@
 				- Ag Busbars (solderable) will bring out backside polarity of cell
 		- Build-up
 			- Cells -> string
+			  collapsed:: true
 				- Interconnecting individual cells
 					- in series ($$V$$ buildup)
 					- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
@@ -246,10 +251,9 @@
 			- Upscaling is challenging
 			- Interconnection in monolithic way on the carrier
 		- ![image.png](../assets/image_1681235855506_0.png){:height 233, :width 433}
-- #### PV-systems
-  collapsed:: true
+- ### PV-systems
 	- Different PV-systems
-	- Maximum Power Point Tracking (MPPT)
+	- #### Maximum Power Point Tracking (MPPT)
 		- Voltage at which you can extract maximum power changes with temperature $$T$$ (and for example intensity)
 			- ->How does system account for this?
 			- DC-DC converter has to be set up in a way that it biases the PV module so that it extracts maximum power

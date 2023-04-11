@@ -1,0 +1,3 @@
+- LCOE
+	- $$LCOE = \frac{Sum\; of\; costs\; over\; lifetime}{Sum\; of\; electrical\; energy\; produced\; over lifetime}$$
+	- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{}$$
