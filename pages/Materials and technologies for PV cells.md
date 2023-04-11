@@ -69,8 +69,18 @@
 				- Contacting: screen printing
 					- Rear -> Al
 					- Front -> Ag
-					-
-					-
+					- Working
+						- Screen with openings
+						- Put paste (ink) on it
+						- Squeegee pushes the paste through the openings, from the screen onto the wafer
+					- CBA
+						- Pro
+							- Robustness
+							- Flexibility
+							- Environmentally benign
+						- Contra
+							- Smallest line width limited to 80 microns
+							- Cost of Ag
 		- Problems:
 			- cost of Ag and wafer breakage
 			- bowing for wafer thickness < 200 micron
