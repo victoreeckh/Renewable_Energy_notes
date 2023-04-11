@@ -34,7 +34,10 @@
 		- Sand to cell
 			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
 			- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
-			-
+			- MG-Si is reacted with HCl to form trichlorosilane in a fluidized bed rector by heating powdered MG-Si
+			- Wacker process for poly-silicon production
+			- PV crystalline silicon wafers are monocrystalline Si grown via Czochralski process or multicrystalline fabricated via a casting process
+			- feedstock to Wafer with multiwire sawing
 	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
