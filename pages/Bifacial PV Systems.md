@@ -52,5 +52,18 @@
 				- (+) Low computing costs for simplified geometries
 			- ==Ray tracing==
 				- Start from detailed description of 3D geometry (CAD)
+				- computational technique that uses mathematical models to simulate the behavior of light rays as they propagate through the system
+				- Simplification
+					- Replace pure ray tracing to reduce computing time
+					- Daylight Coefficient Method
+						- Irradiance = *Discretized sky radiance*$$\times$$*Cell-to-sky sensitivity*, $$I = D\cdot S$$
+						- For Cell-to-sky sensitivity -> $$1\times$$ ray tracing
+					- CBA
+						- (+)
+							- Irradiance distribution with sub-cell resolution
+							- Time-resolved down to 1 min resolution
+							- Easy control of accuracy vs. computing time
+						- (-)
+							- practical system size limited ~30kW -> Upscaling
 	- Step 2: Compute Electrical output of cells/modules/system
 		-
