@@ -1,5 +1,20 @@
-- PV cell technology
-	- Shockley-Queisser model: limiting efficiencies a.f.o. bandgap
+- ### PV cell technology
+	- #### Shockley-Queisser model: limiting efficiencies a.f.o. bandgap
+		- Intro
+			- ==Radiative recombination==
+				- the energy of the recombining electron-hole pair is emitted as a photon
+			- ==Auger Recombination==
+				- the energy of the recombining electron-hole pair is transferred to another carrier
+		- **Model**
+			- Assumptions
+				- Cell is black-body in thermal equilibrium with a thermal bath at temperature T
+				- Isotropic irradiation
+				- Unit absorbance for photons > Eg
+				- Zero absorbance for photons < Eg
+				- Only source of recombination is radiative (no Auger)
+				- Cell behaves like an ideal diode: 
+				  $$J(V)=J_0(exp(\frac{qV}{kT})-1)$$
+				- Sun assumed to be black body
 	- Crystalline Si solar cells
 	- Thin-film PV Technologies
 	- Multijunction cells
