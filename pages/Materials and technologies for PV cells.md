@@ -1,5 +1,6 @@
 - ### PV cell technology
 	- #### Shockley-Queisser model: limiting efficiencies a.f.o. bandgap
+	  collapsed:: true
 		- Intro
 			- ==Radiative recombination==
 				- the energy of the recombining electron-hole pair is emitted as a photon
@@ -26,11 +27,14 @@
 							- Mutatis mutandis
 				- ![image.png](../assets/image_1681195853749_0.png)
 					- Iterated experiment with AM1.5 solar spectrum (instead of black body radiator)
-					- Si well positioned relative to maximum
+					- Si well positioned relative to maximum (but model as such not applicable because indirect bandgap material)
+	- Overview of PV-technologies
+		- ![image.png](../assets/image_1681196383643_0.png){:height 275, :width 542}
 	- Crystalline Si solar cells
 	- Thin-film PV Technologies
 	- Multijunction cells
-- PV module technology
+- ### PV module technology
+  collapsed:: true
 	- Si-PV modules
 	- Thin-film PV-modules
 	  P V-systems
