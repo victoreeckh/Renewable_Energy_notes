@@ -73,5 +73,15 @@
 						- (-)
 							- practical system size limited ~30kW -> Upscaling
 	- Step 2: Compute Electrical output of cells/modules/system
-		-
-		-
+- Thermal-electrical behavior
+	- Series connection -> current determined by least illuminated cell -> power excess is dissipated as heat in the cells -> T increase -> while working of cells depends on it -> account for thermal aspects too
+	- Accurate approach
+		- Physics-based modelling (all relevant physical phenomena are modelled along physical laws and principles)
+			- All inputs are measurable, physical
+			  parameters
+		- ![image.png](../assets/image_1681247716735_0.png){:height 272, :width 365}
+		- (+)
+			- Inputs
+			- Model can be extended to large range of systems
+			- Flexible thermal-electrical model
+			   Cell/Module/String level
