@@ -135,7 +135,29 @@
 			- Idea:
 				- Replace solar cell by cheaper passive optical system like a lens or a mirror
 					- optimise cell area
-				- Concentration increases efficiency ($$V_{OC} $$)
+				- Concentration increases efficiency ($$V_{OC} \sim ln(I_{sc})$$)
+				- Thus:
+				  $$
+				  \begin{equation*}
+				  \begin{aligned}
+				  J_{sc}&\rightarrow n\cdot J_{sc}\\
+				  P_{in}&\rightarrow n\cdot P_{in}\\
+				  V_{OC} &\sim ln(n)\Rightarrow FF \nearrow
+				  \end{aligned}
+				  \end{equation*}
+				  $$
+				- And:
+				  $$
+				  \begin{equation*}
+				  \left.
+				  \begin{aligned}
+				  V_{OC}&\nearrow\\
+				  FF&\nearrow
+				  \end{aligned}
+				  \right\}
+				  
+				  \end{equation*}
+				  $$
 - ### PV module technology
   collapsed:: true
 	- Si-PV modules
