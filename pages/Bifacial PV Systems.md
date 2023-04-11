@@ -21,4 +21,22 @@
 	- Sky diffuse (back)
 	- Ground-reflected sky diffuse
 	- Ground-reflected direct
--
+- Hard to predict
+	- No consensus on gain estimates
+	- A lot of uncertainty
+		- Rear irradiance on rear side in non-uniform
+		- dependent on:
+			- characteristics of the ground
+			- Shading
+			- Location and stance of the modules
+			- Neighbouring PV systems
+- Energy Yield modelling
+	- Step 1: calculate irradiance on faces
+		- Possible simplifications:
+			- 2D instead of 3D
+			- Model only middle module of row/array (common for thermal-electrical calculation)
+			- Ignore frame and structure
+			- Reduce time resolution
+			- Use annual average sky
+	- Step 2: Compute Electrical output of cells/modules/system
+		-
