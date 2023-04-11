@@ -11,10 +11,22 @@
 				- Isotropic irradiation
 				- Unit absorbance for photons > Eg
 				- Zero absorbance for photons < Eg
-				- Only source of recombination is radiative (no Auger)
-				- Cell behaves like an ideal diode: 
+				- Only source of recombination is radiative (no Auger recombination)
+				- Cell behaves like an ideal diode (ideality factor $$n=1$$): 
 				  $$J(V)=J_0(exp(\frac{qV}{kT})-1)$$
-				- Sun assumed to be black body
+				- Sun assumed to be black body radiator
+			- Results
+				- ![image.png](../assets/image_1681195487167_0.png)
+					- Efficiency: $$\eta(V_g=bandgap)$$
+					- Maximum ($$\pm 30\%$$)<- Trade off:
+						- Lower bandgap
+							- Higher absorbance (more photons with lower energy)
+							- But extraction of electron-hole pairs happens at lower voltage
+						- Higher bandgap
+							- Mutatis mutandis
+				- ![image.png](../assets/image_1681195853749_0.png)
+					- Iterated experiment with AM1.5 solar spectrum (instead of black body radiator)
+					- Si well positioned relative to maximum
 	- Crystalline Si solar cells
 	- Thin-film PV Technologies
 	- Multijunction cells
