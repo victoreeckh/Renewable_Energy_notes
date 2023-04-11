@@ -278,5 +278,15 @@
 				- +measurement of incoming radiation
 			- ==P&O==
 				- Perturb and Observe
-				-
+				- Working
+					- Measure $$\Delta P, \Delta V$$
+					- Right direction? <- $$\Delta P$$
+					- Which step? <- $$\Delta V$$
+					- See flowchart
+				- (-)Rapidly varying conditions
+					- Algorithm might make wrong decisions (away from MPP)
+					- Example:
+					- S2>S1, P1>P2 -> ($$\Delta P<0,\Delta V<0$$) step aw
+				- (-) Oscillation around MPP
 				- (-) Doesn't work with partial shading
+				-
