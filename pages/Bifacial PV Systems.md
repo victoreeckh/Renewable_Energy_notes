@@ -1,9 +1,13 @@
 - Intro
-	- Mono->bifacial cell
-		- until 5y ago: Aluminium backsurface cell was dominant
-		- Now: PERC/PERT (Passivated em)
 	- LCOE
 		- $$LCOE = \frac{Sum\; of\; costs\; over\; lifetime}{Sum\; of\; electrical\; energy\; produced\; over lifetime}$$
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
--
+	- Mono->bifacial cell
+		- until 5y ago: Aluminium backsurface cell was dominant
+		- Now: PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
+			- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
+			- Suitable for light reception from the rear side (-> higher electricity output)
+		- Reasonable cost
+			- Because efficiency and manufacturing is similar to monofacial cells
+	-
