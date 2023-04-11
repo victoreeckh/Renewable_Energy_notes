@@ -5,20 +5,22 @@
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
 	- Mono->bifacial cell
-		- PV
-		- until 5y ago
-			- Aluminium backsurface cell was dominant
-		- Now
-			- PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
-			- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
-			- Suitable for light reception from the rear side (-> higher electricity output)
-		- Future
-			- ITRPV (International Technology Roadmap for Photovoltaic) predicts high BIPV market share increase
-			- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
+		- PV over time
+			- until 5y ago
+				- Aluminium backsurface cell was dominant
+			- Now
+				- PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
+				- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
+				- Suitable for light reception from the rear side (-> higher electricity output)
+			- Future
+				- ITRPV (International Technology Roadmap for Photovoltaic) predicts high BIPV market share increase
+				- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
+	- Bifacial characteristics
 		- Reasonable cost
 			- Because efficiency and manufacturing is similar to monofacial cells
-		- Note that bifacial PVs receive different levels of irradiance -> different levels of current generated -> not just connectable in series (loss of excess power of best illuminated modules)
-			- Solution: row divided in different strings, only serie connect strings that operate on similar levels of current
+		- Connection
+			- Note that bifacial PVs receive different levels of irradiance -> different levels of current generated -> not just connectable in series (loss of excess power of best illuminated modules)
+				- Solution: row divided in different strings, only serie connect strings that operate on similar levels of current
 - Light collection #.ol
   collapsed:: true
 	- Direct (front)
