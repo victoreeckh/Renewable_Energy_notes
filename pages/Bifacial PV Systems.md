@@ -1,4 +1,4 @@
-- Intro
+- **Intro**
 	- LCOE
 	  collapsed:: true
 		- $$LCOE = \frac{Sum\; of\; costs\; over\; lifetime}{Sum\; of\; electrical\; energy\; produced\; over lifetime}$$
@@ -24,14 +24,14 @@
 		- Mounting structure influences yield
 			- Shading
 			- Non-uniformity -> mismatch between cells
-- Light collection #.ol
+- **Light collection** #.ol
   collapsed:: true
 	- Direct (front)
 	- Sky diffuse (front)
 	- Sky diffuse (back)
 	- Ground-reflected sky diffuse
 	- Ground-reflected direct
-- Hard to predict
+- **Hard to predict**
   collapsed:: true
 	- No consensus on gain estimates
 	- A lot of uncertainty
@@ -41,7 +41,7 @@
 			- Shading
 			- Location and stance of the modules
 			- Neighbouring PV systems
-- Energy Yield modelling
+- **Energy Yield modelling**
 	- Step 1: calculate irradiance on faces
 		- Possible simplifications:
 			- 2D instead of 3D
@@ -73,7 +73,7 @@
 						- (-)
 							- practical system size limited ~30kW -> Upscaling
 	- Step 2: Compute Electrical output of cells/modules/system
-- Thermal-electrical behavior
+- **Thermal-electrical behavior**
 	- Series connection -> current determined by least illuminated cell -> power excess is dissipated as heat in the cells -> T increase -> while working of cells depends on it -> account for thermal aspects too
 	- Accurate approach
 		- Physics-based modelling (all relevant physical phenomena are modelled along physical laws and principles)
@@ -81,7 +81,12 @@
 			  parameters
 		- ![image.png](../assets/image_1681247716735_0.png){:height 272, :width 365}
 		- (+)
-			- Inputs
+			- Inputs are measurable, physical
+			  parameters
 			- Model can be extended to large range of systems
 			- Flexible thermal-electrical model
-			   Cell/Module/String level
+				- Cell/Module/String level
+- **Optimization of bifacial pV systems**
+	- with the advanced physics based energy simulation tools
+	- Streamline complex workflow, automatize -> Optimization
+	- Define objective, technical and economic constraints
