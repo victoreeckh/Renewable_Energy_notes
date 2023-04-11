@@ -168,9 +168,16 @@
 			- Back
 				- Al metalization
 				- Ag Busbars (solderable) will bring out backside polarity of cell
-		- Cells ->
+		- Cells -> string
 			- Interconnecting individual cells
 				- in series ($$V$$ buildup)
+				- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
+		- String ->  lay up of module
+			- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
+			- Strings switched upside down
+			- Placed onto front glass with encapsulating polymer foil (that will melt later on)
+			- Strings are soldered in series using thick busing ribbons
+			-
 			-
 	- Thin-film PV-modules
 	  P V-systems
