@@ -5,7 +5,7 @@
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
 	- Mono->bifacial cell
-	  collapsed:: true
+		- PV
 		- until 5y ago
 			- Aluminium backsurface cell was dominant
 		- Now
@@ -17,6 +17,8 @@
 			- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
 		- Reasonable cost
 			- Because efficiency and manufacturing is similar to monofacial cells
+		- Note that bifacial PVs receive different levels of irradiance -> different levels of current generated -> not just connectable in series (loss of excess power of best illuminated modules)
+			- Solution: row divided in different strings, only serie connect strings that operate on similar levels of current
 - Light collection #.ol
   collapsed:: true
 	- Direct (front)
