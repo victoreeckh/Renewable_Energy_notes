@@ -38,6 +38,13 @@
 			- Wacker process for poly-silicon production
 			- PV crystalline silicon wafers are monocrystalline Si grown via Czochralski process or multicrystalline fabricated via a casting process
 			- feedstock to Wafer with multiwire sawing
+			- Screen printed cell
+				- Texturing: make wafer even rougher
+					- Chemical solution to remove mechanical damage but increase unevenness
+					- Why? -> reduces reflection
+				- Create pn junction
+					- diffusion of fosphorus -> n side
+					- remove phosphorus-silicate glass (PSG)
 	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
