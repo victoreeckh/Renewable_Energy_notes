@@ -162,6 +162,7 @@
   collapsed:: true
 	- #### Si-PV modules
 		- STD cell
+		  collapsed:: true
 			- Front
 				- Metal grid contacting front polarity while letting as much solar radiation as possible through
 				- Current collected by fingers, collected at busbars
@@ -176,24 +177,29 @@
 			- String ->  module
 				- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
 				- Lay-up of strings and bussing
+				  collapsed:: true
 					- Strings switched upside down
 					- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
 					- Strings are soldered in series using thick bussing ribbons
 				- Layup for lamination
+				  collapsed:: true
 					- First extra encapsulant
 					- Followed by backsheet (Polymer layer that will not melt during lamination)
 					- Contacts brought out of module through hole in the backsheet
 				- Lamination
+				  collapsed:: true
 					- To protect against humidity
 					- Vacuum applied
 					- Exposed to heat of laminator, melting the encapsulant material, while membrane pushes on the stack
 					- After 10-30min laminate is brought out to cool down
 					- (For cells thinner than 0.12mm process becomes tricky, as mechanical yields can become problematic)
 				- Framing
+				  collapsed:: true
 					- Al frame glued around laminate
 					- Junction box, output cables and bypass diode applied
 						- to provide two polarities of the module
 				- Modules are measured
+				  collapsed:: true
 					- classification
 					- Provide data for installer
 					- Performance parameters (through simulation)
@@ -206,8 +212,16 @@
 						- Mechanical data
 						- NOC T Temperature coefficients
 		- Cell-to-module performance
-			-
-			-
+			- Geometrical losses
+				- 1. Border loss
+					- Area increased without adding extra Power
+				- 2. Spacing loss
+			- Optical losses
+				-
+				-
+				-
+				-
+				-
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
