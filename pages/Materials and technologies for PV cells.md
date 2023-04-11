@@ -172,13 +172,20 @@
 			- Interconnecting individual cells
 				- in series ($$V$$ buildup)
 				- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
-		- String ->  lay up of module
+		- String ->  module
 			- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
-			- Strings switched upside down
-			- Placed onto front glass with encapsulating polymer foil (that will melt later on)
-			- Strings are soldered in series using thick busing ribbons
-			-
-			-
+			- Lay-up of strings and bussing
+				- Strings switched upside down
+				- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
+				- Strings are soldered in series using thick busing ribbons
+			- Layup for lamination
+				- First extra encapsulant
+				- Followed by backsheet (Polymer layer that will not melt during lamination)
+				- Contacts brought out of module through hole in the backsheet
+			- Lamination
+				- To protect against humidity
+				- Vacuum applied
+				- Expose
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
