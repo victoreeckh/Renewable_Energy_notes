@@ -262,5 +262,21 @@
 			- PWM: Pulse Width Modulation
 			- Fault detection
 		- MPPT methods
-			- Open-circuit method
+			- ==Open-circuit method==
+				- Constant ratio: $$k=\frac{V_{mp}}{V_{oc}} =0.76$$, so measure $$V_{oc}$$ and multiply with $$0.76$$
+					- (+) simple
+					- (-) circuit open for a short time
+			- ==Constant voltage method==
+				- Put MPP at certain voltage
+				- (+) Very simple
+				- (-) Very inaccurate
+			- ==Short-circuit method==
+				- Constant ratio: $$k=\frac{I_{mp}}{V_{sc}} =0.92$$, so measure $$I_{sc}$$ and multiply with $$0.92$$
+				- (-) regularly switch to a short circuit
+			- ==T-method==
+				- measurement of T and use of a model
+				- +measurement of incoming radiation
+			- ==P&O==
+				- Perturb and Observe
 				-
+				- (-) Doesn't work with partial shading
