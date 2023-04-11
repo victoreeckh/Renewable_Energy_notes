@@ -168,24 +168,32 @@
 			- Back
 				- Al metalization
 				- Ag Busbars (solderable) will bring out backside polarity of cell
-		- Cells -> string
-			- Interconnecting individual cells
-				- in series ($$V$$ buildup)
-				- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
-		- String ->  module
-			- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
-			- Lay-up of strings and bussing
-				- Strings switched upside down
-				- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
-				- Strings are soldered in series using thick busing ribbons
-			- Layup for lamination
-				- First extra encapsulant
-				- Followed by backsheet (Polymer layer that will not melt during lamination)
-				- Contacts brought out of module through hole in the backsheet
-			- Lamination
-				- To protect against humidity
-				- Vacuum applied
-				- Expose
+		- Build-up
+			- Cells -> string
+				- Interconnecting individual cells
+					- in series ($$V$$ buildup)
+					- Stringing: Front side of one cell to back side of other by soldering connective ribbon in between their busbars
+			- String ->  module
+				- Cells ($$t\pm = 0.2mm$$) are fragile -> mechanical support/protection by encapsulation in module
+				- Lay-up of strings and bussing
+					- Strings switched upside down
+					- Placed onto front glass with encapsulating polymer foil (that will melt later during lamination)
+					- Strings are soldered in series using thick bussing ribbons
+				- Layup for lamination
+					- First extra encapsulant
+					- Followed by backsheet (Polymer layer that will not melt during lamination)
+					- Contacts brought out of module through hole in the backsheet
+				- Lamination
+					- To protect against humidity
+					- Vacuum applied
+					- Exposed to heat of laminator, melting the encapsulant material, while membrane pushes on the stack
+					- After 10-30min laminate is brought out to cool down
+					- (For cells thinner than 0.12mm process becomes tricky, as mechanical yields can become problematic)
+				- Framing
+					- Al frame glued around laminate
+					- Junction box, output cables and bypass diode applied
+						- to provide two polarities of the module
+		- Rating
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
