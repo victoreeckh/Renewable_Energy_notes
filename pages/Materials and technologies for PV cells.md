@@ -121,6 +121,9 @@
 					- High deposition rate in the order of 10 mm/min
 					- Also spraying, electrodeposition and screenprinting can be used
 					- Substrate: soda-lime glass
+		- ==I-III-VI compounds==
+			- Cover broad bandgap range
+			- See CIGS
 	- Multijunction cells
 - ### PV module technology
   collapsed:: true
