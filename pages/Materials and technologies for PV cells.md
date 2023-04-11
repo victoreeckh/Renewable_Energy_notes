@@ -30,7 +30,10 @@
 					- Si well positioned relative to maximum (but model as such not applicable because indirect bandgap material)
 	- Overview of PV-technologies
 		- ![image.png](../assets/image_1681196383643_0.png){:height 275, :width 542}
-	- Crystalline Si solar cells
+	- #### Crystalline Si solar cells
+		- Sand to cell
+			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
+		-
 	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
