@@ -126,7 +126,16 @@
 			- See CIGS
 	- ### Multijunction cells
 		- Stack cells with different bandgaps on top of each other
-			- Still absorption
+			- Still broad spectral absorption
+			- reduce thermalisation losses (excess energy losses)
+			- -> go above Schockley-Queisser limit
+		- Latices should match (same lattice constant) to avoid defects
+		- Requires tunnel junction with nanofeature to guarantee series connections of the cells
+		- High concentration solar cells
+			- Idea:
+				- Replace solar cell by cheaper passive optical system like a lens or a mirror
+					- optimise cell area
+				- Concentration increases efficiency ($$V_{OC} $$)
 - ### PV module technology
   collapsed:: true
 	- Si-PV modules
