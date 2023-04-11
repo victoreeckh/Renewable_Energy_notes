@@ -135,6 +135,7 @@
 			- Idea:
 				- Replace solar cell by cheaper passive optical system like a lens or a mirror
 					- optimise cell area
+					- Only direct part (and not diffused part) can be concentrated
 				- Concentration increases efficiency ($$V_{OC} \sim ln(I_{sc})$$)
 				- Thus:
 				  $$
@@ -146,7 +147,6 @@
 				  \end{aligned}
 				  \end{equation*}
 				  $$
-				- And:
 				  $$
 				  \begin{equation*}
 				  \left.
@@ -155,7 +155,7 @@
 				  FF&\nearrow
 				  \end{aligned}
 				  \right\}
-				  
+				  \Rightarrow \eta \nearrow\; (\pm 44\%)
 				  \end{equation*}
 				  $$
 - ### PV module technology
