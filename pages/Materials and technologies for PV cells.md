@@ -285,11 +285,10 @@
 					- See flowchart
 				- (-)Rapidly varying conditions
 					- Algorithm might make wrong decisions (away from MPP) because it reacts too slow
-					- Can be sped up with Incremental Conductance method
+					- Can be sped up with ==Incremental Conductance method==
 						- IC: $$\frac{dP}{VdV}=\frac{I}{V}+\frac{dI}{dV}$$
+						- Seems to be scoring the best theoretically (but higher cost than normal P&O)
 					- Example:
 						- S2>S1, P1=P2 -> ($$\Delta P=0,\Delta V>0$$) step away from MPP?
 				- (-) Oscillation around MPP
 				- (-) Doesn't work with partial shading
-				-
-				-
