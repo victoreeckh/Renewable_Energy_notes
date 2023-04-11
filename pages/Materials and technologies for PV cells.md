@@ -44,7 +44,17 @@
 					- Why? -> reduces reflection
 				- Create pn junction
 					- diffusion of fosphorus -> n side
-					- remove phosphorus-silicate glass (PSG)
+						- Through POCl3
+					- remove phosphorus-silicate glass (PSG) chemically
+				- Put on Anti-Reflective Coating (ARC)
+					- to reduce reflection even more
+				- Contacting
+					- Rear -> Al
+					- Front -> Ag
+		- Problems:
+			- cost of Ag and wafer breakage
+			- bowing for wafer thickness < 200 micron
+		-
 	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
