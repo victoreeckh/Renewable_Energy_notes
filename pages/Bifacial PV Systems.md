@@ -90,3 +90,5 @@
 	- with the advanced physics based energy simulation tools
 	- Streamline complex workflow, automatize -> Optimization
 	- Define objective, technical and economic constraints
+- **Validation**
+	- Necessary in all simulations
