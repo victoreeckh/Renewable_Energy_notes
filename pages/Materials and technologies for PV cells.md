@@ -254,4 +254,13 @@
 			- ->How does system account for this?
 			- DC-DC converter has to be set up in a way that it biases the PV module so that it extracts maximum power
 			- This is done through a closed control loop, with the MPPT-control
-		-
+			- Then DC -> AC through invertor
+		- Power controler
+			- MPPT control
+			- Voltage/current control
+			- Synchronization with the grid (PLL: Phase Load Loop)
+			- PWM: Pulse Width Modulation
+			- Fault detection
+		- MPPT methods
+			- Open-circuit method
+				-
