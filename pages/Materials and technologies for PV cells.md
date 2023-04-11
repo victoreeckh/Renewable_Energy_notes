@@ -245,8 +245,13 @@
 			- Therefore already fabricated on carrier substrate or superstrate
 			- Module can be made similarly as is done for the deposition of the different layers of the cell
 			- Upscaling is challenging
-			- Interconnectio
-		-
-- P V-systems
+			- Interconnection in monolithic way on the carrier
+		- ![image.png](../assets/image_1681235855506_0.png){:height 233, :width 433}
+- #### PV-systems
 	- Different PV-systems
 	- Maximum Power Point Tracking (MPPT)
+		- Voltage at which you can extract maximum power changes with temperature $$T$$ (and for example intensity)
+			- ->How does system account for this?
+			- DC-DC converter has to be set up in a way that it biases the PV module so that it extracts maximum power
+			- This is done through a closed control loop, with the MPPT-control
+		-
