@@ -284,9 +284,12 @@
 					- Which step? <- $$\Delta V$$
 					- See flowchart
 				- (-)Rapidly varying conditions
-					- Algorithm might make wrong decisions (away from MPP)
+					- Algorithm might make wrong decisions (away from MPP) because it reacts too slow
+					- Can be sped up with Incremental Conductance method
+						- IC: $$\frac{dP}{VdV}=\frac{I}{V}+\frac{dI}{dV}$$
 					- Example:
-					- S2>S1, P1>P2 -> ($$\Delta P<0,\Delta V<0$$) step aw
+						- S2>S1, P1=P2 -> ($$\Delta P=0,\Delta V>0$$) step away from MPP?
 				- (-) Oscillation around MPP
 				- (-) Doesn't work with partial shading
+				-
 				-
