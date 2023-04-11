@@ -193,7 +193,21 @@
 					- Al frame glued around laminate
 					- Junction box, output cables and bypass diode applied
 						- to provide two polarities of the module
-		- Rating
+				- Modules are measured
+					- classification
+					- Provide data for installer
+					- Performance parameters (through simulation)
+						- At operating cell temperature (NOCT): 800 W/m2 @ AM1.5g, 20gr. C (ambient), 1m/s wind
+						- Through $$I-V$$ characteristics
+						- Parameters: $$I/V_{sc,oc,mpp}$$
+						- -> $$W_p$$
+					- results in datasheets
+						- I-V curves at various temperature and irradiance levels
+						- Mechanical data
+						- NOC T Temperature coefficients
+		- Cell-to-module performance
+			-
+			-
 	- Thin-film PV-modules
 	  P V-systems
 	- Different PV-systems
