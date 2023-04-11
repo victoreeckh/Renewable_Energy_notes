@@ -5,22 +5,25 @@
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
 	- Mono->bifacial cell
-		- PV over time
-			- until 5y ago
-				- Aluminium backsurface cell was dominant
-			- Now
-				- PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
-				- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
-				- Suitable for light reception from the rear side (-> higher electricity output)
-			- Future
-				- ITRPV (International Technology Roadmap for Photovoltaic) predicts high BIPV market share increase
-				- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
+		- until 5y ago
+			- Aluminium backsurface cell was dominant
+		- Now
+			- PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
+			- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
+			- Suitable for light reception from the rear side (-> higher electricity output)
+		- Future
+			- ITRPV (International Technology Roadmap for Photovoltaic) predicts high BIPV market share increase
+			- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
 	- Bifacial characteristics
 		- Reasonable cost
 			- Because efficiency and manufacturing is similar to monofacial cells
 		- Connection
-			- Note that bifacial PVs receive different levels of irradiance -> different levels of current generated -> not just connectable in series (loss of excess power of best illuminated modules)
+			- Note that bifacial PVs receive different levels of irradiance -> different levels of current generated -> not just connectable in series (loss of excess power of best illuminated modules, least illuminated cell determines current)
 				- Solution: row divided in different strings, only serie connect strings that operate on similar levels of current
+		- More dependent on ground refelction
+		- Mounting structure influences yield
+			- Shading
+			- Non-uniformity -> mismatch between cells
 - Light collection #.ol
   collapsed:: true
 	- Direct (front)
@@ -70,4 +73,5 @@
 						- (-)
 							- practical system size limited ~30kW -> Upscaling
 	- Step 2: Compute Electrical output of cells/modules/system
+		-
 		-
