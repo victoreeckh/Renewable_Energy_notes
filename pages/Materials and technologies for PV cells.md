@@ -33,59 +33,59 @@
 	- #### Crystalline Si solar cells
 		- Sand to cell
 			- Sand -> reduction -> metallurgical grade Si -> purification -> break and melt again -> wafers -> cells -> modules
-			- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
-			- MG-Si is reacted with HCl to form trichlorosilane in a fluidized bed rector by heating powdered MG-Si
-			- Wacker process for poly-silicon production
-			- PV crystalline silicon wafers are monocrystalline Si grown via Czochralski process or multicrystalline fabricated via a casting process
-			- feedstock to Wafer with multiwire sawing
-			- Screen printed cell
-				- Texturing: make wafer even rougher
-				  collapsed:: true
-					- Chemical solution to remove mechanical damage but increase unevenness
-					- Why? -> reduces reflection
-				- Create pn junction
-					- diffusion of fosphorus -> n side
-						- Through POCl3 vapor diffusion
-						- Gettering:
-						  collapsed:: true
-							- Intrinsic effect of P emitter formation
-							- Diffusion of impurities to P rich layers
-					- remove phosphorus-silicate glass (PSG) chemically
-				- Put on Anti-Reflective Coating (ARC)
-					- to reduce reflection even more
-					- Si-N coating
-						- Antireflection coating
-						  collapsed:: true
-							- Optimal refractive index: $$n_{ARC}=\sqrt{n_0 n_{Si}}=2$$
-							- Optimal thickness: $$=\frac{\lambda_{highest\; flux}}{4n}$$
-						- Bulk passivation
-						  collapsed:: true
-							- reduces recombination
-						- Surface passivation
-						  collapsed:: true
-							- reduces recombination
-							- Achieved because of Hydrogen
-								- Positive fixed charge repels electrons from the surface and reduces the surface recombination velocity
-				- Contacting: screen printing
-					- Rear -> Al
-					- Front -> Ag
-					- Working
-						- Screen with openings
-						- Put paste (ink) on it
-						- Squeegee pushes the paste through the openings, from the screen onto the wafer
-					- CBA
-						- Pro
-							- Robustness
-							- Flexibility
-							- Environmentally benign
-						- Contra
-							- Smallest line width limited to 80 microns
-							- Cost of Ag
+		- Metallurgical grade silicon is obtained by a carbothermic reduction of silica in an arc furnace
+		- MG-Si is reacted with HCl to form trichlorosilane in a fluidized bed rector by heating powdered MG-Si
+		- Wacker process for poly-silicon production
+		- PV crystalline silicon wafers are monocrystalline Si grown via Czochralski process or multicrystalline fabricated via a casting process
+		- feedstock to Wafer with multiwire sawing
+		- Screen printed cell
+			- Texturing: make wafer even rougher
+			  collapsed:: true
+				- Chemical solution to remove mechanical damage but increase unevenness
+				- Why? -> reduces reflection
+			- Create pn junction
+				- diffusion of fosphorus -> n side
+					- Through POCl3 vapor diffusion
+					- Gettering:
+					  collapsed:: true
+						- Intrinsic effect of P emitter formation
+						- Diffusion of impurities to P rich layers
+				- remove phosphorus-silicate glass (PSG) chemically
+			- Put on Anti-Reflective Coating (ARC)
+				- to reduce reflection even more
+				- Si-N coating
+					- Antireflection coating
+					  collapsed:: true
+						- Optimal refractive index: $$n_{ARC}=\sqrt{n_0 n_{Si}}=2$$
+						- Optimal thickness: $$=\frac{\lambda_{highest\; flux}}{4n}$$
+					- Bulk passivation
+					  collapsed:: true
+						- reduces recombination
+					- Surface passivation
+					  collapsed:: true
+						- reduces recombination
+						- Achieved because of Hydrogen
+							- Positive fixed charge repels electrons from the surface and reduces the surface recombination velocity
+			- Contacting: screen printing
+				- Rear -> Al
+				- Front -> Ag
+				- Working
+					- Screen with openings
+					- Put paste (ink) on it
+					- Squeegee pushes the paste through the openings, from the screen onto the wafer
+				- CBA
+					- Pro
+						- Robustness
+						- Flexibility
+						- Environmentally benign
+					- Contra
+						- Smallest line width limited to 80 microns
+						- Cost of Ag
 		- Problems:
 			- cost of Ag and wafer breakage
 			- bowing for wafer thickness < 200 micron
+	- ### Thin-film PV Technologies
 		-
-	- Thin-film PV Technologies
 	- Multijunction cells
 - ### PV module technology
   collapsed:: true
