@@ -106,6 +106,21 @@
 							- Steel foils
 							- Polymers
 					- Monolithic module production = production of cell & module at the same moment
+				- Contra
+					- Low $$\eta \;(\pm6\%)$$
+						- Can be slightly increased by using multijunction (multi layers increase absorption)
+		- ==CdTe==
+			- Main properties
+				- Basic properties:
+					- Bandgap = 1.5 eV
+					- Direct bandgap → high absorption coefficient
+					- CdTe has a strong tendency to grow stoichiometric and behaves a p-type semiconductor (doping not really controllable)
+					- CdTe solar cells based on a heterojunction with n-type CdS
+				- Simple deposition techniques
+					- Sublimation/condensation (heat sources to 600oC, deposition on glass substrates in the range 400-500oC)
+					- High deposition rate in the order of 10 mm/min
+					- Also spraying, electrodeposition and screenprinting can be used
+					- Substrate: soda-lime glass
 	- Multijunction cells
 - ### PV module technology
   collapsed:: true
