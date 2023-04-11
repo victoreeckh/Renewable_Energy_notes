@@ -45,9 +45,20 @@
 				- Create pn junction
 					- diffusion of fosphorus -> n side
 						- Through POCl3 vapor diffusion
+						- Gettering:
+							- Intrinsic effect of P emitter formation
+							- Diffusion of impurities to P rich layers
 					- remove phosphorus-silicate glass (PSG) chemically
 				- Put on Anti-Reflective Coating (ARC)
 					- to reduce reflection even more
+					- Si-N coating
+						- Antireflection coating
+							- Optimal refractive index: $$n_{ARC}=\sqrt{n_0 n_{Si}}=2$$
+							- Optimal thickness: $$=\frac{\lambda_{highest\; flux}}$$
+						- Bulk passivation
+							- reduces recombination
+						- Surface passivation
+							- reduces recombination
 				- Contacting
 					- Rear -> Al
 					- Front -> Ag
