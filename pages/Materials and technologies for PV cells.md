@@ -44,7 +44,7 @@
 					- Why? -> reduces reflection
 				- Create pn junction
 					- diffusion of fosphorus -> n side
-						- Through POCl3
+						- Through POCl3 vapor diffusion
 					- remove phosphorus-silicate glass (PSG) chemically
 				- Put on Anti-Reflective Coating (ARC)
 					- to reduce reflection even more
