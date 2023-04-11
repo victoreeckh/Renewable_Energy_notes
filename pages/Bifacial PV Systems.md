@@ -4,12 +4,21 @@
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
 	- Mono->bifacial cell
-		- until 5y ago: Aluminium backsurface cell was dominant
-		- Now: PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
+		- until 5y ago
+			- Aluminium backsurface cell was dominant
+		- Now
+			- PERC/PERT (Passivated emitter and rear cell/totally diffused) is the standard
 			- Contact grid both on the front and the rear side (<-> continuous sheet of electrode)
 			- Suitable for light reception from the rear side (-> higher electricity output)
+		- Future
+			- ITRPV (International Technology Roadmap for Photovoltaic) predicts high BIPV market share increase
+			- adoption and deployment is slowed due to lack of track record & uncertain Energy Yield
 		- Reasonable cost
 			- Because efficiency and manufacturing is similar to monofacial cells
-- Light collection
+- Light collection #.ol
 	- Direct (front)
-	-
+	- Sky diffuse (front)
+	- Sky diffuse (back)
+	- Ground-reflected sky diffuse
+	- Ground-reflected direct
+-
