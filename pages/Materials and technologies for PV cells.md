@@ -124,7 +124,9 @@
 		- ==I-III-VI compounds==
 			- Cover broad bandgap range
 			- See CIGS
-	- Multijunction cells
+	- ### Multijunction cells
+		- Stack cells with different bandgaps on top of each other
+			- Still absorption
 - ### PV module technology
   collapsed:: true
 	- Si-PV modules
