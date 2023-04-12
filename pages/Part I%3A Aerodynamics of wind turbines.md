@@ -22,7 +22,7 @@
 	- $$P_{max} = \frac{16}{27}\left(\frac{\rho U_\infty^3}{2}\right)A$$
 	- **Derivation**
 		- See notes
-	- Discussion
+	- **Discussion**
 		- Beat the Betz limit?
 			- Betz limit only valid for open turbines
 				- For gas turbines higher powers are possible
@@ -31,21 +31,24 @@
 				- Small thrust reduction (small decrease of $$a$$) and you don't need such a strong foundation (thrust$$\times$$lever-> big foundation needed)
 				- Also economical aspect (reduce CapEx)
 		- Main assumptions
-			- Incompressible flow
+			- ==Incompressible flow==
 				- No flows are perfectly incompressible in reaility
 				- Mach number: $$M=\frac{u}{c}$$ is maximaal $$= \frac{25}{340}<0.1$$ -> justified
 				- Subtlety tip of the blade do move at 70m/s
-			- Uniform flow losses
+			- ==Uniform flow losses==
 				- Atmospheric flow can be complex
-			- Inviscid flow
+			- ==Inviscid flow==
 				- No flows are perfectly inviscid
 				- In general in and around turbine flow will be turbulent and viscosity will play a role
 				- But Betz is reasonably okay (±some errors)
-			- Conservation of angular momentum ignored
+			- ==Conservation of angular momentum ignored==
 				- Only axial momentum was accounted for, not that...
 				- ...Of air that rotates the blades (and generates the torque that generates the power), that will be rotated in the oposite direction (action-reation)
 				- But two are coupled through the pressure:
 					- radial pressure gradient because of centrifugal forces will act axial behind the blades...
 				- But Betz still valid -> why?
-					- The change of angular
+					- The change of angular momentum $$\frac{dL}{dt}=T$$
+						- Kleine T betekent grote $$\omega$$ bij zelfde vermogen ($$P=T\omega$$)
+						- Because we don't want to use a lot of material -> high $$\omega$$ needed, therefore Betz still valid
+			-
 - Wind turbine control
