@@ -16,7 +16,6 @@
 			- Generator with direct drive
 				- No gearbox
 				- Enercon – “eggs”
+- ### Betz theory and wind turbine design
 	-
--
-- Betz theory and wind turbine design
 - Wind turbine control
