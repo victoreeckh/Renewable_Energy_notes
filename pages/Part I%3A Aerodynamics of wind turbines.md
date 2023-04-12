@@ -4,5 +4,8 @@
 	- Wind turbine types
 		- This course covers Horizontal Axis Wind Turbine (HAWT)
 		- Other: Darrieus, Savonius, Gorlov
+	- High altitude wind power
+		-
+-
 - Betz theory and wind turbine design
 - Wind turbine control
