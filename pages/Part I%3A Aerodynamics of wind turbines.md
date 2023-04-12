@@ -48,7 +48,7 @@
 					- radial pressure gradient because of centrifugal forces will act axial behind the blades...
 				- But Betz still valid -> why?
 					- The change of angular momentum $$\frac{dL}{dt}=T$$
-						- Kleine T betekent grote $$\omega$$ bij zelfde vermogen ($$P=T\omega$$)
+						- Dit klein, dus kleine T betekent grote $$\omega$$ bij zelfde vermogen ($$P=T\omega$$)
 						- Because we don't want to use a lot of material -> high $$\omega$$ needed, therefore Betz still valid
-			-
+						-
 - Wind turbine control
