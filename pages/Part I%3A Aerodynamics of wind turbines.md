@@ -5,7 +5,18 @@
 		- This course covers Horizontal Axis Wind Turbine (HAWT)
 		- Other: Darrieus, Savonius, Gorlov
 	- High altitude wind power
-		-
+	- Generator types
+		- Constant speed generator (first turbines)
+			- Both possible with asynchronous or synchronous generators
+			- Not optimal with respect to power extraction etc.
+				- Can sometimes act as a fan
+		- Variable speed with asynchronous generator
+			- DFIG: Doubly Fed Induction Generator
+			- Asynchronous generator and gearbox (Dominant generator today)
+			- Generator with direct drive
+				- No gearbox
+				- Enercon – “eggs”
+	-
 -
 - Betz theory and wind turbine design
 - Wind turbine control
