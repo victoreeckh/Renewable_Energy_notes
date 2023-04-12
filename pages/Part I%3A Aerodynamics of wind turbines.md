@@ -32,12 +32,15 @@
 				- Also economical aspect (reduce CapEx)
 		- Main assumptions
 			- Incompressible flow
-				- No flows are incompressible in reaility
+				- No flows are perfectly incompressible in reaility
 				- Mach number: $$M=\frac{u}{c}$$ is maximaal $$= \frac{25}{340}<0.1$$ -> justified
 				- Subtlety tip of the blade do move at 70m/s
 			- Uniform flow losses
 				- Atmospheric flow can be complex
 			- Inviscid flow
-				-
-			-
+				- No flows are perfectly inviscid
+				- In general in and around turbine flow will be turbulent and viscosity will play a role
+				- But Betz is reasonably okay (±some errors)
+			- Conservation of angular momentum ignored
+				- Of air that rotates the blades (and generates the torque that generates the power), that will be rotated in the oposite direction (action-reation)
 - Wind turbine control
