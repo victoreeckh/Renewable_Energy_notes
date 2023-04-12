@@ -77,6 +77,7 @@
 				- Depend on voltage and current of the case and extra boundary conditions (e.g. max current ripple)
 				- Automatically selected from (small) database
 			- Losses
+			  collapsed:: true
 				- ![image.png](../assets/image_1681286215180_0.png)
 				- Inductor and transformer
 					- Winding losses
@@ -91,10 +92,22 @@
 						- ESR: Equivalent Series Resistance
 			- Power derating
 				- Why?
+				  collapsed:: true
 					- Lower cost (CAPEX)
 					- Small influence on the generated power and thus faster return on investment
 					- Smaller converter
 					- Smaller cable cross section
 				- Ideal rating
+				  collapsed:: true
 					- depends on the geographical location and economical factors such as feed-in tariffs
+				- Derating
+				  collapsed:: true
+					- -> current curtailment
+					- Lost energy -> look at remaining energy production
+					- For mono-Si at $$90^{\circ}$$, Derating up to 50% has low impact on yearly energy yield
+		- Cabling
+			- Selection
+				- Max current rating (=thermal limit!)
+				- Max voltage drop along the line
+				- Max power loss
 			-
