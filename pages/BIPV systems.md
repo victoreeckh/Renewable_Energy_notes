@@ -89,3 +89,12 @@
 				- Capacitor
 					- ESR losses
 						- ESR: Equivalent Series Resistance
+			- Power derating
+				- Why?
+					- Lower cost (CAPEX)
+					- Small influence on the generated power and thus faster return on investment
+					- Smaller converter
+					- Smaller cable cross section
+				- Ideal rating
+					- depends on the geographical location and economical factors such as feed-in tariffs
+			-
