@@ -16,6 +16,8 @@
 			- Generator with direct drive
 				- No gearbox
 				- Enercon – “eggs”
+	- Notes
+		- Nowadays all turbines turn clockwise (as standardization)
 - ### Betz theory and wind turbine design
 	-
 - Wind turbine control
