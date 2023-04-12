@@ -1,0 +1,4 @@
+- Installed capacity surpassed gas in 2018 (after 10y long increase)
+- 50% of new installed capacity in 2018
+	- while on the other hand: 60% of new installed investment
+	- But capacity factor of wind is higher than solar
