@@ -42,5 +42,10 @@
 				- In general in and around turbine flow will be turbulent and viscosity will play a role
 				- But Betz is reasonably okay (±some errors)
 			- Conservation of angular momentum ignored
-				- Of air that rotates the blades (and generates the torque that generates the power), that will be rotated in the oposite direction (action-reation)
+				- Only axial momentum was accounted for, not that...
+				- ...Of air that rotates the blades (and generates the torque that generates the power), that will be rotated in the oposite direction (action-reation)
+				- But two are coupled through the pressure:
+					- radial pressure gradient because of centrifugal forces will act axial behind the blades...
+				- But Betz still valid -> why?
+					- The change of angular
 - Wind turbine control
