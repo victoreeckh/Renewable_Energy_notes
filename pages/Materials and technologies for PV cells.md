@@ -1,5 +1,4 @@
 - ### PV cell technology
-  collapsed:: true
 	- #### Shockley-Queisser model: limiting efficiencies a.f.o. bandgap
 	  collapsed:: true
 		- Intro
@@ -252,6 +251,7 @@
 			- Interconnection in monolithic way on the carrier
 		- ![image.png](../assets/image_1681235855506_0.png){:height 233, :width 433}
 - ### PV-systems
+  collapsed:: true
 	- Different PV-systems
 	- #### Maximum Power Point Tracking (MPPT)
 		- Voltage at which you can extract maximum power changes with temperature $$T$$ (and for example intensity)

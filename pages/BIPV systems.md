@@ -63,6 +63,13 @@
 	  How is the total conversion efficiency affected by reducing the DC bus voltage and/or choosing a different PV technology?
 	  #+END_QUOTE
 		- Important design parameters: DC bus voltage level, PV technology
-	-
-- Case study
-- Conclusions
+	- ![image.png](../assets/image_1681285206277_0.png)
+		- Input profile
+		- PV technology
+			- Cristaline Si
+				- Regular, Half, Shingled Cell
+			- Thin film technologies
+		- MLC
+			- Boost converter
+			- Topology
+				- depends on maximum gain
