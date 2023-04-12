@@ -5,16 +5,21 @@
 		- <->BAPV (building applied voltaics): Placed on existing structures
 	- Why?
 		- Climate awareness
+		  collapsed:: true
 			- Reduce the use of fossil fuels and increase the share of renewable energy generation
 		- Legislation
+		  collapsed:: true
 			- EPBD (European
 			  Performance on Buildings Directive), SET plan (Strategic Energy Technology)
 		- Cost
+		  collapsed:: true
 			- Higher CAPEX but lower OPEX
 			- Material savings
 		- Image
+		  collapsed:: true
 			- Green building
 		- Roof space
+		  collapsed:: true
 			- Can be scarce in urban areas
 			- Too small to cover building’s energy demand
 	- Build-up
@@ -25,8 +30,27 @@
 					- Allows to use modules with different ratings
 					- converter pre-installment -> cost reduction
 				- Leads to higher efficiency
-			-
+			- Challenges
+				- Lifetime
+					- 25+ years of lifetime required
+					- No maintenance (when integrated in frame)
+					- High temperature environment
+				- Compactness
+					- Needs to fit in the frame of a curtain wall module
+				- Cost
 		- MLCs all connected in parallel to ==Low Voltage DC== (LVDC)
+			- Why?
+				- Compatibility
+					- DC loads, DC generators, DC storage
+					- Fewer conversion steps
+						- Less components required
+						- Higher efficiency
+						- Lower cost
+				- Capability
+					- No skin effect
+					- More power can be transferred over the same cross section
+				- Controllability
+					- Due to power electronics converters
 - Research question and methodology
 - Case study
 - Conclusions
