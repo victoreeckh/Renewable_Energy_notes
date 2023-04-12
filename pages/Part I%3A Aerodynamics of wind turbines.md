@@ -29,5 +29,15 @@
 				- You can build structure around it to try and beat it (but is just a big gas turbine in its limits)
 			- Why should you?
 				- Small thrust reduction (small decrease of $$a$$) and you don't need such a strong foundation (thrust$$\times$$lever-> big foundation needed)
+				- Also economical aspect (reduce CapEx)
+		- Main assumptions
+			- Incompressible flow
+				- No flows are incompressible in reaility
+				- Mach number: $$M=\frac{u}{c}$$ is maximaal $$= \frac{25}{340}<0.1$$ -> justified
+				- Subtlety tip of the blade do move at 70m/s
+			- Uniform flow losses
+				- Atmospheric flow can be complex
+			- Inviscid flow
 				-
+			-
 - Wind turbine control
