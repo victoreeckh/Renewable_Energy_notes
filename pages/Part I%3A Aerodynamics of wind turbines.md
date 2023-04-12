@@ -20,7 +20,7 @@
 		- Nowadays all turbines turn clockwise (as standardization)
 - ### Betz theory and wind turbine design
 	- $$P_{max} = \frac{16}{27}\left(\frac{\rho U_\infty^3}{2}\right)A$$
-	- **Derivation**
+	- **Betz limit Derivation**
 		- See notes
 	- **Discussion**
 		- Beat the Betz limit?
@@ -50,5 +50,7 @@
 					- The change of angular momentum $$\frac{dL}{dt}=T$$
 						- Dit klein, dus kleine T betekent grote $$\omega$$ bij zelfde vermogen ($$P=T\omega$$)
 						- Because we don't want to use a lot of material -> high $$\omega$$ needed, therefore Betz still valid
-						-
+	- **Rotating blade Derivation**
+		- See notes
+		-
 - Wind turbine control
