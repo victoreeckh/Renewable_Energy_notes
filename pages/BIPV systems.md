@@ -65,15 +65,15 @@
 		- Important design parameters: DC bus voltage level, PV technology
 	- ![image.png](../assets/image_1681285206277_0.png)
 		- Input profile
-		- PV technology
+		- PV technology (DOF)
 			- Cristaline Si
 				- Regular, Half, Shingled Cell
 			- Thin film technologies
 		- MLC
 			- Boost converter
-			- Topology
+			- Topology (DOF)
 				- depends on maximum gain
-			- Components
+			- Components (DOF)
 				- Depend on voltage and current of the case and extra boundary conditions (e.g. max current ripple)
 				- Automatically selected from (small) database
 			- Losses
@@ -110,4 +110,9 @@
 				- Max current rating (=thermal limit!)
 				- Max voltage drop along the line
 				- Max power loss
+			- -> combining equations allows to determine suitable voltage levels (sl.20)
+				- Cable thickness (DOF)
+		- Voltage balancing converter
+			- Not custom designed -> fixed design
+		-
 			-
