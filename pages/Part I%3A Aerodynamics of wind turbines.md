@@ -1,3 +1,4 @@
-- Main types of turbines
+- ### Main types of turbines
+	-
 - Betz theory and wind turbine design
 - Wind turbine control

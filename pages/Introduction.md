@@ -1,21 +1,27 @@
-- Installed capacity surpassed gas in 2018 (after 10y long increase)
-- 50% of new installed capacity in 2018
-	- while on the other hand: 60% of new installed investment
-	- But capacity factor of wind is higher than solar
-- Capacity factors
-	- Offshore
-		- Stable
-	- Onshore
-		- Increase
-- LCOE sharply decreased over the last years
-- Subsidy need
-	- Onshore developed towards subsidy free now
-	- Offshore dominantly in need of support
+- General
+	- Installed capacity surpassed gas in 2018 (after 10y long increase)
+	- 50% of new installed capacity in 2018
+		- while on the other hand: 60% of new installed investment
+		- But capacity factor of wind is higher than solar
+	- Capacity factors
+		- Offshore
+			- Stable
+		- Onshore
+			- Increase
+	- LCOE sharply decreased over the last years
+	- Subsidy need
+		- Onshore developed towards subsidy free now
+		- Offshore dominantly in need of support
 - Belgium
 	- Big off-shore share
 		- Socially preferred (not in my backyard)
 		- Frontran by DEME, Jan De Nul
+- Europe
+	- EU vision
+		- target capacity of 450GW
+		- Required installations (/y) should go times 4
 - Products
+  collapsed:: true
 	- Vestas V164 (2016, already outdated)
 	- Halliade-X 12MW
 		- onshore
