@@ -126,4 +126,7 @@
 		- Reducing the DC bus voltage shifts the losses from the MLC to the VBC and the cabling
 			- Thus DC voltage decrease is effective way to increase MLC lifetime
 		- Also the total losses decrease when DC bus voltage decreases
-	-
+	- slide 28
+		- CIGS cheaper (case 9-11)
+		- But Energy yield of c-SI SC (shingled; case 7-8)
+		- So can maybe be more economically attractive over lifetime
