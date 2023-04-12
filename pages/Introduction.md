@@ -2,3 +2,14 @@
 - 50% of new installed capacity in 2018
 	- while on the other hand: 60% of new installed investment
 	- But capacity factor of wind is higher than solar
+- Capacity factors
+	- Offshore
+		- Stable
+	- Onshore
+		- Increase
+- LCOE sharply decreased over the last years
+- Belgium
+	- Big off-shore share
+		- Socially preferred (not in my backyard)
+		- Frontran by DEME, Jan De Nul
+-
