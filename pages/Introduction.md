@@ -15,4 +15,19 @@
 	- Big off-shore share
 		- Socially preferred (not in my backyard)
 		- Frontran by DEME, Jan De Nul
--
+- Products
+	- Vestas V164 (2016, already outdated)
+	- Halliade-X 12MW
+		- onshore
+		- 63% capacity factor
+		- 260m
+	- Next
+		- Halliade-X 14MW
+			- onshore
+			- 61% capacity factor
+			- 260m
+		- VESTAS V236-15.0 MW
+		- SiemensGamessa SG 14-236 DD
+			- 14MW
+		- MingYang Smart Energy, MySE 16.0-242
+			- 16MW
