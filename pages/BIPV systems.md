@@ -73,3 +73,19 @@
 			- Boost converter
 			- Topology
 				- depends on maximum gain
+			- Components
+				- Depend on voltage and current of the case and extra boundary conditions (e.g. max current ripple)
+				- Automatically selected from (small) database
+			- Losses
+				- ![image.png](../assets/image_1681286215180_0.png)
+				- Inductor and transformer
+					- Winding losses
+						- DC losses
+						- AC losses (skin & proximity effect)
+					- Core losses (hysteresis)
+				- Transistor and diode
+					- Conduction losses
+					- Switching losses
+				- Capacitor
+					- ESR losses
+						- ESR: Equivalent Series Resistance
