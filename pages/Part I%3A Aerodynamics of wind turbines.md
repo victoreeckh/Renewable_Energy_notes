@@ -19,5 +19,15 @@
 	- Notes
 		- Nowadays all turbines turn clockwise (as standardization)
 - ### Betz theory and wind turbine design
-	-
+	- $$P_{max} = \frac{16}{27}\left(\frac{\rho U_\infty^3}{2}\right)A$$
+	- **Derivation**
+		- See notes
+	- Discussion
+		- Beat the Betz limit?
+			- Betz limit only valid for open turbines
+				- For gas turbines higher powers are possible
+				- You can build structure around it to try and beat it (but is just a big gas turbine in its limits)
+			- Why should you?
+				- Small thrust reduction (small decrease of $$a$$) and you don't need such a strong foundation (thrust$$\times$$lever-> big foundation needed)
+				-
 - Wind turbine control
