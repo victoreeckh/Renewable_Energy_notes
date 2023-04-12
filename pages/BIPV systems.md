@@ -1,0 +1,22 @@
+- ### context
+	- BIPV
+		- Building Integrated Photovoltaics
+		- Integrate PV cells/modules in structural building elements
+		- <->BAPV (building applied voltaics): Placed on existing structures
+	- Why?
+		- Climate awareness
+			- Reduce the use of fossil fuels and increase the share of renewable energy generation
+		- Legislation
+			- EPBD, SET plan
+		- Cost
+			- Higher CAPEX but lower OPEX
+			- Material savings
+		- Image
+			- Green building
+		- Roof space
+			- Can be scarce in urban areas
+			- Too small to cover building’s energy demand
+		-
+- Research question and methodology
+- Case study
+- Conclusions
