@@ -7,7 +7,8 @@
 		- Climate awareness
 			- Reduce the use of fossil fuels and increase the share of renewable energy generation
 		- Legislation
-			- EPBD, SET plan
+			- EPBD (European
+			  Performance on Buildings Directive), SET plan (Strategic Energy Technology)
 		- Cost
 			- Higher CAPEX but lower OPEX
 			- Material savings
@@ -16,7 +17,16 @@
 		- Roof space
 			- Can be scarce in urban areas
 			- Too small to cover building’s energy demand
-		-
+	- Build-up
+		- BIPVs all connected to ==Module Level Converters== (MLC)
+			- Module level MPPT
+				- Why?
+					- High partial shading risk
+					- Allows to use modules with different ratings
+					- converter pre-installment -> cost reduction
+				- Leads to higher efficiency
+			-
+		- MLCs all connected in parallel to ==Low Voltage DC== (LVDC)
 - Research question and methodology
 - Case study
 - Conclusions
