@@ -8,6 +8,9 @@
 	- Onshore
 		- Increase
 - LCOE sharply decreased over the last years
+- Subsidy need
+	- Onshore developed towards subsidy free now
+	- Offshore dominantly in need of support
 - Belgium
 	- Big off-shore share
 		- Socially preferred (not in my backyard)
