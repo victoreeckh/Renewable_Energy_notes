@@ -115,9 +115,15 @@
 		- **Voltage balancing converter**
 			- Not custom designed -> fixed design
 - ### Case Study
-	- Zie slides
+	- Minder important ->Zie slides
 	- System efficiency
 		- Low in the beginning
 			- impact constant losses > injected power
 		- plateau
 			- relative importance of constant losses decreases
+	- Loss distribution
+		- Majority of the losses is always situated in the MLC
+		- Reducing the DC bus voltage shifts the losses from the MLC to the VBC and the cabling
+			- Thus DC voltage decrease is effective way to increase MLC lifetime
+		- Also the total losses decrease when DC bus voltage decreases
+	-
