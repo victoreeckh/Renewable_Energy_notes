@@ -101,7 +101,10 @@
 			- Active control required: either pitch to stall, or pitch to feather
 				- ==Pitch control==
 	- #### Classical region II control
-		- Keep pitch angle constant
+		- Keep pitch angle $$\beta$$ constant
 			- =straightforward
-			- Close
+			- Close to design angle
+			- Physical -> easy
+		- Keep tip speed ratio constant
+			- Difficult, because depends on windspeed
 	- #### Classical region III control
