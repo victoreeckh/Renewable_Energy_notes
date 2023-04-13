@@ -90,10 +90,18 @@
 - ### Wind turbine control
 	- #### Power Curve
 		- Constant speed turbine
+			- No active control required
+				- Turbine stalls when U increases
+				- ==Stall control==
 		- Variable speed turbine
 			- Why power held constant at $$U>10m/s$$? (Rated windspeed set at $$U=10m/s$$)
 				- Higher speeds do not occur much
 				- Higher speeds require more material, a bigger generator, bigger foundation...
 				- -> not economically optimal
+			- Active control required: either pitch to stall, or pitch to feather
+				- ==Pitch control==
 	- #### Classical region II control
-	- #### Classical region II control
+		- Keep pitch angle constant
+			- =straightforward
+			- Close
+	- #### Classical region III control
