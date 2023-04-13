@@ -117,4 +117,13 @@
 		- Stall control
 			- Imagine wind gust: $$W\nearrow \rightarrow \alpha \nearrow$$, tot $$\alpha$$ te groot -> flow separation (stall)
 			- (-) vibrations
+		- Pitch control
+			- Change $$\beta$$
+			- Depending on pitch direction
+				- Pitch to feather
+				- Pitch to stall
+			- PI controller used: $$\beta(s) = K_p\left[ \omega_e(s) + \frac{\omega_e(s)}{T_Is}\right]$$
+				- Wind speed error: $$\omega_e(s)$$
+				-
+			-
 			-
