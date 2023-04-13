@@ -141,6 +141,16 @@
 				- e.g. **Exam Q:** *What is the Torque on the foundation?*
 					- Look at Thrust coefficient at rated wind speed
 			- Windspeed$$\nearrow$$ -> wake defict$$\searrow$$
-				- Because $$C_T \searrow$$ and (C_T )
-				-
-	- Note
+				- Because $$C_T \searrow$$ and ($$C_T \rightarrow a$$, and $$2a$$ in the wake)
+		- 2/4
+			- How many turbines?
+				- Vary density
+		- 3/4
+			- Efficiency drops for denser farms
+			- Weight this with
+		- 4/4
+			- Denser farms
+				- Have higher capacity
+				- But at lower capacity factors
+	- Wind farm control
+		-
