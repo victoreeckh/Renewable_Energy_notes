@@ -127,4 +127,4 @@
 			- PI controller used: $$\beta(s) = K_p\left[ \omega_e(s) + \frac{\omega_e(s)}{T_Is}\right]$$
 				- Wind speed error: $$\omega_e(s)$$
 - ### Wind farms
-	-
+	- Turbines can interact with each other (7% of the energy flux left in the wake)
