@@ -65,4 +65,7 @@
 			- The fast flowing free-stream air would tend to weave in and out between successive discs. The wider apart successive discs the deeper, radially, the free-stream air would penetrate.
 			- Taking any line parallel to the rotor axis at a radius $$r$$, somewhat smaller than the wake radius (rotor radius), the average axial velocity along that line would be greater than $$U_\infty(1-a)$$ and less than $$U_\infty$$.
 			- Let the average velocity be $$U_\infty(1-a)f(r)$$, where $$f(r)$$ is the tip-loss function, has a value less than unity and falls to zero at the wake boundary.
+		- Account for drag
+			- (For glider planes:) L/D determines descent angle
+			- L/D high -> $$\lambda \nearrow $$
 - Wind turbine control
