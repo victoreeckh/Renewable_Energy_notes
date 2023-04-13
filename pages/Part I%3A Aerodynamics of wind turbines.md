@@ -128,11 +128,19 @@
 				- Wind speed error: $$\omega_e(s)$$
 - ### Wind farms
 	- Turbines can interact with each other (7% of the energy flux left in the wake)
-	- Understanding interactions within the farm
-		- CFD simulations
-		- Cer
-	- But for design and planning
-		- Computationally expensive (million designs need to be tested etc.)
-		- Trade-off between fidelity and cost for models
-		-
-			-
+	- Wind farm models
+		- Understanding interactions within the farm
+			- CFD simulations
+			- The more certain your models, the higher the amount of money is that the banks will be willing to lend
+		- But for design and planning
+			- Computationally expensive (million designs need to be tested etc.)
+			- Trade-off between fidelity and cost for models
+	- Example
+		- 1/4
+			- Biggest thrustforce (biggest thrustcoefficient) is at rated windspeed
+				- e.g. **Exam Q:** *What is the Torque on the foundation?*
+					- Look at Thrust coefficient at rated wind speed
+			- Windspeed$$\nearrow$$ -> wake defict$$\searrow$$
+				- Because $$C_T \searrow$$ and (C_T )
+				-
+	- Note
