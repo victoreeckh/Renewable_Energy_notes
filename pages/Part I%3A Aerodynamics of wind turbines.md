@@ -58,6 +58,6 @@
 				- Helocoidal vortex
 				- -> tip vortex (Caused by pressure difference that creates the lift is connected)
 					- Downwash on the wings
-				-
-		-
+				- Correction added by Prandtl
+	-
 - Wind turbine control
