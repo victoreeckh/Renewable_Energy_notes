@@ -1,3 +1,46 @@
-- Wind farm flow and wake models
-- Wind farm design and control
--
+- ### Wind farms
+	- Turbines can interact with each other (7% of the energy flux left in the wake)
+	- Wind farm models
+		- Understanding interactions within the farm
+			- CFD simulations
+			- The more certain your models, the higher the amount of money is that the banks will be willing to lend
+		- But for design and planning
+			- Computationally expensive (million designs need to be tested etc.)
+			- Trade-off between fidelity and cost for models
+	- Example
+		- 1/4
+			- Biggest thrustforce (biggest thrustcoefficient) is at rated windspeed
+				- e.g. **Exam Q:** *What is the Torque on the foundation?* #Exam
+					- Look at Thrust coefficient at rated wind speed
+			- Windspeed$$\nearrow$$ -> wake defict$$\searrow$$
+				- Because $$C_T \searrow$$ and ($$C_T \rightarrow a$$, and $$2a$$ in the wake)
+		- 2/4
+			- How many turbines?
+				- Vary density
+		- 3/4
+			- Efficiency drops for denser farms
+			- Weight this with
+		- 4/4
+			- Denser farms
+				- Have higher capacity
+				- But at lower capacity factors
+	- Wind farm control
+		- Quasi static control
+			- Not fast control
+			- Examples
+				- Axial induction control
+					- Feather blades of turbines in front for the ones in the back to pick up more power
+						- Doesn't work: power picked up is always more than power lost
+				- Yaw control
+					- Intentionally misalign the turbine
+					- To divert the wake to the outside
+				- Floating turbines
+					- Higher CapEx/OpEx
+		- Dynamic Induction control
+			- Helix control
+				- Increase wake mixing
+			- Pulse control
+	- Windfarm blocking
+		- Root cause still open for debate. Two main hypothesis:
+			- “Hydrodynamic” blockage (possibly + stable stratification)
+			- Gravity waves
