@@ -78,5 +78,12 @@
 					- More severe at lower $$\lambda$$
 				- Wake loss
 					- Energy going into rotation of the wake
-			-
+			- E.g.: Going from $$N=1 \rightarrow N=2$$
+				- $$\lambda \searrow\; \leftarrow c\nearrow$$
+				- airfoil drag decreases
+			- Remember not about optimizing $$C_P$$, but because optimizing economics
+		- Why then 3 blade turbines?
+			- Historical reason
+			- Vestas started from 3 blade, because they knew that design worked
+				- In the US during the progra
 - Wind turbine control
