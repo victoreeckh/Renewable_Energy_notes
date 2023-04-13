@@ -1,4 +1,5 @@
 - ### Main types of turbines
+  collapsed:: true
 	- Descriptive
 	- sl.28-31 lezen
 	- Wind turbine types
@@ -19,6 +20,7 @@
 	- Notes
 		- Nowadays all turbines turn clockwise (as standardization)
 - ### Betz theory and wind turbine design
+  collapsed:: true
 	- $$P_{max} = \frac{16}{27}\left(\frac{\rho U_\infty^3}{2}\right)A$$
 	- **Betz limit Derivation**
 		- See notes
@@ -124,6 +126,5 @@
 				- Pitch to stall
 			- PI controller used: $$\beta(s) = K_p\left[ \omega_e(s) + \frac{\omega_e(s)}{T_Is}\right]$$
 				- Wind speed error: $$\omega_e(s)$$
-				-
-			-
-			-
+- ### Wind farms
+	-
