@@ -52,5 +52,12 @@
 						- Because we don't want to use a lot of material -> high $$\omega$$ needed, therefore Betz still valid
 	- **Rotating blade Derivation**
 		- See notes
+		- Notes
+			- Wind turbine in action
+				- one blade turbine needs counterweight (otherwise vibrations)
+				- Helocoidal vortex
+				- -> tip vortex (Caused by pressure difference that creates the lift is connected)
+					- Downwash on the wings
+				-
 		-
 - Wind turbine control
