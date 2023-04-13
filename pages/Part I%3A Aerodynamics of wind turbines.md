@@ -67,5 +67,16 @@
 			- Let the average velocity be $$U_\infty(1-a)f(r)$$, where $$f(r)$$ is the tip-loss function, has a value less than unity and falls to zero at the wake boundary.
 		- Account for drag
 			- (For glider planes:) L/D determines descent angle
-			- L/D high -> $$\lambda \nearrow $$
+			- L/D high -> $$\lambda_{max} \nearrow $$
+			- For a fixed chord length $$c$$
+		- Typical WT performance
+			- Betz limit sets upper bound
+			- Amount of blades: $$N\nearrow \rightarrow \lambda \nearrow$$
+			- losses
+				- Airfoil drag (at high $$\lambda$$)
+				- Finite number of blades
+					- More severe at lower $$\lambda$$
+				- Wake loss
+					- Energy going into rotation of the wake
+			-
 - Wind turbine control
