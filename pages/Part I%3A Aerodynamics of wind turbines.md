@@ -138,7 +138,7 @@
 	- Example
 		- 1/4
 			- Biggest thrustforce (biggest thrustcoefficient) is at rated windspeed
-				- e.g. **Exam Q:** *What is the Torque on the foundation?*
+				- e.g. **Exam Q:** *What is the Torque on the foundation?* #Exam
 					- Look at Thrust coefficient at rated wind speed
 			- Windspeed$$\nearrow$$ -> wake defict$$\searrow$$
 				- Because $$C_T \searrow$$ and ($$C_T \rightarrow a$$, and $$2a$$ in the wake)
@@ -153,4 +153,20 @@
 				- Have higher capacity
 				- But at lower capacity factors
 	- Wind farm control
+		- Quasi static control
+			- Not fast control
+			- Examples
+				- Axial induction control
+					- Feather blades of turbines in front for the ones in the back to pick up more power
+						- Doesn't work: power picked up is always more than power lost
+				- Yaw control
+					- Intentionally misalign the turbine
+					- To divert the wake to the outside
+				- Floating turbines
+					- Higher CapEx/OpEx
+		- Dynamic Induction control
+			- Helix control
+				- Increase wake mixing
+			- Pulse control
+	- Windfarm blocking
 		-
