@@ -110,3 +110,11 @@
 		- ![image.png](../assets/image_1681397661447_0.png){:height 223, :width 462}
 		-
 	- #### Classical region III control
+		- Above rated windspeed
+			- P tried to held constant
+			- Max. $$T_{gen}$$
+			- -> $$T_{aero}$$ needs to be controlled
+		- Stall control
+			- Imagine wind gust: $$W\nearrow \rightarrow \alpha \nearrow$$, tot $$\alpha$$ te groot -> flow separation (stall)
+			- (-) vibrations
+			-
