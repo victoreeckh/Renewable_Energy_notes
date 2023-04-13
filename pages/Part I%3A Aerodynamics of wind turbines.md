@@ -107,4 +107,6 @@
 			- Physical -> easy
 		- Keep tip speed ratio constant
 			- Difficult, because depends on windspeed
+		- ![image.png](../assets/image_1681397661447_0.png){:height 223, :width 462}
+		-
 	- #### Classical region III control
