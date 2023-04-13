@@ -85,5 +85,15 @@
 		- Why then 3 blade turbines?
 			- Historical reason
 			- Vestas started from 3 blade, because they knew that design worked
-				- In the US during the progra
-- Wind turbine control
+				- In the US during the programs reacting to the oil crisis a lot of designs failed
+				- They incrementally improved the 3 blade design, now starting another design (other amount blades) would start from too far behind
+- ### Wind turbine control
+	- #### Power Curve
+		- Constant speed turbine
+		- Variable speed turbine
+			- Why power held constant at $$U>10m/s$$? (Rated windspeed set at $$U=10m/s$$)
+				- Higher speeds do not occur much
+				- Higher speeds require more material, a bigger generator, bigger foundation...
+				- -> not economically optimal
+	- #### Classical region II control
+	- #### Classical region II control
