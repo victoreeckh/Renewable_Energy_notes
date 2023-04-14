@@ -221,6 +221,7 @@ collapsed:: true
 						- Less wavelength dependent
 - ### Measurements
 	- #### How is wind measured?
+	  collapsed:: true
 		- General
 			- Anemometer: device to measure wind speed (and direction)
 		- In situ observations
@@ -253,6 +254,7 @@ collapsed:: true
 					- physical relationship between radar signal and the wind stress (friction velocity)
 					- 10 m wind is derived
 	- #### How is Solar radiation measured?
+	  collapsed:: true
 		- Types
 			- ==Pyranometer==
 				- Measures global (direct and the diffuse) irradiance
@@ -272,3 +274,4 @@ collapsed:: true
 				- Doesn't integrate over the dome, but also not spectral
 			- ==Skyscanner==
 				- Image of the sky to assess effect of clouds
+-
