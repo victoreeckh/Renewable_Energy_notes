@@ -155,7 +155,6 @@
 			- H: extra outwards component because of drag
 			- L: extra inward component because of drag
 ### Why, when and where is it sunny?
-collapsed:: true
 	- #### Top of the atmosphere
 	  collapsed:: true
 		- ==Solid angle==
@@ -172,6 +171,7 @@ collapsed:: true
 				- Stefan Boltzmann law: The total power flux from any object: integrating over the spectral irradiance
 				- total energy per unit time passing through a concentric sphere any distance from the photosphere equals that originally emitted by the spherical photosphere: $$4\pi R^2_{es}F_e=4\pi R^2_{p}F_p\Rightarrow F_e =1365W/m^2$$
 	- #### Surface
+	  collapsed:: true
 		- Irradiance on surface dependent on amount of scattering and absorption
 		  collapsed:: true
 			- Which is determined by:
@@ -318,4 +318,24 @@ collapsed:: true
 		- are made with coupled atmosphere-ocean models, with the atmospheric model being similar to the one used for numerical weather prediction
 - ### Resource Assesment
 	- #### wind
-		-
+		- Essence: $$P_{elec}=P_{rated}\cdot Capacity\; Factor$$
+			- And, $$Capacity\; Factor = Windspeed\; probability\; density\; function \times Power\; curve$$
+		- Probability density function
+			- From wind and solar statistics typically obtained through
+				- Observational networks or dedicated campaigns (cf. above)
+					- 10-m wind is extrapolation to wind turbine height (cf. above)
+				- Re-analyses further downscaled with atmospheric models (cf. above)
+				- Possible extrapolation in future using atmospheric models
+				- Possible extrapolation to different nearby area (accounting for complex terrain)
+			- ==Weibull function==: $$P(V) = \frac{k}{C}\left(\frac{V}{C}\right)^{k-1}exp\left(\left(\frac{V}{C}\right)^k\right)$$
+				- With: 
+				  $$
+				  \begin{equation*}
+				  \begin{aligned}
+				  V &= Wind\; Speed\\
+				  k &= Shape\; parameter\\
+				  C &= Scale\; parameter 
+				  \end{aligned}
+				  \end{equation*}
+				  $$
+				-
