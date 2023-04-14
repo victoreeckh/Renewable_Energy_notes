@@ -90,8 +90,8 @@
 				- In the US during the programs reacting to the oil crisis a lot of designs failed
 				- They incrementally improved the 3 blade design, now starting another design (other amount blades) would start from too far behind
 - ### Wind turbine control
-  collapsed:: true
 	- #### Power Curve
+	  id:: 643810cd-8c26-4ba5-acc9-439669ce56df
 		- Constant speed turbine
 			- No active control required
 				- Turbine stalls when U increases
