@@ -156,6 +156,7 @@
 			- L: extra inward component because of drag
 ### Why, when and where is it sunny?
 	- #### Top of the atmosphere
+	  collapsed:: true
 		- ==Solid angle==
 			- Incremental solid angle is the incremental surface area on a unit sphere.
 			- Formlula: $$\Omega = \int_0^{2\pi}\int_0^{\pi}sin(\theta)d\theta d\phi=4\pi$$ (area of a sphere with $$r=1$$)
@@ -171,29 +172,37 @@
 				- total energy per unit time passing through a concentric sphere any distance from the photosphere equals that originally emitted by the spherical photosphere: $$4\pi R^2_{es}F_e=4\pi R^2_{p}F_p\Rightarrow F_e =1365W/m^2$$
 	- #### Surface
 		- Irradiance on surface dependent on amount of scattering and absorption
+		  collapsed:: true
 			- Which is determined by:
 				- Aerosols
 				- Hydrometers
 		- Radiative transfer
 			- Extinction coefficient ($$\sigma_\lambda$$):
+			  collapsed:: true
 				- fractional loss of EM radiation due to gas scattering, gas absorption, particle scattering, or particle absorption per unit distance through the atmosphere
 				- Number concentration $$\times$$ crss-sectional area of particle $$\times$$ Absorption/scattering efficiency
 			- ==Optical depth==
+			  collapsed:: true
 				- is the integral of the extinction coefficient from the top of the atmosphere down to a point of interest in the direction of the surface normal
 				- $$\tau_\lambda = \int_\infty^z\sigma_\lambda dz=\int_\infty^{S_b}\sigma_\lambda \mu_s dS_b$$
 			- Radiative transfer equation
 				- Factors
-					- Spectral radiance scattered out of the beam: $$dI_{SO,\lambda}$$
+					- ==Spectral radiance scattered out of the beam==: $$dI_{SO,\lambda}$$
+					  collapsed:: true
 						- Formula: $$dI_{SO,\lambda}=I_{\lambda}\sigma_{s,\lambda}dS_b$$
-					- Spectral radiance absorbed along the beam: $$dI_{ao,\lambda}$$
+					- ==Spectral radiance absorbed along the beam==: $$dI_{ao,\lambda}$$
+					  collapsed:: true
 						- Formula: $$dI_{ao,\lambda}=I_{\lambda}\sigma_{a,\lambda}dS_b$$
-					- Multiple scattering of diffuse radiation into the beam
+					- ==Multiple scattering of diffuse radiation into the beam==
+					  collapsed:: true
 						- ![image.png](../assets/image_1681500453817_0.png){:height 79, :width 495}
 						- Scattering phase function ($$P_S$$): angular distribution of radiance scattered by particle or gas molecule at a given wavelength
-					- solar radiation is scattered into the beam
+					- ==solar radiation is scattered into the beam==
+					  collapsed:: true
 						- ![image.png](../assets/image_1681500715238_0.png){:height 64, :width 465}
 							- No need to integrate over all solid angles, as position of the sun is known
 				- Scattering phase function ($$P_S$$)
+				  collapsed:: true
 					- Isotropic scattering
 						- equal scattering in all directions
 					- Rayleigh scattering
@@ -209,5 +218,13 @@
 							- Aerosols 60 to 85% scatters in the forward direction
 							- hydrometeor 70 to 85%
 						- Less wavelength dependent
-						-
-						-
+- ### Measurements
+	- #### How is wind measured?
+		- General
+			- Anemometer: device to measure wind speed (and direction)
+		- In situ observations
+			- Three cup anemometer: speed of rotation is theoretically proportional to the wind speed, but other factors can influence it in practice
+			- Vane anemometer : combines propeller and tail for speed and direction
+			- Sonic anemometers: measuring how much ultrasonic sound waves are sped up or slowed down by the effect of the wind; advantage of no moving parts (extreme weather); Lower accuracy in precipitation due to variation of speed of sound
+	- #### How is Solar radiation measured?
+	-
