@@ -275,15 +275,18 @@ collapsed:: true
 			- ==Skyscanner==
 				- Image of the sky to assess effect of clouds
 - ### Atmospheric Modelling
+  collapsed:: true
 	- Nowcasts (several hours)
 	  collapsed:: true
 		- relies heavily on detailed knowledge of current state of atmosphere (weather systems) using extrapolation techniques (mostly not physically based)
 	- Weather Forecasts (several days)
 		- Procedure
+		  collapsed:: true
 			- ==diagnostic step== is used to process data to generate initial conditions
 			- ==prognostic step== that solves the initial value problem, using an atmospheric model)
 		- ![image.png](../assets/image_1681506520660_0.png){:height 222, :width 185}
 		- Dynamical Core
+		  collapsed:: true
 			- Equations based on theory of atmospheric dynamics
 			- A set of nonlinear partial differential equations consisting of:
 				- Navier–Stokes equations on the surface of a sphere
@@ -297,6 +300,7 @@ collapsed:: true
 					- fluid layer depth is small compared to the radius of the sphere
 				- ![image.png](../assets/image_1681507040924_0.png){:height 279, :width 230}
 		- Physical parameterisation
+		  collapsed:: true
 			- Method to represent the effects of physical processes which are too small or too complex or poorly understood
 			- Depends on resolution
 			- Examples
@@ -307,3 +311,11 @@ collapsed:: true
 	- Seasonal forecasts (seasons)
 	- Decadal forecasts (years)
 	- Climate projections (decades)
+		- give statistical information about future weather but are not predicting the evolution of day-to-day weather systems
+		  id:: 6439c438-358b-4a97-a575-fa442897e2d2
+		- do not depend on initial conditions of wind, temperature, pressure, and moisture in the atmosphere
+		- rely primarily on boundary conditions like atmosphere composition (greenhouse gasses, aerosols) or land use
+		- are made with coupled atmosphere-ocean models, with the atmospheric model being similar to the one used for numerical weather prediction
+- ### Resource Assesment
+	- #### wind
+		-
