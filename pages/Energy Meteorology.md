@@ -190,4 +190,9 @@
 					- Multiple scattering of diffuse radiation into the beam
 						- ![image.png](../assets/image_1681500453817_0.png){:height 79, :width 495}
 						- Scattering phase function ($$P_S$$): angular distribution of radiance scattered by particle or gas molecule at a given wavelength
-						-
+					- solar radiation is scattered into the beam
+						- ![image.png](../assets/image_1681500715238_0.png){:height 64, :width 465}
+							- No need to integrate over all solid angles, as position of the sun is known
+				- Scattering phase function ($$P_S$$)
+					- *Why is the sky blue?*
+						- Solar radiation scattered on gas (air) molecules -> r
