@@ -261,15 +261,14 @@ collapsed:: true
 				- Two types of sensors: thermocouples and photovoltaic sensors.
 				- Two glass domes shield the detector and allow isotropic transmission
 			- ==Sun photometer==
-			  collapsed:: true
 				- Spectral measurements of the direct beam irradiance
 				- Derive atmospheric transmission and aerosol optical depth.
+				- Integrates over the dome
 			- ==Pyrheliometer==
-			  collapsed:: true
 				- Measures direct beam irradiance.
 				- Thermopile which senses the temperature difference between the exposed black sensor surface and the massive body of the instrument.
 				- A glass window at the end of the instrument protects the sensor from the weather.
 				- Small field of view of the sensor
+				- Doesn't integrate over the dome, but also not spectral
 			- ==Skyscanner==
-			  collapsed:: true
 				- Image of the sky to assess effect of clouds
