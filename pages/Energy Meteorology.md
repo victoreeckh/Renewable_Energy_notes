@@ -241,5 +241,35 @@ collapsed:: true
 					- microwave laser light
 					- widely used in the wind energy industry
 					- realistic and mobile alternative to installing tall meteorological masts
+					- (+) light propagates 1,000,000 times faster than sound
+					- (+) LIDAR's antenna aperture size compares to the wavelength
+					- Subtypes
+						- Continuous
+						- Pulsed
+				- ==Remote sensing froms space==
+					- SAR Winds are derived from Radarsat-2 and Sentinel satellites
+					- Normalized Radar Cross Sections (NRCS) are converted into wind field
+					- Higher backscattered from rough water surfaces
+					- physical relationship between radar signal and the wind stress (friction velocity)
+					- 10 m wind is derived
 	- #### How is Solar radiation measured?
-	-
+		- Types
+			- ==Pyranometer==
+				- Measures global (direct and the diffuse) irradiance
+				- Measures diffuse solar irradiance (tracking shading arm ).
+				- Can measure part of spectrum using a filter
+				- Two types of sensors: thermocouples and photovoltaic sensors.
+				- Two glass domes shield the detector and allow isotropic transmission
+			- ==Sun photometer==
+			  collapsed:: true
+				- Spectral measurements of the direct beam irradiance
+				- Derive atmospheric transmission and aerosol optical depth.
+			- ==Pyrheliometer==
+			  collapsed:: true
+				- Measures direct beam irradiance.
+				- Thermopile which senses the temperature difference between the exposed black sensor surface and the massive body of the instrument.
+				- A glass window at the end of the instrument protects the sensor from the weather.
+				- Small field of view of the sensor
+			- ==Skyscanner==
+			  collapsed:: true
+				- Image of the sky to assess effect of clouds
