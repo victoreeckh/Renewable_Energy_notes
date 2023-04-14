@@ -181,6 +181,13 @@
 			- ==Optical depth==
 				- is the integral of the extinction coefficient from the top of the atmosphere down to a point of interest in the direction of the surface normal
 				- $$\tau_\lambda = \int_\infty^z\sigma_\lambda dz=\int_\infty^{S_b}\sigma_\lambda \mu_s dS_b$$
-			- Radiance
-				- Effecting factors
-					-
+			- Radiative transfer equation
+				- Factors
+					- Spectral radiance scattered out of the beam: $$dI_{SO,\lambda}$$
+						- Formula: $$dI_{SO,\lambda}=I_{\lambda}\sigma_{s,\lambda}dS_b$$
+					- Spectral radiance absorbed along the beam: $$dI_{ao,\lambda}$$
+						- Formula: $$dI_{ao,\lambda}=I_{\lambda}\sigma_{a,\lambda}dS_b$$
+					- Multiple scattering of diffuse radiation into the beam
+						- ![image.png](../assets/image_1681500453817_0.png){:height 79, :width 495}
+						- Scattering phase function ($$P_S$$): angular distribution of radiance scattered by particle or gas molecule at a given wavelength
+						-
