@@ -194,5 +194,20 @@
 						- ![image.png](../assets/image_1681500715238_0.png){:height 64, :width 465}
 							- No need to integrate over all solid angles, as position of the sun is known
 				- Scattering phase function ($$P_S$$)
-					- *Why is the sky blue?*
-						- Solar radiation scattered on gas (air) molecules -> r
+					- Isotropic scattering
+						- equal scattering in all directions
+					- Rayleigh scattering
+						- Gasses
+						- most scattering in the forward and backward direction
+						- Wavelength dependent
+							- *Why is the sky blue?*
+							  collapsed:: true
+								- Solar radiation scattered on gas (air) molecules -> rayleigh scattering which is wavelength dependent, preferable for shorter wavelengths of which we can only visibly see the blue color
+					- Mie scattering
+						- Particles (aerosol and hydrometeor)
+						- strongly peaked in the forward direction
+							- Aerosols 60 to 85% scatters in the forward direction
+							- hydrometeor 70 to 85%
+						- Less wavelength dependent
+						-
+						-
