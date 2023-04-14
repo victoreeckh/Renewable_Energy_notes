@@ -274,4 +274,16 @@ collapsed:: true
 				- Doesn't integrate over the dome, but also not spectral
 			- ==Skyscanner==
 				- Image of the sky to assess effect of clouds
--
+- ### Atmospheric Modelling
+	- Nowcasts (several hours)
+	  collapsed:: true
+		- relies heavily on detailed knowledge of current state of atmosphere (weather systems) using extrapolation techniques (mostly not physically based)
+	- Weather Forecasts (several days)
+		- ![image.png](../assets/image_1681506520660_0.png){:height 222, :width 185}
+		- Dynamical Core
+			- Equations based on theory of atmospheric dynamics
+		- Physical parameterisation
+			- Method to represent the effects of physical processes which are too small or too complex or poorly understood
+	- Seasonal forecasts (seasons)
+	- Decadal forecasts (years)
+	- Climate projections (decades)
