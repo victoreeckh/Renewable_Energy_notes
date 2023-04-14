@@ -279,11 +279,31 @@ collapsed:: true
 	  collapsed:: true
 		- relies heavily on detailed knowledge of current state of atmosphere (weather systems) using extrapolation techniques (mostly not physically based)
 	- Weather Forecasts (several days)
+		- Procedure
+			- ==diagnostic step== is used to process data to generate initial conditions
+			- ==prognostic step== that solves the initial value problem, using an atmospheric model)
 		- ![image.png](../assets/image_1681506520660_0.png){:height 222, :width 185}
 		- Dynamical Core
 			- Equations based on theory of atmospheric dynamics
+			- A set of nonlinear partial differential equations consisting of:
+				- Navier–Stokes equations on the surface of a sphere
+				  collapsed:: true
+					- Conservation of Mass: Continuity Equation (air, water (gasses, aerosols))
+					- Conservation of Momentum: Newton’s Second Law
+					- Conservation of Energy: First Law of Thermodynamics or Energy Equation
+				- assumptions
+				  collapsed:: true
+					- vertical motion is much smaller than horizontal motion
+					- fluid layer depth is small compared to the radius of the sphere
+				- ![image.png](../assets/image_1681507040924_0.png){:height 279, :width 230}
 		- Physical parameterisation
 			- Method to represent the effects of physical processes which are too small or too complex or poorly understood
+			- Depends on resolution
+			- Examples
+				- Atmospheric radiation
+				- Stratiform and convective cloud and precipitation processes
+				- Processes in the atmospheric boundary layer
+				- Land-surface processes
 	- Seasonal forecasts (seasons)
 	- Decadal forecasts (years)
 	- Climate projections (decades)
