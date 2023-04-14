@@ -1,4 +1,3 @@
 - ## [[Solar PV]]
 - ## [[Wind Energy]]
 - ## [[Energy Meteorology]]
--
