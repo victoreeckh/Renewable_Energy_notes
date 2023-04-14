@@ -155,6 +155,7 @@
 			- H: extra outwards component because of drag
 			- L: extra inward component because of drag
 ### Why, when and where is it sunny?
+collapsed:: true
 	- #### Top of the atmosphere
 	  collapsed:: true
 		- ==Solid angle==
@@ -223,8 +224,22 @@
 		- General
 			- Anemometer: device to measure wind speed (and direction)
 		- In situ observations
-			- Three cup anemometer: speed of rotation is theoretically proportional to the wind speed, but other factors can influence it in practice
-			- Vane anemometer : combines propeller and tail for speed and direction
-			- Sonic anemometers: measuring how much ultrasonic sound waves are sped up or slowed down by the effect of the wind; advantage of no moving parts (extreme weather); Lower accuracy in precipitation due to variation of speed of sound
+			- In situ = at location where we want measurements from
+			- Types
+				- ==Three cup anemometer==: speed of rotation is theoretically proportional to the wind speed, but other factors can influence it in practice
+				- ==Vane anemometer== : combines propeller and tail for speed and direction
+				- ==Sonic anemometers==: measuring how much ultrasonic sound waves are sped up or slowed down by the effect of the wind; advantage of no moving parts (extreme weather); Lower accuracy in precipitation due to variation of speed of sound
+				- ==Hot wire anemometer==: measuring heat loss of an electrically-heated wire placed in the air stream
+		- Ground-based remote sensing
+			- Remote sensing for wind energy applications relies on sound and light wave propagation.
+			- measuring Doppler shifts in backscatter waves, which is proportional to wind speeds in the beam direction
+			- Types
+				- ==Sound Detection and Ranging== (SODAR):
+					- relies on sound waves transmitted into the atmosphere and scattered by temperature layers and turbulence
+					- not widely accepted in the wind energy industry due to measuring uncertainty
+				- ==Light Detection and Ranging== (LIDAR):
+					- microwave laser light
+					- widely used in the wind energy industry
+					- realistic and mobile alternative to installing tall meteorological masts
 	- #### How is Solar radiation measured?
 	-
