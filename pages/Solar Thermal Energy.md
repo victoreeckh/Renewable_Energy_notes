@@ -96,4 +96,7 @@
 				- auxiliary / after heating is necessary!
 					- needed when solar heating is insufficient
 					- T > 65° C to kill legionella; then hot water mixed with cold water
-- ### Economic eval
+- ### Economic evaluation
+	- Solar “coverage” = the percentage contribution of solar in total heat demand.
+		- Saturation of curves due to asymmetric yield in summer versus winter. E.g., larger collector area, gives unused surplus heat in summer and little gain in the winter
+		-
