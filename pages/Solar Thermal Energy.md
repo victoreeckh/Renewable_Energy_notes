@@ -6,5 +6,12 @@
 			- Solar radiation intensity in Belgium at earth surface: $$\sim 1kW/m^2$$
 			- annual irradiated solar energy density (in Belgium ~1000 hrs sunshine): $$\sim 1000kWh_{th}/m^2a$$
 			- Annual average yield of collector at optimal inclination and orientation: $$\sim 375 kWh_{th}/m^2a$$
-			-
+				- Optimal orientation and inclination vary with seasons/time of day
+					- => Acceptable orientation: SW-SE
+					- => optimal inclination: $$\sim 20^{\circ}-50^{\circ}$$
+- ### Working principle Solar Boiler
+	-
+	-
+	-
+	-
 	-
