@@ -156,7 +156,6 @@
 			- L: extra inward component because of drag
 ### Why, when and where is it sunny?
 	- #### Top of the atmosphere
-	  collapsed:: true
 		- ==Solid angle==
 			- Incremental solid angle is the incremental surface area on a unit sphere.
 			- Formlula: $$\Omega = \int_0^{2\pi}\int_0^{\pi}sin(\theta)d\theta d\phi=4\pi$$ (area of a sphere with $$r=1$$)
@@ -171,7 +170,6 @@
 				- Stefan Boltzmann law: The total power flux from any object: integrating over the spectral irradiance
 				- total energy per unit time passing through a concentric sphere any distance from the photosphere equals that originally emitted by the spherical photosphere: $$4\pi R^2_{es}F_e=4\pi R^2_{p}F_p\Rightarrow F_e =1365W/m^2$$
 	- #### Surface
-	  collapsed:: true
 		- Irradiance on surface dependent on amount of scattering and absorption
 		  collapsed:: true
 			- Which is determined by:
@@ -341,4 +339,19 @@
 		- Power curve of a wind turbine
 			- ((643810cd-8c26-4ba5-acc9-439669ce56df))
 		- ENOH: $$\frac{\#kWh\; produced}{Installed\; power\; in\; kW}$$
+	- #### Solar
+		- Factors
+			- incident solar irradiance normal to the panel
+				- incident solar irradiance at the surface on a horizontal panel
+					- Formula: $$F_{dirdwn}=cos(\theta_s)\cdot F_{dir}$$
+						- Zenith angle: $$\theta_s$$
+							-
+				- panel orientation
+					-
+				- shading
+				- surface reflection
+			- solar panel efficiency: power output under standard test conditions divided by maximum solar power available
+			- area of the solar panel
+			- correction for cell temperature
+			- other correction factors (derating factors)
 	-
