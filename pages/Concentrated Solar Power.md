@@ -28,6 +28,7 @@
 	- ![image.png](../assets/image_1681587061626_0.png){:height 281, :width 507}
 - ### CSP conversion technologies
 	- ![image.png](../assets/image_1681590089046_0.png)
+		- Solar field <-> Thermal storage <-> Power Block
 	- Efficiency
 		- Thermodynamic Cycle
 			- Limited by $$\eta_{carnot}$$
@@ -39,7 +40,8 @@
 				- Concentration ratio $$\alpha_c$$: ratio of the radiant power density at the receiver divided by the radiant power density of the sun without any concentration
 	- Thermodynamic Cycle
 		- CSP Rankine Steam Cycle
-	-
+		- ![image.png](../assets/image_1681592025230_0.png){:height 270, :width 503}
+		- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from
 	-
 	-
 	-
