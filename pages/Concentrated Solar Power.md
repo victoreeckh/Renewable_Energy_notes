@@ -40,17 +40,26 @@
 				- Concentration ratio $$\alpha_c$$: ratio of the radiant power density at the receiver divided by the radiant power density of the sun without any concentration
 	- Thermodynamic Cycle
 		- CSP Rankine Steam Cycle
-		- ![image.png](../assets/image_1681592025230_0.png){:height 270, :width 503}
-		- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from the cold tank to the hot tank. When needed, the heat from the hot tank can be returned to the heat transfer fluid and sent to the steam generator.
-		- Regimes
-			- Warm-up
-				- e.g. morning
-			- Charging Thermal Energy storage
-				- No demand yet
-			- Electric Power Generation
-			- Chage TES & Power Generation
-			- Power Generation from TES
-				- Still generation when no Solar energy available anymore
+		  collapsed:: true
+			- ![image.png](../assets/image_1681592025230_0.png){:height 270, :width 503}
+			- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from the cold tank to the hot tank. When needed, the heat from the hot tank can be returned to the heat transfer fluid and sent to the steam generator.
+			- Regimes
+				- Warm-up
+					- ![image.png](../assets/image_1681592813265_0.png){:height 262, :width 332}
+					- e.g. morning
+				- Charging Thermal Energy storage
+					- ![image.png](../assets/image_1681592835374_0.png){:height 256, :width 343}
+					- No demand yet
+				- Electric Power Generation
+					- ![image.png](../assets/image_1681592877552_0.png){:height 207, :width 349}
+				- Charge TES & Power Generation
+					- ![image.png](../assets/image_1681592917017_0.png){:height 251, :width 346}
+				- Power Generation from TES
+					- ![image.png](../assets/image_1681592938959_0.png){:height 261, :width 346}
+					- Still generation when no Solar energy available anymore
+		- CSP Brayton Cycle
+		- Integrated Solar Combined Cycle
+			- Example of a hybrid concept, the combination of solar heat to vaporize the feedwater after the preheating in the Heat Recovery Steam Generator
 	-
 	-
 	-
