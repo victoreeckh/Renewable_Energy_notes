@@ -31,3 +31,12 @@
 				- use cover glass with high transmission coefficient
 				- coating on inside cover glass to avoid IR transparency
 				- put insulation behind absorber to limit heat loss
+			- Efficiency $$\eta$$
+				- Efficiency: $$
+				  \begin{equation*}
+				  \begin{aligned}
+				  \eta &= \frac{Useful\; heat\; recovered}{Incoming\; irradiated\; energy}\\
+				  &= \eta_
+				  \end{aligned}
+				  \end{equation}
+				  $$
