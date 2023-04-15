@@ -80,4 +80,20 @@
 				- Collector output
 				- at user point
 			- Control flow
-				- If
+				- If $$T_{coll}\geq T_{tank}+5^\circ C$$
+					- Pump activated
+					- Tank heats up
+				- If $$T_{coll}\leq T_{tank}+2^\circ C$$
+					- Pump stops
+				- If $$T_{user}\; too\; low$$: auxiliary heating (6)
+				- If $$T_{user}\; too\; high$$: mixing city water (9)
+		- Necessary precautions
+		  collapsed:: true
+			- against freezing
+				- glycol filling
+				- “emptying” provision (for winter season)
+			- against the legionella bacteria
+				- auxiliary / after heating is necessary!
+					- needed when solar heating is insufficient
+					- T > 65° C to kill legionella; then hot water mixed with cold water
+- ### Economic eval
