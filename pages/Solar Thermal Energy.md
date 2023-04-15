@@ -99,4 +99,7 @@
 - ### Economic evaluation
 	- Solar “coverage” = the percentage contribution of solar in total heat demand.
 		- Saturation of curves due to asymmetric yield in summer versus winter. E.g., larger collector area, gives unused surplus heat in summer and little gain in the winter
-		-
+	- If you account for the present value of the investment
+		- Not able to regain investment, classic boiler is still more interesting
+		- However gas prices can be higher
+	-
