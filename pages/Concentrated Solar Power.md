@@ -37,7 +37,8 @@
 			- Decreases steeper for linear than for point focus
 			- Increases with $$\alpha_c$$
 				- Concentration ratio $$\alpha_c$$: ratio of the radiant power density at the receiver divided by the radiant power density of the sun without any concentration
-			-
+	- Thermodynamic Cycle
+		- CSP Rankine Steam Cycle
 	-
 	-
 	-
