@@ -1,5 +1,4 @@
 - ### Intro
-  collapsed:: true
 	- Global challenge
 		- Energy security while
 			- Mitigate global warming -> decarbonization
@@ -14,7 +13,6 @@
 		- Biomass: precipitation, temperature, evapotranspiration affect growth
 ### Why, when and where is it windy?
 	- #### General circulation
-	  collapsed:: true
 		- No rotation
 			- convection cells driven by $$T$$ gradient
 		- Rotation
@@ -25,7 +23,6 @@
 				- Forell Cell
 				- Polar cell
 	- #### Geostrophic wind
-	  collapsed:: true
 		- Forces
 			- Pressure gradient force
 				- Acceleration of the air package
@@ -57,7 +54,6 @@
 				- L -> anticyclonic
 				- R -> cyclonic
 	- #### Accounting for Centripetal force
-	  collapsed:: true
 		- Centripetal force: *The force that maintains the circular motion of the object. $$F_{ctp}$$ is directed inwards.*
 			- Accounting for the rotation of the flow
 			- In order for the object to deviate from that straight line, a force is needed.
@@ -80,7 +76,6 @@
 			  $$
 			- ->super geostrophic, thus higher windspeed
 	- #### Effect of altitude
-	  collapsed:: true
 		- Jet stream
 			- Horizontal (not in vertical height direction) pressure gradient:
 				- caused by temperature difference between cold polar air and warmer subtropical air
@@ -95,19 +90,16 @@
 					- Vice versa
 					- Rises to higher altitudes -> region of divergence -> lower speed and higher pressure (in the stream) -> but creates low pressure system
 	- #### Answer: Where is it windy?
-	  collapsed:: true
 		- Three cells and jet streams determine wind climate
 		- Low near equator
 		- Higher at jet streams
 ### What is the effect of the earth's surface on the wind?
 	- #### Atmospheric Boundary Layer (ABL)
 		- **Definiton**
-		  collapsed:: true
 			- = *lowest part of the atmosphere that is directly influenced by the surface*
 			- = Planetary boundary layer (PBL)
 			- depth can vary from a few 100m to several km depending on time of day, season, and weather conditions
 		- **Stratification**
-		  collapsed:: true
 			- = Temperature height relation
 			- Thermal stability
 				- dry-adiabatic processes: temperature of parcel decreases with a fixed rate per unit height; potential temperature is constant with height
@@ -122,7 +114,6 @@
 				- -> Stability is property of environmental air
 			- virtual temperature: temperature that dry dry air would have if its pressure and density were equal to those of a given sample of moist air
 		- **Modeling vertical ABL profiel - Inner layer**
-		  collapsed:: true
 			- inner layer: viscous shear dominates
 			- outer layer: large scale turbulent eddy shear dominates
 			- Assumptions
@@ -132,7 +123,6 @@
 				- Dimensionless wind velocity and dimensionless height:
 					- Analytical: $$\frac{u}{u_*} = \frac{1}{\kappa}ln\left(\frac{z}{z_0}\right)$$
 						- with:
-						  collapsed:: true
 							- $$\kappa = Von\; Karman\; constant$$
 							- $$z_0 = roughness\; length$$
 							- $$u^* = shear; stress$$
@@ -145,7 +135,6 @@
 						- Zie slides voor: $$\psi(\frac{z}{L})$$
 			-
 	- #### Wind: impact of drag
-	  collapsed:: true
 		- near surface
 		- Now four forces need to be balanced
 		- Drag force always opposite to wind speed
@@ -171,37 +160,29 @@
 				- total energy per unit time passing through a concentric sphere any distance from the photosphere equals that originally emitted by the spherical photosphere: $$4\pi R^2_{es}F_e=4\pi R^2_{p}F_p\Rightarrow F_e =1365W/m^2$$
 	- #### Surface
 		- Irradiance on surface dependent on amount of scattering and absorption
-		  collapsed:: true
 			- Which is determined by:
 				- Aerosols
 				- Hydrometers
 		- Radiative transfer
 			- Extinction coefficient ($$\sigma_\lambda$$):
-			  collapsed:: true
 				- fractional loss of EM radiation due to gas scattering, gas absorption, particle scattering, or particle absorption per unit distance through the atmosphere
 				- Number concentration $$\times$$ crss-sectional area of particle $$\times$$ Absorption/scattering efficiency
 			- ==Optical depth==
-			  collapsed:: true
 				- is the integral of the extinction coefficient from the top of the atmosphere down to a point of interest in the direction of the surface normal
 				- $$\tau_\lambda = \int_\infty^z\sigma_\lambda dz=\int_\infty^{S_b}\sigma_\lambda \mu_s dS_b$$
 			- Radiative transfer equation
 				- Factors
 					- ==Spectral radiance scattered out of the beam==: $$dI_{SO,\lambda}$$
-					  collapsed:: true
 						- Formula: $$dI_{SO,\lambda}=I_{\lambda}\sigma_{s,\lambda}dS_b$$
 					- ==Spectral radiance absorbed along the beam==: $$dI_{ao,\lambda}$$
-					  collapsed:: true
 						- Formula: $$dI_{ao,\lambda}=I_{\lambda}\sigma_{a,\lambda}dS_b$$
 					- ==Multiple scattering of diffuse radiation into the beam==
-					  collapsed:: true
 						- ![image.png](../assets/image_1681500453817_0.png){:height 79, :width 495}
 						- Scattering phase function ($$P_S$$): angular distribution of radiance scattered by particle or gas molecule at a given wavelength
 					- ==solar radiation is scattered into the beam==
-					  collapsed:: true
 						- ![image.png](../assets/image_1681500715238_0.png){:height 64, :width 465}
 							- No need to integrate over all solid angles, as position of the sun is known
 				- Scattering phase function ($$P_S$$)
-				  collapsed:: true
 					- Isotropic scattering
 						- equal scattering in all directions
 					- Rayleigh scattering
@@ -209,7 +190,6 @@
 						- most scattering in the forward and backward direction
 						- Wavelength dependent
 							- *Why is the sky blue?*
-							  collapsed:: true
 								- Solar radiation scattered on gas (air) molecules -> rayleigh scattering which is wavelength dependent, preferable for shorter wavelengths of which we can only visibly see the blue color
 					- Mie scattering
 						- Particles (aerosol and hydrometeor)
@@ -219,7 +199,6 @@
 						- Less wavelength dependent
 - ### Measurements
 	- #### How is wind measured?
-	  collapsed:: true
 		- General
 			- Anemometer: device to measure wind speed (and direction)
 		- In situ observations
@@ -252,7 +231,6 @@
 					- physical relationship between radar signal and the wind stress (friction velocity)
 					- 10 m wind is derived
 	- #### How is Solar radiation measured?
-	  collapsed:: true
 		- Types
 			- ==Pyranometer==
 				- Measures global (direct and the diffuse) irradiance
@@ -273,32 +251,25 @@
 			- ==Skyscanner==
 				- Image of the sky to assess effect of clouds
 - ### Atmospheric Modelling
-  collapsed:: true
 	- Nowcasts (several hours)
-	  collapsed:: true
 		- relies heavily on detailed knowledge of current state of atmosphere (weather systems) using extrapolation techniques (mostly not physically based)
 	- Weather Forecasts (several days)
 		- Procedure
-		  collapsed:: true
 			- ==diagnostic step== is used to process data to generate initial conditions
 			- ==prognostic step== that solves the initial value problem, using an atmospheric model)
 		- ![image.png](../assets/image_1681506520660_0.png){:height 222, :width 185}
 		- Dynamical Core
-		  collapsed:: true
 			- Equations based on theory of atmospheric dynamics
 			- A set of nonlinear partial differential equations consisting of:
 				- Navier–Stokes equations on the surface of a sphere
-				  collapsed:: true
 					- Conservation of Mass: Continuity Equation (air, water (gasses, aerosols))
 					- Conservation of Momentum: Newton’s Second Law
 					- Conservation of Energy: First Law of Thermodynamics or Energy Equation
 				- assumptions
-				  collapsed:: true
 					- vertical motion is much smaller than horizontal motion
 					- fluid layer depth is small compared to the radius of the sphere
 				- ![image.png](../assets/image_1681507040924_0.png){:height 279, :width 230}
 		- Physical parameterisation
-		  collapsed:: true
 			- Method to represent the effects of physical processes which are too small or too complex or poorly understood
 			- Depends on resolution
 			- Examples
@@ -363,5 +334,9 @@
 			- solar panel efficiency: power output under standard test conditions divided by maximum solar power available
 			- area of the solar panel
 			- correction for cell temperature
+				- Formula: $$C_{temp} = 1-b_{ref}max(min(T_c-T_{ref},T_{th}),0)$$
 			- other correction factors (derating factors)
-	-
+				- nameplates DC rating: peak power outputs differs from the name plate capacity assigned by the manufacturer
+				- bypass diodes allows the current from the unshaded panel to bypass the high resistance of the shaded panel
+				- blocking diode is needed to prevent current flowing from the battery back to the solar panel
+				- dust, sand, dirt, debris and snow lower output
