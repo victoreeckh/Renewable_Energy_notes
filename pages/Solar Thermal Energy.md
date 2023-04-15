@@ -16,6 +16,7 @@
 			- ![image.png](../assets/image_1681565327214_0.png){:height 203, :width 413}
 				- For absorber (absorber plate): $$\tau=0$$
 			- Collector Aperture Area
+			  collapsed:: true
 				- The aperture area of a (concentrating) solar collector is the area of the
 				  opening into which the insolation passes.
 				- The size of this area does not include any area reduction due to the angle
@@ -33,7 +34,8 @@
 				- coating on inside cover glass to avoid IR transparency
 				- put insulation behind absorber to limit heat loss
 			- Efficiency $$\eta$$
-				- $$
+				- collapsed:: true
+				  $$
 				  \begin{equation*}
 				  \begin{aligned}
 				  \eta &= \frac{Useful\; heat\; recovered}{Incoming\; irradiated\; energy}\\
@@ -49,4 +51,11 @@
 						- Average Fluid temperature: $$T_F$$
 						- incoming radiation ($$W/m^2$$): $$G$$
 					- More losses at higher $$T$$
-				-
+	- #### Other collectors
+		- Evacuated/vacuum collector
+			- vacuum = good thermal insulator
+			- difficult to guarantee vacuum for ≥ 20 years
+			- (+) less losses vs flat plate collector, especially at higher $$T$$
+			- (-) Start at lower $$\eta_0=\alpha\tau$$ (because \tau is smaller)
+		- Heat pipe vacuum collector
+			-
