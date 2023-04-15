@@ -52,10 +52,23 @@
 						- incoming radiation ($$W/m^2$$): $$G$$
 					- More losses at higher $$T$$
 	- #### Other collectors
-		- Evacuated/vacuum collector
+		- ==Evacuated/vacuum collector==
 			- vacuum = good thermal insulator
-			- difficult to guarantee vacuum for ≥ 20 years
+			- (-) difficult to guarantee vacuum for ≥ 20 years
 			- (+) less losses vs flat plate collector, especially at higher $$T$$
 			- (-) Start at lower $$\eta_0=\alpha\tau$$ (because \tau is smaller)
-		- Heat pipe vacuum collector
+		- ==Heat pipe vacuum collector==
+			- Work principle
+				- consists of vacuum tube in which metal tube
+				- inside metal tube fluid with low boiling point: alcohol
+				- upon absorption heat: alcohol evaporates and rises
+				- above: heat exchanger that condenses alcohol
+				- liquid alcohol descends (often through a wick – capillary effect)
+			- Configurations
+				- Vertical (standard)
+				- Tilted
+				- Horizontal
+					- Uses Wick: use capillary forces to create flow
+					- ![image.png](../assets/image_1681570317092_0.png){:height 164, :width 359}
+		- ==Line/Point focus concentrators==
 			-
