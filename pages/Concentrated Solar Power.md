@@ -11,11 +11,15 @@
 				- (+) Simple design (no HT) -> low investment cost
 				- (-) less efficient
 		- Central Receiver or Solar Tower
+			- Use hundreds of thousands small reflectors to concentrate the sun's rays on a central receiver placed atop a fixed tower. Use DSG or molten salts as HT and storage fluid.
+				- (+) High $$T$$ -> High $$\eta$$+low cost of storage
+				- (+) flexible design
 		- Parabolic Trough
 			- Parallel rows of mirrors curved in one dimension to focus the sun's rays. Stainless steel pipes with a selective coating serve as the heat collectors.  Synthetic oil is heat transfer fluid, in the heat exchanger water is superheated that runs the turbine.
 				- (+) mature
 				- (-) no thermal storage
 		- Parabolic Dish
+			- Concentrates the sun's rays at a focal point propped above the centre of the dish. The entire apparatus tracks the sun, with the dish and the receiver moving in tandem. Most dishes have an independent engine.
 	- Classification
 		- Fixed vs mobile
 		- Linear and point focus types
