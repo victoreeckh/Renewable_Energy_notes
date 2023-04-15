@@ -342,14 +342,21 @@
 	- #### Solar
 		- Factors
 			- incident solar irradiance normal to the panel
-				- incident solar irradiance at the surface on a horizontal panel
-					- Formula: $$F_{dirdwn}=cos(\theta_s)\cdot F_{dir}$$
-						- Zenith angle: $$\theta_s$$
-							-
-				- panel orientation
-					-
-				- shading
-				- surface reflection
+				- Formula: $$F_{dirdwn}=cos(\theta_s)\cdot F_{dir}$$
+					- Total downward irradiance $$F_{dir}$$, determined by
+						- solar irradiance at TOA
+						- atmospheric composition (absorption and scattering properties) Much more
+					- Zenith angle: $$\theta_s$$
+						- With: $$cos\theta_s = sin\phi sin\delta +cos\phi cos\delta cosH_a$$
+							- Where: $$H_a = Solar\; Hour$$: Angular displacement of the sun east or west of the local meridian
+				- Be aware of refraction
+			- panel orientation
+				- solar zenith angle must be redefined to angle between direct solar beam and line normal to the panel face
+				  • optimal tilt angle gives greatest annual average incident solar radiation on a panel
+				  • depends on latitude, cloud cover, elevation and air pollution levels
+				  https://www.researchgate.net/figure/A- diagram-illustrating-a-south-facing-solar- panel-PV-module-with-optimum-tilt- angle_fig3_333045245
+			- shading
+			- surface reflection
 			- solar panel efficiency: power output under standard test conditions divided by maximum solar power available
 			- area of the solar panel
 			- correction for cell temperature
