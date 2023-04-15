@@ -26,6 +26,7 @@
 				- large absorption coefficient absorber
 				- small emission coefficient absorber
 					- -> selective absorber: High absorbance for solar and low emittance for infrared-radiation
+					- ![image.png](../assets/image_1681566455595_0.png){:height 221, :width 379}
 				- limitation heat loss to environment through cover
 				- use cover glass with high transmission coefficient
 				- coating on inside cover glass to avoid IR transparency
