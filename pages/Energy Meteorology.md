@@ -341,4 +341,4 @@
 		- Power curve of a wind turbine
 			- ((643810cd-8c26-4ba5-acc9-439669ce56df))
 		- ENOH: $$\frac{\#kWh\; produced}{Installed\; power\; in\; kW}$$
-		-
+	-
