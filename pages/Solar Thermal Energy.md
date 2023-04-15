@@ -65,10 +65,12 @@
 				- above: heat exchanger that condenses alcohol
 				- liquid alcohol descends (often through a wick – capillary effect)
 			- Configurations
+			  collapsed:: true
 				- Vertical (standard)
 				- Tilted
 				- Horizontal
 					- Uses Wick: use capillary forces to create flow
 					- ![image.png](../assets/image_1681570317092_0.png){:height 164, :width 359}
 		- ==Line/Point focus concentrators==
-			-
+	- #### Solar Boiler System
+		-
