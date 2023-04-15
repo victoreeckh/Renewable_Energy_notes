@@ -7,6 +7,9 @@
 - ### CSP Solar Receiver Technologies
 	- Categories
 		- Linear Fresnel Reflector (LFR)
+			- Long rows of flat or slightly curved mirrors (mimic total parabolic shape) to reflect the sun's rays onto a downward-facing linear, fixed receiver
+				- (+) Simple design (no HT) -> low investment cost
+				- (-) less efficient
 		- Central Receiver or Solar Tower
 		- Parabolic Trough
 		- Parabolic Dish
