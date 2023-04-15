@@ -29,14 +29,24 @@
 					- ![image.png](../assets/image_1681566455595_0.png){:height 221, :width 379}
 				- limitation heat loss to environment through cover
 				- use cover glass with high transmission coefficient
+					- Zie sl. 36
 				- coating on inside cover glass to avoid IR transparency
 				- put insulation behind absorber to limit heat loss
 			- Efficiency $$\eta$$
-				- Efficiency: $$
+				- $$
 				  \begin{equation*}
 				  \begin{aligned}
 				  \eta &= \frac{Useful\; heat\; recovered}{Incoming\; irradiated\; energy}\\
-				  &= \eta_
+				  &= \eta_0 - U_0T^*-U_T\cdot (T^*)^2\cdot G\\ 
+				  &= \tau\cdot \alpha- U_0T^*-U_T\cdot (T^*)^2\cdot G
 				  \end{aligned}
-				  \end{equation}
+				  \end{equation*}
 				  $$
+					- Empirical
+					- Effective heat loss coefficients $$U_0,\;U_T$$
+					- Normalized temperature: $$T^* = \frac{T_F-T_0}{G}$$
+						- Temperature environment: $$T_0$$
+						- Average Fluid temperature: $$T_F$$
+						- incoming radiation ($$W/m^2$$): $$G$$
+					- More losses at higher $$T$$
+				-
