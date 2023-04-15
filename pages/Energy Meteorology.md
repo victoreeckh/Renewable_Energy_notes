@@ -1,4 +1,5 @@
 - ### Intro
+  collapsed:: true
 	- Global challenge
 		- Energy security while
 			- Mitigate global warming -> decarbonization
@@ -13,6 +14,7 @@
 		- Biomass: precipitation, temperature, evapotranspiration affect growth
 ### Why, when and where is it windy?
 	- #### General circulation
+	  collapsed:: true
 		- No rotation
 			- convection cells driven by $$T$$ gradient
 		- Rotation
@@ -23,6 +25,7 @@
 				- Forell Cell
 				- Polar cell
 	- #### Geostrophic wind
+	  collapsed:: true
 		- Forces
 			- Pressure gradient force
 				- Acceleration of the air package
@@ -45,7 +48,6 @@
 					- Coriolis parameter $$f$$, varies with latitude
 				- geostrophic wind blows parallel to the isobars: low-pressure on the left
 				- large PGF (isobars or contour lines tightly packed together)-> large COR ->large Vg
-		-
 		- Pressure systems
 			- NH
 				- L -> cyclonic (=direction same as the rotation of the earth)
@@ -54,6 +56,7 @@
 				- L -> anticyclonic
 				- R -> cyclonic
 	- #### Accounting for Centripetal force
+	  collapsed:: true
 		- Centripetal force: *The force that maintains the circular motion of the object. $$F_{ctp}$$ is directed inwards.*
 			- Accounting for the rotation of the flow
 			- In order for the object to deviate from that straight line, a force is needed.
@@ -76,6 +79,7 @@
 			  $$
 			- ->super geostrophic, thus higher windspeed
 	- #### Effect of altitude
+	  collapsed:: true
 		- Jet stream
 			- Horizontal (not in vertical height direction) pressure gradient:
 				- caused by temperature difference between cold polar air and warmer subtropical air
@@ -90,20 +94,23 @@
 					- Vice versa
 					- Rises to higher altitudes -> region of divergence -> lower speed and higher pressure (in the stream) -> but creates low pressure system
 	- #### Answer: Where is it windy?
+	  collapsed:: true
 		- Three cells and jet streams determine wind climate
 		- Low near equator
 		- Higher at jet streams
 ### What is the effect of the earth's surface on the wind?
 	- #### Atmospheric Boundary Layer (ABL)
 		- **Definiton**
+		  collapsed:: true
 			- = *lowest part of the atmosphere that is directly influenced by the surface*
 			- = Planetary boundary layer (PBL)
 			- depth can vary from a few 100m to several km depending on time of day, season, and weather conditions
 		- **Stratification**
+		  collapsed:: true
 			- = Temperature height relation
 			- Thermal stability
 				- dry-adiabatic processes: temperature of parcel decreases with a fixed rate per unit height; potential temperature is constant with height
-					- Dry-> condensation
+					- Dry-> no condensation
 					- Adiabatic -> no heat exchange
 				- Stable stratification
 					- surpresses vertical motions
@@ -114,6 +121,7 @@
 				- -> Stability is property of environmental air
 			- virtual temperature: temperature that dry dry air would have if its pressure and density were equal to those of a given sample of moist air
 		- **Modeling vertical ABL profiel - Inner layer**
+		  collapsed:: true
 			- inner layer: viscous shear dominates
 			- outer layer: large scale turbulent eddy shear dominates
 			- Assumptions
@@ -135,6 +143,7 @@
 						- Zie slides voor: $$\psi(\frac{z}{L})$$
 			-
 	- #### Wind: impact of drag
+	  collapsed:: true
 		- near surface
 		- Now four forces need to be balanced
 		- Drag force always opposite to wind speed
@@ -145,6 +154,7 @@
 			- L: extra inward component because of drag
 ### Why, when and where is it sunny?
 	- #### Top of the atmosphere
+	  collapsed:: true
 		- ==Solid angle==
 			- Incremental solid angle is the incremental surface area on a unit sphere.
 			- Formlula: $$\Omega = \int_0^{2\pi}\int_0^{\pi}sin(\theta)d\theta d\phi=4\pi$$ (area of a sphere with $$r=1$$)
@@ -159,6 +169,7 @@
 				- Stefan Boltzmann law: The total power flux from any object: integrating over the spectral irradiance
 				- total energy per unit time passing through a concentric sphere any distance from the photosphere equals that originally emitted by the spherical photosphere: $$4\pi R^2_{es}F_e=4\pi R^2_{p}F_p\Rightarrow F_e =1365W/m^2$$
 	- #### Surface
+	  collapsed:: true
 		- Irradiance on surface dependent on amount of scattering and absorption
 			- Which is determined by:
 				- Aerosols
@@ -190,6 +201,7 @@
 						- most scattering in the forward and backward direction
 						- Wavelength dependent
 							- *Why is the sky blue?*
+							  collapsed:: true
 								- Solar radiation scattered on gas (air) molecules -> rayleigh scattering which is wavelength dependent, preferable for shorter wavelengths of which we can only visibly see the blue color
 					- Mie scattering
 						- Particles (aerosol and hydrometeor)
@@ -199,6 +211,7 @@
 						- Less wavelength dependent
 - ### Measurements
 	- #### How is wind measured?
+	  collapsed:: true
 		- General
 			- Anemometer: device to measure wind speed (and direction)
 		- In situ observations
@@ -231,6 +244,7 @@
 					- physical relationship between radar signal and the wind stress (friction velocity)
 					- 10 m wind is derived
 	- #### How is Solar radiation measured?
+	  collapsed:: true
 		- Types
 			- ==Pyranometer==
 				- Measures global (direct and the diffuse) irradiance
@@ -251,6 +265,7 @@
 			- ==Skyscanner==
 				- Image of the sky to assess effect of clouds
 - ### Atmospheric Modelling
+  collapsed:: true
 	- Nowcasts (several hours)
 		- relies heavily on detailed knowledge of current state of atmosphere (weather systems) using extrapolation techniques (mostly not physically based)
 	- Weather Forecasts (several days)
@@ -287,6 +302,7 @@
 		- are made with coupled atmosphere-ocean models, with the atmospheric model being similar to the one used for numerical weather prediction
 - ### Resource Assesment
 	- #### wind
+	  collapsed:: true
 		- Essence: $$P_{elec}=P_{rated}\cdot Capacity\; Factor$$
 			- And, $$Capacity\; Factor = Windspeed\; probability\; density\; function \times Power\; curve$$
 		- Probability density function
@@ -311,6 +327,7 @@
 			- ((643810cd-8c26-4ba5-acc9-439669ce56df))
 		- ENOH: $$\frac{\#kWh\; produced}{Installed\; power\; in\; kW}$$
 	- #### Solar
+	  collapsed:: true
 		- Factors
 			- incident solar irradiance normal to the panel
 				- Formula: $$F_{dirdwn}=cos(\theta_s)\cdot F_{dir}$$
