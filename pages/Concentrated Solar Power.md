@@ -12,6 +12,9 @@
 				- (-) less efficient
 		- Central Receiver or Solar Tower
 		- Parabolic Trough
+			- Parallel rows of mirrors curved in one dimension to focus the sun's rays. Stainless steel pipes with a selective coating serve as the heat collectors.  Synthetic oil is heat transfer fluid, in the heat exchanger water is superheated that runs the turbine.
+				- (+) mature
+				- (-) no thermal storage
 		- Parabolic Dish
 	- Classification
 		- Fixed vs mobile
