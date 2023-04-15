@@ -25,6 +25,7 @@
 			- Guidelines for maximal yield:
 				- large absorption coefficient absorber
 				- small emission coefficient absorber
+					- -> selective absorber: High absorbance for solar and low emittance for infrared-radiation
 				- limitation heat loss to environment through cover
 				- use cover glass with high transmission coefficient
 				- coating on inside cover glass to avoid IR transparency
