@@ -1,0 +1,3 @@
+- ### Direct Normal Irradiance - DNI
+	- DNI = *incoming radiation energy per m2 orthogonal to rays, per year*
+	-

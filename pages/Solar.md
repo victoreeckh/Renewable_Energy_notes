@@ -1,1 +1,2 @@
 - ### [[Solar Thermal Energy]]
+- ### [[Concentrated Solar Power]]
