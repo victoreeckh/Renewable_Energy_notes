@@ -41,7 +41,16 @@
 	- Thermodynamic Cycle
 		- CSP Rankine Steam Cycle
 		- ![image.png](../assets/image_1681592025230_0.png){:height 270, :width 503}
-		- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from
+		- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from the cold tank to the hot tank. When needed, the heat from the hot tank can be returned to the heat transfer fluid and sent to the steam generator.
+		- Regimes
+			- Warm-up
+				- e.g. morning
+			- Charging Thermal Energy storage
+				- No demand yet
+			- Electric Power Generation
+			- Chage TES & Power Generation
+			- Power Generation from TES
+				- Still generation when no Solar energy available anymore
 	-
 	-
 	-
