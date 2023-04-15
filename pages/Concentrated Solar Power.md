@@ -30,7 +30,15 @@
 	- ![image.png](../assets/image_1681590089046_0.png)
 	- Efficiency
 		- Thermodynamic Cycle
+			- Limited by $$\eta_{carnot}$$
+			- With $$\eta_{carnot}\nearrow\; \leftarrow T \nearrow$$
+		- Capture efficiency $$\eta_{capt}$$
+			- Decreases with $$T$$
+			- Decreases steeper for linear than for point focus
+			- Increases with $$\alpha_c$$
+				- Concentration ratio $$\alpha_c$$: ratio of the radiant power density at the receiver divided by the radiant power density of the sun without any concentration
 			-
+	-
 	-
 	-
 	-
