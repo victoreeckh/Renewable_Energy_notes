@@ -1,3 +1,19 @@
 - ### Direct Normal Irradiance - DNI
-	- DNI = *incoming radiation energy per m2 orthogonal to rays, per year*
+	- DNI = *incoming radiation energy per m^2 orthogonal to rays, per year*
+	- Hotspots
+		- MENA
+		- (less) Southern EU
+		- (Even less in) Middle EU countries
+- ### CSP Solar Receiver Technologies
+	- Categories
+		- Linear Fresnel Reflector (LFR)
+		- Central Receiver or Solar Tower
+		- Parabolic Trough
+		- Parabolic Dish
+	- Classification
+		- Fixed vs mobile
+		- Linear and point focus types
+	- ![image.png](../assets/image_1681587061626_0.png){:height 281, :width 507}
+	-
+	-
 	-
