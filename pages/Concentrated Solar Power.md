@@ -26,6 +26,11 @@
 		- Fixed vs mobile
 		- Linear and point focus types
 	- ![image.png](../assets/image_1681587061626_0.png){:height 281, :width 507}
+- ### CSP conversion technologies
+	- ![image.png](../assets/image_1681590089046_0.png)
+	- Efficiency
+		- Thermodynamic Cycle
+			-
 	-
 	-
 	-
