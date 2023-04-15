@@ -1,4 +1,5 @@
 - ### Introduction
+  collapsed:: true
 	- Solar thermal collectors
 	- Solar Irradiance
 		- Characteristic figures
@@ -10,8 +11,5 @@
 					- => Acceptable orientation: SW-SE
 					- => optimal inclination: $$\sim 20^{\circ}-50^{\circ}$$
 - ### Working principle Solar Boiler
-	-
-	-
-	-
-	-
-	-
+	- #### Flat plate collector
+		-
