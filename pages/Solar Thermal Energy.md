@@ -73,4 +73,11 @@
 					- ![image.png](../assets/image_1681570317092_0.png){:height 164, :width 359}
 		- ==Line/Point focus concentrators==
 	- #### Solar Boiler System
-		-
+		- ![image.png](../assets/image_1681571590444_0.png){:height 228, :width 395}
+		- Control
+			- Measurements
+				- in tank
+				- Collector output
+				- at user point
+			- Control flow
+				- If
