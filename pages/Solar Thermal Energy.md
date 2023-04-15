@@ -1,2 +1,10 @@
-- ### Introduction -Solar Irradiance
+- ### Introduction
+	- Solar thermal collectors
+	- Solar Irradiance
+		- Characteristic figures
+			- Solar Constant: $$G_{sc}=1.367kW/m^2$$
+			- Solar radiation intensity in Belgium at earth surface: $$\sim 1kW/m^2$$
+			- annual irradiated solar energy density (in Belgium ~1000 hrs sunshine): $$\sim 1000kWh_{th}/m^2a$$
+			- Annual average yield of collector at optimal inclination and orientation: $$\sim 375 kWh_{th}/m^2a$$
+			-
 	-
