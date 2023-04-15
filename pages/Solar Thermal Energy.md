@@ -12,4 +12,20 @@
 					- => optimal inclination: $$\sim 20^{\circ}-50^{\circ}$$
 - ### Working principle Solar Boiler
 	- #### Flat plate collector
-		-
+		- Structure
+			- ![image.png](../assets/image_1681565327214_0.png){:height 203, :width 413}
+				- For absorber (absorber plate): $$\tau=0$$
+			- Collector Aperture Area
+				- The aperture area of a (concentrating) solar collector is the area of the
+				  opening into which the insolation passes.
+				- The size of this area does not include any area reduction due to the angle
+				  of incidence effects or shadowing.
+				- After passing through the aperture, the insolation may be absorbed.
+		- Energy yield
+			- Guidelines for maximal yield:
+				- large absorption coefficient absorber
+				- small emission coefficient absorber
+				- limitation heat loss to environment through cover
+				- use cover glass with high transmission coefficient
+				- coating on inside cover glass to avoid IR transparency
+				- put insulation behind absorber to limit heat loss
