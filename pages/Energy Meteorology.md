@@ -352,10 +352,13 @@
 				- Be aware of refraction
 			- panel orientation
 				- solar zenith angle must be redefined to angle between direct solar beam and line normal to the panel face
-				  • optimal tilt angle gives greatest annual average incident solar radiation on a panel
-				  • depends on latitude, cloud cover, elevation and air pollution levels
-				  https://www.researchgate.net/figure/A- diagram-illustrating-a-south-facing-solar- panel-PV-module-with-optimum-tilt- angle_fig3_333045245
+				- optimal tilt angle gives greatest annual average incident solar radiation on a panel
+				- depends on latitude, cloud cover, elevation and air pollution levels
 			- shading
+				- shading derate correction factors decreases with
+					- ground cover ratio
+						- GCR = $$\frac{panel\; collector\; area}{Total\; ground\; cover\; area\; per\; panel}$$
+					- tilt
 			- surface reflection
 			- solar panel efficiency: power output under standard test conditions divided by maximum solar power available
 			- area of the solar panel
