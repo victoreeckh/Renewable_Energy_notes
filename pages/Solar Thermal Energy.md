@@ -122,6 +122,9 @@
 				- architects, plumbers,... “installers/contractors”, dealers ...
 		- Considerations
 			- -> subsidizing perhaps necessary to break economic cycle
-				- (+) avoided CO2 emissions
-				- (-) but also CO and other pollutants
-			-
+				- (+) avoided CO2 emissions and CO and other pollutants
+			- better insulation and air-tightness of buildings -> less energy needed
+			- more efficient central heating systems – to be evaluated
+			  (e.g. ~~condensing gas boilers~~ heat pumps...)
+			- collective approaches
+				- Divide capex
