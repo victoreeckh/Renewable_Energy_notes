@@ -102,4 +102,11 @@
 	- If you account for the present value of the investment
 		- Not able to regain investment, classic boiler is still more interesting
 		- However gas prices can be higher
+	- Potential in Belgium
+		- SIC has not really decreased (as opposed to PV) and limited subsidies
+		- Energy yield is higher but SIC of PV is lower
+			- -> kWh cost is similar, but $$kWh_t<kWh_{el}$$ -> PV is preferable to cover roof area
+			- be aware of temporal mismatch between PV generation and HP use -> (seasonal) storage in between needed
+				- P from PV in summer but less heating needed, while heating needed in winter but less P from PV a
+				- Look at other synergies: energy communities, cool data centers
 	-
