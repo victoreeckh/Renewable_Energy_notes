@@ -1,5 +1,6 @@
 - ### Intro
 	- #### Energy Storage
+	  collapsed:: true
 		- Increased importance
 			- the growing share of renewable energy sources
 				- Why renewables?
@@ -24,21 +25,25 @@
 	- #### TES
 		- *TES is a technology that stores thermal energy by heating or cooling a storage medium so that the stored energy can be used later for heating and cooling applications or power generation*
 		- Offers flexiblity
+		  collapsed:: true
 			- Demand shifting
 			- Variable supply integration
 			- Sector integration
 			- Network management
 			- Seasonal storage
 		- Sectors
+		  collapsed:: true
 			- Power
 			- Buildings
 			- District heating and cooling
 			- Cold chain
 			- Industry
 		- Energy density
+		  collapsed:: true
 			- TCM (thermochemical materials)> PCM (phase changing materials)> water
 		- TES selection
 			- Parameters
+			  collapsed:: true
 				- Temperature range
 				- Storage density (space limited?)
 				- Long versus short term
@@ -51,6 +56,7 @@
 						- sorption is applied
 						- chemical reaction in demonstration phase
 			- Selection
+			  collapsed:: true
 				- ![image.png](../assets/image_1681635599138_0.png)
 					- Sensible:
 						- Water
@@ -59,4 +65,5 @@
 					- PCM
 					- TCM
 - ### TES - Sensible Storage
-	-
+	- General
+		- Heat is stored as internal energy, in the temperature increase of a medium (usually liquid or solid):
