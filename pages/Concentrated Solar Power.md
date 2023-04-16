@@ -91,5 +91,9 @@
 		- CSP costs fell 50% from 2010-2020
 			- CSP facilities with thermal energy storage co-located with solar PV
 - ### Prospects for CSP
-	-
+	- Growth of dispatchable renewables slows with 5%
+		- Beacause of wind, PV competition
+	- Less than 3GW to be commissioned by 2026
+	- No visible share in projected renewables
+	- To achieve NZE targets, requires increased ambitions for all renewables
 	-
