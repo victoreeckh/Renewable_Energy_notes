@@ -74,4 +74,27 @@
 		- Considerable self discharge (heat losses) à insulation needed if high T or long storage times
 	- Materials
 		- Low cost:
-			-
+			- Water: best choice in T range 20-80°C
+			- Solid state: soil, rocks
+		- Higher cost:
+			- Oil: for higher temperatures
+			- Salt solutions (brines):when old salt mines (caverns) are used as storage tanks and flooded
+			- Blocks or plates of different solid materials (graphite, concrete, iron, iron oxide ...)
+			- Molten salts
+	- Types
+		- Water
+			- Characteristics
+				- the best choice in T range 20-80°C
+				- High thermal capacity (4.2kJ/kgK)
+				- Low cost
+				- Limited temperature range, but appropriate for building applications and for connection with solar thermal
+				- High convective heat transfer rate
+					- High heat injection and extraction rates
+					- Makes stratification more difficult (because of mixing)
+			- Configurations
+				- ==Water tanks== (TTES)
+					- Immersed coil heat exchanger
+					- External (side-arm) heat exchanger
+					- Mantle heat exchanger
+				- ==Aquifer== (ATES)
+				- ==Solar Ponds==
