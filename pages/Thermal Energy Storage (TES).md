@@ -222,5 +222,35 @@
 				- Applications where colder temperatures are required than standard space cooling, e.g. for refrigeration in the cold chain
 			- Low-T PCM (0°C up to 120°C)
 				- used in buildings, integrated in domestic heating and airco systems
-				-
+				- Ice
+				  collapsed:: true
+					- has excellent material properties for cold storage at 0°C
+						- High heat of fusion (334 kJ/kg), low physical footprint
+						- Good heat capacity (4.2 kJ/kg K)
+						- Non-corrosive behaviour
+						- Readily available and inexpensive
+						- Commercially available for buildings and district cooling systems
+						- Bulk ice storage or ice-on-coil storage
+				- Paraffin waxes
+				  collapsed:: true
+					- versatile
+					- stable chemical properties (non-toxic and non-corrosive)
+					- moderate flammability, which limits their application
+					- low cost
+					- moderate latent heat (around 200 kJ/kg)
+					- wide range of melting temperatures
+					- low thermal conductivity (0.2 W/m K) à high thermal conductivity particles and fillers such as graphite or metal can be added
+				- inorganic salt hydrates (e.g. strontium bromide)
+				  collapsed:: true
+					- commercialized for domestic heating
 			- High-T PCM (150°C up to 800°C)
+				- Binary and ternary mixtures of inorganic salts: carbonate, nitrate, chloride and sulphate salts of alkali and alkaline metals
+				  collapsed:: true
+					- Chemically stable
+					- Optimal performance in a broad T range
+					- High storage density
+					- Corrosive
+					- Cycling stability? Phase separation/segregation
+					- Subcooling
+					- Low thermal conductivity, which limits charging/discharging rates
+					- If porous supporting materials incorporated -> HT-cPCMs
