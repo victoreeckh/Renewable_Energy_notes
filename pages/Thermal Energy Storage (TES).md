@@ -178,3 +178,4 @@
 			- Use is limited to highly controlled environments where high temperatures are required
 			- Applications in power sector
 				- in combination with CSP: heat can be stored during the day and discharged at night to drive a turbine and maintain continuous electricity production
+		-
