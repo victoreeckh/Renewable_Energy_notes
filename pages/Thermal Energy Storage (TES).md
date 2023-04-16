@@ -65,7 +65,7 @@
 					- PCM
 					- TCM
 - ### TES - Sensible Storage
-	- General
+	- **General**
 	  collapsed:: true
 		- Heat is stored as internal energy, in the temperature increase of a medium (usually liquid or solid): $$Q = m\int_{T_1}^{T_2}c_p(T)dT$$
 		- Temperature difference ($$\Delta T$$) drives the heat transfer; $$\Delta T$$ decreases while charging/discharging
@@ -73,7 +73,7 @@
 		- Power density can be limited by low thermal conductivity (solid) or low convective heat transfer rates (liquid) of some storage materials
 		- State-of-the-art: well demonstrated, clearly understood, reliable, widely used, cheap
 		- Considerable self discharge (heat losses) à insulation needed if high T or long storage times
-	- Materials
+	- **Materials**
 		- Low cost:
 		  collapsed:: true
 			- Water: best choice in T range 20-80°C
@@ -83,7 +83,7 @@
 			- Salt solutions (brines):when old salt mines (caverns) are used as storage tanks and flooded
 			- Blocks or plates of different solid materials (graphite, concrete, iron, iron oxide ...)
 			- Molten salts
-	- Types
+	- **Types**
 		- Water
 			- Characteristics
 			  collapsed:: true
@@ -162,7 +162,7 @@
 							- Heating: high source temperature (ground) and low emission temperature (TABS) => high HP performance
 							- Cooling: cold directly available in ground and high emission temperature (TABS) => passive cooling
 						- GEO-HP + TABS: energy saving potential of 20-70%
-		- Thermal Oil
+		- ==Thermal Oil==
 			- Used at higher temperatures (compared to water), typically till 350°C
 			- Types
 				- Derivates of natural oil: mineral oil
@@ -171,11 +171,15 @@
 			- Mainly used in:
 				- Process industry (to replace steam)
 				- Thermal solar plants (thermal oil often replaced by molten salt for even higher temperatures to drive Rankine cycle)
-		- Molten Salt
+		- ==Molten Salt==
 			- Inorganic chemical compounds, maintained at temperatures above their melting points so that they are in liquid form
 			- Used for the storage of high-grade heat
 			- Vulnerable to solidifying -> can cause considerable damage to auxiliary equipment
 			- Use is limited to highly controlled environments where high temperatures are required
 			- Applications in power sector
 				- in combination with CSP: heat can be stored during the day and discharged at night to drive a turbine and maintain continuous electricity production
+	- **Stratification**
+		- *stratification refers to the separation of hot and cold fluids in a storage tank. This separation occurs due to differences in fluid density caused by temperature variations*
+		- Allows increase of energy quality (exergy) within a store
+			- Easier to store collected heat
 		-
