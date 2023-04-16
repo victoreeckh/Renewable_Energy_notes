@@ -180,6 +180,25 @@
 				- in combination with CSP: heat can be stored during the day and discharged at night to drive a turbine and maintain continuous electricity production
 	- **Stratification**
 		- *stratification refers to the separation of hot and cold fluids in a storage tank. This separation occurs due to differences in fluid density caused by temperature variations*
-		- Allows increase of energy quality (exergy) within a store
-			- Easier to store collected heat
-		-
+		- CBA
+			- (+) Allows increase of energy quality (exergy) within a store
+			- (+) Easier to store collected heat
+			- Highly stratified
+				- (+) Continuous possibilities to transfer heat to the cooler regions of an almost fully charged store
+				- (+) Proper energy quality being available from warmer regions of almost discharged store
+			- Fully mixed tank
+				- (-) Difficult to inject heat in the tank when it is almost charged
+				- (-) Difficult to obtain much use from lower quality heat when the system is almost discharged
+		- How to increase stratification?
+			- Baffles or stratifiers to reduce mixing
+			- Shape of store (increasing aspect ratio H/D)
+			- Fluid inlets and outlets, variable position inlets
+			- Water flow rate
+			- Segmentation of storage system
+	- **Self discharge**
+		- *Higher Heat Losses as a result of large volume and high temperature at full charge*
+		- (-) Less stratification, caused by more natural convection
+		- How to decreases self discharge
+			- Insulated or burried (pit storage)
+			- Geometries with low surface over volume ratios
+			- Condensation in the tank insulation may be a problem for buried tanks
