@@ -137,5 +137,19 @@
 				- (+)Simple, relatively cheap, scalable
 				- Air based systems: low energy density (3 times more space needed compared to water but economically favourable for short-term storage)
 			- Configurations
-				- Ground (soil or solid rock), closed system
-					-
+				- ==Ground== (soil or solid rock), closed system
+					- Low-cost system since soil is free, however drilling is expensive (21-24% of total storage system cost)
+					- Ground is drilled to insert tubes (vertical or horizontal), in which a heat transport fluid circulates, injecting/extracting heat in/from the ground
+					- Energy piles can also be integrated in foundation
+					- Thermal energy storage versus energy dissipation: depends on thermal conductivity and groundwater flow, storage efficiency is rather low
+					- Usually connected with a heatpump (for heating) and heat exchanger (for direct cooling)
+				- Concrete Core Activation (CCA)
+					- ==Thermally Activated Building Systems== (TABS)
+						- Concrete floors/ceilings of a building are activated by embedding water tubes in the concrete and forcing warm/cold water through the tubes
+						  id:: 643bcabb-2ed8-4a14-9a5b-292ab4abac4e
+						- High temperature cooling and low temperature heating
+						- Thermal capacity of concrete presents storage capacity
+						  (thermal inertia, large time constant)
+						- Difficult to control since heat/cold transfer to building
+						  rooms is governed by $$\Delta T$$
+						- Self regulating effects
