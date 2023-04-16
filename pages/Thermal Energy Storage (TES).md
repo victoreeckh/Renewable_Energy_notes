@@ -1,5 +1,5 @@
 - ### Intro
-	- Energy Storage
+	- #### Energy Storage
 		- Increased importance
 			- the growing share of renewable energy sources
 				- Why renewables?
@@ -21,7 +21,7 @@
 			- TES
 			- Electrical Energy Storage (EES)
 			- Power-to-Heat, Power-to-Cold + TES
-	- TES
+	- #### TES
 		- *TES is a technology that stores thermal energy by heating or cooling a storage medium so that the stored energy can be used later for heating and cooling applications or power generation*
 		- Offers flexiblity
 			- Demand shifting
@@ -36,4 +36,17 @@
 			- Cold chain
 			- Industry
 		- Energy density
-			- TCM > PCM > water
+			- TCM (thermochemical materials)> PCM (phase changing materials)> water
+		- TES selection
+			- Temperature range
+			- Storage density (space limited?)
+			- Long versus short term
+			- Application scale: decentralized versus centralized
+			- Cost
+			- Applicability – market readiness
+				- Sensible: fully developed
+				- Latent: improvements in thermal conductivity still needed
+				- Thermochemical:
+					- sorption is applied
+					- chemical reaction in demonstration phase
+		-
