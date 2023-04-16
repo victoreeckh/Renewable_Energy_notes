@@ -96,4 +96,15 @@
 	- Less than 3GW to be commissioned by 2026
 	- No visible share in projected renewables
 	- To achieve NZE targets, requires increased ambitions for all renewables
-	-
+		- Only small share of CSP in 2050
+	- CSP has after all not materialized on expectations
+- ### Vision
+- ### Conclusion
+	- Long term future of CSP is difficult to predict
+	- PV solar+batteries have become very cheap
+	- PV+batteries seem to win the competition
+	- Success of CSP depends on:
+		- Need for longer-term storage in very sunny regions ??
+		- Degree of success of sector coupling to balance supply and demand
+	- CSP looks nice, but may remain a distant dream
+-
