@@ -38,15 +38,25 @@
 		- Energy density
 			- TCM (thermochemical materials)> PCM (phase changing materials)> water
 		- TES selection
-			- Temperature range
-			- Storage density (space limited?)
-			- Long versus short term
-			- Application scale: decentralized versus centralized
-			- Cost
-			- Applicability – market readiness
-				- Sensible: fully developed
-				- Latent: improvements in thermal conductivity still needed
-				- Thermochemical:
-					- sorption is applied
-					- chemical reaction in demonstration phase
-		-
+			- Parameters
+				- Temperature range
+				- Storage density (space limited?)
+				- Long versus short term
+				- Application scale: decentralized versus centralized
+				- Cost
+				- Applicability – market readiness
+					- Sensible: fully developed
+					- Latent: improvements in thermal conductivity still needed
+					- Thermochemical:
+						- sorption is applied
+						- chemical reaction in demonstration phase
+			- Selection
+				- ![image.png](../assets/image_1681635599138_0.png)
+					- Sensible:
+						- Water
+							- Highest Energy density/heat capacity
+							- with $$T \in [0,100]^{\circ}C$$
+					- PCM
+					- TCM
+- ### TES - Sensible Storage
+	-
