@@ -72,3 +72,5 @@
 			  id:: 643b9f91-36a2-4a85-b4df-56a1c275b319
 		- Peak load
 			- need for large energy storage and large power turbine. Aims to generate a lot of electrical power when peak-load prices are high
+- ### Cost
+	-
