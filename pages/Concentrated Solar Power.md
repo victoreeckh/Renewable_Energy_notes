@@ -65,4 +65,10 @@
 			- Set up of a solar-driven gas turbine complemented with a steam cycle (CCGT)
 			- Combustion chamber replaced by Futuristic receiver/duct burner?
 - ### Storage
-	-
+	- Different uses
+		- Delayed intermediate load
+		- Base load
+			- need for large energy storage and small power turbine.
+			  id:: 643b9f91-36a2-4a85-b4df-56a1c275b319
+		- Peak load
+			- need for large energy storage and large power turbine. Aims to generate a lot of electrical power when peak-load prices are high
