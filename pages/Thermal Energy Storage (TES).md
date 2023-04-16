@@ -86,15 +86,22 @@
 			- Characteristics
 				- the best choice in T range 20-80°C
 				- High thermal capacity (4.2kJ/kgK)
-				- Low cost
-				- Limited temperature range, but appropriate for building applications and for connection with solar thermal
+				- (-) Low cost
+				- (-) Limited temperature range, but appropriate for building applications and for connection with solar thermal
 				- High convective heat transfer rate
 					- High heat injection and extraction rates
 					- Makes stratification more difficult (because of mixing)
 			- Configurations
 				- ==Water tanks== (TTES)
 					- Immersed coil heat exchanger
+						- Generally located at bottom of tank (profit from high $$\Delta T$$, HT easier when $$\Delta T$$ is higher)
+						- Mixed tank (not stratified)
 					- External (side-arm) heat exchanger
+						- Natural convection HEx to eliminate a circulation pump
+						- Potential for increasing thermal stratification in tank
 					- Mantle heat exchanger
+						- Double walled storage tank, heat transfer fluid circulated through the storage mantle
+						- Large heat transfer surface area
+						- More costly
 				- ==Aquifer== (ATES)
 				- ==Solar Ponds==
