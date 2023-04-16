@@ -104,4 +104,10 @@
 						- Large heat transfer surface area
 						- More costly
 				- ==Aquifer== (ATES)
+					- Working
+						- Wells are used to carry (ground) water to/from the aquifer, allowing transport of heat
+						- Cold and warm wells (distance 50-250m)
+					- Characteristics
+						- Potential for economical large scale and long term (seasonal) storage
+						- Amount of energy stored depends on allowable temperature change, thermal conductivity, natural ground water flow
 				- ==Solar Ponds==
