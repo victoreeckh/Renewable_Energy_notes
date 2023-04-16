@@ -66,4 +66,12 @@
 					- TCM
 - ### TES - Sensible Storage
 	- General
-		- Heat is stored as internal energy, in the temperature increase of a medium (usually liquid or solid):
+		- Heat is stored as internal energy, in the temperature increase of a medium (usually liquid or solid): $$Q = m\int_{T_1}^{T_2}c_p(T)dT$$
+		- Temperature difference ($$\Delta T$$) drives the heat transfer; $$\Delta T$$ decreases while charging/discharging
+		- Low energy storage density (large physical footprint); volumetric thermal capacity ($$c_p\rho$$) is important if space limitations
+		- Power density can be limited by low thermal conductivity (solid) or low convective heat transfer rates (liquid) of some storage materials
+		- State-of-the-art: well demonstrated, clearly understood, reliable, widely used, cheap
+		- Considerable self discharge (heat losses) à insulation needed if high T or long storage times
+	- Materials
+		- Low cost:
+			-
