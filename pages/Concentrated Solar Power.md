@@ -59,7 +59,10 @@
 					- Still generation when no Solar energy available anymore
 		- CSP Brayton Cycle
 		- Integrated Solar Combined Cycle
+			- ![image.png](../assets/image_1681628223818_0.png){:height 215, :width 394}
 			- Example of a hybrid concept, the combination of solar heat to vaporize the feedwater after the preheating in the Heat Recovery Steam Generator
-	-
-	-
+		- Solar-Driven Gas Turbine Combined Cycle (SD-GTCC)
+			- Set up of a solar-driven gas turbine complemented with a steam cycle (CCGT)
+			- Combustion chamber replaced by Futuristic receiver/duct burner?
+- ### Storage
 	-
