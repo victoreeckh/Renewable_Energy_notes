@@ -66,6 +66,7 @@
 					- TCM
 - ### TES - Sensible Storage
 	- General
+	  collapsed:: true
 		- Heat is stored as internal energy, in the temperature increase of a medium (usually liquid or solid): $$Q = m\int_{T_1}^{T_2}c_p(T)dT$$
 		- Temperature difference ($$\Delta T$$) drives the heat transfer; $$\Delta T$$ decreases while charging/discharging
 		- Low energy storage density (large physical footprint); volumetric thermal capacity ($$c_p\rho$$) is important if space limitations
@@ -74,9 +75,11 @@
 		- Considerable self discharge (heat losses) à insulation needed if high T or long storage times
 	- Materials
 		- Low cost:
+		  collapsed:: true
 			- Water: best choice in T range 20-80°C
 			- Solid state: soil, rocks
 		- Higher cost:
+		  collapsed:: true
 			- Oil: for higher temperatures
 			- Salt solutions (brines):when old salt mines (caverns) are used as storage tanks and flooded
 			- Blocks or plates of different solid materials (graphite, concrete, iron, iron oxide ...)
