@@ -84,6 +84,7 @@
 	- Types
 		- Water
 			- Characteristics
+			  collapsed:: true
 				- the best choice in T range 20-80°C
 				- High thermal capacity (4.2kJ/kgK)
 				- (-) Low cost
@@ -94,20 +95,36 @@
 			- Configurations
 				- ==Water tanks== (TTES)
 					- Immersed coil heat exchanger
+					  collapsed:: true
 						- Generally located at bottom of tank (profit from high $$\Delta T$$, HT easier when $$\Delta T$$ is higher)
 						- Mixed tank (not stratified)
 					- External (side-arm) heat exchanger
+					  collapsed:: true
 						- Natural convection HEx to eliminate a circulation pump
 						- Potential for increasing thermal stratification in tank
 					- Mantle heat exchanger
+					  collapsed:: true
 						- Double walled storage tank, heat transfer fluid circulated through the storage mantle
 						- Large heat transfer surface area
 						- More costly
 				- ==Aquifer== (ATES)
 					- Working
+					  collapsed:: true
 						- Wells are used to carry (ground) water to/from the aquifer, allowing transport of heat
 						- Cold and warm wells (distance 50-250m)
 					- Characteristics
+					  collapsed:: true
 						- Potential for economical large scale and long term (seasonal) storage
 						- Amount of energy stored depends on allowable temperature change, thermal conductivity, natural ground water flow
 				- ==Solar Ponds==
+					- Surface water (ponds or lakes) used to collect and store solar heat, with very little losses
+					- As a result of the fact that Solar ponds contain salt solutions
+					  collapsed:: true
+						- Salinity gradient results in higher salt concentrations (and thus
+						  higher density) at the bottom
+						- Heat absorbed at the bottom remains trapped there
+						- Salinity gradient inhibits natural convection and the cooler water at the surface acts as an insulator
+						- Economically attractive in regions with little snow fall and areas where land is readily available
+						- Maintenance similar to that of a swimming pool, control of algae and bacteria growth
+		- Solid State
+			-
