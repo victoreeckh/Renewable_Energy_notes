@@ -127,4 +127,15 @@
 						- Economically attractive in regions with little snow fall and areas where land is readily available
 						- Maintenance similar to that of a swimming pool, control of algae and bacteria growth
 		- Solid State
-			-
+			- Characteristics
+				- Working
+					- Heat transport fluid (water, air) circulated through a bed of solid material, discharging/charging heat
+				- Considered for seasonal storage when geological conditions favour this type of system
+				- Materials:
+					- ceramic bricks, beds of rock or concrete, for higher T refractory bricks based on oxides, carbonates and their mixtures
+				- Lower thermal capacity than water, but can easily operate at higher temperatures
+				- (+)Simple, relatively cheap, scalable
+				- Air based systems: low energy density (3 times more space needed compared to water but economically favourable for short-term storage)
+			- Configurations
+				- Ground (soil or solid rock), closed system
+					-
