@@ -128,6 +128,7 @@
 						- Maintenance similar to that of a swimming pool, control of algae and bacteria growth
 		- Solid State
 			- Characteristics
+			  collapsed:: true
 				- Working
 					- Heat transport fluid (water, air) circulated through a bed of solid material, discharging/charging heat
 				- Considered for seasonal storage when geological conditions favour this type of system
@@ -147,9 +148,15 @@
 					- ==Thermally Activated Building Systems== (TABS)
 						- Concrete floors/ceilings of a building are activated by embedding water tubes in the concrete and forcing warm/cold water through the tubes
 						  id:: 643bcabb-2ed8-4a14-9a5b-292ab4abac4e
-						- High temperature cooling and low temperature heating
+						- High temperature cooling and low temperature heating -> High COPs
 						- Thermal capacity of concrete presents storage capacity
 						  (thermal inertia, large time constant)
 						- Difficult to control since heat/cold transfer to building
 						  rooms is governed by $$\Delta T$$
 						- Self regulating effects
+					- ==GEOTABS==
+						- *sensible storage in ground and building mass*
+						- Both cooling and heating load in buildings (e.g. offices) => beneficial to long term ground thermal balance
+							- Heating: high source temperature (ground) and low emission temperature (TABS) => high HP performance
+							- Cooling: cold directly available in ground and high emission temperature (TABS) => passive cooling
+						- GEO-HP + TABS: energy saving potential of 20-70%
