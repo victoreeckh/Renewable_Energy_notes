@@ -205,4 +205,22 @@
 - ### TES - Latent Storage
 	- General
 		- Heat is stored nearly isothermally in PCM as the latent heat of phase change (solid-liquid, limited density change)
-		-
+		- Constant temperature charge/discharge (-> useful in sensitive applications (e.g. cold chains))
+		- Material
+			- PCM (phase change material), cPCM (composite PCM) stored in ceramic supporting materials
+		- CBA
+			- (+) Relatively high energy density, smaller physical footprint
+			- (-) Low thermal conductivity
+		- Examples
+			- Melting ice (freezing point)
+			- Organic: paraffin, fatty acids, alkanes, alcohols ...
+			- Inorganic: salts and their eutectic mixtures
+	- Materials
+		- PCM
+			- Sub-zero temperature PCMs: eutectic mixtures
+				- Melting temperature of the mixture is lower than the melting temperatures of the individual components, e.g. salt-water eutectics
+				- Applications where colder temperatures are required than standard space cooling, e.g. for refrigeration in the cold chain
+			- Low-T PCM (0°C up to 120°C)
+				- used in buildings, integrated in domestic heating and airco systems
+				-
+			- High-T PCM (150°C up to 800°C)
