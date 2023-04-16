@@ -79,7 +79,6 @@
 			- Water: best choice in T range 20-80°C
 			- Solid state: soil, rocks
 		- Higher cost:
-		  collapsed:: true
 			- Oil: for higher temperatures
 			- Salt solutions (brines):when old salt mines (caverns) are used as storage tanks and flooded
 			- Blocks or plates of different solid materials (graphite, concrete, iron, iron oxide ...)
@@ -163,3 +162,19 @@
 							- Heating: high source temperature (ground) and low emission temperature (TABS) => high HP performance
 							- Cooling: cold directly available in ground and high emission temperature (TABS) => passive cooling
 						- GEO-HP + TABS: energy saving potential of 20-70%
+		- Thermal Oil
+			- Used at higher temperatures (compared to water), typically till 350°C
+			- Types
+				- Derivates of natural oil: mineral oil
+				- Synthetic oil: more pure and thermally stable
+			- Lower thermal capacity compared to water (about half)
+			- Mainly used in:
+				- Process industry (to replace steam)
+				- Thermal solar plants (thermal oil often replaced by molten salt for even higher temperatures to drive Rankine cycle)
+		- Molten Salt
+			- Inorganic chemical compounds, maintained at temperatures above their melting points so that they are in liquid form
+			- Used for the storage of high-grade heat
+			- Vulnerable to solidifying -> can cause considerable damage to auxiliary equipment
+			- Use is limited to highly controlled environments where high temperatures are required
+			- Applications in power sector
+				- in combination with CSP: heat can be stored during the day and discharged at night to drive a turbine and maintain continuous electricity production
