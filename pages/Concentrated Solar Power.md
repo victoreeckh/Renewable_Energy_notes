@@ -73,9 +73,23 @@
 		- Peak load
 			- need for large energy storage and large power turbine. Aims to generate a lot of electrical power when peak-load prices are high
 - ### Cost
-	- 2011-2013: CapEx and LCOE were projected to decrease
-	- 2021:
-		- CapEx clearly did decrease (±/2)
-		- Capacity factor: 30%->42%
-		- LCOE substantial reduction (±/3)
+  collapsed:: true
+	- Costs
+		- 2011-2013: CapEx and LCOE were projected to decrease
+		- 2021:
+			- CapEx clearly did decrease (±/2)
+			- Capacity factor: 30%->42%
+			- LCOE substantial reduction (±/3)
+		- No auctioning yet
+	- Market trends
+		- CSP market grew slowly in 2020
+			- Competition from PV
+			- Expiry of CSP incentive programmes
+			- Operational issues at existing facilities
+		- More than 1GW capacity under construction in 2020
+			- China was the only country to add new capacity
+		- CSP costs fell 50% from 2010-2020
+			- CSP facilities with thermal energy storage co-located with solar PV
+- ### Prospects for CSP
+	-
 	-
