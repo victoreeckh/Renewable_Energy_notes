@@ -202,3 +202,7 @@
 			- Insulated or burried (pit storage)
 			- Geometries with low surface over volume ratios
 			- Condensation in the tank insulation may be a problem for buried tanks
+- ### TES - Latent Storage
+	- General
+		- Heat is stored nearly isothermally in PCM as the latent heat of phase change (solid-liquid, limited density change)
+		-
