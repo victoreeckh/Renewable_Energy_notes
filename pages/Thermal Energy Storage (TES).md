@@ -23,4 +23,17 @@
 			- Power-to-Heat, Power-to-Cold + TES
 	- TES
 		- *TES is a technology that stores thermal energy by heating or cooling a storage medium so that the stored energy can be used later for heating and cooling applications or power generation*
-		-
+		- Offers flexiblity
+			- Demand shifting
+			- Variable supply integration
+			- Sector integration
+			- Network management
+			- Seasonal storage
+		- Sectors
+			- Power
+			- Buildings
+			- District heating and cooling
+			- Cold chain
+			- Industry
+		- Energy density
+			- TCM > PCM > water
