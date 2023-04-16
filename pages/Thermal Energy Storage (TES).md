@@ -1,2 +1,26 @@
 - ### Intro
-	-
+	- Energy Storage
+		- Increased importance
+			- the growing share of renewable energy sources
+				- Why renewables?
+				  collapsed:: true
+					- mismatch demand-supply in time and location
+					- potential congestion of electricity grid
+					- higher demand for flexibility, smart grid
+					- the highly fluctuating electricity price (optimization towards minimal cost) and financial incentives
+				- Role of storage in relation to renewables
+				  collapsed:: true
+					- Intermittent renewable energy sources (variable and difficult to
+					  predict), e.g. solar thermal, PV, wind ...
+					- Time shift towards consumption during off-peak periods and production during peak-periods, e.g. geothermal heat pump (consumption), biomass-fired-CHP (production) ...
+					- Increasing performance (and thus reducing emissions) by less transient operation and less cycling, e.g. heat pumps, biomass boiler ...
+					- Avoid problems of electricity grid infrastructure (voltage fluctuations), e.g. PV, heat pumps ...
+			- more emphasis on energy conservation: residual heat recovery
+		- Implies losses ($$\eta<1$$)
+		- Types
+			- TES
+			- Electrical Energy Storage (EES)
+			- Power-to-Heat, Power-to-Cold + TES
+	- TES
+		- *TES is a technology that stores thermal energy by heating or cooling a storage medium so that the stored energy can be used later for heating and cooling applications or power generation*
+		-
