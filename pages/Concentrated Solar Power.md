@@ -73,4 +73,9 @@
 		- Peak load
 			- need for large energy storage and large power turbine. Aims to generate a lot of electrical power when peak-load prices are high
 - ### Cost
+	- 2011-2013: CapEx and LCOE were projected to decrease
+	- 2021:
+		- CapEx clearly did decrease (±/2)
+		- Capacity factor: 30%->42%
+		- LCOE substantial reduction (±/3)
 	-
