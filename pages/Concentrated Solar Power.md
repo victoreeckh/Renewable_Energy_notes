@@ -107,4 +107,3 @@
 		- Need for longer-term storage in very sunny regions ??
 		- Degree of success of sector coupling to balance supply and demand
 	- CSP looks nice, but may remain a distant dream
--
