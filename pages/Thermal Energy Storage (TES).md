@@ -254,3 +254,15 @@
 					- Subcooling
 					- Low thermal conductivity, which limits charging/discharging rates
 					- If porous supporting materials incorporated -> HT-cPCMs
+		- Encapsulated PCM
+		  collapsed:: true
+			- Heat transfer fluid is circulated through bed of capsules or modules
+			- Way to overcome thermal conductivity problem and to avoid leakage
+			- Increase in heat exchange area
+			- Combined sensible/latent storage
+			- Compared to tank filled with transport fluid
+				- Higher energy storage density
+				- More stable storage temperature
+				- Limited advantage for space and water heating
+			- Easier management of volume changes
+		- Alternative PCM systems
