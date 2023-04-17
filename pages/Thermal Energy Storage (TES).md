@@ -229,7 +229,7 @@
 						- Non-corrosive behaviour
 						- Readily available and inexpensive
 						- Commercially available for buildings and district cooling systems
-						- Bulk ice storage or ice-on-coil storage
+						- Bulk ice storage (block of ice) or ice-on-coil storage
 				- Paraffin waxes
 				  collapsed:: true
 					- versatile
@@ -238,9 +238,8 @@
 					- low cost
 					- moderate latent heat (around 200 kJ/kg)
 					- wide range of melting temperatures
-					- low thermal conductivity (0.2 W/m K) à high thermal conductivity particles and fillers such as graphite or metal can be added
+					- low thermal conductivity (0.2 W/m K) -> high thermal conductivity particles and fillers such as graphite or metal can be added
 				- inorganic salt hydrates (e.g. strontium bromide)
-				  collapsed:: true
 					- commercialized for domestic heating
 			- High-T PCM (150°C up to 800°C)
 				- Binary and ternary mixtures of inorganic salts: carbonate, nitrate, chloride and sulphate salts of alkali and alkaline metals
