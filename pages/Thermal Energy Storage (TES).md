@@ -304,11 +304,22 @@
 							- Corrosion issues (containment structure)
 							- Material stability, degradation/agglomeration
 - ### Conclusion
+  collapsed:: true
 	- Key findings
 		- TES technologies help to decouple heating and cooling demand from immediate power generation and supply availability.
 		- The global market for TES could triple in size by 2030, 234 GWh (2019)à> 800 GWh (2030)
 		- Molten-salt storage is commonly deployed in the power sector (in combination with CSP), 491-631 GWh in 2030
 		- Global TES capacity for cooling needs to double to meet expected cooling demand in 2030.
 		- TES use in DHC (TTES and UTES) effectively decouples demand from supply, allowing energy to be stored on a seasonal basis.
-		  • Water tank TES (WTTES) is already used in buildings globally, and come into wider use in industry for low-T heat (combined with solar thermal).
-		  • Need for investments in technological developments and measures to enhance market pull.
+		- Water tank TES (WTTES) is already used in buildings globally, and come into wider use in industry for low-T heat (combined with solar thermal).
+		- Need for investments in technological developments and measures to enhance market pull.
+	- Technology push
+		- Invest more in research and development activities to help overcome the relative immaturity of some technologies.
+		- Increase the number of TES demonstration projects in all parts of the energy system to improve stakeholder awareness of the benefits that these technologies can deliver
+	- Market Pull
+		- Consider removing fossil-fuel subsidies and introducing a
+		  price on carbon
+		- Create market mechanisms (e.g. ToU tariffs, balancing
+		  markets)
+		- Ensure participation in ancillary services is as technology neutral as possible and provide additional revenue streams for owners/operators of TES
+		- Adopt a long-term view on the development and deployment of TES, and provide incentives that de-risk these projects
