@@ -274,10 +274,19 @@
 - ### TES Chemical storage
 	- General
 		- Material = TCM (thermochemical material)
-		  • Highest energy density
-		  • Good control of reactions involving catalysts
-		  • Advantage of allowing storage of reaction products at ambient temperature Þ no long-term self discharge of the storage unit (benefit for seasonal storage)
-		  • Possibility to use sorption reactions for cooling purposes
+		- (+) Highest energy density
+		- (+) Good control of reactions involving catalyst
+		- (+) Advantage of allowing storage of reaction products at ambient temperature => no long-term self discharge of the storage unit (benefit for seasonal storage)
+		- (+) Possibility to use sorption reactions for cooling purposes
 		- Current state-of-the-art:
-			- A number ofpromisingmaterialsandtechnologies
-			  o Muchresearchremainsbeforetheybecomepractical and economical
+			- A number of promising materials and technologies
+			- Much research remains before they become practical and economical
+	- Types
+		- Chemical reactions (higher temperatures)
+			- based on a reversible reaction of 2 chemical substances
+			- heat is used to excite an endothermic chemical reaction
+			- stored heat can be recovered by reversing the reaction (sometimes by adding a catalyst)
+		- Thermo-chemical (sorption) processes (up to 350°C)
+		  collapsed:: true
+			- heat is stored by using it to break the bonding of water (sorbent) with a substance (sorbate) (desorption - endothermic), evaporate one of the products and condense it for further use
+			- heat is recovered by re-evaporating the condensed product and re-bonding it with the other substance (sorption – exothermic)
