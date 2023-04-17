@@ -290,10 +290,11 @@
 			- heat is stored by using it to break the bonding of water (sorbent) with a substance (sorbate) (desorption - endothermic), evaporate one of the products and condense it for further use
 			- heat is recovered by re-evaporating the condensed product and re-bonding it with the other substance (sorption – exothermic)
 			- Subtypes
-				- Adsorption (adhesion of atoms, ions or molecules from a gas, liquid or dissolved solid to a surface, e.g. zeolite, silica gel)
-				- Absorption (atoms, molecules or ions enter some bulk phase - liquid or solid material, e.g. water, NaOH solution)
-				- Hydration/Dehydration: solid/gas reaction (e.g. salt-steam)
+				- ==Adsorption== (adhesion of atoms, ions or molecules from a gas, liquid or dissolved solid to a surface, e.g. zeolite, silica gel)
+				- ==Absorption== (atoms, molecules or ions enter some bulk phase - liquid or solid material, e.g. water, NaOH solution)
+				- ==Hydration/Dehydration==: solid/gas reaction (e.g. salt-steam)
 					- Salt hydration
+					  collapsed:: true
 						- Hygroscopic salts, e.g. MgCl2, Na2S, SrBr2, MgSO4
 						- Principle:
 							- Heat addition leads to dehydration (charging)
@@ -302,3 +303,4 @@
 							- Aggressive materials
 							- Corrosion issues (containment structure)
 							- Material stability, degradation/agglomeration
+	-
