@@ -287,6 +287,9 @@
 			- heat is used to excite an endothermic chemical reaction
 			- stored heat can be recovered by reversing the reaction (sometimes by adding a catalyst)
 		- Thermo-chemical (sorption) processes (up to 350°C)
-		  collapsed:: true
 			- heat is stored by using it to break the bonding of water (sorbent) with a substance (sorbate) (desorption - endothermic), evaporate one of the products and condense it for further use
 			- heat is recovered by re-evaporating the condensed product and re-bonding it with the other substance (sorption – exothermic)
+			- Subtypes
+				- Adsorption (adhesion of atoms, ions or molecules from a gas, liquid or dissolved solid to a surface, e.g. zeolite, silica gel)
+				- Absorption (atoms, molecules or ions enter some bulk phase - liquid or solid material, e.g. water, NaOH solution)
+				- Hydration/Dehydration: solid/gas reaction (e.g. salt-steam)
