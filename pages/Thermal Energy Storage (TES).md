@@ -223,6 +223,7 @@
 			- Low-T PCM (0°C up to 120°C)
 				- used in buildings, integrated in domestic heating and airco systems
 				- Ice
+				  collapsed:: true
 					- has excellent material properties for cold storage at 0°C
 						- High heat of fusion (334 kJ/kg), low physical footprint
 						- Good heat capacity (4.2 kJ/kg K)
@@ -240,6 +241,7 @@
 					- wide range of melting temperatures
 					- low thermal conductivity (0.2 W/m K) -> high thermal conductivity particles and fillers such as graphite or metal can be added
 				- inorganic salt hydrates (e.g. strontium bromide)
+				  collapsed:: true
 					- commercialized for domestic heating
 			- High-T PCM (150°C up to 800°C)
 				- Binary and ternary mixtures of inorganic salts: carbonate, nitrate, chloride and sulphate salts of alkali and alkaline metals
@@ -247,7 +249,7 @@
 					- Chemically stable
 					- Optimal performance in a broad T range
 					- High storage density
-					- Corrosive
+					- (-) Corrosive
 					- Cycling stability? Phase separation/segregation
 					- Subcooling
 					- Low thermal conductivity, which limits charging/discharging rates
@@ -259,8 +261,23 @@
 			- Increase in heat exchange area
 			- Combined sensible/latent storage
 			- Compared to tank filled with transport fluid
-				- Higher energy storage density
-				- More stable storage temperature
-				- Limited advantage for space and water heating
-			- Easier management of volume changes
+				- (+) Higher energy storage density
+				- (+) More stable storage temperature
+				- (-) Limited advantage for space and water heating
+			- (+) Easier management of volume changes
 		- Alternative PCM systems
+		  collapsed:: true
+			- PCM particulates in the structure of other compounds, e.g. building materials, expanded graphite
+			- Phase change slurries:
+				- Carrier fluid contains the PCM
+				- Compromise between volumetric storage capacity and pressure increase needed to circulate the slurry (viscosity)
+- ### TES Chemical storage
+	- General
+		- Material = TCM (thermochemical material)
+		  • Highest energy density
+		  • Good control of reactions involving catalysts
+		  • Advantage of allowing storage of reaction products at ambient temperature Þ no long-term self discharge of the storage unit (benefit for seasonal storage)
+		  • Possibility to use sorption reactions for cooling purposes
+		- Current state-of-the-art:
+			- A number ofpromisingmaterialsandtechnologies
+			  o Muchresearchremainsbeforetheybecomepractical and economical
