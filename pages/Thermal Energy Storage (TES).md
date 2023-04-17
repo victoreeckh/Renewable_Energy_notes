@@ -223,7 +223,6 @@
 			- Low-T PCM (0°C up to 120°C)
 				- used in buildings, integrated in domestic heating and airco systems
 				- Ice
-				  collapsed:: true
 					- has excellent material properties for cold storage at 0°C
 						- High heat of fusion (334 kJ/kg), low physical footprint
 						- Good heat capacity (4.2 kJ/kg K)
