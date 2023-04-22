@@ -184,12 +184,17 @@
 					- Pelamis machines at Aguçadoura Wave Farm (Portugal): hydraulic motors drive el. generators
 				- Channel waves (or tidal flow over dam) into basin and release over turbine: “overtopping”
 				- Floating devices attached to seabed
-					- e.g. Wavestar
+					- Wavestar
+					- Flansea buoy: linear movement converted into rotation via cable, then drive electrical generator
 				- Oscillating water column
 					- e.g. Oyster
+					- Oscillating Water Column: compress air, drive turbine on-shore
 		- CBA
 			- (+) close to shore/shallow period
 			- (-) still low frequency
 			- (-) Low energy density
 			- (-) reliability
 			- (-) grid connection
+	- #### Ocean thermal energy
+		- *Use temperature differences between surface and deep sea water*
+		- (-) You need enough depth to create sufficient temperature d
