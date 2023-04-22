@@ -30,9 +30,19 @@
 			- Lakes
 			- Dams (e.g. build for drinking/irrigation water retention)
 		- Turbines used
-			- Kaplan
-			- Francis
-			- Pelton
+			- ==Kaplan==
+				- Specifiek toerental: $$n_s = n\frac{Q^{1/2}}{H^{3/4}}>2$$
+					- For low height drop (hydraulic head), typically in a river
+					- Large flow rate
+				- Reaction turbine
+				- Low speeds
+					- ->High torques
+					- -> Big sizes
+					- ->Build vertical (otherwise bends under own weight)
+				- e.g. ship (pumpvariant)
+			- ==Francis==
+				-
+			- ==Pelton==
 		- Type
 			- ==Reservoirs==
 				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
