@@ -27,6 +27,7 @@
 				- Brazil
 				- China (Mekong dam)
 		- **Types**
+		  collapsed:: true
 			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
 	  collapsed:: true
@@ -152,6 +153,7 @@
 				- (-) The regulations focus more on large-scale hydroelectric issues than on small-scale hydroelectric issues that sometimes impose disproportionate demands on small hydroelectric developers.
 ### Ocean Energy
 	- #### Tidal energy
+	  collapsed:: true
 		- *relative motion of the water due gravitational forces (Earth-Moon interaction)*
 			- Periodicity is not equal to the periodicity of electricity demand
 		- Concept
@@ -163,11 +165,11 @@
 		- Conclusion
 			- not interesting/not a lot of potential
 	- #### Ocean/Sea (under water) flow energy
+	  collapsed:: true
 		- Underwater turbines
 		- Concept
 			- Wind turbine designed for water
 		- CBA
-		  collapsed:: true
 			- (+) known technology
 			- (+) water is about 800 times denser than air, no need for big systems to get a lot of energy out of it
 			- (-) water is about 800 times denser than air, tidal stream turbines have to be much sturdier than wind turbines
@@ -177,6 +179,7 @@
 		- Conclusion
 			- Potential only found far (and deep) from coast
 	- #### Wave energy
+	  collapsed:: true
 		- *waves due to wind blowing over the surface of the ocean*
 		- Concept
 			- Capture motion by
@@ -196,9 +199,11 @@
 			- (-) reliability
 			- (-) grid connection
 	- #### Ocean thermal energy
+	  collapsed:: true
 		- *Use temperature differences between surface and deep sea water*
 		- (-) You need enough depth to create sufficient temperature difference (-> not suitable for North sea)
 	- #### Osmotic power
+	  collapsed:: true
 		- *Salinity gradient power energy retrieved from the difference in the salt concentration between seawater and (fresh) river water*
 		- Types
 			- ==reverse electrodialysis== (RED)
@@ -210,11 +215,14 @@
 				- result: brackish water
 			- (-) not mature (still low output)
 	- #### Offshore wind
+	  collapsed:: true
 		- ((64383153-7fdc-48b9-8eaa-9f943c8d370b))
 		- (+) mature
 	- #### Combined wind & Wave
+	  collapsed:: true
 		- W2Power, Wavestar
 	- #### Floating PV
+	  collapsed:: true
 		- ((6433cf73-e525-4b5e-9a81-819710a07ce1))
 		- ((6436524d-4027-413c-bbb2-41416a997123)) are used
 			- Not that much reflection from the water in reality (Ocean close to black body, optically)
@@ -237,4 +245,16 @@
 			- Popular in the Netherlands
 			- Nice combination with dams
 				- Because prevents evaporation
+	- #### Wind + PV at sea
+		- In theory optimal complimentary
+		- Challenges:
+			- Storms
+			- Pollution
+			- Possible bird soiling
+			- Mooring and anchoring
+			- Electrical safety and longevity of equipment
+				- Floating cables
+			- Environmental impact
+				- Light reduction
+				- Better than expected -> act as artificial reefs
 				-
