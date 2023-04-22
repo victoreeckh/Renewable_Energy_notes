@@ -293,6 +293,7 @@
 			- Light structures floating on the water
 			- ?
 	- #### Energy islands
+	  id:: 644434c5-a6be-4994-a54a-906bc62b063b
 	  collapsed:: true
 		- *solution to buffer energy in a pumped storage at sea in artificial “atoll”*
 		  collapsed:: true

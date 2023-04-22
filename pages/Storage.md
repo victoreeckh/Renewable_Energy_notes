@@ -24,9 +24,30 @@
 		- Every conversion in the system yields a kind of efficiency
 - ### Mechanical storage
 	- #### Pumped Hydro Storage (PHS)
-		- Position of body of water in gravitational field
-		- Pure and mixed
-		- Power pumping ≠ turbine
-		- Roundtrip efficiency 65-85%
-		- Most often in HV grid
-		- Asset of producers in liberalized market
+		- General
+			- Position of body of water in gravitational field
+			- Pure and mixed
+			- Power pumping ≠ turbine
+			- Roundtrip efficiency 65-85%
+			- Most often in HV grid
+			- Asset of producers in liberalized market
+			- Energy: $$\Delta E_{pot} = \rho\cdot g\cdot \Delta h\cdot V$$
+				- Big heights $$\Delta h$$ (e.g. mountains)
+				- Big lakes $$V$$
+			- Power: $$P = \rho\cdot g\cdot \Delta h\cdot Q\cdot \eta$$
+		- Roll out
+			- together with Nuclear
+				- complimentary flexibility
+		- Potential
+			- Sizable potential still
+			- Geographically limited
+			- Of limited use with congestion issues
+			- Not really long-term (security of supply context)
+			- Limited power control flexibility (pumping), specifically around 0 MW (dewatering)
+		- Energy island
+			- ((644434c5-a6be-4994-a54a-906bc62b063b))
+			- Recently proposed project
+			- Proven (mature) technology in a new innovative context
+			- • Facilita:ngtheintegra:onofoffshorewindpower
+			  • FutureoffshoreSupergridbuildingblock
+	-
