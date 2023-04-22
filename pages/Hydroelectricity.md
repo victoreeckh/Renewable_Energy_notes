@@ -212,6 +212,15 @@
 	- #### Offshore wind
 		- ((64383153-7fdc-48b9-8eaa-9f943c8d370b))
 		- (+) mature
-		- Combined wind & Wave
-			- W2Power, Wavestar
-		-
+	- #### Combined wind & Wave
+		- W2Power, Wavestar
+	- #### Floating PV
+		- ((6433cf73-e525-4b5e-9a81-819710a07ce1))
+		- ((6436524d-4027-413c-bbb2-41416a997123)) are used
+			- Not that much reflection from the water in reality (Ocean close to black body, optically)
+		- (+) Better performance due to cooling effect (15% more yield)
+		- (+) Limit evaporation
+		- (-) Movements (MPPT)!
+		- (-) Storms?
+		- (-) Corrosion?
+		- (-) Grid connection?
