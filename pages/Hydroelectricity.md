@@ -18,7 +18,7 @@
 			- Droughts
 				- e.g.: Folsom lake
 			- Build
-				- Concrete -> lot of CO2 emissions
+				- Concrete -> lot of CO2 emissions (curing of the concrete, exothermic reaction)
 			- Biodiversity decrease
 				- Loss of CO2 retainments by these declined biotopes
 			- International conflicts
@@ -64,7 +64,8 @@
 				- (-) less popular
 		- Generators used
 			- Salient-pole synchronous machines
-			-
+				- Physical speed is proportional to grid frequency
+				- Turbines turn at slow speed ->
 		- Type
 			- ==Reservoirs==
 				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
