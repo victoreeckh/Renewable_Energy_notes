@@ -46,8 +46,8 @@
 			- Limited power control flexibility (pumping), specifically around 0 MW (dewatering)
 		- Energy island
 			- ((644434c5-a6be-4994-a54a-906bc62b063b))
-			- Recently proposed project
+			- Recently proposed project (JD: will never be built)
 			- Proven (mature) technology in a new innovative context
-			- • Facilita:ngtheintegra:onofoffshorewindpower
-			  • FutureoffshoreSupergridbuildingblock
+			- Facilitating the integration of off shore wind power
+			- Future off shore Supergrid building block
 	-
