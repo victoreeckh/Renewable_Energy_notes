@@ -267,4 +267,10 @@
 	- #### Energy islands
 		- *solution to buffer energy in a pumped storage at sea in artificial “atoll”*
 			- inner water level can be pumped up (e.g. store wind power) and released again
+		- Use dredging, to build dam of ±17m high (height difference needed for the storage)
+		- Not cost efficient
+		- But valuable as substation for zones further at sea
+			- But then just build substations on real (artificial) islands
+		- Potential
+			- Maybe in the middle east
 		-
