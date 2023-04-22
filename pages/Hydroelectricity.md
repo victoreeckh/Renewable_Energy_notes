@@ -218,9 +218,23 @@
 		- ((6433cf73-e525-4b5e-9a81-819710a07ce1))
 		- ((6436524d-4027-413c-bbb2-41416a997123)) are used
 			- Not that much reflection from the water in reality (Ocean close to black body, optically)
-		- (+) Better performance due to cooling effect (15% more yield)
-		- (+) Limit evaporation
-		- (-) Movements (MPPT)!
-		- (-) Storms?
-		- (-) Corrosion?
-		- (-) Grid connection?
+		- Plastic (recycled) elements clicked together
+		- East-West orientation -> output matches demand better
+		- Used for ponds next to greenhouses
+		- CBA
+			- (+) Better performance due to cooling effect (15% more yield)
+			- (+) Limit evaporation
+				- Warm water not wanted in greehouses
+			- (+) limits algae development in the water
+				- Because not wanted in the greenhouses
+			- (-) cool, dark ponds -> not positive for the fish
+			- (-) Movements (MPPT)!
+			- (-) Storms?
+			- (-) Corrosion?
+			- (-) Grid connection?
+		- Potential
+			- Limited potential in Belgium
+			- Popular in the Netherlands
+			- Nice combination with dams
+				- Because prevents evaporation
+				-
