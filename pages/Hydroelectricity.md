@@ -42,6 +42,8 @@
 					- ->High torques
 					- -> Big sizes
 					- ->Build vertical (otherwise bends under own weight)
+				- application
+					- Run of the river
 				- e.g. ship (pumpvariant)
 			- ==Francis==
 				- Specifiek toerental: $$0.3<n_s<2$$
@@ -49,6 +51,8 @@
 				- Inwards reaction turbine
 					- Tangential in, axial out
 					- with decreasing diameter (-> water squeezed out)
+				- Applications
+					- Big dams
 				- (+) Large efficiency
 				- (+) popular
 			- ==Pelton==
@@ -58,6 +62,9 @@
 				- Impulse turbine
 				- Large revolution speed
 				- (-) less popular
+		- Generators used
+			- Salient-pole synchronous machines
+			-
 		- Type
 			- ==Reservoirs==
 				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
@@ -71,6 +78,21 @@
 					- Power plant in plain, but with relatively large height drop due to bend
 						- Natural waterfall
 						- e.g. Niagara
+		- CBA
+			- Sustainability
+				- (-) evaporation
+				- (-) No seasonal change
+					- affects agriculture and fertilizations downstream
+					- -> use flood control (flush the valley)
+				- (-) Sedimentation, clogging in the reservoir, upstream dam
+				- (-) Biodiversity issues
+					- regular submersion of wetlands
+					- impact on fish stock
+				- (-) Population impact
+					- e.g. Three Gorges Dam, 1.24M people had to move
+				- (-) Earthquake risks due to weight on earth crust?
+				- (-) Political conflicts
+					- E.g. Mekong delta, GERD in Ethiopia
 	- #### Small-scale Hydro Power
 	-
 ### Ocean Energy
