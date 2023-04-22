@@ -105,6 +105,7 @@
 				- (-) Political conflicts
 					- E.g. Mekong delta, GERD in Ethiopia
 	- #### Small-scale Hydro Power
+	  collapsed:: true
 		- Concept
 			- Locally control problematic side-effects
 			- A small-scale hydroelectric facility requires that a sizable flow of water and an adequate head of water is available without building elaborate and expensive
@@ -132,7 +133,8 @@
 				- Undershot
 				- Overshot (Also pitchback)
 				- Breastshot
-			-
+			- Not full potential can be used
+				- As it hurts fish population -> fish ladders/elevators
 		- CBA
 			- Advantages
 				- (+) They do not need much space
@@ -149,4 +151,12 @@
 				- (-) Higher costs due to not standardized purchase contracts and interconnection requirements
 				- (-) The regulations focus more on large-scale hydroelectric issues than on small-scale hydroelectric issues that sometimes impose disproportionate demands on small hydroelectric developers.
 ### Ocean Energy
-	-
+	- Tidal energy
+		- *relative motion of the water due gravitational forces (Earth-Moon interaction)*
+			- Periodicity is not equal to the periodicity of electricity demand
+		- Concept
+			- Barrage in river or bay withholding water (need sufficient tide amplitude): potential energy
+				- Similar to dams: catch water when it's high-tide and release on low tide
+			- Turbines in stream: kinetic energy
+		- (-) Hydra
+		-
