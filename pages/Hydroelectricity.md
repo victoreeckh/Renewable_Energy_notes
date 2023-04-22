@@ -151,7 +151,7 @@
 				- (-) Higher costs due to not standardized purchase contracts and interconnection requirements
 				- (-) The regulations focus more on large-scale hydroelectric issues than on small-scale hydroelectric issues that sometimes impose disproportionate demands on small hydroelectric developers.
 ### Ocean Energy
-	- Tidal energy
+	- #### Tidal energy
 		- *relative motion of the water due gravitational forces (Earth-Moon interaction)*
 			- Periodicity is not equal to the periodicity of electricity demand
 		- Concept
@@ -160,8 +160,9 @@
 			- Turbines in stream: kinetic energy
 		- (-) Hydraulic head $$H$$ limited to ±6m
 		- (-) Periodicity: need to wait for at least 6h to refill
-		- -> not interesting
-	- Ocean/Sea (under water) flow energy
+		- Conclusion
+			- not interesting/not a lot of potential
+	- #### Ocean/Sea (under water) flow energy
 		- Underwater turbines
 		- Concept
 			- Wind turbine designed for water
@@ -173,8 +174,9 @@
 			- (-) Places where streams are highest, are the deepest
 				- -> difficult to capitalize on the sweetspots
 				- -> floating structures?
-		- -> marginally interesting
-	- Wave energy
+		- Conclusion
+			- Potential only found far (and deep) from coast
+	- #### Wave energy
 		- *waves due to wind blowing over the surface of the ocean*
 		- Concept
 			- Capture motion by
@@ -182,9 +184,12 @@
 					- Pelamis machines at Aguçadoura Wave Farm (Portugal): hydraulic motors drive el. generators
 				- Channel waves (or tidal flow over dam) into basin and release over turbine: “overtopping”
 				- Floating devices attached to seabed
+					- e.g. Wavestar
 				- Oscillating water column
+					- e.g. Oyster
 		- CBA
 			- (+) close to shore/shallow period
-			- (+) higher frequency, but still low
+			- (-) still low frequency
+			- (-) Low energy density
 			- (-) reliability
 			- (-) grid connection
