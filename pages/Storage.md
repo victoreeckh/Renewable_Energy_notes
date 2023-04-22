@@ -1,0 +1,6 @@
+- ### Overview and general characteristics
+	- Why needed?
+		- Solve electrical imbalance in space and time
+		- Flexibility needed to equate demand with supply
+			- Flexible demand
+			- flexible supply
