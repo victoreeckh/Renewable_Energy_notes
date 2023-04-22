@@ -1,5 +1,5 @@
 - ### Land-based Hydro Power
-	- Intro
+	- #### Intro
 		- Dams
 			- Why build?
 				- Water collection: drinking water, agriculture
@@ -12,14 +12,16 @@
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
 		- Problems
-			- Drought
+			- Droughts
+				- e.g.: Folsom lake
 			- Build
 				- Concrete -> lot of CO2 emissions
 			- Biodiversity decrease
 				- Loss of CO2 retainments by these declined biotopes
 			- International conflicts
-				- (In region with potential availability
+				- (In region with potential availability)
 				- Ethiopia, Sudan Egypt
+				- Brazil
 		- Types
 			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
