@@ -155,44 +155,58 @@
 	- #### Tidal energy
 	  collapsed:: true
 		- *relative motion of the water due gravitational forces (Earth-Moon interaction)*
+		  collapsed:: true
 			- Periodicity is not equal to the periodicity of electricity demand
 		- Concept
+		  collapsed:: true
 			- Barrage in river or bay withholding water (need sufficient tide amplitude): potential energy
+			  collapsed:: true
 				- Similar to dams: catch water when it's high-tide and release on low tide
 			- Turbines in stream: kinetic energy
 		- (-) Hydraulic head $$H$$ limited to ±6m
 		- (-) Periodicity: need to wait for at least 6h to refill
 		- Conclusion
+		  collapsed:: true
 			- not interesting/not a lot of potential
 	- #### Ocean/Sea (under water) flow energy
 	  collapsed:: true
 		- Underwater turbines
 		- Concept
+		  collapsed:: true
 			- Wind turbine designed for water
 		- CBA
+		  collapsed:: true
 			- (+) known technology
 			- (+) water is about 800 times denser than air, no need for big systems to get a lot of energy out of it
 			- (-) water is about 800 times denser than air, tidal stream turbines have to be much sturdier than wind turbines
 			- (-) Places where streams are highest, are the deepest
+			  collapsed:: true
 				- -> difficult to capitalize on the sweetspots
 				- -> floating structures?
 		- Conclusion
+		  collapsed:: true
 			- Potential only found far (and deep) from coast
 	- #### Wave energy
 	  collapsed:: true
 		- *waves due to wind blowing over the surface of the ocean*
 		- Concept
+		  collapsed:: true
 			- Capture motion by
+			  collapsed:: true
 				- Bending device on surface
+				  collapsed:: true
 					- Pelamis machines at Aguçadoura Wave Farm (Portugal): hydraulic motors drive el. generators
 				- Channel waves (or tidal flow over dam) into basin and release over turbine: “overtopping”
 				- Floating devices attached to seabed
+				  collapsed:: true
 					- Wavestar
 					- Flansea buoy: linear movement converted into rotation via cable, then drive electrical generator
 				- Oscillating water column
+				  collapsed:: true
 					- e.g. Oyster
 					- Oscillating Water Column: compress air, drive turbine on-shore
 		- CBA
+		  collapsed:: true
 			- (+) close to shore/shallow period
 			- (-) still low frequency
 			- (-) Low energy density
@@ -206,9 +220,12 @@
 	  collapsed:: true
 		- *Salinity gradient power energy retrieved from the difference in the salt concentration between seawater and (fresh) river water*
 		- Types
+		  collapsed:: true
 			- ==reverse electrodialysis== (RED)
+			  collapsed:: true
 				- uses battery principles
 			- ==pressure retarded osmosis== (PRO)
+			  collapsed:: true
 				- seawater and fresh water are separated by a membrane
 				- the seawater draws the fresh water through the membrane, thereby increasing the pressure on the seawater side
 				- the increased pressure is used to produce power (turbine)
@@ -225,15 +242,19 @@
 	  collapsed:: true
 		- ((6433cf73-e525-4b5e-9a81-819710a07ce1))
 		- ((6436524d-4027-413c-bbb2-41416a997123)) are used
+		  collapsed:: true
 			- Not that much reflection from the water in reality (Ocean close to black body, optically)
 		- Plastic (recycled) elements clicked together
 		- East-West orientation -> output matches demand better
 		- Used for ponds next to greenhouses
 		- CBA
+		  collapsed:: true
 			- (+) Better performance due to cooling effect (15% more yield)
 			- (+) Limit evaporation
+			  collapsed:: true
 				- Warm water not wanted in greehouses
 			- (+) limits algae development in the water
+			  collapsed:: true
 				- Because not wanted in the greenhouses
 			- (-) cool, dark ponds -> not positive for the fish
 			- (-) Movements (MPPT)!
@@ -241,11 +262,14 @@
 			- (-) Corrosion?
 			- (-) Grid connection?
 		- Potential
+		  collapsed:: true
 			- Limited potential in Belgium
 			- Popular in the Netherlands
 			- Nice combination with dams
+			  collapsed:: true
 				- Because prevents evaporation
 	- #### Wind + PV at sea
+	  collapsed:: true
 		- In theory optimal complimentary
 		- Challenges:
 		  collapsed:: true
@@ -254,23 +278,40 @@
 			- Possible bird soiling
 			- Mooring and anchoring
 			- Electrical safety and longevity of equipment
+			  collapsed:: true
 				- Floating cables
 			- Environmental impact
+			  collapsed:: true
 				- Light reduction
 				- Better than expected -> act as artificial reefs
 			- Maintenance
+			  collapsed:: true
 				- Salt water spray
 				- -> Modular design. that can be brought back to shore
 		- Types
+		  collapsed:: true
 			- Light structures floating on the water
 			- ?
 	- #### Energy islands
+	  collapsed:: true
 		- *solution to buffer energy in a pumped storage at sea in artificial “atoll”*
+		  collapsed:: true
 			- inner water level can be pumped up (e.g. store wind power) and released again
 		- Use dredging, to build dam of ±17m high (height difference needed for the storage)
 		- Not cost efficient
 		- But valuable as substation for zones further at sea
+		  collapsed:: true
 			- But then just build substations on real (artificial) islands
 		- Potential
+		  collapsed:: true
 			- Maybe in the middle east
-		-
+		- Multifunctional?
+		  collapsed:: true
+			- In combination with hydrogen storage
+			  collapsed:: true
+				- Electrolyzers are sensitive
+				- transport?
+				  collapsed:: true
+					- Shipment (again sensitive)
+					- Pipes
+				-
