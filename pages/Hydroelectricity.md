@@ -1,17 +1,17 @@
 - ### Land-based Hydro Power
 	- #### Intro
-		- Dams
+		- **Dams**
 			- Why build?
 				- Water collection: drinking water, agriculture
 				- Flood control
 				- Energy production / storage
-		- Water availability
+		- **Water availability**
 			- Seasonal
 				- river regimes
 			- Water cycle
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
-		- Problems
+		- **Problems**
 			- Droughts
 				- e.g.: Folsom lake
 			- Build
@@ -22,9 +22,17 @@
 				- (In region with potential availability)
 				- Ethiopia, Sudan Egypt
 				- Brazil
-		- Types
+		- **Types**
 			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
+		- use natural sources (geographical opportunities)
+			- Rivers
+			- Lakes
+			- Dams (e.g. build for drinking/irrigation water retention)
+		- Reservoirs
+			- Energy conversion: $$E_{}$$
+			- Types
+				- Mountain power
 	- #### Small-scale Hydro Power
 	-
 ### Ocean Energy
