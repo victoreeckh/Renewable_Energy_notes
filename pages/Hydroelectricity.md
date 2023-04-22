@@ -7,10 +7,23 @@
 				- Energy production / storage
 		- Water availability
 			- Seasonal
+				- river regimes
 			- Water cycle
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
+		- Problems
+			- Drought
+			- Build
+				- Concrete -> lot of CO2 emissions
+			- Biodiversity decrease
+				- Loss of CO2 retainments by these declined biotopes
+			- International conflicts
+				- (In region with potential availability
+				- Ethiopia, Sudan Egypt
+		- Types
+			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
 	- #### Small-scale Hydro Power
+	-
 ### Ocean Energy
 	-
