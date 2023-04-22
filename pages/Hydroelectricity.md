@@ -248,6 +248,7 @@
 	- #### Wind + PV at sea
 		- In theory optimal complimentary
 		- Challenges:
+		  collapsed:: true
 			- Storms
 			- Pollution
 			- Possible bird soiling
@@ -257,4 +258,13 @@
 			- Environmental impact
 				- Light reduction
 				- Better than expected -> act as artificial reefs
-				-
+			- Maintenance
+				- Salt water spray
+				- -> Modular design. that can be brought back to shore
+		- Types
+			- Light structures floating on the water
+			- ?
+	- #### Energy islands
+		- *solution to buffer energy in a pumped storage at sea in artificial “atoll”*
+			- inner water level can be pumped up (e.g. store wind power) and released again
+		-
