@@ -112,8 +112,27 @@
 			- Small hydroelectric plants can be developed at existing dams and have been constructed in connection with water level control of rivers, lakes and irrigation schemes.
 			- By using existing structures, only minor new civil engineering works are required, which reduces the cost of this component of a development
 		- Types
-			-
+			- ![image.png](../assets/image_1682182180968_0.png)
 		- Turbines
+			- Type determined by
+				- Rate of water flow
+				- Height of waterdrop (hydraulic head)
+				- The turbine must also rotate at a speed that conforms to a synchronous generator speed
+			- Types
+				- Radial flow type
+					- Francis
+				- Axial flow type
+					- Kaplan
+					- Propellor
+				- Impulse turbine
+					- Pelton
+					- Banki/Crossflow
+		- Waterwheels
+			- Types
+				- Undershot
+				- Overshot (Also pitchback)
+				- Breastshot
+			-
 		- CBA
 			- Advantages
 				- (+) They do not need much space
