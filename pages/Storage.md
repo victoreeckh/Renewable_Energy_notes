@@ -3,11 +3,16 @@
 		- Solve electrical imbalance in space and time
 		- Flexibility needed to equate demand with supply
 			- Flexible demand
+				- Flatten demand curve
 			- flexible supply
 	- Categorize technologies regarding
 		- conversion process
 		- Energy vs Power
 		- Application
 			- ![image.png](../assets/image_1682194036223_0.png){:height 283, :width 485}
+			- Very important picture!
+		- Location
+			- Central vs distributed?
+			- ![image.png](../assets/image_1682194207475_0.png){:height 264, :width 491}
 	-
-		-
+		- Maturity
