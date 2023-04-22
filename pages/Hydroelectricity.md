@@ -197,4 +197,21 @@
 			- (-) grid connection
 	- #### Ocean thermal energy
 		- *Use temperature differences between surface and deep sea water*
-		- (-) You need enough depth to create sufficient temperature d
+		- (-) You need enough depth to create sufficient temperature difference (-> not suitable for North sea)
+	- #### Osmotic power
+		- *Salinity gradient power energy retrieved from the difference in the salt concentration between seawater and (fresh) river water*
+		- Types
+			- ==reverse electrodialysis== (RED)
+				- uses battery principles
+			- ==pressure retarded osmosis== (PRO)
+				- seawater and fresh water are separated by a membrane
+				- the seawater draws the fresh water through the membrane, thereby increasing the pressure on the seawater side
+				- the increased pressure is used to produce power (turbine)
+				- result: brackish water
+			- (-) not mature (still low output)
+	- #### Offshore wind
+		- ((64383153-7fdc-48b9-8eaa-9f943c8d370b))
+		- (+) mature
+		- Combined wind & Wave
+			- W2Power, Wavestar
+		-

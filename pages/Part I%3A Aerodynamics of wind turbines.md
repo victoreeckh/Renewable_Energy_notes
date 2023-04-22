@@ -1,5 +1,4 @@
 - ### Main types of turbines
-  collapsed:: true
 	- Descriptive
 	- sl.28-31 lezen
 	- Wind turbine types
@@ -20,7 +19,6 @@
 	- Notes
 		- Nowadays all turbines turn clockwise (as standardization)
 - ### Betz theory and wind turbine design
-  collapsed:: true
 	- $$P_{max} = \frac{16}{27}\left(\frac{\rho U_\infty^3}{2}\right)A$$
 	- **Betz limit Derivation**
 		- See notes
