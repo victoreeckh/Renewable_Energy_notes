@@ -14,6 +14,7 @@
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
 		- **Problems**
+		  collapsed:: true
 			- Droughts
 				- e.g.: Folsom lake
 			- Build
@@ -28,6 +29,7 @@
 		- **Types**
 			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
+	  collapsed:: true
 		- use natural sources (geographical opportunities)
 			- Rivers
 			- Lakes
@@ -82,7 +84,10 @@
 						- Natural waterfall
 						- e.g. Niagara
 			- ==Pumped Hydro Power==
-				-
+				- = reversible turbine/generator, can pump/motor
+				- Typically closed water system (not on river)
+				- Use: balancing, arbitrage, black-start
+				- See Storage section
 		- CBA
 		  collapsed:: true
 			- Sustainability
@@ -99,8 +104,30 @@
 				- (-) Earthquake risks due to weight on earth crust?
 				- (-) Political conflicts
 					- E.g. Mekong delta, GERD in Ethiopia
-		-
 	- #### Small-scale Hydro Power
-	-
+		- Concept
+			- Locally control problematic side-effects
+			- A small-scale hydroelectric facility requires that a sizable flow of water and an adequate head of water is available without building elaborate and expensive
+			  facilities.
+			- Small hydroelectric plants can be developed at existing dams and have been constructed in connection with water level control of rivers, lakes and irrigation schemes.
+			- By using existing structures, only minor new civil engineering works are required, which reduces the cost of this component of a development
+		- Types
+			-
+		- Turbines
+		- CBA
+			- Advantages
+				- (+) They do not need much space
+				- (+) They rarely cause shoreline flooding
+				- (+) Avoids problems of building big hydro power plants
+				- (+) Reduces risks of fuel supplies
+				- (+) Supply of low-cost electric energy
+				- (+) Stable price (local production) not influenced by international market
+				- (+) More economic benefits to the region (employment,...)
+				- (+) Opportunity for wealth creation in not developed areas
+			- Disadvantages
+				- (-) Special cold climate requirements
+				- (-) They have to provide fish protections where needed
+				- (-) Higher costs due to not standardized purchase contracts and interconnection requirements
+				- (-) The regulations focus more on large-scale hydroelectric issues than on small-scale hydroelectric issues that sometimes impose disproportionate demands on small hydroelectric developers.
 ### Ocean Energy
 	-
