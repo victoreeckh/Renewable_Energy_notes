@@ -1,9 +1,13 @@
 - ### Overview and general characteristics
+  collapsed:: true
 	- Why needed?
 		- Solve electrical imbalance in space and time
 		- Flexibility needed to equate demand with supply
 			- Flexible demand
 				- Flatten demand curve
+				- By increasing self consumption
+					- Of PV
+					- with tariffs (direct)
 			- flexible supply
 	- Categorize technologies regarding
 		- conversion process
@@ -16,3 +20,13 @@
 			- ![image.png](../assets/image_1682194207475_0.png){:height 264, :width 491}
 	-
 		- Maturity
+	- Efficiency
+		- Every conversion in the system yields a kind of efficiency
+- ### Mechanical storage
+	- #### Pumped Hydro Storage (PHS)
+		- Position of body of water in gravitational field
+		- Pure and mixed
+		- Power pumping ≠ turbine
+		- Roundtrip efficiency 65-85%
+		- Most often in HV grid
+		- Asset of producers in liberalized market
