@@ -1,17 +1,20 @@
 - ### Land-based Hydro Power
 	- #### Intro
 		- **Dams**
+		  collapsed:: true
 			- Why build?
 				- Water collection: drinking water, agriculture
 				- Flood control
 				- Energy production / storage
 		- **Water availability**
+		  collapsed:: true
 			- Seasonal
 				- river regimes
 			- Water cycle
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
 		- **Problems**
+		  collapsed:: true
 			- Droughts
 				- e.g.: Folsom lake
 			- Build
@@ -35,14 +38,26 @@
 					- For low height drop (hydraulic head), typically in a river
 					- Large flow rate
 				- Reaction turbine
-				- Low speeds
+				- Low revolution speed
 					- ->High torques
 					- -> Big sizes
 					- ->Build vertical (otherwise bends under own weight)
 				- e.g. ship (pumpvariant)
 			- ==Francis==
-				-
+				- Specifiek toerental: $$0.3<n_s<2$$
+					- hydr. head $$H$$ of 10m to 100s m
+				- Inwards reaction turbine
+					- Tangential in, axial out
+					- with decreasing diameter (-> water squeezed out)
+				- (+) Large efficiency
+				- (+) popular
 			- ==Pelton==
+				- Specifiek toerental: $$n_s<0.3$$
+					- large hydr. head
+					- relatively small flow rate
+				- Impulse turbine
+				- Large revolution speed
+				- (-) less popular
 		- Type
 			- ==Reservoirs==
 				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
