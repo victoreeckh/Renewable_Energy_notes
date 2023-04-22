@@ -1,0 +1,16 @@
+- ### Land-based Hydro Power
+	- Intro
+		- Dams
+			- Why build?
+				- Water collection: drinking water, agriculture
+				- Flood control
+				- Energy production / storage
+		- Water availability
+			- Seasonal
+			- Water cycle
+				- evaporation -> precipitation
+			- High percentages of technical feasible hydropower developments in EU/N-A
+	- #### Large-scale Hydro Power
+	- #### Small-scale Hydro Power
+### Ocean Energy
+	-

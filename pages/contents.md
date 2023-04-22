@@ -2,4 +2,4 @@
 - ## [[Wind Energy]]
 - ## [[Energy Meteorology]]
 - ## [[Solar]]
-- ## [[Hydro]]
+- ## [[Hydroelectricity]]
