@@ -14,7 +14,6 @@
 				- evaporation -> precipitation
 			- High percentages of technical feasible hydropower developments in EU/N-A
 		- **Problems**
-		  collapsed:: true
 			- Droughts
 				- e.g.: Folsom lake
 			- Build
@@ -23,8 +22,9 @@
 				- Loss of CO2 retainments by these declined biotopes
 			- International conflicts
 				- (In region with potential availability)
-				- Ethiopia, Sudan Egypt
+				- Ethiopia, Sudan Egypt (grand renaissance dam)
 				- Brazil
+				- China (Mekong dam)
 		- **Types**
 			- ![image.png](../assets/image_1682175918053_0.png){:height 345, :width 428}
 	- #### Large-scale Hydro Power
@@ -65,7 +65,9 @@
 		- Generators used
 			- Salient-pole synchronous machines
 				- Physical speed is proportional to grid frequency
-				- Turbines turn at slow speed ->
+				- Turbines turn at slow speed -> High amount of poles needed ($$n=\frac{f}{p_1}$$; repeat magnetic field)
+				- rotor spins at fixed speed -> induces voltage in stator windings -> AC voltage in stator
+				- Vertical positioning because of size
 		- Type
 			- ==Reservoirs==
 				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
@@ -94,6 +96,7 @@
 				- (-) Earthquake risks due to weight on earth crust?
 				- (-) Political conflicts
 					- E.g. Mekong delta, GERD in Ethiopia
+		-
 	- #### Small-scale Hydro Power
 	-
 ### Ocean Energy
