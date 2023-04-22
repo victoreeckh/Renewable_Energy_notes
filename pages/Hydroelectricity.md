@@ -81,7 +81,10 @@
 					- Power plant in plain, but with relatively large height drop due to bend
 						- Natural waterfall
 						- e.g. Niagara
+			- ==Pumped Hydro Power==
+				-
 		- CBA
+		  collapsed:: true
 			- Sustainability
 				- (-) evaporation
 				- (-) No seasonal change
