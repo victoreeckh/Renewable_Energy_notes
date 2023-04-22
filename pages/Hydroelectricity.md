@@ -165,12 +165,26 @@
 		- Underwater turbines
 		- Concept
 			- Wind turbine designed for water
-		- (+) known technology
-		- (+) water is about 800 times denser than air, no need for big systems to get a lot of energy out of it
-		- (-) water is about 800 times denser than air, tidal stream turbines have to be much sturdier than wind turbines
-		- (-) Places where streams are highest, are the deepest
-			- -> difficult to capitalize on the sweetspots
-			- -> floating structures?
+		- CBA
+		  collapsed:: true
+			- (+) known technology
+			- (+) water is about 800 times denser than air, no need for big systems to get a lot of energy out of it
+			- (-) water is about 800 times denser than air, tidal stream turbines have to be much sturdier than wind turbines
+			- (-) Places where streams are highest, are the deepest
+				- -> difficult to capitalize on the sweetspots
+				- -> floating structures?
 		- -> marginally interesting
 	- Wave energy
-		- waves due to wind blowing over the surface of the ocean
+		- *waves due to wind blowing over the surface of the ocean*
+		- Concept
+			- Capture motion by
+				- Bending device on surface
+					- Pelamis machines at Aguçadoura Wave Farm (Portugal): hydraulic motors drive el. generators
+				- Channel waves (or tidal flow over dam) into basin and release over turbine: “overtopping”
+				- Floating devices attached to seabed
+				- Oscillating water column
+		- CBA
+			- (+) close to shore/shallow period
+			- (+) higher frequency, but still low
+			- (-) reliability
+			- (-) grid connection
