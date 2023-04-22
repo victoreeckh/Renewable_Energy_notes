@@ -29,10 +29,23 @@
 			- Rivers
 			- Lakes
 			- Dams (e.g. build for drinking/irrigation water retention)
-		- Reservoirs
-			- Energy conversion: $$E_{}$$
-			- Types
-				- Mountain power
+		- Turbines used
+			- Kaplan
+			- Francis
+			- Pelton
+		- Type
+			- ==Reservoirs==
+				- Energy conversion: $$E_{pot}\rightarrow E_{kin} \rightarrow E_{elec}$$
+				- Subypes
+					- Mountain power plant
+				- (+) controllable
+			- ==Run-of-River==
+				- Energy conversion: $$E_{kin} \rightarrow E_{elec}$$
+				- Subtypes
+					- Power plant in plains
+					- Power plant in plain, but with relatively large height drop due to bend
+						- Natural waterfall
+						- e.g. Niagara
 	- #### Small-scale Hydro Power
 	-
 ### Ocean Energy
