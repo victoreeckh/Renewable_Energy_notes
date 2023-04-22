@@ -4,3 +4,10 @@
 		- Flexibility needed to equate demand with supply
 			- Flexible demand
 			- flexible supply
+	- Categorize technologies regarding
+		- conversion process
+		- Energy vs Power
+		- Application
+			- ![image.png](../assets/image_1682194036223_0.png){:height 283, :width 485}
+	-
+		-
