@@ -148,4 +148,17 @@
 				- Dry matter fraction important
 			- technical potential Flanders ~ 770 GWhe/a
 		- VFG
-			-
+			- VFG/GFT + “green” residue
+				- mostly invested in aerobic compostation installations → likely to be used; no energetic potential left
+				- Heating Value ~ 9 GJ/ton
+			- remaining household waste
+				- even with “selective collection”, organic-biologic fraction of household waste remains quite high
+				- Heating Value ~ 4 GJ/ton
+	- #### Import of biomass
+		- Zero yield transport distance
+			- the distance over which a fossil-fueled vehicle emits as much CO2 as the CO2 contents of the biomass
+			- $\leq 600km$ for trucks
+			- $\leq 2000$ for ships
+	- #### Waste Issue
+		- Landfill gas recovery
+			- gas produced by anaerobic digestion of landfill waste
