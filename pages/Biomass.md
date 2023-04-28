@@ -76,5 +76,20 @@
 					- resulting secondary energy carrier later on to be used in combustion process
 				- Gasification = *sub-stoechiometric oxidation of biomass*
 					- Amount of oxygen we add is lower than for a full oxidation (partial oxidation)
-					- Aim to generate a gas that is still combustible ($CO, H_2$ = Syngas)
 					- Mainly using heat (globally endothermic)
+					- Aim to generate a gas that is still combustible ($CO, H_2$ = Syngas)
+						- producer gas, cleaned to synthesis gas = syngas, usable in CHP
+				- Systems/installations
+					- ==BIG-STIG== (=biomass-integrated gasifier/steam injected gas turbine)
+						- Most advanced system
+						- part of steam produced in heat recovery boiler injected in gas turbine to boost efficiency
+						- power values 2-5 MWe
+					- ==IGCC== (Integrated gasification combined cycle)
+						- for large-scale installations
+						- Also called BIGCC
+						- Process (3 places where energy is generated)
+							- gasifier $Q_{produced} \rightarrow$ steam turbine (1)
+							- Synthesis gas $\rightarrow$ in gas turbine (2)
+							- Exhaust gases turbine $Q \rightarrow$ steam cycle (3)
+							-
+							-
