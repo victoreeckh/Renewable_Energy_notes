@@ -211,7 +211,7 @@
 						- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
 						- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
 		- **Li-ion Cells**
-			- A lot of slides skipped: 91-95
+			- A lot of slides skipped: 91-95, 111-118
 			- Positive electrode
 				- LFP probably dominant technology for the coming years
 					- Used by Tesla
@@ -292,9 +292,18 @@
 		- **NaS batteries**
 			- Operating $$T>\pm 300^{\circ}C$$
 			- Sodium also interchangeable with Li
-			- (+) high roundtrip efficiency
-			- (-) substantial energy loss because of heat-up
-			-
-			-
+			- CBA
+			  collapsed:: true
+				- (+) high roundtrip efficiency, Good cyclability
+				- (+) Relatively high energy density
+				- (+) High energy-storage efficiency
+				- (+)Suited for both power and energy applications
+				- (-) substantial energy loss because of heat-up in between charge discharge (start-up)
+					- Global efficiency influenced by the auxiliaries for thermal management
+					- Outside that kept warm because of own cell-losses
+					- Thermal leakage during discharge: 0.6-1% of the nominal capacity per hour
+		- **NaNiCl**
+	- Flow batteries
+		-
 	-
 -
