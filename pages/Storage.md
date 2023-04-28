@@ -269,5 +269,14 @@
 				- (+) High thermal stability allows high current discharge
 				- () Energy density: 95-140 Wh/kg
 				- Will be number one battery for all kind of static storage
-			-
+			- $Li_4Ti_5O_{12}$ (Li-Titanate)
+				- (+) Safer battery
+				- (+) High power density: 4 kW/kg
+				- (-) Lower energy density: 50-90 Wh/kg
+					- Compensated by limited ageing
+			- Li-polymer
+				- Polymer electrolyte replaces traditional porous separator: resembles plastic-like film that allows ion-exchange
+				- (+) Very flexible form factor
+				- (+) Improved safety: resistant to overcharge, no liquid electrolyte leakage
+				- (-) Poorer conductivity: high internal resistance does not allow current bursts
 -
