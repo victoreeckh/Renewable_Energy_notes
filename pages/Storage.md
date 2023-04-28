@@ -175,5 +175,29 @@
 			- Absorbed Glass Mat (AGM) VRLA: low resistance
 			  microporous glass fiber immobilizes the electrolyte and acts as separator, newer and more abuse tolerant than Gel VRLA
 			- Gel VRLA: mixing electrolyte with micron diameter silicon dioxide, very small rate of charge (C/20) to prevent excess gas from damaging the cell
-			- Open / Flooded Cells: during overcharging gasses escape àreplenishing with water
+			- Open / Flooded Cells: during overcharging gasses escape ->replenishing with water
+	- **Nickel batteries**
+		- (+) Extremely flat discharge curve,closest toideal
+		  battery
+		- (+) Extremely low ESR: high peak discharge currents
+		- (-)  Impossible to estimate SOC based on voltage
+		- Types
+			- Nickel Iron batteries: Completely abandoned technology due to their
+			  poor low temperature performance and poor energy efficiency
+			- NiCd
+				- popular type of rechargeable battery using the metals nickel (Ni) and cadmium (Cd) as the active chemicals
+				- CBA
+					- (+)
+						- (+) beneficial weight/energy ratio as compared to PbAc
+						- (+) Long storage life
+						- (+)  Wide operational temperature range
+					- (-)
+						- (-)  Low energy efficiency: 60-70 %
+						- (-) High self discharge
+						- (-)Suffers from memory effect (dendrites are formed at electrode surface when recharging at low DOD)
+						- (-) Toxic -> careful recycling needed
+				- Now forbidden to sell, except for specific applications because of the Cd content
+			- Nickel-metal hydride
+				-
+		-
 -
