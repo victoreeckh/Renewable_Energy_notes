@@ -182,4 +182,9 @@
 		- quite high
 		- But broad range
 	- LCOE
+		- 0.076
+		- lower end of renewables
+		- But variability and broad range
+	- Broad ranges
+		- Dependent on size and type of the installations
 		-
