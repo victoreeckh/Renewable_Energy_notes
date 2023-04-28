@@ -213,6 +213,19 @@
 		- A lot of slides skipped:
 		- Positive electrode
 			- LFP probably dominant technology for the coming years
-				-
+				- Used by Tesla
+				- Home storage batteries (You don't want toxic elements in house in case of fire)
+		- Negative electrode
+		- Charging
+			- Process #.ol
+				- 1st stage: max. charging current until V reaches ± 4,2 V.
+				- 2nd stage: charging at constant voltage until current drops below 0.03 C
+					- Increasing charge current shortens stage 1 but prolongs stage 2!
+				- 3rd stage: to compensate self-
+				  discharge, NO trickle charge
+			- High amount of cycles possible
+		- Li batteries are very T sensitive
+			- Li-ion f
 		-
+			-
 -
