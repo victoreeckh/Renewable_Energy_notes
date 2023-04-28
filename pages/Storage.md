@@ -304,6 +304,6 @@
 					- Thermal leakage during discharge: 0.6-1% of the nominal capacity per hour
 		- **NaNiCl**
 	- Flow batteries
-		-
+		- Va
 	-
 -
