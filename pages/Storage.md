@@ -165,8 +165,8 @@
 			-
 		- ![image.png](../assets/image_1682670398058_0.png){:height 315, :width 417}
 	- **Normal**
-	  collapsed:: true
 		- **Lead Acid**
+		  collapsed:: true
 			- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
 			- They have the second lowest energy density (next to the obsolete NiFe badery)
 			- Effective lead pollution control system is a necessity for sustainable environment
@@ -179,6 +179,7 @@
 				- Gel VRLA: mixing electrolyte with micron diameter silicon dioxide, very small rate of charge (C/20) to prevent excess gas from damaging the cell
 				- Open / Flooded Cells: during overcharging gasses escape ->replenishing with water
 		- **Nickel batteries**
+		  collapsed:: true
 			- (+) Extremely flat discharge curve,closest toideal
 			  battery
 			- (+) Extremely low ESR: high peak discharge currents
@@ -212,6 +213,7 @@
 						- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
 						- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
 		- **Li-ion Cells**
+		  collapsed:: true
 			- A lot of slides skipped: 91-95, 111-118, 125-129
 			- Positive electrode
 				- LFP probably dominant technology for the coming years
@@ -290,11 +292,12 @@
 			- Structure
 				- Cells put in 19inch racks -> Racks to towers -> Container filled with towers
 		- **Metal air**
+		  collapsed:: true
 			- Zn-air
 				- One time use
 	- **High Temperature**
-	  collapsed:: true
 		- **NaS batteries**
+		  collapsed:: true
 			- Operating $$T>\pm 300^{\circ}C$$
 			- Sodium also interchangeable with Li
 			- CBA
@@ -309,13 +312,14 @@
 					- Thermal leakage during discharge: 0.6-1% of the nominal capacity per hour
 		- **NaNiCl**
 	- **Flow batteries**
-	  collapsed:: true
 		- Decoupling between power and energy
 			- Power: number of cells
 			- Capacity: storage tanks
 		- **Vanadium (VRB)**
+		  collapsed:: true
 			- A lot of ions -> a lot of charges
 	- **EV as storage device**
+	  collapsed:: true
 		- Plug-in vehicles
 			- Large flexibility potential when being plugged in sufficiently
 			- Grid support
