@@ -164,119 +164,137 @@
 		- ![image.png](../assets/image_1682670364570_0.png){:height 314, :width 394}
 			-
 		- ![image.png](../assets/image_1682670398058_0.png){:height 315, :width 417}
-	- **Lead Acid**
-		- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
-		- They have the second lowest energy density (next to the obsolete NiFe badery)
-		- Effective lead pollution control system is a necessity for sustainable environment
-		- Problems
-			- Gel instead of liquid to avoid dry out
-			- Salt crystal growth on diodes, reduces conduction
-		- Technologies
-			- Absorbed Glass Mat (AGM) VRLA: low resistance
-			  microporous glass fiber immobilizes the electrolyte and acts as separator, newer and more abuse tolerant than Gel VRLA
-			- Gel VRLA: mixing electrolyte with micron diameter silicon dioxide, very small rate of charge (C/20) to prevent excess gas from damaging the cell
-			- Open / Flooded Cells: during overcharging gasses escape ->replenishing with water
-	- **Nickel batteries**
-		- (+) Extremely flat discharge curve,closest toideal
-		  battery
-		- (+) Extremely low ESR: high peak discharge currents
-		- (-)  Impossible to estimate SOC based on voltage
-		- Types
-			- ==Nickel Iron batteries==: Completely abandoned technology due to their
-			  poor low temperature performance and poor energy efficiency
-			- ==NiCd==
-				- popular type of rechargeable battery using the metals nickel (Ni) and cadmium (Cd) as the active chemicals
-				- CBA
-					- (+)
-						- (+) beneficial weight/energy ratio as compared to PbAc
-						- (+) Long storage life
-						- (+)  Wide operational temperature range
-					- (-)
-						- (-)  Low energy efficiency: 60-70 %
-						- (-) High self discharge
-						- (-)Suffers from memory effect (dendrites are formed at electrode surface when recharging at low DOD)
-						- (-) Toxic -> careful recycling needed
-				- Now forbidden to sell, except for specific applications because of the Cd content
-			- ==Nickel-metal hydride==
-				- CBA
-					- (+) Mature and safe
-					- (-) High self-discharge: can lose up to 30 % of its capacity in a month, as always self discharge increases with temperature
-					- (-) High temperature operation results in accelerated aging => cooling very important
-					- (-) Modest energy density: 35-70 Wh/kg
-					- (-) Low storage efficiency
-					- (-) low potential for cost reduction and
-					  increase in energy density
-				- Vs Li-ion
-					- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
-					- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
-	- **Li-ion Cells**
-		- A lot of slides skipped: 91-95
-		- Positive electrode
-			- LFP probably dominant technology for the coming years
-				- Used by Tesla
-				- Home storage batteries (You don't want toxic elements in house in case of fire)
-		- Negative electrode
-		- Charging
-			- Process #.ol
-				- 1st stage: max. charging current until V reaches ± 4,2 V.
-				- 2nd stage: charging at constant voltage until current drops below 0.03 C
-					- Increasing charge current shortens stage 1 but prolongs stage 2!
-				- 3rd stage: to compensate self-
-				  discharge, NO trickle charge
-			- High amount of cycles possible
-		- Li batteries are very T sensitive
-		- Li-ion failure modes
-			- Li-ion failure modes due to internal damage
-			  collapsed:: true
-				- separator failure
-				- dendrite growth from the anode through the separator
-				- Li plating on the anode
-			- Li-ion failure modes due to external causes
-			  collapsed:: true
-				- mechanical damage
-				- external short circuit
-				- cell overcharge
-				- cell overdischarge
-				- low temperature recharging
-				- high temperature storage
-				- design errors
-				- poor manufacturing processes
-			- -> Safety features
-			  collapsed:: true
-				- BMS monitors electric quantities and temperatures of each cell
-				- Cell level safety-features
-					- Current interrupt device
-					- PTC disks in the cell header
-					- Current limiting fuses
-					- (Bypass) diodes
-					- Valves
-					- Strong and puncture resistant containment
-		- Types
-			- $LiCoO_2$
-				- (+) High energy density
-				- (-) high internal resistance combined with low thermal stability (T limited to 130°C) => high currents
-				  result in excessive heating and thermal runaway
-				- Not used anymore (except exotic appliactions, in space etc.)
-			- $LiMnO_2$ (LMO)
-				- Three-dimensional spinel structure improves ion flow
-				  between electrodes (LMS)
-				- (+) Lower internal resistance combined with high thermal stability (T up to 250°C) => high currents are
-				- (-) Lower energy density: 110-120 Wh/kg
-			- $LiNiCoAl$ (NCA) and $LiNiCoMn$ (NMC)
-				- (+) High thermal stability allows high current discharge
-				- () Energy density: 95-130 Wh/kg
-			- $LiFePO_4$ (LFP)
-				- (+) High thermal stability allows high current discharge
-				- () Energy density: 95-140 Wh/kg
-				- Will be number one battery for all kind of static storage
-			- $Li_4Ti_5O_{12}$ (Li-Titanate)
-				- (+) Safer battery
-				- (+) High power density: 4 kW/kg
-				- (-) Lower energy density: 50-90 Wh/kg
-					- Compensated by limited ageing
-			- Li-polymer
-				- Polymer electrolyte replaces traditional porous separator: resembles plastic-like film that allows ion-exchange
-				- (+) Very flexible form factor
-				- (+) Improved safety: resistant to overcharge, no liquid electrolyte leakage
-				- (-) Poorer conductivity: high internal resistance does not allow current bursts
+	- Normal
+		- **Lead Acid**
+			- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
+			- They have the second lowest energy density (next to the obsolete NiFe badery)
+			- Effective lead pollution control system is a necessity for sustainable environment
+			- Problems
+				- Gel instead of liquid to avoid dry out
+				- Salt crystal growth on diodes, reduces conduction
+			- Technologies
+				- Absorbed Glass Mat (AGM) VRLA: low resistance
+				  microporous glass fiber immobilizes the electrolyte and acts as separator, newer and more abuse tolerant than Gel VRLA
+				- Gel VRLA: mixing electrolyte with micron diameter silicon dioxide, very small rate of charge (C/20) to prevent excess gas from damaging the cell
+				- Open / Flooded Cells: during overcharging gasses escape ->replenishing with water
+		- **Nickel batteries**
+			- (+) Extremely flat discharge curve,closest toideal
+			  battery
+			- (+) Extremely low ESR: high peak discharge currents
+			- (-)  Impossible to estimate SOC based on voltage
+			- Types
+				- ==Nickel Iron batteries==: Completely abandoned technology due to their
+				  poor low temperature performance and poor energy efficiency
+				- ==NiCd==
+					- popular type of rechargeable battery using the metals nickel (Ni) and cadmium (Cd) as the active chemicals
+					- CBA
+						- (+)
+							- (+) beneficial weight/energy ratio as compared to PbAc
+							- (+) Long storage life
+							- (+)  Wide operational temperature range
+						- (-)
+							- (-)  Low energy efficiency: 60-70 %
+							- (-) High self discharge
+							- (-)Suffers from memory effect (dendrites are formed at electrode surface when recharging at low DOD)
+							- (-) Toxic -> careful recycling needed
+					- Now forbidden to sell, except for specific applications because of the Cd content
+				- ==Nickel-metal hydride==
+					- CBA
+						- (+) Mature and safe
+						- (-) High self-discharge: can lose up to 30 % of its capacity in a month, as always self discharge increases with temperature
+						- (-) High temperature operation results in accelerated aging => cooling very important
+						- (-) Modest energy density: 35-70 Wh/kg
+						- (-) Low storage efficiency
+						- (-) low potential for cost reduction and
+						  increase in energy density
+					- Vs Li-ion
+						- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
+						- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
+		- **Li-ion Cells**
+			- A lot of slides skipped: 91-95
+			- Positive electrode
+				- LFP probably dominant technology for the coming years
+					- Used by Tesla
+					- Home storage batteries (You don't want toxic elements in house in case of fire)
+			- Negative electrode
+			- Charging
+				- Process #.ol
+					- 1st stage: max. charging current until V reaches ± 4,2 V.
+					- 2nd stage: charging at constant voltage until current drops below 0.03 C
+						- Increasing charge current shortens stage 1 but prolongs stage 2!
+					- 3rd stage: to compensate self-
+					  discharge, NO trickle charge
+				- High amount of cycles possible
+			- Li batteries are very T sensitive
+			- Li-ion failure modes
+				- Li-ion failure modes due to internal damage
+				  collapsed:: true
+					- separator failure
+					- dendrite growth from the anode through the separator
+					- Li plating on the anode
+				- Li-ion failure modes due to external causes
+				  collapsed:: true
+					- mechanical damage
+					- external short circuit
+					- cell overcharge
+					- cell overdischarge
+					- low temperature recharging
+					- high temperature storage
+					- design errors
+					- poor manufacturing processes
+				- -> Safety features
+				  collapsed:: true
+					- BMS monitors electric quantities and temperatures of each cell
+					- Cell level safety-features
+						- Current interrupt device
+						- PTC disks in the cell header
+						- Current limiting fuses
+						- (Bypass) diodes
+						- Valves
+						- Strong and puncture resistant containment
+			- Types
+				- $LiCoO_2$
+				  collapsed:: true
+					- (+) High energy density
+					- (-) high internal resistance combined with low thermal stability (T limited to 130°C) => high currents
+					  result in excessive heating and thermal runaway
+					- Not used anymore (except exotic appliactions, in space etc.)
+				- $LiMnO_2$ (LMO)
+				  collapsed:: true
+					- Three-dimensional spinel structure improves ion flow
+					  between electrodes (LMS)
+					- (+) Lower internal resistance combined with high thermal stability (T up to 250°C) => high currents are
+					- (-) Lower energy density: 110-120 Wh/kg
+				- $LiNiCoAl$ (NCA) and $LiNiCoMn$ (NMC)
+				  collapsed:: true
+					- (+) High thermal stability allows high current discharge
+					- () Energy density: 95-130 Wh/kg
+				- $LiFePO_4$ (LFP)
+				  collapsed:: true
+					- (+) High thermal stability allows high current discharge
+					- () Energy density: 95-140 Wh/kg
+					- Will be number one battery for all kind of static storage
+				- $Li_4Ti_5O_{12}$ (Li-Titanate)
+				  collapsed:: true
+					- (+) Safer battery
+					- (+) High power density: 4 kW/kg
+					- (-) Lower energy density: 50-90 Wh/kg
+						- Compensated by limited ageing
+				- Li-polymer
+				  collapsed:: true
+					- Polymer electrolyte replaces traditional porous separator: resembles plastic-like film that allows ion-exchange
+					- (+) Very flexible form factor
+					- (+) Improved safety: resistant to overcharge, no liquid electrolyte leakage
+					- (-) Poorer conductivity: high internal resistance does not allow current bursts
+			- Structure
+				- Cells put in 19inch racks -> Racks to towers -> Container filled with towers
+	- High Temperature
+		- **NaS batteries**
+			- Operating $$T>\pm 300^{\circ}C$$
+			- Sodium also interchangeable with Li
+			- (+) high roundtrip efficiency
+			- (-) substantial energy loss because of heat-up
+			-
+			-
+	-
 -
