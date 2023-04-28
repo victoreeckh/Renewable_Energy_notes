@@ -5,4 +5,20 @@
 		- 3-rd generation: genetically modified crops, algae
 		- Old classification (now advanced biomass)
 	- Types
-		-
+		- Bioethanol
+			- Lower energy content compared to gasoline -> lower energy density -> more quantity required
+		- Corn ethanol
+			- Energy balance: 1.3 (Low)
+			- Emissions: $-22\%$
+		- Cane Ethanol
+			- Energy balance: 8 (Higher)
+			- Emissions: $-56\%$
+		- Cellulosic ethanol
+			- Energy balance: 2-36 (High range depending on production method)
+			- Emissions: $-91\%$
+		- Biodiesel
+			- Energy balance: 2.5
+			- Emissions: $-68\%$
+		- Algae
+		- Palmoil
+			- Expropriation of rain forest; drying of wetlands, loss of biodiversity, etc.
