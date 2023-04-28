@@ -72,6 +72,9 @@
 			- ![image.png](../assets/image_1682706909139_0.png){:height 301, :width 429}
 		- Major processes
 			- **Thermo-chemical-gasification**
-				- Thermo-chemical = *decomposition of biomass by means of heat resulting secondary energy carrier later on to be used in combustion process*
+				- Thermo-chemical = *decomposition of biomass by means of heat*
+					- resulting secondary energy carrier later on to be used in combustion process
 				- Gasification = *sub-stoechiometric oxidation of biomass*
-				-
+					- Amount of oxygen we add is lower than for a full oxidation (partial oxidation)
+					- Aim to generate a gas that is still combustible ($CO, H_2$ = Syngas)
+					- Mainly using heat (globally endothermic)
