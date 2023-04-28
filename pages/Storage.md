@@ -164,7 +164,8 @@
 		- ![image.png](../assets/image_1682670364570_0.png){:height 314, :width 394}
 			-
 		- ![image.png](../assets/image_1682670398058_0.png){:height 315, :width 417}
-	- Normal
+	- **Normal**
+	  collapsed:: true
 		- **Lead Acid**
 			- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
 			- They have the second lowest energy density (next to the obsolete NiFe badery)
@@ -211,7 +212,7 @@
 						- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
 						- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
 		- **Li-ion Cells**
-			- A lot of slides skipped: 91-95, 111-118
+			- A lot of slides skipped: 91-95, 111-118, 125-129
 			- Positive electrode
 				- LFP probably dominant technology for the coming years
 					- Used by Tesla
@@ -288,7 +289,11 @@
 					- (-) Poorer conductivity: high internal resistance does not allow current bursts
 			- Structure
 				- Cells put in 19inch racks -> Racks to towers -> Container filled with towers
-	- High Temperature
+		- **Metal air**
+			- Zn-air
+				- One time use
+	- **High Temperature**
+	  collapsed:: true
 		- **NaS batteries**
 			- Operating $$T>\pm 300^{\circ}C$$
 			- Sodium also interchangeable with Li
@@ -303,7 +308,21 @@
 					- Outside that kept warm because of own cell-losses
 					- Thermal leakage during discharge: 0.6-1% of the nominal capacity per hour
 		- **NaNiCl**
-	- Flow batteries
-		- Va
-	-
+	- **Flow batteries**
+	  collapsed:: true
+		- Decoupling between power and energy
+			- Power: number of cells
+			- Capacity: storage tanks
+		- **Vanadium (VRB)**
+			- A lot of ions -> a lot of charges
+	- **EV as storage device**
+		- Plug-in vehicles
+			- Large flexibility potential when being plugged in sufficiently
+			- Grid support
+				- Controlled charging
+					- Bidirecfonal / unidirecfonal / Q?
+			- V2G / V2H
+			- Expensive due to degradation of battery
+			- Competition from home battery
+		-
 -
