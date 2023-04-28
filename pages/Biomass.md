@@ -80,6 +80,7 @@
 					- Amount of oxygen we add is lower than for a full oxidation (partial oxidation)
 					- Mainly using heat (globally endothermic)
 					- Aim to generate a gas that is still combustible ($CO, H_2$ = Syngas)
+					  collapsed:: true
 						- producer gas, cleaned to synthesis gas = syngas, usable in CHP
 				- Systems/installations
 					- ==BIG-STIG== (=biomass-integrated gasifier/steam injected gas turbine)
@@ -108,6 +109,7 @@
 					- production of ethanol $C_2H_5OH$ from start from biomass with starch or sugars (sugar beets, sugar cane, wheat)
 					  id:: 644c1f0a-27fa-428d-8060-dca358bb89e4
 			- Aerobic digestion
+			  collapsed:: true
 				- = *"Composting"*
 				- used as “waste treatment” of GFT/VFG
 				- while composting, “heat” is released together with CO2, H2O, (NH3 and S-compounds), but no other valuable side-products : No CH4
@@ -115,12 +117,20 @@
 				- decomposition organic material in absence of O2
 				- produces mixture of CO2 and CH4 (biogas)
 				- Although bacteria produce heat, often necessary to add heat to keep T ≥ 35° C (even when exothermic)
+				  collapsed:: true
 					- Sometimes necessary to recycle all gas produced -> no net energy “production”
 				- DRANCO
+				  collapsed:: true
 					- Dry Anaerobic Composting
 					- developed in Flanders in 19-eighties
 					- anaerobic digestion phase: CO2 + CH4
 					- Aerobic composting phase → compost
 					- Sources: GFT/VFG, de-watered sludge, paper, industrial waste
 					- $T \approx 50^{\circ}C$
-					-
+- ### Energy Content
+	- Crops
+		- Indicators
+			- Energy production per ha $[GJ/ha-a]$
+			- Heating value $[GJ/ton]$
+			- energy-out/energy-in
+		-
