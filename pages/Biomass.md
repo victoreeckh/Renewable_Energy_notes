@@ -81,18 +81,26 @@
 						- producer gas, cleaned to synthesis gas = syngas, usable in CHP
 				- Systems/installations
 					- ==BIG-STIG== (=biomass-integrated gasifier/steam injected gas turbine)
+					  collapsed:: true
 						- Most advanced system
 						- part of steam produced in heat recovery boiler injected in gas turbine to boost efficiency
 						- power values 2-5 MWe
 					- ==IGCC== (Integrated gasification combined cycle)
+					  collapsed:: true
 						- for large-scale installations
 						- Also called BIGCC
 						- Process (3 places where energy is generated)
+						  collapsed:: true
 							- gasifier $Q_{produced} \rightarrow$ steam turbine (1)
 							- Synthesis gas $\rightarrow$ in gas turbine (2)
 							- Exhaust gases turbine $Q \rightarrow$ steam cycle (3)
 						- Advantages/disadvantages
+						  collapsed:: true
 							- (+)  easily capture CO2 (but then need to develop H2 gas turbines)
+							  collapsed:: true
 								- leads to negative CO2 emissions when BIGCC
 							- (+/-) BIGCCs can benefit from experience with coal-fired IGCCs, but currently not too many IGCCs built
 							- (-) Major problem: gas cleaning purification
+			- **Biochemical Fermentation**
+				-
+				-
