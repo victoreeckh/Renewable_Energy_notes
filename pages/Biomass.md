@@ -22,3 +22,18 @@
 		- Algae
 		- Palmoil
 			- Expropriation of rain forest; drying of wetlands, loss of biodiversity, etc.
+	- Definition
+		- = *all material of organic origin that is not of fossil nature*
+			- Usually, distinction between biomass and fossil is put at peat (NL: turf)
+		- Sorts of biomass considered
+			- energy crops:
+				- willow,
+				- poplar
+				- sugar beet
+			- organic rest streams:
+				- rest wood from forests,
+				- remainders wood industry (sawdust, wood chips ...),
+				- straw,
+				- manure,
+				- selectively collected “GFT” (“VFG”) waste,
+				- organic fraction household waste
