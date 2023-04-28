@@ -69,6 +69,8 @@
 			- thermo chemical
 			- physico chemical
 			- bio chemical
+				- = decomposition of organic matter by means of micro organisms
+					- (An)aerobic = with(out) $O_2$
 			- ![image.png](../assets/image_1682706909139_0.png){:height 301, :width 429}
 		- Major processes
 			- **Thermo-chemical-gasification**
@@ -102,5 +104,12 @@
 							- (+/-) BIGCCs can benefit from experience with coal-fired IGCCs, but currently not too many IGCCs built
 							- (-) Major problem: gas cleaning purification
 			- **Biochemical Fermentation**
-				-
+				- Alcohol fermentation
+					- production of ethanol $C_2H_5OH$ from start from biomass with starch or sugars (sugar beets, sugar cane, wheat)
+					  id:: 644c1f0a-27fa-428d-8060-dca358bb89e4
+			- Aerobic digestion
+				- = *"Composting"*
+				- used as “waste treatment” of GFT/VFG
+				- while composting, “heat” is released together with CO2, H2O, (NH3 and S-compounds), but no other valuable side-products : No CH4
+			- **Anaerobic digestion/ "gasification"**
 				-
