@@ -253,5 +253,21 @@
 					- Strong and puncture resistant containment
 		- Types
 			- $LiCoO_2$
+				- (+) High energy density
+				- (-) high internal resistance combined with low thermal stability (T limited to 130°C) => high currents
+				  result in excessive heating and thermal runaway
+				- Not used anymore (except exotic appliactions, in space etc.)
+			- $LiMnO_2$ (LMO)
+				- Three-dimensional spinel structure improves ion flow
+				  between electrodes (LMS)
+				- (+) Lower internal resistance combined with high thermal stability (T up to 250°C) => high currents are
+				- (-) Lower energy density: 110-120 Wh/kg
+			- $LiNiCoAl$ (NCA) and $LiNiCoMn$ (NMC)
+				- (+) High thermal stability allows high current discharge
+				- () Energy density: 95-130 Wh/kg
+			- $LiFePO_4$ (LFP)
+				- (+) High thermal stability allows high current discharge
+				- () Energy density: 95-140 Wh/kg
+				- Will be number one battery for all kind of static storage
 			-
 -
