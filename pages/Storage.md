@@ -50,4 +50,13 @@
 			- Proven (mature) technology in a new innovative context
 			- Facilitating the integration of off shore wind power
 			- Future off shore Supergrid building block
+	- #### CAES
+		- = Compressed Air Energy Storage
+		- Often combined with Gas plant
+		- CBA
+			- (+) Low capital cost (integrated in CCGT plant)
+			- (-) Need for natural cavity (typically salt cavern)
+			- (-) Lower round trip efficiency
+				- Energy lost to the boundaries of the cavern
+			- (-) Depends on presence of gas turbines and natural gas pipeline
 	-
