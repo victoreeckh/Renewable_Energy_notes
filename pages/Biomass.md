@@ -58,10 +58,20 @@
 	- #### Direct Combustion
 		- = *Thermo-chemical process releasing heat*
 		- $C_aH_b + Ox \rightarrow CO_2+H_2O +heat$
+			- Use heat directly or convert to electricity with steam generators (Rankine cycle)
 		- E.g.
 			- wood stoves for heat generation
 			- waste incinerators for electricity and/or heat generation
 		- Interesting applications
 			- Interesting route could be cofiring / co-combustion with coal in regions with ample recent investments in coal-fired plants (China, India)
 	- #### Conversion to secondary energy carrier
-		-
+		- Categories
+			- thermo chemical
+			- physico chemical
+			- bio chemical
+			- ![image.png](../assets/image_1682706909139_0.png){:height 301, :width 429}
+		- Major processes
+			- **Thermo-chemical-gasification**
+				- Thermo-chemical = *decomposition of biomass by means of heat resulting secondary energy carrier later on to be used in combustion process*
+				- Gasification = *sub-stoechiometric oxidation of biomass*
+				-
