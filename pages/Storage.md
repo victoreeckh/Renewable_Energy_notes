@@ -80,8 +80,10 @@
 	- #### Supercapacitors
 		- *A supercapacitor or an ultracapacitor is an electrochemical capacitor that has an unusually large amount of energy storage capability relative to its size when compared to common capacitors.*
 		- Concept
-			- Electrostatic: low capacitance, no electrolyte, insulating material in between electrodes: mica, teflon, ceramic, ...
-			- Electrolytic: “Elco”, DC-link energy storage, high single cell voltage compared to EDLC, high capacitance compared to electrostatic caps, inherently polar
+			- electrochemical energy storage device that stores electrical energy in an electric field between two electrodes separated by an electrolyte
+			- Supercapacitors can store much more energy than traditional capacitors due to their larger surface area and thinner dielectric layers, allowing them to store more charge
+				- Electrostatic: low capacitance, no electrolyte, insulating material in between electrodes: mica, teflon, ceramic, ...
+				- Electrolytic: “Elco”, DC-link energy storage, high single cell voltage compared to EDLC, high capacitance compared to electrostatic caps, inherently polar
 		- CBA
 			- (+)
 				- (+) Very high rates of charge and discharge.
@@ -93,4 +95,14 @@
 				- (-) The voltage varies strongly with the energy stored. To effectively store and recover energy requires sophisticated electronic control and switching equipment.
 				- (-) Exhibits the highest dielectric absorption (inability, when being charged for a long time, to completely discharge) of all types of capacitors: 15-25 % Vnom
 				- (-) Low cell voltage (2,5-2,7 V): series coupling of several tens of cells to obtain a useful voltage
+		- Applications
+			- Leuven buses
+				- Store braking energy
+				- But hybrid buses are being pushed out the market
+	- #### Superconducting Magnet Energy Storage (SMES)
+		- Concept
+			- type of energy storage system that uses a superconducting coil to store electrical energy in a magnetic field
+			- The superconducting coil is made of a material that exhibits zero electrical resistance when it is cooled to a very low temperature, typically near absolute zero (-273.15°C or -459.67°F). This allows a large amount of electrical current to flow through the coil without any energy loss due to resistance.
+		- When energy is stored in the SMES system, a large current is passed through the superconducting coil, creating a strong magnetic field. When energy is required, the magnetic field is used to generate an electrical current that can be used to power devices or systems.
+		-
 		-
