@@ -28,24 +28,40 @@
 		- Palmoil
 		  collapsed:: true
 			- Expropriation of rain forest; drying of wetlands, loss of biodiversity, etc.
-	- Definition
+	- #### Definition
 		- = *all material of organic origin that is not of fossil nature*
+		  collapsed:: true
 			- Usually, distinction between biomass and fossil is put at peat (NL: turf)
 		- = *Stored solar energy*
 		- Sorts of biomass considered
 			- ==energy crops==:
+			  collapsed:: true
 				- willow,
 				- poplar
 				- sugar beet
 			- ==organic rest streams==:
+			  collapsed:: true
 				- rest wood from forests,
 				- remainders wood industry (sawdust, wood chips ...),
 				- straw,
 				- manure,
 				- selectively collected “GFT” (“VFG”) waste,
 				- organic fraction household waste
-	- Perspective
+	- #### Perspective
+	  collapsed:: true
 		- Only 0.64% of total annual solar energy is made available in the crop through photosynthesis
 		- Contribution to energy supply (as percentage of total global energy)
 			- 2004: 20-44% -> ±33%
-			- 2012:
+			- 2012: Very big range
+			- 2018: 15-25% (realistically, by Peak)
+- ### Conversion Technology
+	- #### Direct Combustion
+		- = *Thermo-chemical process releasing heat*
+		- $C_aH_b + Ox \rightarrow CO_2+H_2O +heat$
+		- E.g.
+			- wood stoves for heat generation
+			- waste incinerators for electricity and/or heat generation
+		- Interesting applications
+			- Interesting route could be cofiring / co-combustion with coal in regions with ample recent investments in coal-fired plants (China, India)
+	- #### Conversion to secondary energy carrier
+		-
