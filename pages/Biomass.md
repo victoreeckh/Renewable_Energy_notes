@@ -162,3 +162,12 @@
 	- #### Waste Issue
 		- Landfill gas recovery
 			- gas produced by anaerobic digestion of landfill waste
+			- Composition: $CH_4 (\sim 40-60\%)+CO_2 (\sim 60-40\%)$
+			- Heating value: $15-22MJ/Nm^3$
+			- See evolution (slide 66)
+			- Categories in Flanders #.ol
+				- Industrial Waste
+				- Biologic active landfills
+				- inert construction material
+		- Sludge co-combustion
+			-
