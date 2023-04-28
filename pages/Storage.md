@@ -168,5 +168,12 @@
 		- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
 		- They have the second lowest energy density (next to the obsolete NiFe badery)
 		- Effective lead pollution control system is a necessity for sustainable environment
-		-
+		- Problems
+			- Gel instead of liquid to avoid dry out
+			- Salt crystal growth on diodes, reduces conduction
+		- Technologies
+			- Absorbed Glass Mat (AGM) VRLA: low resistance
+			  microporous glass fiber immobilizes the electrolyte and acts as separator, newer and more abuse tolerant than Gel VRLA
+			- Gel VRLA: mixing electrolyte with micron diameter silicon dioxide, very small rate of charge (C/20) to prevent excess gas from damaging the cell
+			- Open / Flooded Cells: during overcharging gasses escape àreplenishing with water
 -
