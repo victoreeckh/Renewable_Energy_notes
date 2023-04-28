@@ -141,24 +141,32 @@
 		- (-) Low efficiency
 	- #### Batteries
 		- Concept
+		  collapsed:: true
 			- Negative electrode: good electron donor
 			- Positive electrode: electron acceptor (lithium cobalt oxide,
 			  lead oxide)
 			- Electrolyte: pure ionic conductor, usually liquid solvent- based, only stable in certain voltage ranges otherwise decomposition
 		- At low discharge depth: flat voltage characteristic (not linear as with capacitors)
+		  collapsed:: true
 			- battery management system added (keeps track of how much energy is charged/discharged by integrating the currents)
 			- Avoid the voltage collapse
 		- Losses
+		  collapsed:: true
 			- Electrical (Joule losses because of internal resistence)
 			- Chemical losses
 		- Equivalent circuit
+		  collapsed:: true
 			- ![image.png](../assets/image_1682671139364_0.png)
 			- With capacitors $$C_{trans}$$, $$C_{ss}$$ High
 			- With capacitors $$C_{trans}$$, $$C_{ss}$$ small, otherwise $$\tau = RC$$ is big and discharge is slow
 			- -> possible to design towards requirements
+		- See safety slide
 		- ![image.png](../assets/image_1682670364570_0.png){:height 314, :width 394}
 			-
 		- ![image.png](../assets/image_1682670398058_0.png){:height 315, :width 417}
 	- **Lead Acid**
+		- Lead-acid baderies are the oldest type of galvanic cells and are the most commonly used rechargeable baderies today
+		- They have the second lowest energy density (next to the obsolete NiFe badery)
+		- Effective lead pollution control system is a necessity for sustainable environment
 		-
 -
