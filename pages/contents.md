@@ -5,3 +5,4 @@
 - ## [[Solar]]
 - ## [[Hydroelectricity]]
 - ## [[Storage]]
+- ## [[Biomass]]

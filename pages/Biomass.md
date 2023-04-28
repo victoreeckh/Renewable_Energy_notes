@@ -1,0 +1,6 @@
+- ### Introduction
+	- Generations
+		- 1-st generation: bio mass also used for food supply
+		- 2-nd generation: “woody” (ligno cellulosic) biomass and waste recovery
+		- 3-rd generation: genetically modified crops, algae
+		- Old classification (now advanced biomass)
