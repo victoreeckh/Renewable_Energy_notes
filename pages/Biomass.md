@@ -4,3 +4,5 @@
 		- 2-nd generation: “woody” (ligno cellulosic) biomass and waste recovery
 		- 3-rd generation: genetically modified crops, algae
 		- Old classification (now advanced biomass)
+	- Types
+		-
