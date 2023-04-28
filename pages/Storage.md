@@ -129,3 +129,16 @@
 		  collapsed:: true
 			- only CERN
 			- Out of picture for renewable energy storage
+- ### Chemical Storage
+	- #### Electricity to gas (P2X)
+	  collapsed:: true
+		- ![image.png](../assets/image_1682669389567_0.png)
+		- More for direct use than for storage
+		- Fuel cells needed to do the oxidation (conrtolled)
+			- By definition, the process of any fuel cell could be reversed.
+			- However, a given device is usually maximized for operating in one modus and may not be built in such a way that it can be operated backwards.
+			- Fuel cells operated backwards generally do not make very efficient systems.
+		- (-) Low efficiency
+	- #### Batteries
+		- Concept
+			-
