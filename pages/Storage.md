@@ -83,7 +83,14 @@
 			- Electrostatic: low capacitance, no electrolyte, insulating material in between electrodes: mica, teflon, ceramic, ...
 			- Electrolytic: “Elco”, DC-link energy storage, high single cell voltage compared to EDLC, high capacitance compared to electrostatic caps, inherently polar
 		- CBA
-			- ()Very high rates of charge and discharge.
-			- Little degradation over hundreds of thousands of cycles.
-			- High cycle efficiency (95% or more) due to its low equivalent
-			  series resistance (ESR)
+			- (+)
+				- (+) Very high rates of charge and discharge.
+				- (+) Little degradation over hundreds of thousands of cycles.
+				- (+) High cycle efficiency (95% or more) due to its low equivalent
+				  series resistance (ESR)
+			- (-)
+				- (-) The amount of energy stored per unit weight is considerably lower than that of an electrochemical battery (3-5 Wh/kg for an Ultra Capacitor compared to 30-190 Wh/kg for a battery).
+				- (-) The voltage varies strongly with the energy stored. To effectively store and recover energy requires sophisticated electronic control and switching equipment.
+				- (-) Exhibits the highest dielectric absorption (inability, when being charged for a long time, to completely discharge) of all types of capacitors: 15-25 % Vnom
+				- (-) Low cell voltage (2,5-2,7 V): series coupling of several tens of cells to obtain a useful voltage
+		-
