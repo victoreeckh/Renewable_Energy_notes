@@ -210,7 +210,7 @@
 					- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
 					- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
 	- **Li-ion Cells**
-		- A lot of slides skipped:
+		- A lot of slides skipped: 91-95
 		- Positive electrode
 			- LFP probably dominant technology for the coming years
 				- Used by Tesla
@@ -225,7 +225,33 @@
 				  discharge, NO trickle charge
 			- High amount of cycles possible
 		- Li batteries are very T sensitive
-			- Li-ion f
-		-
+		- Li-ion failure modes
+			- Li-ion failure modes due to internal damage
+			  collapsed:: true
+				- separator failure
+				- dendrite growth from the anode through the separator
+				- Li plating on the anode
+			- Li-ion failure modes due to external causes
+			  collapsed:: true
+				- mechanical damage
+				- external short circuit
+				- cell overcharge
+				- cell overdischarge
+				- low temperature recharging
+				- high temperature storage
+				- design errors
+				- poor manufacturing processes
+			- -> Safety features
+			  collapsed:: true
+				- BMS monitors electric quantities and temperatures of each cell
+				- Cell level safety-features
+					- Current interrupt device
+					- PTC disks in the cell header
+					- Current limiting fuses
+					- (Bypass) diodes
+					- Valves
+					- Strong and puncture resistant containment
+		- Types
+			- $LiCoO_2$
 			-
 -
