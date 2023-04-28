@@ -182,9 +182,9 @@
 		- (+) Extremely low ESR: high peak discharge currents
 		- (-)  Impossible to estimate SOC based on voltage
 		- Types
-			- Nickel Iron batteries: Completely abandoned technology due to their
+			- ==Nickel Iron batteries==: Completely abandoned technology due to their
 			  poor low temperature performance and poor energy efficiency
-			- NiCd
+			- ==NiCd==
 				- popular type of rechargeable battery using the metals nickel (Ni) and cadmium (Cd) as the active chemicals
 				- CBA
 					- (+)
@@ -197,7 +197,17 @@
 						- (-)Suffers from memory effect (dendrites are formed at electrode surface when recharging at low DOD)
 						- (-) Toxic -> careful recycling needed
 				- Now forbidden to sell, except for specific applications because of the Cd content
-			- Nickel-metal hydride
-				-
+			- ==Nickel-metal hydride==
+				- CBA
+					- (+) Mature and safe
+					- (-) High self-discharge: can lose up to 30 % of its capacity in a month, as always self discharge increases with temperature
+					- (-) High temperature operation results in accelerated aging => cooling very important
+					- (-) Modest energy density: 35-70 Wh/kg
+					- (-) Low storage efficiency
+					- (-) low potential for cost reduction and
+					  increase in energy density
+				- Vs Li-ion
+					- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
+					- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
 		-
 -
