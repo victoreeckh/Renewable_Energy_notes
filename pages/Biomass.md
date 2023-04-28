@@ -133,4 +133,6 @@
 			- Energy production per ha $[GJ/ha-a]$
 			- Heating value $[GJ/ton]$
 			- energy-out/energy-in
-		-
+			- bulk density $$[kg/m^3]$$
+			- (Low) heating value $$[GJ/t]$$
+				- Energy released when full product is oxidized, but water is still in vapor phase (if condensed -> extra condensation heat -> HHV)
