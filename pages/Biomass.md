@@ -112,4 +112,15 @@
 				- used as “waste treatment” of GFT/VFG
 				- while composting, “heat” is released together with CO2, H2O, (NH3 and S-compounds), but no other valuable side-products : No CH4
 			- **Anaerobic digestion/ "gasification"**
-				-
+				- decomposition organic material in absence of O2
+				- produces mixture of CO2 and CH4 (biogas)
+				- Although bacteria produce heat, often necessary to add heat to keep T ≥ 35° C (even when exothermic)
+					- Sometimes necessary to recycle all gas produced -> no net energy “production”
+				- DRANCO
+					- Dry Anaerobic Composting
+					- developed in Flanders in 19-eighties
+					- anaerobic digestion phase: CO2 + CH4
+					- Aerobic composting phase → compost
+					- Sources: GFT/VFG, de-watered sludge, paper, industrial waste
+					- $T \approx 50^{\circ}C$
+					-
