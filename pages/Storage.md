@@ -141,4 +141,7 @@
 		- (-) Low efficiency
 	- #### Batteries
 		- Concept
-			-
+			- Negative electrode: good electron donor
+			- Positive electrode: electron acceptor (lithium cobalt oxide,
+			  lead oxide)
+			- Electrolyte: pure ionic conductor, usually liquid solvent- based, only stable in certain voltage ranges otherwise decomposition
