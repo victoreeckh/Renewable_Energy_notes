@@ -171,4 +171,15 @@
 					- need a de-gassing installation (legal obligation)
 				- inert construction material
 		- Sludge co-combustion
-			-
+			- Sewage-treatment sludge
+				- Possibility for co-combustion in coal-fired plants
+- #### Economics
+	- Biomass efficiency: $\eta=20-40\%$
+	- Technical potential Belgium: $0.92-3.5TWh/a$
+	- Investment cost
+		- Oscillates from 2010-2020
+	- Capacity factor
+		- quite high
+		- But broad range
+	- LCOE
+		-
