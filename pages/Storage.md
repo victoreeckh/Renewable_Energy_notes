@@ -25,6 +25,7 @@
 - ### Mechanical storage
 	- #### Pumped Hydro Storage (PHS)
 		- General
+		  collapsed:: true
 			- Position of body of water in gravitational field
 			- Pure and mixed
 			- Power pumping ≠ turbine
@@ -36,15 +37,18 @@
 				- Big lakes $$V$$
 			- Power: $$P = \rho\cdot g\cdot \Delta h\cdot Q\cdot \eta$$
 		- Roll out
+		  collapsed:: true
 			- together with Nuclear
 				- complimentary flexibility
 		- Potential
+		  collapsed:: true
 			- Sizable potential still
 			- Geographically limited
 			- Of limited use with congestion issues
 			- Not really long-term (security of supply context)
 			- Limited power control flexibility (pumping), specifically around 0 MW (dewatering)
 		- Energy island
+		  collapsed:: true
 			- ((644434c5-a6be-4994-a54a-906bc62b063b))
 			- Recently proposed project (JD: will never be built)
 			- Proven (mature) technology in a new innovative context
@@ -55,15 +59,18 @@
 		- used for storing energy by compressing air into an underground reservoir or storage tank with use of a compressor, which can be released later to generate electricity using a turbine.
 		- Often combined with Gas plant
 		- CBA
+		  collapsed:: true
 			- (+) Low capital cost (integrated in CCGT plant)
 			- (-) Need for natural cavity (typically salt cavern)
 			- (-) Lower round trip efficiency
 				- Energy lost to the boundaries of the cavern
 			- (-) Depends on presence of gas turbines and natural gas pipeline
 		- Adiabatic Compressed Air Storage
+		  collapsed:: true
 			- Same but in combination with heat storage to increase efficiency
 			- the compressed air is heated before it is stored and cooled before it is expanded through a turbine to generate electricity
 	- #### Flywheel
+	  collapsed:: true
 		- Storage of kinetic energy, by rotation of large inertia
 		- High speeds
 			- Special generators/motors needed
@@ -80,11 +87,13 @@
 	- #### Supercapacitors
 		- *A supercapacitor or an ultracapacitor is an electrochemical capacitor that has an unusually large amount of energy storage capability relative to its size when compared to common capacitors.*
 		- Concept
+		  collapsed:: true
 			- electrochemical energy storage device that stores electrical energy in an electric field between two electrodes separated by an electrolyte
 			- Supercapacitors can store much more energy than traditional capacitors due to their larger surface area and thinner dielectric layers, allowing them to store more charge
 				- Electrostatic: low capacitance, no electrolyte, insulating material in between electrodes: mica, teflon, ceramic, ...
 				- Electrolytic: “Elco”, DC-link energy storage, high single cell voltage compared to EDLC, high capacitance compared to electrostatic caps, inherently polar
 		- CBA
+		  collapsed:: true
 			- (+)
 				- (+) Very high rates of charge and discharge.
 				- (+) Little degradation over hundreds of thousands of cycles.
@@ -96,13 +105,27 @@
 				- (-) Exhibits the highest dielectric absorption (inability, when being charged for a long time, to completely discharge) of all types of capacitors: 15-25 % Vnom
 				- (-) Low cell voltage (2,5-2,7 V): series coupling of several tens of cells to obtain a useful voltage
 		- Applications
+		  collapsed:: true
 			- Leuven buses
 				- Store braking energy
 				- But hybrid buses are being pushed out the market
 	- #### Superconducting Magnet Energy Storage (SMES)
 		- Concept
+		  collapsed:: true
+			- Formula: $$E = \frac{1}{2}L I^2$$
+				- High inductance
+				- High current needed
+					- Low resistance needed-> superconductor
 			- type of energy storage system that uses a superconducting coil to store electrical energy in a magnetic field
 			- The superconducting coil is made of a material that exhibits zero electrical resistance when it is cooled to a very low temperature, typically near absolute zero (-273.15°C or -459.67°F). This allows a large amount of electrical current to flow through the coil without any energy loss due to resistance.
-		- When energy is stored in the SMES system, a large current is passed through the superconducting coil, creating a strong magnetic field. When energy is required, the magnetic field is used to generate an electrical current that can be used to power devices or systems.
-		-
-		-
+				- e.g. Liquid nitrogen
+			- When energy is stored in the SMES system, a large current is passed through the superconducting coil, creating a strong magnetic field. When energy is required, the magnetic field is used to generate an electrical current that can be used to power devices or systems.
+		- CBA
+		  collapsed:: true
+			- (+) High $$P$$
+			- (-) Low $$E$$
+			- (-) Losses related to the high cooling efforts
+		- Applications
+		  collapsed:: true
+			- only CERN
+			- Out of picture for renewable energy storage
