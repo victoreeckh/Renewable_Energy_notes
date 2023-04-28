@@ -146,7 +146,16 @@
 			  lead oxide)
 			- Electrolyte: pure ionic conductor, usually liquid solvent- based, only stable in certain voltage ranges otherwise decomposition
 		- At low discharge depth: flat voltage characteristic (not linear as with capacitors)
+			- battery management system added (keeps track of how much energy is charged/discharged by integrating the currents)
+			- Avoid the voltage collapse
 		- Losses
+			- Electrical (Joule losses because of internal resistence)
+			- Chemical losses
+		- Equivalent circuit
+			- ![image.png](../assets/image_1682671139364_0.png)
+			- With capacitors $$C_{trans}$$, $$C_{ss}$$ High
+			- With capacitors $$C_{trans}$$, $$C_{ss}$$ small, otherwise $$\tau = RC$$ is big and discharge is slow
+			- -> possible to design towards requirements
 		- ![image.png](../assets/image_1682670364570_0.png){:height 314, :width 394}
 			-
 		- ![image.png](../assets/image_1682670398058_0.png){:height 315, :width 417}
