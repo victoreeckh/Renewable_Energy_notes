@@ -209,5 +209,10 @@
 				- Vs Li-ion
 					- When stored without charging, Ni-batteries will deplete rather fast due to the high self- discharge, but cells can be depleted to zero voltage without harm. Capacity loss due to self- discharge is reversible and nickel-metal hydride batteries can recover to full capacity by proper recharging.
 					- When stored without charging, Li-ion batteries will deplete very slowly, but if depleted beyond a certain voltage, the damage is irreversible.
+	- **Li-ion Cells**
+		- A lot of slides skipped:
+		- Positive electrode
+			- LFP probably dominant technology for the coming years
+				-
 		-
 -
