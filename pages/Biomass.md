@@ -136,3 +136,16 @@
 			- bulk density $$[kg/m^3]$$
 			- (Low) heating value $$[GJ/t]$$
 				- Energy released when full product is oxidized, but water is still in vapor phase (if condensed -> extra condensation heat -> HHV)
+- ### Waste
+	- #### Organic waste streams
+		- Wood
+			- Belgium is importer
+			- technical potential Flanders ~ 100 GWhe/a
+		- Agricultural waste
+			- straw
+				- Belgium is importer
+			- manure
+				- Dry matter fraction important
+			- technical potential Flanders ~ 770 GWhe/a
+		- VFG
+			-
