@@ -91,5 +91,8 @@
 							- gasifier $Q_{produced} \rightarrow$ steam turbine (1)
 							- Synthesis gas $\rightarrow$ in gas turbine (2)
 							- Exhaust gases turbine $Q \rightarrow$ steam cycle (3)
-							-
-							-
+						- Advantages/disadvantages
+							- (+)  easily capture CO2 (but then need to develop H2 gas turbines)
+								- leads to negative CO2 emissions when BIGCC
+							- (+/-) BIGCCs can benefit from experience with coal-fired IGCCs, but currently not too many IGCCs built
+							- (-) Major problem: gas cleaning purification
