@@ -168,6 +168,7 @@
 			- Categories in Flanders #.ol
 				- Industrial Waste
 				- Biologic active landfills
+					- need a de-gassing installation (legal obligation)
 				- inert construction material
 		- Sludge co-combustion
 			-
