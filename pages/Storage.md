@@ -52,6 +52,7 @@
 			- Future off shore Supergrid building block
 	- #### CAES
 		- = Compressed Air Energy Storage
+		- used for storing energy by compressing air into an underground reservoir or storage tank with use of a compressor, which can be released later to generate electricity using a turbine.
 		- Often combined with Gas plant
 		- CBA
 			- (+) Low capital cost (integrated in CCGT plant)
@@ -59,4 +60,10 @@
 			- (-) Lower round trip efficiency
 				- Energy lost to the boundaries of the cavern
 			- (-) Depends on presence of gas turbines and natural gas pipeline
+		- Adiabatic Compressed Air Storage
+			- Same but in combination with heat storage to increase efficiency
+			- the compressed air is heated before it is stored and cooled before it is expanded through a turbine to generate electricity
+	- #### Flywheel
+		- Storage of kinetic energy
+		-
 	-
