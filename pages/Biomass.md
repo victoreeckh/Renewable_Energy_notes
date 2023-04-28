@@ -187,4 +187,3 @@
 		- But variability and broad range
 	- Broad ranges
 		- Dependent on size and type of the installations
-		-
