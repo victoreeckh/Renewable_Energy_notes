@@ -64,6 +64,26 @@
 			- Same but in combination with heat storage to increase efficiency
 			- the compressed air is heated before it is stored and cooled before it is expanded through a turbine to generate electricity
 	- #### Flywheel
-		- Storage of kinetic energy
-		-
-	-
+		- Storage of kinetic energy, by rotation of large inertia
+		- High speeds
+			- Special generators/motors needed
+		- Vacuum
+		- Heavy inertia
+		- Magnetic bearings
+		- (+)Fast charge/discharge
+			- high Power/low Energy
+		- Applications
+			- Not in renewable energy
+			- Maybe in exotic applications like CERN
+			- Supercapacitors took over the market that flywheels were occupying 20years ago
+- ### Electromagnetic Storage
+	- #### Supercapacitors
+		- *A supercapacitor or an ultracapacitor is an electrochemical capacitor that has an unusually large amount of energy storage capability relative to its size when compared to common capacitors.*
+		- Concept
+			- Electrostatic: low capacitance, no electrolyte, insulating material in between electrodes: mica, teflon, ceramic, ...
+			- Electrolytic: “Elco”, DC-link energy storage, high single cell voltage compared to EDLC, high capacitance compared to electrostatic caps, inherently polar
+		- CBA
+			- ()Very high rates of charge and discharge.
+			- Little degradation over hundreds of thousands of cycles.
+			- High cycle efficiency (95% or more) due to its low equivalent
+			  series resistance (ESR)
