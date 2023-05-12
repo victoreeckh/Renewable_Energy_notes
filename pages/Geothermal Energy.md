@@ -117,10 +117,12 @@
 			- ORC
 				- Layout
 					- ![image.png](../assets/image_1683880793400_0.png){:height 264, :width 379}
+				- p-h
+					- ![image.png](../assets/image_1683881360272_0.png){:height 273, :width 387}
 				-
 		- Hybrid power plants
 			- Combination of dry-steam/flash & binary
-		-
+			-
 	-
 - ### Technical and operational features
 -
