@@ -11,7 +11,6 @@
 	- #### Resource classification
 		- Mostly via hydrothermal system
 		- Viable hydrothermal geothermal resource
-		  collapsed:: true
 			- characteristics
 			  collapsed:: true
 				- Supply of water > water presence
@@ -26,7 +25,6 @@
 					- Wet steam >100°C
 				- Vapor-dominated fields
 		- Enhanced/Engineered geothermal system (EGS)
-		  collapsed:: true
 			- No geothermal reservoir needed
 			- increase permeability
 			- How?
@@ -40,18 +38,41 @@
 				- Environmental issues
 			- No mature technology
 	- #### Location
+	  collapsed:: true
 		- near plate tectonics
 	- #### Applications
 		- Heating
+		  collapsed:: true
 			- Indirect: ground-coupled heat pump (shallow-geoth.)
 			- Direct: houses, industrial processes, swimming pools, greenhouses, ...
 		- Electricity generation
+		  collapsed:: true
 			- Dry-steampowerplants
 			- Flash powerplants
 			- Binary powerplants
 		- Cooling
+		  collapsed:: true
 			- Absorption chillers
 			- Adsorption chillers
 - ### Geothermal power plants
+	- #### Thermodynamic intro
+		- see slides
+	- #### Types
+		- Dry-steam power plants (T>250-300°C)
+			- Vapor-dominated fields
+			- Direct expansion turbine
+		- Flash power plants
+			- Liquid-dominated fields
+			- Separation of liquid and vapor phase
+			- Expansion of vapor in turbine
+			- Possible second (third) separation at lower pressure + expansion of vapor in turbine
+		- Binary power plants (100°C<T<150°C)
+			- Liquid-dominated field
+			- Highliquid fraction
+			- Heat transfer to secondary fluid which undergoes the energy conversion cycle (ORC or Kalina)
+		- Hybrid power plants
+			- Combination of dry-steam/flash & binary
+		-
+	-
 - ### Technical and operational features
 -
