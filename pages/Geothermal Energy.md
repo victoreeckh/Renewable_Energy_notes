@@ -5,8 +5,25 @@
 		- Decay of long-lived radioactive isotopes
 	- Energy extraction from crust
 		- Up to~10km
-		-
+		- Temperature gradient
+	- Source that can be used as baseload (<->intermittent)
 - ### Geothermal resource exploitation
+	- #### Resource classification
+		- Mostly via hydrothermal system
+		- Viable hydrothermal geothermal resource
+			- Supply of water > water presence
+			- Overlying layer of impervious rock > high pressure source
+			- Permeable reservoir > allows water seeping through
+			- Large heat source > causes T-gradient
+			- Reliable recharge mechanism > lifetime
+		- classification
+			- Water-dominated fields
+				- Hot water <100°C
+				- Wet steam >100°C
+			- Vapor-dominated fields
+		- Enhanced/Engineered geothermal system (EGS)
+			- No geothermal reservoir needed
+			- increase permeability
 - ### Geothermal power plants
 - ### Technical and operational features
 -
