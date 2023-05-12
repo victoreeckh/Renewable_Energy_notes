@@ -60,18 +60,33 @@
 	- #### Types
 		- ==Dry-steam power plants== (T>250-300°C)
 			- Characteristics
+			  collapsed:: true
 				- Vapor-dominated fields
 				- Direct expansion turbine
 			- Layout
+			  collapsed:: true
 				- ![image.png](../assets/image_1683878633922_0.png){:height 191, :width 328}
 			- T-s
+			  collapsed:: true
 				- ![image.png](../assets/image_1683878692130_0.png){:height 217, :width 283}
-			-
-		- Flash power plants
-			- Liquid-dominated fields
-			- Separation of liquid and vapor phase
-			- Expansion of vapor in turbine
-			- Possible second (third) separation at lower pressure + expansion of vapor in turbine
+		- ==Flash power plants==
+			- Characteristics
+			  collapsed:: true
+				- Liquid-dominated fields
+				- Separation of liquid and vapor phase
+				- Expansion of vapor in turbine
+				- Possible second (third) separation at lower pressure + expansion of vapor in turbine
+			- Layout
+			  collapsed:: true
+				- ![image.png](../assets/image_1683879146528_0.png){:height 258, :width 352}
+			- T-s
+			  collapsed:: true
+				- ![image.png](../assets/image_1683879188560_0.png){:height 272, :width 360}
+			- Optimisation: Double flash power plant
+				- Layout
+					- ![image.png](../assets/image_1683879373006_0.png){:height 270, :width 341}
+				- T-s
+					- ![image.png](../assets/image_1683879432558_0.png){:height 309, :width 345}
 		- Binary power plants (100°C<T<150°C)
 			- Liquid-dominated field
 			- Highliquid fraction
