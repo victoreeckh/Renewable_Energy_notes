@@ -160,6 +160,7 @@
 			- Cold(CCP)–via chillers o Potable water
 			- Hydrogen via electrolysis
 - ### Technical and operational features
+  collapsed:: true
 	- Geofluid contains
 		- Non-condensable gases (H2CO3, H2S, ...)
 			- ->Up to 15% of turbine power to remove these
