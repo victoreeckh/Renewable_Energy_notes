@@ -165,7 +165,8 @@
 			- ->Up to 15% of turbine power to remove these
 		- Chemical components (Fe, Zn, Cu, salts,...)
 			- -> Causes scaling and corrosion
-			  Only for dry-steam and flash plants
-			  • Loss of geofluid when using wet cooling tower Only for dry-steam and flash plants + Kalina
-			  • Expansion in two-phase region
-			  o Erosioninturbineduetoliquiddroplets
+	- Only for dry-steam and flash plants
+		- Loss of geofluid when using wet cooling tower
+			- Only for dry-steam and flash plants + Kalina
+		- Expansion in two-phase region
+			- Erosion in turbine due to liquid droplets
