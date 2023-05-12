@@ -82,13 +82,16 @@
 			- T-s
 			  collapsed:: true
 				- ![image.png](../assets/image_1683879188560_0.png){:height 272, :width 360}
-			- Optimisation: Double flash power plant
+			- Optimisation: ==Double flash power plant==
 				- Layout
+				  collapsed:: true
 					- ![image.png](../assets/image_1683879373006_0.png){:height 270, :width 341}
 				- T-s
+				  collapsed:: true
 					- ![image.png](../assets/image_1683879432558_0.png){:height 309, :width 345}
 		- Binary power plants (100°C<T<150°C)
 			- Characteristics
+			  collapsed:: true
 				- Liquid-dominated field
 				- Highliquid fraction
 				- Heat transfer to secondary fluid which undergoes the energy conversion cycle (ORC or Kalina)
@@ -116,27 +119,53 @@
 							- More complex (more expensive) than ORC
 			- ==ORC==
 				- Layout
+				  collapsed:: true
 					- ![image.png](../assets/image_1683880793400_0.png){:height 264, :width 379}
 				- p-h
+				  collapsed:: true
 					- ![image.png](../assets/image_1683881360272_0.png){:height 273, :width 387}
 				- T-s
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883104397_0.png){:height 297, :width 403}
-			- ORC Dual-fluid
+			- ==ORC Dual-fluid==
 				- Layout
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883238518_0.png){:height 302, :width 417}
 				- T-s1s2
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883508748_0.png){:height 338, :width 350}
 				- T-Q
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883630991_0.png){:height 320, :width 353}
-			- ==Dual pressure==
+			- ==ORC Dual pressure==
 				- Layout
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883717112_0.png){:height 331, :width 345}
 				- p-h
+				  collapsed:: true
 					- ![image.png](../assets/image_1683883750470_0.png){:height 314, :width 344}
-				-
-		- Hybrid power plants
+		- ==Hybrid power plants==
+		  collapsed:: true
 			- Combination of dry-steam/flash & binary
-			-
-	-
+			- example
+				- ![image.png](../assets/image_1683884176488_0.png){:height 247, :width 345}
+	- #### Efficiency/feasibility improvements
+	  collapsed:: true
+		- Use of multiple (renewable) energy sources
+			- Geothermal/solar
+			- Geothermal/biomass
+		- Multi-energy systems
+			- Electricalpower
+			- Heat(CHP)
+			- Cold(CCP)–via chillers o Potable water
+			- Hydrogen via electrolysis
 - ### Technical and operational features
--
+	- Geofluid contains
+		- Non-condensable gases (H2CO3, H2S, ...)
+			- ->Up to 15% of turbine power to remove these
+		- Chemical components (Fe, Zn, Cu, salts,...)
+			- -> Causes scaling and corrosion
+			  Only for dry-steam and flash plants
+			  • Loss of geofluid when using wet cooling tower Only for dry-steam and flash plants + Kalina
+			  • Expansion in two-phase region
+			  o Erosioninturbineduetoliquiddroplets
