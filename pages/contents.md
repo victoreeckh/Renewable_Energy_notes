@@ -6,3 +6,4 @@
 - ## [[Hydroelectricity]]
 - ## [[Storage]]
 - ## [[Biomass]]
+- ## [[Geothermal Energy]]
