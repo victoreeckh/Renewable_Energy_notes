@@ -58,9 +58,15 @@
 	- #### Thermodynamic intro
 		- see slides
 	- #### Types
-		- Dry-steam power plants (T>250-300°C)
-			- Vapor-dominated fields
-			- Direct expansion turbine
+		- ==Dry-steam power plants== (T>250-300°C)
+			- Characteristics
+				- Vapor-dominated fields
+				- Direct expansion turbine
+			- Layout
+				- ![image.png](../assets/image_1683878633922_0.png){:height 191, :width 328}
+			- T-s
+				- ![image.png](../assets/image_1683878692130_0.png){:height 217, :width 283}
+			-
 		- Flash power plants
 			- Liquid-dominated fields
 			- Separation of liquid and vapor phase
