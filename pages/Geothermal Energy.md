@@ -88,9 +88,22 @@
 				- T-s
 					- ![image.png](../assets/image_1683879432558_0.png){:height 309, :width 345}
 		- Binary power plants (100°C<T<150°C)
-			- Liquid-dominated field
-			- Highliquid fraction
-			- Heat transfer to secondary fluid which undergoes the energy conversion cycle (ORC or Kalina)
+			- Characteristics
+				- Liquid-dominated field
+				- Highliquid fraction
+				- Heat transfer to secondary fluid which undergoes the energy conversion cycle (ORC or Kalina)
+				- Binary -> geofluid (= ‘brine’) delivers heat to a secondary fluid (= working fluid) which undergoes the cycle
+					- <-> direct-steam/flash with direct use of geofluid
+					- Working fluid = water ?
+						- Hard to evaporate at low temperatures
+						- Very low pressures are needed
+							- Large components -> expensive
+							- Condenser pressure below environmental pressure -> air intrusion
+						- Expansion in two-phase region -> erosion turbine blades
+					- Use other working fluid in
+						- Organic Rankine Cycle (ORC)
+						- Kalina cycle
+			-
 		- Hybrid power plants
 			- Combination of dry-steam/flash & binary
 		-
