@@ -114,12 +114,16 @@
 							- Evaporation at changing temperature of the mixture
 								- -> fewer losses (irreversibilities) in evaporator
 							- More complex (more expensive) than ORC
-			- ORC
+			- ==ORC==
 				- Layout
 					- ![image.png](../assets/image_1683880793400_0.png){:height 264, :width 379}
 				- p-h
 					- ![image.png](../assets/image_1683881360272_0.png){:height 273, :width 387}
-				-
+				- T-s
+					- ![image.png](../assets/image_1683883104397_0.png){:height 297, :width 403}
+			- ORC Dual-fluid
+				- Layout
+					-
 		- Hybrid power plants
 			- Combination of dry-steam/flash & binary
 			-
