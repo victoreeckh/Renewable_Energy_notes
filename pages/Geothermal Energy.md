@@ -123,7 +123,17 @@
 					- ![image.png](../assets/image_1683883104397_0.png){:height 297, :width 403}
 			- ORC Dual-fluid
 				- Layout
-					-
+					- ![image.png](../assets/image_1683883238518_0.png){:height 302, :width 417}
+				- T-s1s2
+					- ![image.png](../assets/image_1683883508748_0.png){:height 338, :width 350}
+				- T-Q
+					- ![image.png](../assets/image_1683883630991_0.png){:height 320, :width 353}
+			- ==Dual pressure==
+				- Layout
+					- ![image.png](../assets/image_1683883717112_0.png){:height 331, :width 345}
+				- p-h
+					- ![image.png](../assets/image_1683883750470_0.png){:height 314, :width 344}
+				-
 		- Hybrid power plants
 			- Combination of dry-steam/flash & binary
 			-
