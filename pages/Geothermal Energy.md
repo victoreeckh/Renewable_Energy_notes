@@ -95,6 +95,7 @@
 				- Binary -> geofluid (= ‘brine’) delivers heat to a secondary fluid (= working fluid) which undergoes the cycle
 					- <-> direct-steam/flash with direct use of geofluid
 					- Working fluid = water ?
+					  collapsed:: true
 						- Hard to evaporate at low temperatures
 						- Very low pressures are needed
 							- Large components -> expensive
@@ -102,8 +103,21 @@
 						- Expansion in two-phase region -> erosion turbine blades
 					- Use other working fluid in
 						- Organic Rankine Cycle (ORC)
+							- Organic working fluid
+								- Hydrocarbons, refrigerants, ...
+								- Lower critical point -> easier to evaporate and condense for lower geofluid temperatures (T<150°C)
+								- Dry or isentropic working fluid -> single-phase expansion
 						- Kalina cycle
-			-
+						  collapsed:: true
+							- Workingfluid
+								- Mixture of ammonia (NH3) & water (H2O)
+							- Evaporation at changing temperature of the mixture
+								- -> fewer losses (irreversibilities) in evaporator
+							- More complex (more expensive) than ORC
+			- ORC
+				- Layout
+					- ![image.png](../assets/image_1683880793400_0.png){:height 264, :width 379}
+				-
 		- Hybrid power plants
 			- Combination of dry-steam/flash & binary
 		-
