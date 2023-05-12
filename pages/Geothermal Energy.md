@@ -1,3 +1,11 @@
+- Deep Geothermal Energy
+- ### Intro
+	- Thermal energy (“heat”) of the earth
+		- Primordialheat–earthformation
+		- Decay of long-lived radioactive isotopes
+	- Energy extraction from crust
+		- Up to~10km
+		-
 - ### Geothermal resource exploitation
 - ### Geothermal power plants
 - ### Technical and operational features
