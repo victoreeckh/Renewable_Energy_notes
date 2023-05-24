@@ -1,6 +1,7 @@
 - ## Intro
 	- $H_2$ demand increased over the last 5 decades
 	- Problem
+	  collapsed:: true
 		- Major problem: fluctuating power delivery from most renewables (nf-REES)
 			- Need good integration in electric grid (adaptations required)
 			- Storage of electricity?
@@ -8,7 +9,20 @@
 		- Future short-term storage likely via electric batteries (Li-ion)
 		- Medium-term storage: Indirect storage via pump/turbine hydro
 		- But LT / seasonal storage? -> via hydrogen (electrolysis/fuel cells) or electric power to synthetic methane (P2G)
-	-
+	- excitement
+		- Current H2 usage basically as feedstock for industry
+		- But H2 could be a clean fuel
+			- for climate
+				- no CO2 emitted by ‘end use’
+				- no CO2 if ‘carefully’ produced
+			- no local emissions (transportation & combustion in boilers or prime movers)
+		- ~ 2000: To aid problem electricity storage – mainly for HEV (Hydrogen Electric Vehicles)
+		  →electricity→electrolysis→H2→Fuel Cells→electricity
+		- Now: To ‘solve’ overcapacity issue due to nf-REES/iREES/VREE in elec pwr sector &
+		  LT (indirect) electric storage problem
+		- Now: Realization that ‘all’ electric society is not likely; still molecules needed
+		  • Ships, aircrafts, long-haul trucks... but need liquid fuels based on hydrogen (and CCSU)
+		  • Sector coupling to help decarbonize transportation & heating sectors (incl industry) – H2 based liquid fuels
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
