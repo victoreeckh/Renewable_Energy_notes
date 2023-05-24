@@ -44,15 +44,29 @@
 	- Readings
 		- Production and usage
 			- Usage
+			  collapsed:: true
 				- 70Mt pure (only small level of additives) hydrogen
 				- 45Mt as part of mixture gases
 					- for methanol and steel production
 			- production
+			  collapsed:: true
 				- Majority from fossil fuels
 				- 60% produced in dedicated hydrogen facilities
 					- Most from natural gas
 					- Some from coal and small fraction electrolysis
-				- 33%
+				- 33% is "by-product"-hydrogen
+					- comes from facilities and processes designed primarily to produce something else
+				- only 0.7% from renewables or fossil fuel plants equipped with CCUS
+			- Hydrogen value chain
+			  collapsed:: true
+				- ![image.png](../assets/image_1684932022413_0.png){:height 275, :width 562}
+		- Chemical energy carrier
+			- similar to electricity
+				- versatile
+				- different applications
+				- No emissions by usage
+				- CO2 intensive upstream (production)
+			- difference -
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
