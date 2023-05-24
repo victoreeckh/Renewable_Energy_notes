@@ -107,7 +107,9 @@
 				  In practical terms, the LHV represents the available energy content that can be directly utilized in applications like power generation, while the HHV includes additional energy that is not practically recoverable. Therefore, LHV is typically the more commonly used value for practical purposes and comparing different fuels' energy content.
 				-
 - ## Hydrogen from Renewable sources
+  collapsed:: true
 	- ### Introduction
+	  collapsed:: true
 		- Sole -> multi carrier
 			- electrical RES wind and solar ‘intermittency’ and consequent overcapacities, with ample over-generation whilst also often deficiency of generation (‘Dunkelflaute’), integration of many sectors will likely be the rule: sector coupling
 		- ultimate goal
@@ -122,14 +124,17 @@
 			- Conversion: chemical -> electrical energy
 			- Alkaline (AFC), proton exchange membrane (PEMFC), Phosphoric acid ( PAFC), Molten carbonide (MCFC), solid oxide Fuel Cell (SOFC)
 	- ### Renewable energy sources
+	  collapsed:: true
 		- ![image.png](../assets/image_1684936772345_0.png){:height 299, :width 420}
 	- ### Hydrogen production
 		- #### Reforming (biogas, landfill gas)
+		  collapsed:: true
 			- Well-known technology
 			- CCS possible
 			- Efficiencies up to 80%; but purification necessary
 		- #### Gasification/pyrolysis of waste/biomass
 		- #### Technologies under development
+		  collapsed:: true
 			- Thermal splitting of water (solar heat)
 			- Photo(electro)chemical or photo-biological production (algae, bacteria)
 		- #### Electrolysis
@@ -168,8 +173,10 @@
 	- ### Environmental impact and costs
 		- Emissions
 		- Cost evolution
+		  collapsed:: true
 			- Cost highly dependent on electricity price
 		- Cost of large P2G systems / Sector Coupling
+		  collapsed:: true
 			- Correct cost metric for input electric energy:
 				- LCOE = cost wind/solar (recovering investment cost)
 			- Often argument: zero electricity prices because ‘zero marginal cost’ →input elec cost for electrolyzer = 0→this is a ‘dream’ (for long time to come)
@@ -193,16 +200,42 @@
 				- New high-pressure hydrogen transmission grid seems necessary
 				- Can be used as a huge storage facility: linepack
 			- Mixing/Blending of hydrogen in to the distribution grid
+			  collapsed:: true
 				- Influences pressure drop and Wobbe index
 				- Up to 3 vol% H2: no problems expected
 				- Up to 17 vol% H2: adjustments to boilers/furnaces/engines are needed (Ref. Haeseldonckx)
 			- Production and transportation of H2 to injection points
+			  collapsed:: true
 				- High-p transmission grid is needed: who will pay for this?
 				- Interaction with transportation sector may offer possibilities (tank stations)
 				- First, a focus on codes and standards is needed!
-			-
 	- ### Conclusion
+	  collapsed:: true
+		- Hydrogen could play an important role in our energy future
+		- Combination of renewables and hydrogen can contribute to a
+		  sustainable energy economy; environmental impact is very low
+		- Costs largely depend on the technology used and the electricity price
+		- Indirect costs for infrastructure development can become very high
+		- Using the existing energy infrastructure can facilitate the difficult transition period
+		- Unclear whether pure H2 economy will emerge, or ‘P2G’ (P-2-CH4)
 - ## Fuel cells
+	- #### Usage
+		- Transportation (competing with electrical vehicles & biofuels)
+			- Passenger cars
+			- Trucs, Ships, (airplanes?)
+			- Lift Trucs (forklifts) & special applications at airports
+		- FCs in CHP mode in residential & commercial sectors
+		- Stationary fuel cells for electricity generation only (indirect storage issue elec → H2 →elec)
+		- Electric power only & back-up cells (emergency/stand-by generators replacing diesel aggregates in banks, sensitive equipment, ...)
+		- Special applications (space ships, submarines, ...) for air-independent propulsion
+		- Other ...
+	- #### Working principle
+		- ![image.png](../assets/image_1684942494656_0.png){:height 292, :width 296}
+			- Anode: $H_2 \rightarrow 2H^+ +2e^-$
+			- Cathode: $1/2$
+	- #### Properties
+		- Pro
+			- (+)
 - ## P2G
   collapsed:: true
 	-
