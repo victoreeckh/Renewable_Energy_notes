@@ -1,4 +1,5 @@
 - ### Biofuel types and resources
+  collapsed:: true
 	- Oils & fats
 	  collapsed:: true
 		- biodiesel
@@ -174,6 +175,7 @@
 				- → Also links to lubrication in the fuel system
 			- **Fuels**
 				- ==Biodiesel/Fatty acid methyl ester (FAME)==
+				  collapsed:: true
 					- Fuel properties
 						- Heating value (by volume) 9% lower than diesel
 						- Cetane value similar to diesel
@@ -188,6 +190,7 @@
 								- Compatibility with particulate filter systems (because of post-injection)
 								- Shorter service interval
 				- ==Pure vegetable oil (PVO)==
+				  collapsed:: true
 					- Fuel properties
 						- Heating value (by volume) 4% lower than diesel
 						- Cetane value lower than diesel => lower combustion stability
@@ -197,7 +200,38 @@
 					- Mostly done by specialised companies
 					- Production in smaller scale installations (short chain), lower cost than biodiesel
 					- Pure plant oil consumption in Germany peaked in 2007 at 0.7 million tonnes
-				- Hydrotreated vegetable oil (HVO)
+				- ==Hydrotreated vegetable oil (HVO)==
+				  collapsed:: true
+					- Synthetic diesel (like FT diesel) => DROP-IN BIOFUEL
+					- Fully compatible with diesel fuel, with superior properties
+						- Higher cetane number
+						- Less impurities (no sulphur, aromatics, benzene,...)
+					- Lubrication additive needed
+					- Two options for production
+						- Dedicated production where hydrogen is available (close to refineries)
+						- Use crude oil refinery process (mix few % of veg. oil in hydrotreating facilities)
+				- ==Fischer-Tropsch diesel==
+					- From gasified lignocellulosic biomass
+					- Technology still in early commercialisation phase
+					- ~ Synthetic diesel (like HVO) => DROP-IN BIOFUEL
+					- Fully compatible with diesel fuel, with superior properties
+						- Higher cetane number
+						- Less impurities (no sulphur, aromatics, benzene, ...)
+					- Lubrication additive needed
+					- Process can also be steered towards bio-kerosene (and diesel as co-product)
+				- ==Di-Methyl-Ether (DME)==
+					- From gasified lignocellulosic biomass
+					- properties
+						- Gaseous in atmospheric circumstances Liquid under limited pressure (>5 bar)
+							- Storage ~ LPG
+						- Cetane: 55-60 => good diesel fuel properties
+					- Engine adjustments: fuel and injection system
+					- Lubrication additives needed
+	- #### Other
+		- ==Biomethane==
+			- Upgraded biogas, or methane produced through biomass gasification (SNG) or
+			  power-to-gas (in future)
+			-
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
