@@ -178,11 +178,12 @@
 				- → Also links to lubrication in the fuel system
 			- **Fuels**
 				- ==Biodiesel/Fatty acid methyl ester (FAME)==
+				  collapsed:: true
 					- Fuel properties
 						- Heating value (by volume) 9% lower than diesel
 						- Cetane value similar to diesel
 						- Kinematic viscosity slightly higher
-						- Other distillation curve => more difficult to evaporate from lubricating oil
+						- Other distillation curve => more difficult to evaporate from lubricating oil (drops of lubricatiing oil stay down)
 						- Additives for cold flow properties
 						- Fully mixable with diesel
 							- Up to 7% blending allowed in EN590 (diesel norm)
@@ -196,7 +197,7 @@
 					- Fuel properties
 						- Heating value (by volume) 4% lower than diesel
 						- Cetane value lower than diesel => lower combustion stability
-						- Kinematic viscosity much higher => vegetable oil needs preheating before injection
+						- Kinematic viscosity much higher => vegetable oil needs preheating(-) before injection
 					- Engine conversion needed (mainly preheating) to run on vegetable oil
 					- Collaboration of manufacturers is low (only for tractors, e.g. John Deere)
 					- Mostly done by specialised companies
@@ -212,6 +213,7 @@
 					- Two options for production
 						- Dedicated production where hydrogen is available (close to refineries)
 						- Use crude oil refinery process (mix few % of veg. oil in hydrotreating facilities)
+					- Vehicle emissions: Reduction in NOx (up to 10%), CO and PM emissions (up to 30%)
 				- ==Fischer-Tropsch diesel==
 				  collapsed:: true
 					- From gasified lignocellulosic biomass
@@ -225,6 +227,7 @@
 				- ==Di-Methyl-Ether (DME)==
 				  collapsed:: true
 					- From gasified lignocellulosic biomass
+					- $H_3C-O-CH_3$
 					- properties
 						- Gaseous in atmospheric circumstances Liquid under limited pressure (>5 bar)
 							- Storage ~ LPG
@@ -233,7 +236,6 @@
 					- Lubrication additives needed
 	- #### Other
 		- ==Biomethane==
-		  collapsed:: true
 			- Upgraded biogas, or methane produced through biomass gasification (SNG) or
 			  power-to-gas (in future)
 				- Natural gas technology
