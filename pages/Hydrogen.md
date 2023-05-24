@@ -1,5 +1,13 @@
 - ## Intro
 	- $H_2$ demand increased over the last 5 decades
+	- Problem
+		- Major problem: fluctuating power delivery from most renewables (nf-REES)
+			- Need good integration in electric grid (adaptations required)
+			- Storage of electricity?
+		- Electricity storage (in large quantities) remains difficult issue
+		- Future short-term storage likely via electric batteries (Li-ion)
+		- Medium-term storage: Indirect storage via pump/turbine hydro
+		- But LT / seasonal storage? -> via hydrogen (electrolysis/fuel cells) or electric power to synthetic methane (P2G)
 	-
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
