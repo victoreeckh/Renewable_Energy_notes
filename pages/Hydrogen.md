@@ -230,12 +230,42 @@
 		- Special applications (space ships, submarines, ...) for air-independent propulsion
 		- Other ...
 	- #### Working principle
+	  collapsed:: true
 		- ![image.png](../assets/image_1684942494656_0.png){:height 292, :width 296}
 			- Anode: $H_2 \rightarrow 2H^+ +2e^-$
-			- Cathode: $1/2$
+			- Cathode: $1/2O_2 + 2H^+ + 2e^- \rightarrow H_2O$
+			- Cell: $H_2 + 1/2 O_2 \rightarrow H_2O$
 	- #### Properties
-		- Pro
-			- (+)
+		- (+)
+		  collapsed:: true
+			- high electrical efficiencies at partial load higher that at full load
+			- can operate in CHP mode
+			  → large fuel utilization ratio
+			- limited amount of harmful emissions
+				- in principle only H2O (with fuel H2)
+				- but often also CO2 (with fuel CH4)
+				- little NOx even if air is used
+			- no moving parts; almost without noise
+			- modular structure
+		- (-)
+		  collapsed:: true
+			- commercial offer still limited
+			- expensive investment; mostly only in niche markets
+			- some fuel cells have problems with corrosion
+			- limited life time
+			- long start-up times for certain types
+			- external reformer often a source of “problems”
+				- $\eta$~ 60 à 70%
+				- occupies space (for mobile applications)
+				- leads to CO2 emission when based on CH4
+				- many classical engineering “problems”
+	- #### Types
+		- Alkaline Fuel Cell (AFC)
+		- Proton Exchange Membrane Fuel Cell (PEMFC)
+		- Direct Methanol Fuel Cell (DMFC)
+		- Phosphoric Acid Fuel Cell (PAFC)
+		- Molten Carbonate Fuel Cell (MCFC)
+		- Solid Oxide Fuel Cell (SOFC)
 - ## P2G
   collapsed:: true
 	-
