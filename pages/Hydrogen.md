@@ -177,7 +177,9 @@
 			- Coupling H2 sector with elec pwr sector see example Energinet DK (see later RR)
 	- ### Transition towards a hydrogen economy
 		- Blending / Mixing of Hydrogen in NG Pipelines
-			-
+			- Challenges
+				- energy content reduction of delivered gas as the energy density per kg of hydrogen is one third of the one of natural gas
+				- Increased risk of flame spreading as hydrogen burns faster than methane
 	- ### Conclusion
 - ## Fuel cells
 - ## P2G
