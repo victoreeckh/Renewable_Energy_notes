@@ -313,11 +313,30 @@
 		- Massive commercialization fuel cells hopefully by 2030... (?)
 - ## P2G
   collapsed:: true
-	- To avoid negative prices and accomodate superfluous electricity, avoid curtailment, produce synthetic fuels like “renewablemethane”,CH4 (SNG–syntheticnaturalgas)
-	- Use electrolyzer to produce hydrogen H2
-	- Perform electric power balancing with OCGT or CCGT, but
-	  fed with SNG. Capture CO2 from these GTs.
-	- Combine H2 with CO2 via the Sabatier reaction to produce
-	  synthetic CH4 (and H2O)
-	- So, superfluous RES are indirectly stored via SNG, which is then used for balancing, to produce electricity...
-	-
+	- #### Recent developments - SNG/P2G
+	  collapsed:: true
+		- To avoid negative prices and accomodate superfluous electricity, avoid curtailment, produce synthetic fuels like “renewabl emethane”,CH4 (SNG–synthetic naturalgas)
+		- Use electrolyzer to produce hydrogen H2
+		- Perform electric power balancing with OCGT or CCGT, but
+		  fed with SNG. Capture CO2 from these GTs.
+		- Combine H2 with CO2 via the Sabatier reaction to produce
+		  synthetic CH4 (and H2O)
+		- So, superfluous RES are indirectly stored via SNG, which is then used for balancing, to produce electricity...
+	- #### Principle
+		- Figures
+		  collapsed:: true
+			- ![image.png](../assets/image_1684944512054_0.png){:height 396, :width 506}
+			- ![image.png](../assets/image_1684944596089_0.png)
+			- ![image.png](../assets/image_1684944660171_0.png){:height 302, :width 488}
+		- Sabatier reaction
+		  collapsed:: true
+			- Catalyc
+				- Ni-based catalyst most used
+				- Sensitive to traces of H_2S
+				- Zie sl.153
+			- Biological
+				- Bacterial digestion <-> archaea
+				- sensitive to oxygen (strictly anaerobic)
+		- Low efficiencies
+	- #### Example 3: DK system Operator Energinet
+		-
