@@ -34,12 +34,25 @@
 				- Fuel diversity – security of supply
 			- other sectors followed
 		- Hydrogen is not an energy source but a “carrier” / “vector”
+		  collapsed:: true
 			- Hydrogen must be produced from other (primary) sources
 			- Absence of local emissions (important for transport)
 			- Storable and transportable energy carrier
 			- High conversion efficiencies potentially possible (fuel cells)
 			- Allows integration of renewable, naturally fluctuating energy sources
 			- Also applicable for transportation (fuel-cell vehicles)
+	- Readings
+		- Production and usage
+			- Usage
+				- 70Mt pure (only small level of additives) hydrogen
+				- 45Mt as part of mixture gases
+					- for methanol and steel production
+			- production
+				- Majority from fossil fuels
+				- 60% produced in dedicated hydrogen facilities
+					- Most from natural gas
+					- Some from coal and small fraction electrolysis
+				- 33%
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
