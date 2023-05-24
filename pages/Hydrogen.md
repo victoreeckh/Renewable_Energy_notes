@@ -115,6 +115,11 @@
 				- that can easily be transported, stored and converted into end energy,
 				- such that the overall cost of the energy chain is affordable,
 				- so as to lead to end-energy conversion that is “clean” also for small-scale applications
+		- Issues
+			- production, transport, storage, safety
+			- But mostly cost!
+		- Fuel cell
+			- Conversion: c
 	- ### Renewable energy sources
 	- ### Hydrogen production
 	- ### Environmental impact and costs
