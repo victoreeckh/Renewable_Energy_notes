@@ -339,4 +339,10 @@
 				- sensitive to oxygen (strictly anaerobic)
 		- Low efficiencies
 	- #### Example 3: DK system Operator Energinet
+		- European scenarios...
+		  collapsed:: true
+			- GCA
+			- DG
+			- ST
+		- ->to modelling of Denmark in 2035
 		-
