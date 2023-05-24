@@ -219,6 +219,7 @@
 		- Using the existing energy infrastructure can facilitate the difficult transition period
 		- Unclear whether pure H2 economy will emerge, or ‘P2G’ (P-2-CH4)
 - ## Fuel cells
+  collapsed:: true
 	- #### Usage
 		- Transportation (competing with electrical vehicles & biofuels)
 			- Passenger cars
@@ -262,33 +263,61 @@
 	- #### Types
 		- See figures!
 		- Alkaline Fuel Cell (AFC)
+		  collapsed:: true
 			- $T \sim 60-90^\circ C$, low T
 			- does not tolerate CO_2, reacts with KOH -> need for pure H_2, O_2
 			- $\eta \sim 60-70\%$
 		- Proton Exchange Membrane Fuel Cell (PEMFC)
+		  collapsed:: true
 			- $T \sim 80^\circ C$, low T
 			- $\eta \sim 50-60\%$
 		- Direct Methanol Fuel Cell (DMFC)
-			- $T \sim 80^\circ C$, low T
-			- $\eta \sim 20-30\%$
-			- still premature state
 		- Phosphoric Acid Fuel Cell (PAFC)
+		  collapsed:: true
 			- $T \sim 200^\circ C$, Intermediate T
 			- acid in electrolyte allows for CO_2 in fuel (CO_2 does not react with acid)
 			- $\eta \sim 55\%$
 			- exists in market PC25 (200KW)
 		- Molten Carbonate Fuel Cell (MCFC)
+		  collapsed:: true
 			- CO_2 now integrated in reaction scheme
 			- $T \sim 650^\circ C$, High T
 			- $\eta \sim 65\%$
 			- internal reforming possible
 			- $CH_4 + 2H_2O \rightarrow CO_2 + 4H_2$
 		- Solid Oxide Fuel Cell (SOFC)
-			-
+		  collapsed:: true
+			- Solid electrolyte
+			- Yttrium stabilized $ZrO_2$, $Y2O_3$
+			- Conducts well at $T \sim 1000^\circ C$, High T
+			- $\eta \sim 60-65\%$
+			- internal reforming possible
+	- #### Fuel Cell Systems
+	  collapsed:: true
+		- fuel preparation (reforming, cleaning)
+		- fuel cell (stack)
+		- electric invertor
+		- gas- and water outlet
+		- possible CHP-applications
 	- #### Other
+	  collapsed:: true
 		- Fuel Cell Cost
 		- Fuel Cell Installed Electrical Power Generation Capacities
 	- #### Conclusion
+	  collapsed:: true
+		- Fuel cells may be a promising technology
+		- but further technological improvement necessary
+			- cost still too high (several factors)
+			- Fuel cells can (?) breakthrough if a market is formed
+		- government aid needed for demonstration & market boost - risk capital needed for further R&D
+		- Massive commercialization fuel cells hopefully by 2030... (?)
 - ## P2G
   collapsed:: true
+	- To avoid negative prices and accomodate superfluous electricity, avoid curtailment, produce synthetic fuels like “renewablemethane”,CH4 (SNG–syntheticnaturalgas)
+	- Use electrolyzer to produce hydrogen H2
+	- Perform electric power balancing with OCGT or CCGT, but
+	  fed with SNG. Capture CO2 from these GTs.
+	- Combine H2 with CO2 via the Sabatier reaction to produce
+	  synthetic CH4 (and H2O)
+	- So, superfluous RES are indirectly stored via SNG, which is then used for balancing, to produce electricity...
 	-
