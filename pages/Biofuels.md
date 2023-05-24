@@ -249,7 +249,6 @@
 		- Overview
 			- ![image.png](../assets/image_1684957479406_0.png){:height 342, :width 513}
 			- ==Biodiesel – Fatty acid methyl ester (FAME)==
-			  collapsed:: true
 				- Process #.ol
 					- Vegetable oil extraction => protein meal (animal feed) as co-product
 					- Transesterification (with methanol & catalyst)
@@ -277,13 +276,29 @@
 					- Product separation (remove stillage waste)
 					- Ethanol distillation and dehydration to achieve <0.3% water content
 			- ==Bio-methane (from biogas)==
+			  collapsed:: true
 				- Methane = CH4 : main product of anaerobic digestion (AD)
 				- Anaerobic digestion = breakdown of organic material by micro-organisms in the absence of oxygen
 				- Base conversion processes:
 					- Anaerobic digestion of wet biomass: products are
-				- raw biogas (50-60% CH4, 20-40% CO2 + fractions of H2S, water, nitrogen, oxygen, ...) - digestate (nutrient-rich soil conditioner)
-				- Biogas upgrading: adsorption, absorption (gas scrubbing), membrane separation or cryogenic separation to remove CO2, water, H2S and other components to reach natural gas quality (=> substantial amount of high concentration CO2 that could be captured)
-				- Pressurise (to 200 bar) or liquefy to fuel the vehicle, or inject in the natural gas grid
+						- raw biogas (50-60% CH4, 20-40% CO2 + fractions of H2S, water, nitrogen, oxygen, ...)
+						- digestate (nutrient-rich soil conditioner)
+					- Biogas upgrading: adsorption, absorption (gas scrubbing), membrane separation or cryogenic separation to remove CO2, water, H2S and other components to reach natural gas quality (=> substantial amount of high concentration CO2 that could be captured)
+					- Pressurise (to 200 bar) or liquefy to fuel the vehicle, or inject in the natural gas grid
+	- #### advanced biofuels
+		- Thermochemical conversion options
+			- Gasification, syngas cleaning & conditioning + further synthesis of the syngas to fuels, e.g.
+				- Fischer-Tropsch synthesis + refining to fuels
+				- Methanol synthesis
+				- DME synthesis
+				- Biological gas fermentation
+				- Methanation
+			- Production and upgrading of pyrolysis products and lignin-rich fractions
+				- Pyrolysis/liquefaction + upgrading and hydroprocessing
+				- Pyrolysis/liquefaction + upgrading and co-processing in a refinery
+		- Fuels
+			- ==Fischer-Tropsch diesel==
+				-
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
