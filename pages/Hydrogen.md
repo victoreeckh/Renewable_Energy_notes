@@ -111,36 +111,34 @@
 		- Sole -> multi carrier
 			- electrical RES wind and solar ‘intermittency’ and consequent overcapacities, with ample over-generation whilst also often deficiency of generation (‘Dunkelflaute’), integration of many sectors will likely be the rule: sector coupling
 		- ultimate goal
-		  collapsed:: true
 			- Provide cheap and abundant energy carrier
 				- that can easily be transported, stored and converted into end energy,
 				- such that the overall cost of the energy chain is affordable,
 				- so as to lead to end-energy conversion that is “clean” also for small-scale applications
 		- Issues
-		  collapsed:: true
 			- production, transport, storage, safety
 			- But mostly cost!
 		- Fuel cell
-		  collapsed:: true
 			- Conversion: chemical -> electrical energy
 			- Alkaline (AFC), proton exchange membrane (PEMFC), Phosphoric acid ( PAFC), Molten carbonide (MCFC), solid oxide Fuel Cell (SOFC)
 	- ### Renewable energy sources
-	  collapsed:: true
 		- ![image.png](../assets/image_1684936772345_0.png){:height 299, :width 420}
 	- ### Hydrogen production
 		- #### Reforming (biogas, landfill gas)
-		  collapsed:: true
 			- Well-known technology
 			- CCS possible
 			- Efficiencies up to 80%; but purification necessary
 		- #### Gasification/pyrolysis of waste/biomass
 		- #### Technologies under development
-		  collapsed:: true
 			- Thermal splitting of water (solar heat)
 			- Photo(electro)chemical or photo-biological production (algae, bacteria)
 		- #### Electrolysis
-			- $2H_2O(l) \rightarrow 2H_2(g)+O_2(g)$
-			- Well-known, Commercially available
+			- **general**
+				- ![image.png](../assets/image_1684938048698_0.png)
+				- $2H_2O(l) \rightarrow 2H_2(g)+O_2(g)$
+				- Well-known, Commercially available
+				- $\eta =$ 65% - 80%
+				-
 			- **Types**
 				- ==Alkaline EL==
 					- Unipolar – bipolar KOH systems
@@ -150,8 +148,15 @@
 					- (-) Operating range: 30% - 100% of rated capacity
 				- ==Proton-Exchange Membrane EL==
 					- Solid Polymer Electrolyte systems (high pressure)
+					- ![image.png](../assets/image_1684937823774_0.png)
+					- (+) Dynamic operation
+					- (+)Operating range: 5% - 100% of rated capacity
+					- (-) Less efficient
+					- (-) Early commercial phase
 				- ==Solid Oxide EL==
 					- Solid Oxide Electrolyte systems (high temperature)
+					- ![image.png](../assets/image_1684937886670_0.png){:height 186, :width 355}
+					- Promissing, highly efficiencient technology, ... but still in research phase
 				- Steam-assisted electrolysis
 	- ### Environmental impact and costs
 	- ### Transition towards a hydrogen economy
