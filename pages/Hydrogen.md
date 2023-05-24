@@ -62,11 +62,21 @@
 				- ![image.png](../assets/image_1684932022413_0.png){:height 275, :width 562}
 		- Chemical energy carrier
 			- similar to electricity
+			  collapsed:: true
 				- versatile
 				- different applications
 				- No emissions by usage
 				- CO2 intensive upstream (production)
-			- difference -
+			- difference -> chemical energy carrier
+			  collapsed:: true
+				- molecules not electrons
+				- allows to be transported in a stable way
+				- Add stock based element to flow based electricity system
+				- Round-trip efficiency of H2 from electricity is only 30%
+		- H2 vs H2 based fuels and feedstocks
+			- H2 based fuels and feedstocks
+				-
+				- H2 produced from any source
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
