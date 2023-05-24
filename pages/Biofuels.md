@@ -90,7 +90,6 @@
 	- #### Alcohol biofuels
 		- Methanol, ethanol, butanol
 		- Properties
-		  collapsed:: true
 			- Lower LHV
 			  collapsed:: true
 				- → higher volumetric fuel consumption => lower radius with same tank volume
@@ -105,7 +104,7 @@
 			- High heat of vaporisation
 			  collapsed:: true
 				- → lower cylinder inlet temperature → better charging, higher power → potential cold start problems
-		- **Ethanol applications**
+		- **Ethanol applications** #.ol
 			- ==As a blending component==
 			  collapsed:: true
 				- Up to 10% ethanol with gasoline (“E5” or “E10”):
@@ -120,10 +119,41 @@
 					- could increase evaporative emissions, unless captured by canistor
 				- Application of ETBE (oxygenate, produced from ethanol + iso-butylene) => reduced vapour pressure
 			- ==High ethanol concentration==
-				-
+			  collapsed:: true
+				- Typically up to 85% ethanol (E85), sometimes also E100 (Brazil)
+				- For the same energy: fuel supply (volume) x 1,6
+					- => Implication on fuel tank, tubes, injection system, engine control
+				- High heat of vaporisation
+					- => Heating system or limited gasoline component (typically 15-30%)
+				- Higher compression ratio
+					- =>More power, higher efficiency
+				- Material compatibility => dedicated materials
+					- rubbers and plastics: avoid problems of swelling, permeability
+					- metal corrosion (e.g. fuel tank)
+				- Practical example: FFV technology
+				  collapsed:: true
+					- “Flexible Fuel Vehicles”
+					- Flexibility between 100% gasoline and 85% ethanol (in Brazil 100%
+					  ethanol)
+					- All materials compatible with ethanol, sufficient sizing of tubes and injectors
+					- Engine control unit detects type of fuel and adapts parameters (injection quantity, ignition timing), without interference of the driver
+					- Engineering mainly in the engine control software
+					- Also applicable for methanol in some cases
 			- ==Ethanol blending in diesel==
-			- ==Diesel engine with high ethanol concentration==
-		-
+				- Tests with up to 15% ethanol in diesel (‘E-diesel’)
+				- Problems with mixability
+					- => stabilising additives
+				- Low cetane number
+					- => ignition improvers
+			- ==Diesel engine with high ethanol concentration== #.ol
+				- Ethanol with ignition improvers (e.g. ED95)
+					- Engine to be adapted (see Scania)
+					- Very low NOx and PM emissions
+				- Dual-Fuel principal
+					- two fuel systems
+					- Diesel pilot injection for ignition
+				- Conversion to Otto engine
+					- sparkplugs, lubricating additives, lower compression ratio
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
