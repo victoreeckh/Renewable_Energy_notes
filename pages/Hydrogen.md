@@ -170,7 +170,14 @@
 		- Cost evolution
 			- Cost highly dependent on electricity price
 		- Cost of large P2G systems / Sector Coupling
+			- Correct cost metric for input electric energy:
+				- LCOE = cost wind/solar (recovering investment cost)
+			- Often argument: zero electricity prices because ‘zero marginal cost’ →input elec cost for electrolyzer = 0→this is a ‘dream’ (for long time to come)
+			- Richard Green (Imperial college): H2 production via electrolysis increases elec demand → reinstates non-zero electricity price
+			- Coupling H2 sector with elec pwr sector see example Energinet DK (see later RR)
 	- ### Transition towards a hydrogen economy
+		- Blending / Mixing of Hydrogen in NG Pipelines
+			-
 	- ### Conclusion
 - ## Fuel cells
 - ## P2G
