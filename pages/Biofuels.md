@@ -236,6 +236,7 @@
 					- Lubrication additives needed
 	- #### Other
 		- ==Biomethane==
+		  collapsed:: true
 			- Upgraded biogas, or methane produced through biomass gasification (SNG) or
 			  power-to-gas (in future)
 				- Natural gas technology
