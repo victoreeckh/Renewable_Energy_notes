@@ -290,37 +290,39 @@
 	- #### advanced biofuels
 		- Thermochemical conversion options
 			- Gasification, syngas cleaning & conditioning + further synthesis of the syngas to fuels, e.g.
+			  collapsed:: true
 				- Fischer-Tropsch synthesis + refining to fuels
 				- Methanol synthesis
 				- DME synthesis
 				- Biological gas fermentation
 				- Methanation
 			- Production and upgrading of pyrolysis products and lignin-rich fractions
+			  collapsed:: true
 				- Pyrolysis/liquefaction + upgrading and hydroprocessing
 				- Pyrolysis/liquefaction + upgrading and co-processing in a refinery
-		- Fuels
-			- ==Fischer-Tropsch diesel== #.ol
-				- Pretreatment: drying, crushing of lignocellulosic feedstock
-				- Gasification
-				  collapsed:: true
-					- Biomass + $O_2$ (or $H_2O$) -> $CO$, $CO_2$, $H_2O$, $CH_4$, + other CHs + tar + char + ash
-				- Syngas cleaning to remove
-				  collapsed:: true
-					- organic impurities (tars, benzene, toluene, xylenes)
-					- inorganic impurities (O2, NH3, HCN, H2S, COS, HCl)
-					- other impurities (dust, soot)
-					- reduce CO2
-				- Syngas conditioning
-				  collapsed:: true
-					- CH4 reforming
-					- Water-gas shift to get the right H2/CO ratio
-						- or direct addition of renewable H2
-				- Fischer Tropsch synthesis
-				  collapsed:: true
-					- $(2n+1)H_2 +n CO \rightarrow C_n H_{2n+2}+nH_2O$
-				- Hydrocracking of FT waxes to increase diesel and/or kerosine fraction
-			-
+		- ==Fischer-Tropsch diesel== #.ol
+		  collapsed:: true
+			- Pretreatment: drying, crushing of lignocellulosic feedstock
+			- Gasification
+			  collapsed:: true
+				- Biomass + $O_2$ (or $H_2O$) -> $CO$, $CO_2$, $H_2O$, $CH_4$, + other CHs + tar + char + ash
+			- Syngas cleaning to remove
+			  collapsed:: true
+				- organic impurities (tars, benzene, toluene, xylenes)
+				- inorganic impurities (O2, NH3, HCN, H2S, COS, HCl)
+				- other impurities (dust, soot)
+				- reduce CO2
+			- Syngas conditioning
+			  collapsed:: true
+				- CH4 reforming
+				- Water-gas shift to get the right H2/CO ratio
+					- or direct addition of renewable H2
+			- Fischer Tropsch synthesis
+			  collapsed:: true
+				- $(2n+1)H_2 +n CO \rightarrow C_n H_{2n+2}+nH_2O$
+			- Hydrocracking of FT waxes to increase diesel and/or kerosine fraction
 		- Pyrolysis/liquefaction pathways
+		  collapsed:: true
 			- Pyrolysis = thermal decomposition of organic material in the absence of oxygen
 			  id:: 646e70e5-68b1-4762-838c-bcfe38719f66
 			- products
@@ -331,7 +333,35 @@
 				- char & gas
 					- Gas normally used for internal process energy
 					- biochar can be used as soil improver (form of carbon storage)
-			-
+		- Biochemical conversion
+			- ==Ethanol and higher alcohols== from lignocellulosic sugar via fermentation
+				- Process #.ol
+					- Pretreatment:
+					  collapsed:: true
+						- mechanical treatment to reduce the size;
+						- chemical/thermo-chemical treatment to separate cellulose and hemi-cellulose from the lignin
+						  solids (steam explosion, organosolv, ...)
+					- Lignin separated and dried to be used as fuel for process heat
+					- Enzymatic hydrolysis: Saccharification (sugar formation) of the cellulose polysaccharides and hemicelluloses oligomers
+					- Fermentation of C6 and C5 sugars, mostly through genetically modified yeasts 5. Product separation (distillation, dehydration)
+		- Power to Gas / Power to Liquid conversion
+		  collapsed:: true
+			- Input:
+			  collapsed:: true
+				- Renewable hydrogen (e.g. from electrolysis, based on excess green electricity)
+				- CO2 – preferably atmospheric
+				  collapsed:: true
+					- Captured biogenic CO2 from a point source (e.g. from biogas upgrading, ethanol production, or industrial flue gases)
+					- from Direct Air Capture (DAC) (high cost & energy requirement to extract CO2 from the air at 0.04%)
+			- Main products:
+			  collapsed:: true
+				- Methane
+				- Methanol
+				- FT fuel
+			- High technology cost & energy losses;
+			  collapsed:: true
+				- All energy comes from the hydrogen ; all carbon comes from CO2
+				- Final product higher value than hydrogen?
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
