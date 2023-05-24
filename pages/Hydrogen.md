@@ -345,4 +345,8 @@
 			- DG
 			- ST
 		- ->to modelling of Denmark in 2035
-		-
+		- ![system-perspective-2035-main-report_english.pdf](../assets/system-perspective-2035-main-report_english_1684948326771_0.pdf)
+		- ((646e4585-2e74-43d3-b258-5d54b3546f9e))
+		- ((646e45a2-0ee4-4772-b140-7c6576ba9114))
+		- RR slide 173
+			- ((646e46dd-b3ac-4397-905e-d7f453d82964))
