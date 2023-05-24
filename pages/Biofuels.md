@@ -299,10 +299,39 @@
 				- Pyrolysis/liquefaction + upgrading and hydroprocessing
 				- Pyrolysis/liquefaction + upgrading and co-processing in a refinery
 		- Fuels
-			- ==Fischer-Tropsch diesel==
+			- ==Fischer-Tropsch diesel== #.ol
 				- Pretreatment: drying, crushing of lignocellulosic feedstock
 				- Gasification
-					- Biomass + $O_2$ (or $H_2O$) ->
+				  collapsed:: true
+					- Biomass + $O_2$ (or $H_2O$) -> $CO$, $CO_2$, $H_2O$, $CH_4$, + other CHs + tar + char + ash
+				- Syngas cleaning to remove
+				  collapsed:: true
+					- organic impurities (tars, benzene, toluene, xylenes)
+					- inorganic impurities (O2, NH3, HCN, H2S, COS, HCl)
+					- other impurities (dust, soot)
+					- reduce CO2
+				- Syngas conditioning
+				  collapsed:: true
+					- CH4 reforming
+					- Water-gas shift to get the right H2/CO ratio
+						- or direct addition of renewable H2
+				- Fischer Tropsch synthesis
+				  collapsed:: true
+					- $(2n+1)H_2 +n CO \rightarrow C_n H_{2n+2}+nH_2O$
+				- Hydrocracking of FT waxes to increase diesel and/or kerosine fraction
+			-
+		- Pyrolysis/liquefaction pathways
+			- Pyrolysis = thermal decomposition of organic material in the absence of oxygen
+			  id:: 646e70e5-68b1-4762-838c-bcfe38719f66
+			- products
+				- pyrolysis oil
+					- high oxygen content, high water content & acidic
+					- => difficult to mix with conventional oil
+					- => need to upgrade before co-processing
+				- char & gas
+					- Gas normally used for internal process energy
+					- biochar can be used as soil improver (form of carbon storage)
+			-
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
