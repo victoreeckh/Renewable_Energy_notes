@@ -260,12 +260,35 @@
 				- leads to CO2 emission when based on CH4
 				- many classical engineering “problems”
 	- #### Types
+		- See figures!
 		- Alkaline Fuel Cell (AFC)
+			- $T \sim 60-90^\circ C$, low T
+			- does not tolerate CO_2, reacts with KOH -> need for pure H_2, O_2
+			- $\eta \sim 60-70\%$
 		- Proton Exchange Membrane Fuel Cell (PEMFC)
+			- $T \sim 80^\circ C$, low T
+			- $\eta \sim 50-60\%$
 		- Direct Methanol Fuel Cell (DMFC)
+			- $T \sim 80^\circ C$, low T
+			- $\eta \sim 20-30\%$
+			- still premature state
 		- Phosphoric Acid Fuel Cell (PAFC)
+			- $T \sim 200^\circ C$, Intermediate T
+			- acid in electrolyte allows for CO_2 in fuel (CO_2 does not react with acid)
+			- $\eta \sim 55\%$
+			- exists in market PC25 (200KW)
 		- Molten Carbonate Fuel Cell (MCFC)
+			- CO_2 now integrated in reaction scheme
+			- $T \sim 650^\circ C$, High T
+			- $\eta \sim 65\%$
+			- internal reforming possible
+			- $CH_4 + 2H_2O \rightarrow CO_2 + 4H_2$
 		- Solid Oxide Fuel Cell (SOFC)
+			-
+	- #### Other
+		- Fuel Cell Cost
+		- Fuel Cell Installed Electrical Power Generation Capacities
+	- #### Conclusion
 - ## P2G
   collapsed:: true
 	-
