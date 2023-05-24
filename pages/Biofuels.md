@@ -172,7 +172,32 @@
 				- → High viscosity impacts pumping and atomization of the fuel during
 				  injection => combustion quality
 				- → Also links to lubrication in the fuel system
-			-
+			- **Fuels**
+				- ==Biodiesel/Fatty acid methyl ester (FAME)==
+					- Fuel properties
+						- Heating value (by volume) 9% lower than diesel
+						- Cetane value similar to diesel
+						- Kinematic viscosity slightly higher
+						- Other distillation curve => more difficult to evaporate from lubricating oil
+						- Additives for cold flow properties
+						- Fully mixable with diesel
+							- Up to 7% blending allowed in EN590 (diesel norm)
+							- For higher blends:
+							  collapsed:: true
+								- Compatibility with rubber materials and plastics (tubes and seals) to be checked (mainly problematic for older models)
+								- Compatibility with particulate filter systems (because of post-injection)
+								- Shorter service interval
+				- ==Pure vegetable oil (PVO)==
+					- Fuel properties
+						- Heating value (by volume) 4% lower than diesel
+						- Cetane value lower than diesel => lower combustion stability
+						- Kinematic viscosity much higher => vegetable oil needs preheating before injection
+					- Engine conversion needed (mainly preheating) to run on vegetable oil
+					- Collaboration of manufacturers is low (only for tractors, e.g. John Deere)
+					- Mostly done by specialised companies
+					- Production in smaller scale installations (short chain), lower cost than biodiesel
+					- Pure plant oil consumption in Germany peaked in 2007 at 0.7 million tonnes
+				- Hydrotreated vegetable oil (HVO)
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
