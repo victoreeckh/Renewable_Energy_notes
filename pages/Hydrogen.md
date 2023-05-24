@@ -168,6 +168,8 @@
 	- ### Environmental impact and costs
 		- Emissions
 		- Cost evolution
+			- Cost highly dependent on electricity price
+		- Cost of large P2G systems / Sector Coupling
 	- ### Transition towards a hydrogen economy
 	- ### Conclusion
 - ## Fuel cells
