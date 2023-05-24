@@ -94,10 +94,17 @@
 			- CO2 content
 		- relevant physical properties
 			- high energy density per unit of mass
+			  collapsed:: true
 				- -> attractive as a transport fuel
 			- low energy energy density per unit of volume
+			  collapsed:: true
 				- -> larger volumes need to be transported compared with other fuels
-			-
+			- intermezzo LHV vs HHV
+			  collapsed:: true
+				- >The lower heating value (LHV) accounts for the heat released when a fuel is burned while considering that the water vapor produced during combustion remains in the gaseous state. It assumes that the water vapor in the exhaust is not condensed and the heat it contains is not recovered. This is the more conservative measure of energy content and represents the available energy after subtracting the heat carried away by water vapor. 
+				  The higher heating value (HHV) takes into account the heat released during combustion as well as the latent heat of vaporization of water. It assumes that the water vapor produced during combustion is condensed and that the heat of condensation is recovered, which is not practically achievable in most applications. HHV includes the energy content of the water vapor formed during combustion, as it assumes complete condensation of the water vapor back to a liquid state. 
+				  In practical terms, the LHV represents the available energy content that can be directly utilized in applications like power generation, while the HHV includes additional energy that is not practically recoverable. Therefore, LHV is typically the more commonly used value for practical purposes and comparing different fuels' energy content.
+				-
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
