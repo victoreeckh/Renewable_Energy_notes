@@ -111,17 +111,32 @@
 		- Sole -> multi carrier
 			- electrical RES wind and solar ‘intermittency’ and consequent overcapacities, with ample over-generation whilst also often deficiency of generation (‘Dunkelflaute’), integration of many sectors will likely be the rule: sector coupling
 		- ultimate goal
+		  collapsed:: true
 			- Provide cheap and abundant energy carrier
 				- that can easily be transported, stored and converted into end energy,
 				- such that the overall cost of the energy chain is affordable,
 				- so as to lead to end-energy conversion that is “clean” also for small-scale applications
 		- Issues
+		  collapsed:: true
 			- production, transport, storage, safety
 			- But mostly cost!
 		- Fuel cell
-			- Conversion: c
+		  collapsed:: true
+			- Conversion: chemical -> electrical energy
+			- Alkaline (AFC), proton exchange membrane (PEMFC), Phosphoric acid ( PAFC), Molten carbonide (MCFC), solid oxide Fuel Cell (SOFC)
 	- ### Renewable energy sources
+	  collapsed:: true
+		- ![image.png](../assets/image_1684936772345_0.png){:height 299, :width 420}
 	- ### Hydrogen production
+		- Reforming (biogas, landfill gas)
+			- Well-known technology
+			- CCS possible
+			- Efficiencies up to 80%; but purification necessary
+		- Gasification/pyrolysis of waste/biomass
+		- Technologies under development
+			- Thermal splitting of water (solar heat)
+			- Photo(electro)chemical or photo-biological production (algae, bacteria)
+		-
 	- ### Environmental impact and costs
 	- ### Transition towards a hydrogen economy
 	- ### Conclusion
