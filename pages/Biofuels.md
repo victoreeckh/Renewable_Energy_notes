@@ -249,12 +249,14 @@
 		- Overview
 			- ![image.png](../assets/image_1684957479406_0.png){:height 342, :width 513}
 			- ==Biodiesel – Fatty acid methyl ester (FAME)==
+			  collapsed:: true
 				- Process #.ol
 					- Vegetable oil extraction => protein meal (animal feed) as co-product
 					- Transesterification (with methanol & catalyst)
 					- Phase separation & distillation (separate glycerol co-product, recycle remaining methanol & catalyst)
 			- ==Hydrotreated vegetable oil (HVO)==
 			  collapsed:: true
+				- ![image.png](../assets/image_1684958607187_0.png)
 				- Can start from broader spectrum of vegetable oils, fats and greases than FAME
 				- Requires input of hydrogen in refinery type processes
 					- currently hydrogen is mostly natural gas based, but will evolve to green hydrogen in future
@@ -298,7 +300,9 @@
 				- Pyrolysis/liquefaction + upgrading and co-processing in a refinery
 		- Fuels
 			- ==Fischer-Tropsch diesel==
-				-
+				- Pretreatment: drying, crushing of lignocellulosic feedstock
+				- Gasification
+					- Biomass + $O_2$ (or $H_2O$) ->
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
