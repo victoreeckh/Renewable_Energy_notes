@@ -16,3 +16,8 @@ file-path:: ../assets/system-perspective-2035-main-report_english_1684948326771_
   hl-page:: 11
   hl-color:: yellow
   id:: 646e46dd-b3ac-4397-905e-d7f453d82964
+- The blue curve is a modelled variation of GCA40 which includes a potential amount of PtG in North-Western Europe as a whole(as a general rule, there is virtually no PtG in the European TYNDP18 scenarios). This has a significant effect on the duration curve where the electricity price is raised considerably for many hours, and the number of zero-price hours is significantly reduced. This indicates that PtG/PtX may be a powerful tool for the integration of very high levels of wind and solar power in the interconnected North-Western European electricity system.
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 646e484d-f531-40cf-8c51-7ffe733629fc

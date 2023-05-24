@@ -1,5 +1,4 @@
 - ## Intro
-  collapsed:: true
 	- $H_2$ demand increased over the last 5 decades
 	- Problem
 	  collapsed:: true
@@ -107,7 +106,6 @@
 				  In practical terms, the LHV represents the available energy content that can be directly utilized in applications like power generation, while the HHV includes additional energy that is not practically recoverable. Therefore, LHV is typically the more commonly used value for practical purposes and comparing different fuels' energy content.
 				-
 - ## Hydrogen from Renewable sources
-  collapsed:: true
 	- ### Introduction
 	  collapsed:: true
 		- Sole -> multi carrier
@@ -219,8 +217,8 @@
 		- Using the existing energy infrastructure can facilitate the difficult transition period
 		- Unclear whether pure H2 economy will emerge, or ‘P2G’ (P-2-CH4)
 - ## Fuel cells
-  collapsed:: true
 	- #### Usage
+	  collapsed:: true
 		- Transportation (competing with electrical vehicles & biofuels)
 			- Passenger cars
 			- Trucs, Ships, (airplanes?)
@@ -312,7 +310,6 @@
 		- government aid needed for demonstration & market boost - risk capital needed for further R&D
 		- Massive commercialization fuel cells hopefully by 2030... (?)
 - ## P2G
-  collapsed:: true
 	- #### Recent developments - SNG/P2G
 	  collapsed:: true
 		- To avoid negative prices and accomodate superfluous electricity, avoid curtailment, produce synthetic fuels like “renewabl emethane”,CH4 (SNG–synthetic naturalgas)
@@ -339,14 +336,19 @@
 				- sensitive to oxygen (strictly anaerobic)
 		- Low efficiencies
 	- #### Example 3: DK system Operator Energinet
+	  collapsed:: true
 		- European scenarios...
 		  collapsed:: true
 			- GCA
 			- DG
 			- ST
 		- ->to modelling of Denmark in 2035
-		- ![system-perspective-2035-main-report_english.pdf](../assets/system-perspective-2035-main-report_english_1684948326771_0.pdf)
 		- ((646e4585-2e74-43d3-b258-5d54b3546f9e))
 		- ((646e45a2-0ee4-4772-b140-7c6576ba9114))
 		- RR slide 173
 			- ((646e46dd-b3ac-4397-905e-d7f453d82964))
+			- ((646e484d-f531-40cf-8c51-7ffe733629fc))
+		- ->Integrating p2g raises prices (see LDCs)
+			- More stable prices, less zero-price hours
+			- Electrolyzer operators don't like price lift
+			- Renewable operators do like it, allows to regain their investment
