@@ -169,9 +169,11 @@
 			- Overview
 				- ![image.png](../assets/image_1684953990502_0.png)
 			- Cetane number
+			  collapsed:: true
 				- → Indicates the speed of self-ignition in a diesel engine
 				- → Low cetane number gives lower combustion quality/stability
 			- Viscosity
+			  collapsed:: true
 				- measure of a fuel's resistance to flow ; temperature dependent
 				- → High viscosity impacts pumping and atomization of the fuel during
 				  injection => combustion quality
@@ -244,49 +246,51 @@
 				- On-board storage usually gaseous (CNG, 200 bar), sometimes also in liquid form (LNG, -160°C)
 - ### Production processes
 	- Commercialisation status
+	  collapsed:: true
 		- ![image.png](../assets/image_1684957434285_0.png){:height 279, :width 589}
 	- #### Current biofuels
 		- Overview
+		  collapsed:: true
 			- ![image.png](../assets/image_1684957479406_0.png){:height 342, :width 513}
-			- ==Biodiesel – Fatty acid methyl ester (FAME)==
-			  collapsed:: true
-				- Process #.ol
-					- Vegetable oil extraction => protein meal (animal feed) as co-product
-					- Transesterification (with methanol & catalyst)
-					- Phase separation & distillation (separate glycerol co-product, recycle remaining methanol & catalyst)
-			- ==Hydrotreated vegetable oil (HVO)==
-			  collapsed:: true
-				- ![image.png](../assets/image_1684958607187_0.png)
-				- Can start from broader spectrum of vegetable oils, fats and greases than FAME
-				- Requires input of hydrogen in refinery type processes
-					- currently hydrogen is mostly natural gas based, but will evolve to green hydrogen in future
-				- Alkanes as product (no double bonds, oxygen or aromatics)
-				- Output ratio of diesel / kerosene / bio-naphta can be steered according to market demand
-					- Current focus on renewable diesel, but interest in HEFA as sustainable aviation fuel (SAF) is growing
-					- Bio-propane as co-product
-			- ==Bio-ethanol==
-			  collapsed:: true
-				- C2H5OH = Ethyl-alcohol (drink alcohol)
-				  Production via sugar fermentation
-				- Use in food industry, in chemical industry, as transport fuel
-				- Base conversion processes (from starch) #.ol
-					- Feedstock pretreatment/crushing (to meal)
-					- Hydrolysis (saccharification/sugar formation):
-					  polysaccharides + H2O + enzymes → soluble sugars => animal feed as co-product
-					- Fermentation (from hexose, e.g. glucose):
-					  C6H12O6 + yeast → 2 C2H5OH + 2 CO2 => ~ pure CO2 as by-product
-					- Product separation (remove stillage waste)
-					- Ethanol distillation and dehydration to achieve <0.3% water content
-			- ==Bio-methane (from biogas)==
-			  collapsed:: true
-				- Methane = CH4 : main product of anaerobic digestion (AD)
-				- Anaerobic digestion = breakdown of organic material by micro-organisms in the absence of oxygen
-				- Base conversion processes:
-					- Anaerobic digestion of wet biomass: products are
-						- raw biogas (50-60% CH4, 20-40% CO2 + fractions of H2S, water, nitrogen, oxygen, ...)
-						- digestate (nutrient-rich soil conditioner)
-					- Biogas upgrading: adsorption, absorption (gas scrubbing), membrane separation or cryogenic separation to remove CO2, water, H2S and other components to reach natural gas quality (=> substantial amount of high concentration CO2 that could be captured)
-					- Pressurise (to 200 bar) or liquefy to fuel the vehicle, or inject in the natural gas grid
+		- ==Biodiesel – Fatty acid methyl ester (FAME)==
+		  collapsed:: true
+			- Process #.ol
+				- Vegetable oil extraction => protein meal (animal feed) as co-product
+				- Transesterification (with methanol & catalyst)
+				- Phase separation & distillation (separate glycerol co-product, recycle remaining methanol & catalyst)
+		- ==Hydrotreated vegetable oil (HVO)==
+		  collapsed:: true
+			- ![image.png](../assets/image_1684958607187_0.png)
+			- Can start from broader spectrum of vegetable oils, fats and greases than FAME
+			- Requires input of hydrogen in refinery type processes
+				- currently hydrogen is mostly natural gas based, but will evolve to green hydrogen in future
+			- Alkanes as product (no double bonds, oxygen or aromatics)
+			- Output ratio of diesel / kerosene / bio-naphta can be steered according to market demand
+				- Current focus on renewable diesel, but interest in HEFA as sustainable aviation fuel (SAF) is growing
+				- Bio-propane as co-product
+		- ==Bio-ethanol==
+		  collapsed:: true
+			- C2H5OH = Ethyl-alcohol (drink alcohol)
+			  Production via sugar fermentation
+			- Use in food industry, in chemical industry, as transport fuel
+			- Base conversion processes (from starch) #.ol
+				- Feedstock pretreatment/crushing (to meal)
+				- Hydrolysis (saccharification/sugar formation):
+				  polysaccharides + H2O + enzymes → soluble sugars => animal feed as co-product
+				- Fermentation (from hexose, e.g. glucose):
+				  C6H12O6 + yeast → 2 C2H5OH + 2 CO2 => ~ pure CO2 as by-product
+				- Product separation (remove stillage waste)
+				- Ethanol distillation and dehydration to achieve <0.3% water content
+		- ==Bio-methane (from biogas)==
+		  collapsed:: true
+			- Methane = CH4 : main product of anaerobic digestion (AD)
+			- Anaerobic digestion = breakdown of organic material by micro-organisms in the absence of oxygen
+			- Base conversion processes:
+				- Anaerobic digestion of wet biomass: products are
+					- raw biogas (50-60% CH4, 20-40% CO2 + fractions of H2S, water, nitrogen, oxygen, ...)
+					- digestate (nutrient-rich soil conditioner)
+				- Biogas upgrading: adsorption, absorption (gas scrubbing), membrane separation or cryogenic separation to remove CO2, water, H2S and other components to reach natural gas quality (=> substantial amount of high concentration CO2 that could be captured)
+				- Pressurise (to 200 bar) or liquefy to fuel the vehicle, or inject in the natural gas grid
 	- #### advanced biofuels
 		- Thermochemical conversion options
 			- Gasification, syngas cleaning & conditioning + further synthesis of the syngas to fuels, e.g.
@@ -335,6 +339,7 @@
 					- biochar can be used as soil improver (form of carbon storage)
 		- Biochemical conversion
 			- ==Ethanol and higher alcohols== from lignocellulosic sugar via fermentation
+			  collapsed:: true
 				- Process #.ol
 					- Pretreatment:
 					  collapsed:: true
@@ -363,5 +368,13 @@
 				- All energy comes from the hydrogen ; all carbon comes from CO2
 				- Final product higher value than hydrogen?
 - ### Climate impacts
+	- Read slides
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
+	- Strong growth in crop based biofuels between 2005 and 2010; markets have stagnated in the EU up to 2016 due to policy uncertainty; increasing again in recent years, with higher focus on waste & residues
+	- General blending with common (fossil) fuels most successful
+	- Various discussions in society - policies try to avoid side-effects
+	- GHG in focus => technological solutions (efficiency), feedstock type + land use / agriculture
+	- Further growth of biofuels to be expected / needed (IEA scenario); on medium to long term shift to long-distance transport (where electrification is more difficult)
+	- New technologies based on lignocellulose (more focus on residues), but market uptake needs acceleration
+	- Biorefinery technology in the future
