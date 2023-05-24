@@ -1,0 +1,31 @@
+- ### Biofuel types and resources
+	- Oils & fats
+		- biodiesel
+		- pure vegetable oil
+		- hydrotreated veg.oil
+		- HEFA jet fuel
+	- Sugars & starch
+		- ethanol
+		  butanol
+		  sugar- or alcohol-to-jetfuel
+	- Digestible products
+		- -> anything that can be put in anaerobic digestion
+		- bio-methane
+	- lignocellulose
+		- = fibrous part of plant material
+			- consists mainly of three polymeric components bound together in a complex
+			  structure: cellulose, hemicellulose, and lignin.
+		- types
+			- FT (synthetic) diesel / BTL
+			- bio-methanol
+			- bio-DME (di-methyl ether)
+			- cellulose ethanol & butanol
+			- synthetic natural gas (SNG)
+			- bio-hydrogen
+	-
+- ### Evolution in the past and biofuel scenarios for the future
+- ### Application of biofuels in vehicles
+- ### Production processes
+- ### Climate impacts
+- ### Biofuel policies and markets in the EU
+- ### Conclusions
