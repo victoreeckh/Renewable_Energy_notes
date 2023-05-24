@@ -26,16 +26,37 @@
 			- cellulose ethanol & butanol
 			- synthetic natural gas (SNG)
 			- bio-hydrogen
-	-
 - ### Evolution in the past and biofuel scenarios for the future
+  collapsed:: true
 	- Trends
 		- Global transport energy consumption continued to grow in the past decade
 			- STEPS
+			  collapsed:: true
 				- Although alternatives (biofuels, EV) gain importance, dominance of fossil fuels remains
 				- Not compatible with climate targets!
 			- NZE
 				- While demand of transport services more than doubles, biofuels complement end-use efficiency and strong growth in electricity (and derived fuels), providing ~16% of transport final energy demand in 2050
+				- Evolutions in road transport sectors
+				  collapsed:: true
+					- Strong growth of electricity (particularly for cars), but it takes time to replace the fleet
+					- Biofuels have a strong role to displace fossils in the coming decade (in ICE dominated fleet)
+					- In future this will be complemented with hydrogen- based fuels (‘e-fuels’)
+				- Global biofuels production
+				  collapsed:: true
+					- Liquid biofuels to quadruple
+					- Up to 2030 (main focus still on road transport):
+					  collapsed:: true
+						- Continued growth of conventional
+						  ethanol & biodiesel
+						- Strong growth of advanced biofuels
+						  needed (mainly for road transport)
+					- Post 2030
+					  collapsed:: true
+						- Role of conventional biofuels goes down
+						- Addition of carbon capture & storage in biofuel processes
+						- Shift from road biofuels to marine and aviation fuels (as road transport becomes more electric)
 		- Two main biofuels at the moment: bio-ethanol & biodiesel
+		  collapsed:: true
 			- increase in the last two decades
 			- Still crop dependent
 				- Dominant feedstocks Ethanol:
@@ -50,6 +71,10 @@
 					- USA/Brazil: soybean oil
 					- SE Asia: palm oil
 - ### Application of biofuels in vehicles
+	- Engines
+		- Spark ignition engines (Otto)
+			-
+		- Compression ignition (CI) engines (diesel)
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
