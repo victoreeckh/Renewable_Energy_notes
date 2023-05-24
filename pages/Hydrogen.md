@@ -178,8 +178,29 @@
 	- ### Transition towards a hydrogen economy
 		- Blending / Mixing of Hydrogen in NG Pipelines
 			- Challenges
-				- energy content reduction of delivered gas as the energy density per kg of hydrogen is one third of the one of natural gas
+			  collapsed:: true
+				- energy content reduction of delivered gas as the energy density per kg of hydrogen is one third of the one of natural gas (losing exergy)
 				- Increased risk of flame spreading as hydrogen burns faster than methane
+				- variability in the volume of hydrogen impacts the operation of equipment designed to accommodate onky a narrow range of gas mixtures when blended
+				- The upper limit for hydrogen blending in grids depends on the equipment connected to it. Component with lowest tolerance defines tolerance for whole network
+			- Hydrogen could be injected into the natural-gas grid
+			  collapsed:: true
+				- Transport towards end user
+				- Using H2/NG mixture in conventional boilers
+				- Separating H2 by means of membranes
+			- On the high-pressure level, compression stations, hydrogen embrittlement and energetic capacity can cause problems
+			  collapsed:: true
+				- New high-pressure hydrogen transmission grid seems necessary
+				- Can be used as a huge storage facility: linepack
+			- Mixing/Blending of hydrogen in to the distribution grid
+				- Influences pressure drop and Wobbe index
+				- Up to 3 vol% H2: no problems expected
+				- Up to 17 vol% H2: adjustments to boilers/furnaces/engines are needed (Ref. Haeseldonckx)
+			- Production and transportation of H2 to injection points
+				- High-p transmission grid is needed: who will pay for this?
+				- Interaction with transportation sector may offer possibilities (tank stations)
+				- First, a focus on codes and standards is needed!
+			-
 	- ### Conclusion
 - ## Fuel cells
 - ## P2G
