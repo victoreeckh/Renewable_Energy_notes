@@ -90,6 +90,9 @@
 	- #### Alcohol biofuels
 		- Methanol, ethanol, butanol
 		- Properties
+			- overview
+			  collapsed:: true
+				- ![image.png](../assets/image_1684953922240_0.png)
 			- Lower LHV
 			  collapsed:: true
 				- → higher volumetric fuel consumption => lower radius with same tank volume
@@ -140,12 +143,14 @@
 					- Engineering mainly in the engine control software
 					- Also applicable for methanol in some cases
 			- ==Ethanol blending in diesel==
+			  collapsed:: true
 				- Tests with up to 15% ethanol in diesel (‘E-diesel’)
 				- Problems with mixability
 					- => stabilising additives
 				- Low cetane number
 					- => ignition improvers
 			- ==Diesel engine with high ethanol concentration== #.ol
+			  collapsed:: true
 				- Ethanol with ignition improvers (e.g. ED95)
 					- Engine to be adapted (see Scania)
 					- Very low NOx and PM emissions
@@ -154,6 +159,20 @@
 					- Diesel pilot injection for ignition
 				- Conversion to Otto engine
 					- sparkplugs, lubricating additives, lower compression ratio
+	- #### Vegetable oil biofuels
+		- Pure vegetable oil (PVO), Fatty acid methyl ester (FAME), HVO
+		- properties
+			- Overview
+				- ![image.png](../assets/image_1684953990502_0.png)
+			- Cetane number
+				- → Indicates the speed of self-ignition in a diesel engine
+				- → Low cetane number gives lower combustion quality/stability
+			- Viscosity
+				- measure of a fuel's resistance to flow ; temperature dependent
+				- → High viscosity impacts pumping and atomization of the fuel during
+				  injection => combustion quality
+				- → Also links to lubrication in the fuel system
+			-
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
