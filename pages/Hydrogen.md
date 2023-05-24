@@ -74,9 +74,30 @@
 				- Add stock based element to flow based electricity system
 				- Round-trip efficiency of H2 from electricity is only 30%
 		- H2 vs H2 based fuels and feedstocks
+		  collapsed:: true
 			- H2 based fuels and feedstocks
-				-
+				- H2 combined with other inputs
 				- H2 produced from any source
+		- P2X
+		  collapsed:: true
+			- Conversion of electricity to other energy carriers or chemicals, generally through hydrogen produced by the electrolysis of water
+		- H2 categories
+			- colors refer to different sources
+			  collapsed:: true
+				- black -> coal
+				- grey -> natural gas
+				- brown -> lignite
+				- blue -> fossil fuels with CO2 emissions reduced by the use of CCUS
+				- green -> from renewable electricity
+				- turqoise -> pyrolysis
+				- pink -> nuclear-electrolysis
+			- CO2 content
+		- relevant physical properties
+			- high energy density per unit of mass
+				- -> attractive as a transport fuel
+			- low energy energy density per unit of volume
+				- -> larger volumes need to be transported compared with other fuels
+			-
 - ## Hydrogen from Renewable sources
 - ## Fuel cells
 - ## P2G
