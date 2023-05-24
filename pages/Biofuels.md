@@ -71,10 +71,42 @@
 					- USA/Brazil: soybean oil
 					- SE Asia: palm oil
 - ### Application of biofuels in vehicles
-	- Engines
+	- #### Engines
 		- Spark ignition engines (Otto)
-			-
+		  collapsed:: true
+			- compatible fuel types
+				- Ethanol / ETBE
+				- Methanol / MTBE
+				- ...
 		- Compression ignition (CI) engines (diesel)
+		  collapsed:: true
+			- compatible fuel types
+				- Biodiesel (FAME)
+				- Hydrotreated veg. oil (HVO)
+		- Gas turbines (jet engines)
+		  collapsed:: true
+			- Synthetic Paraffinic Kerosene (SPK)
+				- HEFA (hydroprocessed esters and fatty acids)
+	- #### Alcohol biofuels
+		- Methanol, ethanol, butanol
+		- Properties
+		  collapsed:: true
+			- Lower LHV
+				- → higher volumetric fuel consumption => lower radius with same tank volume
+				- → lower LHV usually links with fuel oxygen content
+			- Lower stoichiometric air/fuel ratio
+				- -> more fuel injection per engine cycle => increased power
+			- High octane number
+				- → suitable for SI engines;
+				- → higher compression ratio possible
+			- High heat of vaporisation
+				- → lower cylinder inlet temperature → better charging, higher power → potential cold start problems
+		- **Ethanol applications**
+			- ==As a blending component==
+			- ==High ethanol concentration==
+			- ==Ethanol blending in diesel==
+			- ==Diesel engine with high ethanol concentration==
+		-
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
