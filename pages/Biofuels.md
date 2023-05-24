@@ -371,6 +371,7 @@
 	- Read slides
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
+  collapsed:: true
 	- Strong growth in crop based biofuels between 2005 and 2010; markets have stagnated in the EU up to 2016 due to policy uncertainty; increasing again in recent years, with higher focus on waste & residues
 	- General blending with common (fossil) fuels most successful
 	- Various discussions in society - policies try to avoid side-effects
