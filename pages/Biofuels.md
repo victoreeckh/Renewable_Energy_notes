@@ -92,18 +92,35 @@
 		- Properties
 		  collapsed:: true
 			- Lower LHV
+			  collapsed:: true
 				- → higher volumetric fuel consumption => lower radius with same tank volume
 				- → lower LHV usually links with fuel oxygen content
 			- Lower stoichiometric air/fuel ratio
+			  collapsed:: true
 				- -> more fuel injection per engine cycle => increased power
 			- High octane number
+			  collapsed:: true
 				- → suitable for SI engines;
 				- → higher compression ratio possible
 			- High heat of vaporisation
+			  collapsed:: true
 				- → lower cylinder inlet temperature → better charging, higher power → potential cold start problems
 		- **Ethanol applications**
 			- ==As a blending component==
+			  collapsed:: true
+				- Up to 10% ethanol with gasoline (“E5” or “E10”):
+				- Applied as ‘oxygenate’ to lower exhaust emissions
+				- No technical problems in terms of
+					- power and efficiency,
+					- material compatibility,
+					- lubricating oil degradation
+				- Avoid water => very dry ethanol
+					- Water could result in phase separation
+				- Increased vapour pressure of the gasoline-ethanol blend
+					- could increase evaporative emissions, unless captured by canistor
+				- Application of ETBE (oxygenate, produced from ethanol + iso-butylene) => reduced vapour pressure
 			- ==High ethanol concentration==
+				-
 			- ==Ethanol blending in diesel==
 			- ==Diesel engine with high ethanol concentration==
 		-
