@@ -243,6 +243,47 @@
 				- Need natural gas infrastructure (fuel stations)
 				- On-board storage usually gaseous (CNG, 200 bar), sometimes also in liquid form (LNG, -160°C)
 - ### Production processes
+	- Commercialisation status
+		- ![image.png](../assets/image_1684957434285_0.png){:height 279, :width 589}
+	- #### Current biofuels
+		- Overview
+			- ![image.png](../assets/image_1684957479406_0.png){:height 342, :width 513}
+			- ==Biodiesel – Fatty acid methyl ester (FAME)==
+			  collapsed:: true
+				- Process #.ol
+					- Vegetable oil extraction => protein meal (animal feed) as co-product
+					- Transesterification (with methanol & catalyst)
+					- Phase separation & distillation (separate glycerol co-product, recycle remaining methanol & catalyst)
+			- ==Hydrotreated vegetable oil (HVO)==
+			  collapsed:: true
+				- Can start from broader spectrum of vegetable oils, fats and greases than FAME
+				- Requires input of hydrogen in refinery type processes
+					- currently hydrogen is mostly natural gas based, but will evolve to green hydrogen in future
+				- Alkanes as product (no double bonds, oxygen or aromatics)
+				- Output ratio of diesel / kerosene / bio-naphta can be steered according to market demand
+					- Current focus on renewable diesel, but interest in HEFA as sustainable aviation fuel (SAF) is growing
+					- Bio-propane as co-product
+			- ==Bio-ethanol==
+			  collapsed:: true
+				- C2H5OH = Ethyl-alcohol (drink alcohol)
+				  Production via sugar fermentation
+				- Use in food industry, in chemical industry, as transport fuel
+				- Base conversion processes (from starch) #.ol
+					- Feedstock pretreatment/crushing (to meal)
+					- Hydrolysis (saccharification/sugar formation):
+					  polysaccharides + H2O + enzymes → soluble sugars => animal feed as co-product
+					- Fermentation (from hexose, e.g. glucose):
+					  C6H12O6 + yeast → 2 C2H5OH + 2 CO2 => ~ pure CO2 as by-product
+					- Product separation (remove stillage waste)
+					- Ethanol distillation and dehydration to achieve <0.3% water content
+			- ==Bio-methane (from biogas)==
+				- Methane = CH4 : main product of anaerobic digestion (AD)
+				- Anaerobic digestion = breakdown of organic material by micro-organisms in the absence of oxygen
+				- Base conversion processes:
+					- Anaerobic digestion of wet biomass: products are
+				- raw biogas (50-60% CH4, 20-40% CO2 + fractions of H2S, water, nitrogen, oxygen, ...) - digestate (nutrient-rich soil conditioner)
+				- Biogas upgrading: adsorption, absorption (gas scrubbing), membrane separation or cryogenic separation to remove CO2, water, H2S and other components to reach natural gas quality (=> substantial amount of high concentration CO2 that could be captured)
+				- Pressurise (to 200 bar) or liquefy to fuel the vehicle, or inject in the natural gas grid
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
 - ### Conclusions
