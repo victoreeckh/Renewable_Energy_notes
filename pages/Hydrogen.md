@@ -134,6 +134,7 @@
 			- Photo(electro)chemical or photo-biological production (algae, bacteria)
 		- #### Electrolysis
 			- **general**
+			  collapsed:: true
 				- ![image.png](../assets/image_1684938048698_0.png)
 				- $2H_2O(l) \rightarrow 2H_2(g)+O_2(g)$
 				- Well-known, Commercially available
@@ -141,12 +142,14 @@
 				-
 			- **Types**
 				- ==Alkaline EL==
+				  collapsed:: true
 					- Unipolar – bipolar KOH systems
 					- ![image.png](../assets/image_1684937732492_0.png)
 					- (+) Mature for steady state operation
 					- (+) Possible for dynamic operation
 					- (-) Operating range: 30% - 100% of rated capacity
 				- ==Proton-Exchange Membrane EL==
+				  collapsed:: true
 					- Solid Polymer Electrolyte systems (high pressure)
 					- ![image.png](../assets/image_1684937823774_0.png)
 					- (+) Dynamic operation
@@ -154,11 +157,17 @@
 					- (-) Less efficient
 					- (-) Early commercial phase
 				- ==Solid Oxide EL==
+				  collapsed:: true
 					- Solid Oxide Electrolyte systems (high temperature)
 					- ![image.png](../assets/image_1684937886670_0.png){:height 186, :width 355}
 					- Promissing, highly efficiencient technology, ... but still in research phase
 				- Steam-assisted electrolysis
+			- **other**
+			  collapsed:: true
+				- Characteristics -> lezen
 	- ### Environmental impact and costs
+		- Emissions
+		- Cost evolution
 	- ### Transition towards a hydrogen economy
 	- ### Conclusion
 - ## Fuel cells
