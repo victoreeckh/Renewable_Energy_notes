@@ -128,15 +128,31 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1684936772345_0.png){:height 299, :width 420}
 	- ### Hydrogen production
-		- Reforming (biogas, landfill gas)
+		- #### Reforming (biogas, landfill gas)
+		  collapsed:: true
 			- Well-known technology
 			- CCS possible
 			- Efficiencies up to 80%; but purification necessary
-		- Gasification/pyrolysis of waste/biomass
-		- Technologies under development
+		- #### Gasification/pyrolysis of waste/biomass
+		- #### Technologies under development
+		  collapsed:: true
 			- Thermal splitting of water (solar heat)
 			- Photo(electro)chemical or photo-biological production (algae, bacteria)
-		-
+		- #### Electrolysis
+			- $2H_2O(l) \rightarrow 2H_2(g)+O_2(g)$
+			- Well-known, Commercially available
+			- **Types**
+				- ==Alkaline EL==
+					- Unipolar – bipolar KOH systems
+					- ![image.png](../assets/image_1684937732492_0.png)
+					- (+) Mature for steady state operation
+					- (+) Possible for dynamic operation
+					- (-) Operating range: 30% - 100% of rated capacity
+				- ==Proton-Exchange Membrane EL==
+					- Solid Polymer Electrolyte systems (high pressure)
+				- ==Solid Oxide EL==
+					- Solid Oxide Electrolyte systems (high temperature)
+				- Steam-assisted electrolysis
 	- ### Environmental impact and costs
 	- ### Transition towards a hydrogen economy
 	- ### Conclusion
