@@ -107,7 +107,19 @@
 				  In practical terms, the LHV represents the available energy content that can be directly utilized in applications like power generation, while the HHV includes additional energy that is not practically recoverable. Therefore, LHV is typically the more commonly used value for practical purposes and comparing different fuels' energy content.
 				-
 - ## Hydrogen from Renewable sources
-	-
+	- ### Introduction
+		- Sole -> multi carrier
+			- electrical RES wind and solar ‘intermittency’ and consequent overcapacities, with ample over-generation whilst also often deficiency of generation (‘Dunkelflaute’), integration of many sectors will likely be the rule: sector coupling
+		- ultimate goal
+			- Provide cheap and abundant energy carrier
+				- that can easily be transported, stored and converted into end energy,
+				- such that the overall cost of the energy chain is affordable,
+				- so as to lead to end-energy conversion that is “clean” also for small-scale applications
+	- ### Renewable energy sources
+	- ### Hydrogen production
+	- ### Environmental impact and costs
+	- ### Transition towards a hydrogen economy
+	- ### Conclusion
 - ## Fuel cells
 - ## P2G
   collapsed:: true
