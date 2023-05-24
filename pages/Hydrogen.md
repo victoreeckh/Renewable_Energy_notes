@@ -1,4 +1,5 @@
 - ## Intro
+  collapsed:: true
 	- $H_2$ demand increased over the last 5 decades
 	- Problem
 	  collapsed:: true
@@ -106,6 +107,7 @@
 				  In practical terms, the LHV represents the available energy content that can be directly utilized in applications like power generation, while the HHV includes additional energy that is not practically recoverable. Therefore, LHV is typically the more commonly used value for practical purposes and comparing different fuels' energy content.
 				-
 - ## Hydrogen from Renewable sources
+	-
 - ## Fuel cells
 - ## P2G
   collapsed:: true
