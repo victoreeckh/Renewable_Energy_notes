@@ -72,6 +72,9 @@
 					- USA/Brazil: soybean oil
 					- SE Asia: palm oil
 - ### Application of biofuels in vehicles
+	- #### Overview
+	  collapsed:: true
+		- ![image.png](../assets/image_1684955569625_0.png)
 	- #### Engines
 		- Spark ignition engines (Otto)
 		  collapsed:: true
@@ -175,7 +178,6 @@
 				- → Also links to lubrication in the fuel system
 			- **Fuels**
 				- ==Biodiesel/Fatty acid methyl ester (FAME)==
-				  collapsed:: true
 					- Fuel properties
 						- Heating value (by volume) 9% lower than diesel
 						- Cetane value similar to diesel
@@ -211,6 +213,7 @@
 						- Dedicated production where hydrogen is available (close to refineries)
 						- Use crude oil refinery process (mix few % of veg. oil in hydrotreating facilities)
 				- ==Fischer-Tropsch diesel==
+				  collapsed:: true
 					- From gasified lignocellulosic biomass
 					- Technology still in early commercialisation phase
 					- ~ Synthetic diesel (like HVO) => DROP-IN BIOFUEL
@@ -220,6 +223,7 @@
 					- Lubrication additive needed
 					- Process can also be steered towards bio-kerosene (and diesel as co-product)
 				- ==Di-Methyl-Ether (DME)==
+				  collapsed:: true
 					- From gasified lignocellulosic biomass
 					- properties
 						- Gaseous in atmospheric circumstances Liquid under limited pressure (>5 bar)
@@ -229,9 +233,12 @@
 					- Lubrication additives needed
 	- #### Other
 		- ==Biomethane==
+		  collapsed:: true
 			- Upgraded biogas, or methane produced through biomass gasification (SNG) or
 			  power-to-gas (in future)
-			-
+				- Natural gas technology
+				- Need natural gas infrastructure (fuel stations)
+				- On-board storage usually gaseous (CNG, 200 bar), sometimes also in liquid form (LNG, -160°C)
 - ### Production processes
 - ### Climate impacts
 - ### Biofuel policies and markets in the EU
