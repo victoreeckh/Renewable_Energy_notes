@@ -101,6 +101,12 @@
 		- Learning rate, experience curves
 			- Production price relation
 				- (e.g. for PV) Each time the cumulative PV production doubled, the price went down by 25% over the last 40yrs
-		-
 	- ### External & system cost aspects
+	- Market prices depend on system and are affected by #.ol
+		- amount of RES in the system. RES tend to reduce the wholesale market price (zero marginal cost generation).
+			- At high shares, they operate mostly at times when prices are low (often self-caused!)
+			- At lower shares, they are ‘price takers’, but operation depends on meteorological conditions
+			- Dispatchable REES can shift operation to high price moments!
+		- Price of fossil fuels
+		- often natural gas. Since gas often sets the wholesale price Price of CO2; related to carbon intensity of power mix
 - ## [[intro_EX]]
