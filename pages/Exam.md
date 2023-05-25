@@ -258,7 +258,9 @@
 				  diagram
 				- 3) The plant has a low efficiency, how can the e
 	- ### 6 June 2014
+	  collapsed:: true
 		- Question 1: #intro_EX
+		  collapsed:: true
 			- Consider an island, without electrical interconnections with other countries
 			  Requirement 20% of the end energy = renewable.
 			  The end energy consists of 26% (of which is 10% renewable) for transport, 53%
@@ -282,23 +284,119 @@
 				- 1. Compute V_oc
 				- 2. Compute V_oc if shunt resistance is not neglected, R_shunt = 100 ohm.cm^2
 		- Question 3: #wind_EX
+		  collapsed:: true
 			- Given: P_nom = 1MW, Speed wind = 11m/s, lamba = 7, C_L=1.5, angle of attack =
 			  10°
 			- Calculate blade chord length and twist angle at 0.2R; 0.5R and 1R (R=radius of
 			  turbine)
-		- Question 4:
+		- Question 4: #Biofuels_EX
+		  collapsed:: true
 			- Discuss the 3 types of biofuels that can be produced from vegetable oils which
 			  properties are important? What is the impact applicability of these fuels in
 			  combustion engines?
-		- Question 5:
-		- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
-		  aspect at different energy vectors, their interaction, time and space issues
-		  and the global system. (max 1 page)
-		- Question 6:
-		- 1.) Picture of geothermal power plant -> give T-s-diagram
-		- 2.) 40% of all geothermal power plants are binary, but installed capacity is
-		  only 6.6%. Where does this mismatch come from?
-		- 3.) Two different types of geothermal heat sources exist:
-		- a. give the name of the classical heat source type (just name)
-		- b. give the name and the working principle of the heat source type, which can
-		  be used when the classical one is not possible.
+		- Question 5: #Solar_thermal_EX
+		  collapsed:: true
+			- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
+			  aspect at different energy vectors, their interaction, time and space issues
+			  and the global system. (max 1 page)
+		- Question 6: #geothermal_EX
+		  collapsed:: true
+			- 1.) Picture of geothermal power plant -> give T-s-diagram
+			- 2.) 40% of all geothermal power plants are binary, but installed capacity is
+			  only 6.6%. Where does this mismatch come from?
+			- 3.) Two different types of geothermal heat sources exist:
+				- a. give the name of the classical heat source type (just name)
+				- b. give the name and the working principle of the heat source type, which can
+				  be used when the classical one is not possible.
+	- ### 17 June 2014
+	  collapsed:: true
+		- #Hydrogen_EX
+		  collapsed:: true
+			- A for AFC, PEMFC, PAFC, MCFC and SOFC.
+				- i which ones can easily be fueled with methane and why?
+				- ii which ones can be fueled with methane with some changes and why? What do you
+				  need to add?
+				- iii which fuel cell can't be used after reforming CH4 (in practice) and why?
+			- B
+				- i give the idea of renewable methane
+				- ii give the different thought steps in the process
+				- iii give an order of magnitude of the overal efficiency after the cycle is
+				  closed (electricity --> CH4 --> electricity)
+				- iv what is the biggest cost and uncertainty for renewable methane?
+		- #PV_EX
+		  collapsed:: true
+			- i give a physical interpretation of the different terms in the efficiency for
+			  PV panels (equation was given)
+			- ii explain qualitatively why there is a maximum efficiency for a given bandgap
+			- iii explain how multi junction cells reduce the losses from term 1 and 2 (long
+			  wavelength & thermalisation losses)
+		- #wind_EX
+		  collapsed:: true
+			- Derive the expressions for Cp and Ct and the Betz limit of both
+			- If you mount a wind turbine on an airplane, and the airplane flies at speed
+			  U_infinity on a day with no wind, which fraction of the used fuel energy can be
+			  recuperated in the turbine? (assume no friction losses from the airplane, ideal
+			  transmissions,...)
+		- #Solar_thermal_EX
+		  collapsed:: true
+			- The German regulator wants to subsidize storage for small scale PV production at residential houses. Why? Design a system for this storage. Which size should it be (order of
+			  magnitude)?
+		- #Meteorology_EX
+		  collapsed:: true
+			- i Stratification is very important for the quality of energy stored in tanks
+			  for sensible heat storage. Why?
+			- ii How can buoyancy induces mixing be reduced?
+		- #geothermal_EX
+		  collapsed:: true
+			- a given design scheme of a geothermal plant (of a dual pressure plant)
+				- i for which type of geothermal source is this plant: steam dominated, liquid
+				  dominated > 150° or liquid dominated < 150° (multiple choice)
+				- ii give the Ts diagram & indicate the states
+				- iii give the TQ diagram for heat exchange between the brine and the fluids
+	- ### X June 2014
+		- Vraag 1: #intro_EX
+		  collapsed:: true
+			- gegeven energie-eiland met 21% energie vervoer 51% verwarming en 29% elektriciteit. Totale energie verbruik moet 20% hernieuwbare zijn: 10% voor vervoer en 19% voor verwarming.
+			  Elektriciteit (567TWh/a) bestaat voor 1/3 uit biomassa/hydroenergie, 1/3 uit wind
+			  (3333h/a) en 1/3 uit PV-cellen (1000h/a).
+				- Wat is de nodige geïnstalleerde capaciteit voor wind en zonneenergie
+				- Veronderstel dat er op een dag in mei 40 GW energievraag is. Het is een extreem zonnige en winderige dag? Wat gebeurt er? Hoeveel energie is er teveel veel en wat doe je hiermee zodanig dat het net stabiel blijft.
+				- Op een koude dag in de winter is er temperatuursinversie (geen wind en zon) er is een vraag van 80  GW. Hoeveel GW controlleerbare capaciteit moet er beschikbaar zijn zodat deze variatie kan opgevangen worden met een veiligheidsmarge van 20%?
+				- Wat betekent dit voor het totale energiegebruik?
+		- #PV_EX
+		  collapsed:: true
+			- klassieke PV-oefening
+		- windenergie #wind_EX
+		  collapsed:: true
+			- Een turbine heeft een tiploopgetal van 7 en een windsnelheid van 11m/s. Het vermogen van de turbine is 50MW en de aanvalshoek is 10°. Wat is de draaihoek (pitchangle) en de dikte van de koorde op 0.2R, 0.5R en R.
+		- Biofuels #Biofuels_EX
+		  collapsed:: true
+			- Bespreek de 3 vormen van brandstof die je kan maken en plantaardige olie. Wat zijn de belangrijke kenmerken en wat is hun invloed op de verbrandingsmotor. Wat zijn de 3 dominante feedstocks van biodiesel?
+		- warmteopslag #Solar_thermal_EX
+		  collapsed:: true
+			- Bespreek de warmteopslag (TES). Hoe kan TES de warmte- en electriciteitsflux loskoppelen? (bespreek vectoren, tijd en ruimteopslag ...)
+		- geothermal #geothermal_EX
+		  collapsed:: true
+			- a) Schema: maak TS diagram van bovenstaande tekening (double flash plant). Duid alle nummers aan.
+			- b) Hoewel binaire energiebronnen 56% uitmaken van de totale hoeveelheid centrales, leveren ze maar 6% van de totale geproduceerde elektriciteit aan geothermische energie. Van waar komt deze discrepantie (5 regels max)
+			- c) Er zijn 2 typen van bron? (liquid
+			  dominated en vapordominated)
+				- Geef de naam van de klassieke warmtebron.
+				- Wat is de andere warmtebron en hoe wordt
+				  die ontgonnen? ( Enhanced geothermal systems)
+		-
+	- vragen.
+		- De eerste vraag ging over ENOH berekenen.
+		- De tweede vraag ging over zonnepanelen, een
+		  oefening, redelijk simpel als ge de formules snapt
+		- De derde was over windenergie, maar die kan ik nie
+		  herhalen
+		- De vierde was over hydroenergy, alle soorten (op
+		  land) bespreken naargeland hun geografische ligging.
+		- De vijfde ging moest ge uitleggen wat ge wist over
+		  GEOTABS.
+		- De 6de was een vd circuits van geothermal. Moest ge
+		  een Ts diagram maken en ook TQ diagram van een gegeven circuit
+		- De 7e ging over dat extra boek op internet dat we
+		  moesten lezen. Wat er fout was aan de groene "stack", een fout die
+		  MacKay zelf toegaf ook.
