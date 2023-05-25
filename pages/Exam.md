@@ -354,6 +354,7 @@
 				- ii give the Ts diagram & indicate the states
 				- iii give the TQ diagram for heat exchange between the brine and the fluids
 	- ### X June 2014
+	  collapsed:: true
 		- Vraag 1: #intro_EX
 		  collapsed:: true
 			- gegeven energie-eiland met 21% energie vervoer 51% verwarming en 29% elektriciteit. Totale energie verbruik moet 20% hernieuwbare zijn: 10% voor vervoer en 19% voor verwarming.
@@ -384,19 +385,13 @@
 				- Geef de naam van de klassieke warmtebron.
 				- Wat is de andere warmtebron en hoe wordt
 				  die ontgonnen? ( Enhanced geothermal systems)
-		-
-	- vragen.
-		- De eerste vraag ging over ENOH berekenen.
-		- De tweede vraag ging over zonnepanelen, een
-		  oefening, redelijk simpel als ge de formules snapt
-		- De derde was over windenergie, maar die kan ik nie
-		  herhalen
-		- De vierde was over hydroenergy, alle soorten (op
-		  land) bespreken naargeland hun geografische ligging.
-		- De vijfde ging moest ge uitleggen wat ge wist over
-		  GEOTABS.
-		- De 6de was een vd circuits van geothermal. Moest ge
-		  een Ts diagram maken en ook TQ diagram van een gegeven circuit
-		- De 7e ging over dat extra boek op internet dat we
-		  moesten lezen. Wat er fout was aan de groene "stack", een fout die
-		  MacKay zelf toegaf ook.
+	- ### Random
+	  collapsed:: true
+		- De eerste vraag ging over ENOH berekenen. #intro_EX
+		- De tweede vraag ging over zonnepanelen, een oefening, redelijk simpel als ge de formules snapt #PV_EX
+		- De derde was over windenergie, maar die kan ik nie herhalen #wind_EX
+		- De vierde was over hydroenergy, alle soorten (op land) bespreken naargeland hun geografische ligging. #Hydro_EX
+		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #geothermal_EX
+		- De 6de was een vd circuits van geothermal. #geothermal_EX
+			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
+		- De 7e ging over dat extra boek op internet dat we moesten lezen. Wat er fout was aan de groene "stack", een fout die MacKay zelf toegaf ook #intro_EX
