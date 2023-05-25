@@ -46,38 +46,50 @@
 	- ### 18 June 2021
 	  collapsed:: true
 		- Intro #intro_EX
+		  collapsed:: true
 			- slide 79 deel 4 van william in zijn intro, leg uit waarom de stippelijn stijgt en dan weer daalt en waarom de volle lijn constant stijgt
-			- Hoe bepaalt ge de waarde van 'residential PV' (2 lijnen) en is een batterij bij uw home PV een goed idee bij net metering?
+			- Hoe bepaalt ge de waarde van 'residential PV' (2 lijnen) en is een batterij bij uw home PV een goed idee bij net metering? #PV_EX
 		- Wind #wind_EX
+		  collapsed:: true
 			- het nominaal vermogen en snelheid van een windturbine gegeven, cut in and off snelheden ook en de Cp, bereken het maximale buigmoment van de fundering (neem voor
 			  ontbrekende waardes goeie aannames)
 		- Hydro #Hydro_EX
+		  collapsed:: true
 			- Doe een SWOT analyse van een floating PV
 		- Solar_thermal #Solar_thermal_EX
+		  collapsed:: true
 			- waarom moet de reflectie coeff van een absorber gelijk zijn aan 1 vanaf 3µm? en die figuur op slide 55 van die kost met waarom 16 jaar, wat is daar fout aan en hoe beter?
 	- ### 4 June 2021
 	  collapsed:: true
 		- Intro #intro_EX
+		  collapsed:: true
 			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the right figure?
 		- PV #PV_EX
+		  collapsed:: true
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
 		- TES #Solar_thermal_EX
+		  collapsed:: true
 			- TES is important forcross-sectorial decarbonization, give four examples
 		- Hydrogen #Hydrogen_EX
+		  collapsed:: true
 			- Fuel cells, which can be fueled with methane and which not, why?
 	- ### 19 June 2020
 	  collapsed:: true
 		- CSP #Solar_thermal_EX
+		  collapsed:: true
 			- Give the 4 techs for CSP in a 2x2 grid schape and give on major advantage and disadvantage for each tech
 			- Give the 2 main components of solar collection efficiency
 			- Give the range of the efficiencies for each of the 4 techs
 			- If you could build a large PV plant in a suitable location, would you prefer CSP or PV and why?
 		- Wind #wind_EX
+		  collapsed:: true
 			- Wind density diagram given at 60 meters (weibull distribution) , needed to be converted to 15m and you needed to get the nominal power from that and the estimated capacity factor
 		- Hydro #Hydro_EX
+		  collapsed:: true
 			- Give 2 major reasons why big hydro can be unsustainable
 			- Give 2 major reasons why small hydro can be unsustainable
 		- Geothermal #geothermal_EX
+		  collapsed:: true
 			- Hybrid plant given, explain workings in 10 lines
 			- Vapor or liquid field?
 			- Temperature range of field?
@@ -88,14 +100,19 @@
 		- Intro #intro_EX
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph?
 		- Solar PV #PV_EX
+		  collapsed:: true
 			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean. Explain why there is a theorerical maximum efficiency for a given bandgap. Why can multijunctions increase efficiency?
 		- Wind #wind_EX
+		  collapsed:: true
 			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
 		- Geothermal #geothermal_EX
+		  collapsed:: true
 			- asked you to draw an entire scheme for a hybrid plant (single flash + orc binary), draw TS diagrams for both. Is it vapor dominated or liquid dominated? what is the temperature range?
 		- Electric Storage #storage_EX
+		  collapsed:: true
 			- Compare supercapacitors and batteries, how can these help renewable energy generation?
 		- Biofuels #Biofuels_EX
+		  collapsed:: true
 			- What are the 3 types of biooils that can be produced from vegetable oils? What are the main parameters that describe them and their main differences?
 	- ### 14 June 2016
 	  collapsed:: true
