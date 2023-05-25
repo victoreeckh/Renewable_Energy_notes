@@ -67,6 +67,7 @@
 		- Intro #intro_EX
 		  collapsed:: true
 			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the right figure?
+				- *Zie June 2019*
 		- PV #PV_EX
 		  collapsed:: true
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
@@ -104,20 +105,25 @@
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
 			- Second question a graph of LCOE for PV and wind was given.
 				- What is LCOE
+				  collapsed:: true
 					- ((646fb863-d1ec-428a-9bae-255c696dd80f))
 				- what is WACC
+				  collapsed:: true
 					- *Opportunity cost of capital*
 				- why does LCOE curves go down for PV and wind
+				  collapsed:: true
 					- *Technological Advancements: Advances in solar panel and wind turbine technologies have significantly increased their efficiency and energy output -> increases denominator*
 						- *Also caused by learning curve effect*
 						- *Driven by subsidies, tax incentives and other policies*
 					- *Economies of Scale: The increasing deployment of solar and wind power installations worldwide has led to economies of scale. As the manufacturing and installation volumes have risen, the costs associated with producing solar panels and wind turbines have decreased.*
+					  collapsed:: true
 						- *Capital expense (annuity) will decrease*
 					- *Learning curve effect: cumulative experience and production volume, the costs of renewable energy technologies tend to decrease*
 						- *e.g. O&M will decrease*
 					- *No or little cost of carbon, cost of fuel*
 				- why is LCOE dependent of WACC
-					- LCOE is the average price
+				  collapsed:: true
+					- *LCOE is the average price during operation hours needed to break even over the lifetime of the plant. It thus makes the balance of the needed future revenue against the projected future costs of the plant. When calculating future money streams, one should account for the time-price value of money and therefore discount the streams to the present (NPV) as money is worth less in the future than it is today. This discount is embodied by the WACC, which can be seen as the opportunity cost of capital. Therefore using another discount (WACC) value will give other results in terms of average price needed to break even. This shows the dependency.*
 				- what are the green diamonds on the graph? What is missing on the right hand side graph? #intro_EX
 				-
 		- Solar PV #PV_EX
