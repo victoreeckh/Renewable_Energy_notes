@@ -70,4 +70,7 @@
 			- $ENOH = \frac{\int_0^{8760}Pdt}{P_{inst}} = CF\cdot 8760h$
 			- *The effective number of hours the plant should run at full capacity to equal its yearly output in MWh*
 - ## Historical trends
-	-
+- ## EU vision, policy targets and situation in 2020
+- ## Future scenarios
+- ## Cost aspects
+- ## [[intro_EX]]
