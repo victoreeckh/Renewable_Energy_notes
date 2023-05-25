@@ -1,12 +1,11 @@
 - ## Old questions
 	- ### 22 June 2022
-	  collapsed:: true
 		- Intro: #intro_EX
-		  collapsed:: true
 			- Explain how EU member states with low RES-potential reached their RES goal for 2020. So basically explain the statistical transfer of RES and give for one example the numbers of price and quantity.
 			- Graph of hydro production of the IEA was given, with the total production of 2019. What would be the total production in the BP graph and why?
 			- Why is there a different number for the total primary fuel use between IEA and BP? 2 reasons
 			- What is gross total consumption?
+				- *Includes primary energy consumption + non energy (feedstock) consumption*
 		- Wind: Explain the control mechanism for a modern wind turbine. (max. 3 pages) #wind_EX
 		- Storage: Do you get more sustainable energy production, when you combine a battery with a PV system? What might be a negative effect? (max. 1 page) #storage_EX
 		- Geothermal: #geothermal_EX
@@ -18,6 +17,7 @@
 	- ### 11 June 2022
 	  collapsed:: true
 		- Q1
+		  collapsed:: true
 			- Part 1
 			  collapsed:: true
 				- ![image.png](../assets/image_1685030967237_0.png)
@@ -34,12 +34,15 @@
 				- Explain the asymmetry for capacity factor
 				- Explain the asymmetry for the economic lifetime
 		- PV #PV_EX
+		  collapsed:: true
 			- What is the difference between bifacial and monofacial PV systems?
 			- Why is it difficult to estimate the production of these systems?
 			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
 		- Biofuels #Biofuels_EX
+		  collapsed:: true
 			- Give at least four characteristics that are important for alcohol-based biofuels for otto engines. Also give the name of these fuels. Discuss briefly how the characteristics influence the working principle.
 		- Q4
+		  collapsed:: true
 			- Explain chemical looping (calcium looping) and give a schematic indicating the charging and discharging process?
 			- What are the main properties and strengths?
 			- How can it be used for carbon capture?
@@ -98,6 +101,7 @@
 	- ### 19 June 2019
 	  collapsed:: true
 		- Intro #intro_EX
+		  collapsed:: true
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph?
 		- Solar PV #PV_EX
 		  collapsed:: true
@@ -131,12 +135,14 @@
 		- CSP #Solar_thermal_EX
 		  collapsed:: true
 			- Make a diagram depicting the four CSP technologies (according to receiver and focus type). Give the most important advantage & disadvantage of all types.
+			  collapsed:: true
 				- The efficiency of a CSP consists of two parts, give them.
 				- What is the efficiency range of this type of plants? Which technology has the highest and lowest efficiency?
 				- Suppose you are a project manager in Arizona and you have to choose between a CSP or a large PV plant. Give one important advantage and disadvantage of CSP in comparison to PV and explain which option you would choose.
 		- Hydrogen - Power to Gas #Hydrogen_EX
 		  collapsed:: true
 			- Which of the above fuel cells can be fuelled directely with methane ? (AFC, PEMFC, PAFC, SOFC & MCFC)
+			  collapsed:: true
 				- Which can be fuelled by methane using some additions? Which additions?
 				- Which one cannot be fuelled by methane in practice?
 				- Explain the idea of renewable methane?
@@ -154,6 +160,7 @@
 		  collapsed:: true
 			- Given: A diode with J0 = 10-16 A/cm²
 			- Under AM1.5 illumination, this cell gives a current of 20 mA/cm²
+			  collapsed:: true
 				- Compute the illuminated I-V-characteristic under AM1.5 (100 mW/cm²) illumination and T=300K (the value of Boltzmann constant = 1.4 * 10-23 m² kg s-2 K-1)
 				- What is the open-circuit voltage of this cell?
 				- What is the max fill factor of this cell? (ideality factor = 1)
@@ -172,6 +179,7 @@
 		- TES #Solar_thermal_EX
 		  collapsed:: true
 			- In the context of thermal energy storage (TES) both energy density and power density
+			  collapsed:: true
 			  are crucial.
 				- Define energy density. Which properties determine the energy density of a TES system?
 				- Define power density. Which properties impact the power density of a TES system?
@@ -181,7 +189,9 @@
 		  collapsed:: true
 			- In the figure below, the scheme of a geothermal power plant is given. #.ol-nested
 			- ![image.png](../assets/image_1685032701790_0.png)
+			  collapsed:: true
 				- For which type of geothermal heat source is this power plant typically used (multiple choices possible):
+				  collapsed:: true
 					- Liquid-dominated field with a brine temperature lower than 150°C
 					- Liquid-dominated field with a brine
 					  temperature higher than 150°C
@@ -192,12 +202,15 @@
 	- ### 6 June 2015
 	  collapsed:: true
 		- PV #Solar_thermal_EX
+		  collapsed:: true
 			- Explain functioning of solar pond: 1 page
 		- Hydro #Hydro_EX
+		  collapsed:: true
 			- How to gain renewable energy from sea, if you have to stay within 5 km of the beach and you can’t build high walls and the level of the sea changes quickly.
 		- Wind turbine: #wind_EX
 		  collapsed:: true
 			- Given: angle of attack =10degrees, CL=1.5, P=2MW, wind speed =11m/s, tip speed
+			  collapsed:: true
 			  ratio = 7,
 				- determine the pitch angle at 0.2R, 0.5R and R, and the cord length and determine the number of blades
 		- Enoh of wind and solar if: #intro_EX
@@ -210,6 +223,7 @@
 		- Geothermal: Binary power plant (dual pressure) was given #geothermal_EX
 		  collapsed:: true
 			- for what fluid is it typically used? Multiple possible
+			  collapsed:: true
 				- water dominated (T<150degrees)
 				- water dominated (T>150degrees)
 				- vapor dominated
@@ -239,11 +253,13 @@
 		- Solar Thermal #Solar_thermal_EX
 		  collapsed:: true
 			- 1)How do you get to a payback ratio of 16 years for a vacuum plate collector vs a electrical boiler
+			  collapsed:: true
 				- Why is this incorrect? What should it be and why?
 			- 2) Why should the absorber of a vacuum plate collector have a reflection coefficient of 1 above a wavelength of 3 µm?
 		- #PV_EX
 		  collapsed:: true
 			- J_0=10 fA/cm²
+			  collapsed:: true
 			  I=0.040 A/cm² at AM1.5 (100mW/cm²)
 			  T=300K #.ol
 				- Compute the I-V characteristic
@@ -255,6 +271,7 @@
 		- Wind #wind_EX
 		  collapsed:: true
 			- A histogram with with windspeeds is given
+			  collapsed:: true
 				- 1) Calculate nominal Power of the windmill
 				- 2) Calculate capacity factor
 				- 3) Calculate energy yield of a year
@@ -269,6 +286,7 @@
 		- Geothermal #geothermal_EX
 		  collapsed:: true
 			- A picture of a  geothermal plant given
+			  collapsed:: true
 				- 1) For what temperature is this design? wet steam <150°, wet steam > 150° or dry steam
 				- 2) Draw T-s
 				  diagram
@@ -278,6 +296,7 @@
 		- Question 1: #intro_EX
 		  collapsed:: true
 			- Consider an island, without electrical interconnections with other countries
+			  collapsed:: true
 			  Requirement 20% of the end energy = renewable.
 			  The end energy consists of 26% (of which is 10% renewable) for transport, 53%
 			  for heating (of which 19.6% renewable), 21% electrical energy.
@@ -296,6 +315,7 @@
 		- Question 2: #PV_EX
 		  collapsed:: true
 			- Given: Short circuit current = 35mA/cm^2 and J_0 = 10^-14 A/cm^2, T = 350K,
+			  collapsed:: true
 			  BoltzmanCte = 1.4*10^-23
 				- 1. Compute V_oc
 				- 2. Compute V_oc if shunt resistance is not neglected, R_shunt = 100 ohm.cm^2
@@ -321,6 +341,7 @@
 			- 2.) 40% of all geothermal power plants are binary, but installed capacity is
 			  only 6.6%. Where does this mismatch come from?
 			- 3.) Two different types of geothermal heat sources exist:
+			  collapsed:: true
 				- a. give the name of the classical heat source type (just name)
 				- b. give the name and the working principle of the heat source type, which can
 				  be used when the classical one is not possible.
@@ -329,11 +350,13 @@
 		- #Hydrogen_EX
 		  collapsed:: true
 			- A for AFC, PEMFC, PAFC, MCFC and SOFC.
+			  collapsed:: true
 				- i which ones can easily be fueled with methane and why?
 				- ii which ones can be fueled with methane with some changes and why? What do you
 				  need to add?
 				- iii which fuel cell can't be used after reforming CH4 (in practice) and why?
 			- B
+			  collapsed:: true
 				- i give the idea of renewable methane
 				- ii give the different thought steps in the process
 				- iii give an order of magnitude of the overal efficiency after the cycle is
@@ -365,6 +388,7 @@
 		- #geothermal_EX
 		  collapsed:: true
 			- a given design scheme of a geothermal plant (of a dual pressure plant)
+			  collapsed:: true
 				- i for which type of geothermal source is this plant: steam dominated, liquid
 				  dominated > 150° or liquid dominated < 150° (multiple choice)
 				- ii give the Ts diagram & indicate the states
@@ -374,6 +398,7 @@
 		- Vraag 1: #intro_EX
 		  collapsed:: true
 			- gegeven energie-eiland met 21% energie vervoer 51% verwarming en 29% elektriciteit. Totale energie verbruik moet 20% hernieuwbare zijn: 10% voor vervoer en 19% voor verwarming.
+			  collapsed:: true
 			  Elektriciteit (567TWh/a) bestaat voor 1/3 uit biomassa/hydroenergie, 1/3 uit wind
 			  (3333h/a) en 1/3 uit PV-cellen (1000h/a).
 				- Wat is de nodige geïnstalleerde capaciteit voor wind en zonneenergie
@@ -397,6 +422,7 @@
 			- a) Schema: maak TS diagram van bovenstaande tekening (double flash plant). Duid alle nummers aan.
 			- b) Hoewel binaire energiebronnen 56% uitmaken van de totale hoeveelheid centrales, leveren ze maar 6% van de totale geproduceerde elektriciteit aan geothermische energie. Van waar komt deze discrepantie (5 regels max)
 			- c) Er zijn 2 typen van bron? (liquid
+			  collapsed:: true
 			  dominated en vapordominated)
 				- Geef de naam van de klassieke warmtebron.
 				- Wat is de andere warmtebron en hoe wordt
@@ -409,7 +435,9 @@
 		- De vierde was over hydroenergy, alle soorten (op land) bespreken naargeland hun geografische ligging. #Hydro_EX
 		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #geothermal_EX
 		- De 6de was een vd circuits van geothermal. #geothermal_EX
+		  collapsed:: true
 			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
 		- De 7e ging over dat extra boek op internet dat we moesten lezen. Wat er fout was aan de groene "stack", een fout die MacKay zelf toegaf ook #intro_EX
 - ## Per Chapter
+  collapsed:: true
 	- ### [[intro_EX]]

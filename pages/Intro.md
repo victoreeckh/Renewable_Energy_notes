@@ -72,5 +72,14 @@
 - ## Historical trends
 - ## EU vision, policy targets and situation in 2020
 - ## Future scenarios
+	- ### EU fit-for-55
+	  collapsed:: true
+		- ‘New proposed’ EU Policy (July 2021) to reach NZE by 2050
+			- Proposed legal initiatives by the Eur Commission
+			- Was ~ the EU input to COP 26 in Glasgow (Nov 2021)
+			- More stringent targets for 2030:
+				- GHG reduction by 55% compared to 1990 (ETS / ESR)
+				- 40% RES share of total final energy demand by 2030
+				- EnEff: 36% less final energy demand in 2030 compared to a reference baseline (produced in 2007)
 - ## Cost aspects
 - ## [[intro_EX]]
