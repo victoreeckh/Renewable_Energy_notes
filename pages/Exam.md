@@ -16,6 +16,7 @@
 			- Explain the working principle of the plant.
 			- Give the T-s diagram.
 	- ### 11 June 2022
+	  collapsed:: true
 		- Q1
 			- Part 1
 			  collapsed:: true
@@ -27,5 +28,40 @@
 				- What is dominant in A?
 				- Indicate the vacuum curve
 			- Part 2
+			  collapsed:: true
 				- ![image.png](../assets/image_1685031083020_0.png)
-				-
+				- Explain the colors on this graph and what it means for the capital cost and the capacity factor
+				- Explain the asymmetry for capacity factor
+				- Explain the asymmetry for the economic lifetime
+		- PV #PV_EX
+			- What is the difference between bifacial and monofacial PV systems?
+			- Why is it difficult to estimate the production of these systems?
+			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
+		- Biofuels #Biofuels_EX
+			- Give at least four characteristics that are important for alcohol-based biofuels for otto engines. Also give the name of these fuels. Discuss briefly how the characteristics influence the working principle.
+		- Q4
+			- Explain chemical looping (calcium looping) and give a schematic indicating the charging and discharging process?
+			- What are the main properties and strengths?
+			- How can it be used for carbon capture?
+	- ### 18 June 2021
+	  collapsed:: true
+		- Intro #intro_EX
+			- slide 79 deel 4 van william in zijn intro, leg uit waarom de stippelijn stijgt en dan weer daalt en waarom de volle lijn constant stijgt
+			- Hoe bepaalt ge de waarde van 'residential PV' (2 lijnen) en is een batterij bij uw home PV een goed idee bij net metering?
+		- Wind #wind_EX
+			- het nominaal vermogen en snelheid van een windturbine gegeven, cut in and off snelheden ook en de Cp, bereken het maximale buigmoment van de fundering (neem voor
+			  ontbrekende waardes goeie aannames)
+		- Hydro #Hydro_EX
+			- Doe een SWOT analyse van een floating PV
+		- Solar_thermal #Solar_thermal_EX
+			- waarom moet de reflectie coeff van een absorber gelijk zijn aan 1 vanaf 3µm? en die figuur op slide 55 van die kost met waarom 16 jaar, wat is daar fout aan en hoe beter?
+	- ### 4 June 2021
+		- Intro #intro_EX
+			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the
+			  right figure?
+		- PV #PV_EX
+			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
+		- TES #Solar_thermal_EX
+			- TES is important forcross-sectorial decarbonization, give four examples
+		-
+		-
