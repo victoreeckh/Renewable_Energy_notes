@@ -48,4 +48,24 @@
 			- future perhaps ~ 2%/a decrease
 			- But welfare is increasing ...
 			- So energy efficiency is very valuable, but likely insufficient (especially from global perspective)
-		-
+		- Renewables
+		  collapsed:: true
+			- have a high theoretical energy potential
+				- RES are getting boost due to recent dramatic cost reductions (esp PV)
+				- but still many challenges (technical, economic,...) for market integration
+				- will need coherent policies & market designs
+				- ->uncertainties in short & long term (dependent on the countries & energy systems)
+		- Energy efficiency & renewables
+		  collapsed:: true
+			- to be pursued with all “reasonable” means; concentrate on “wise” integration of RES in the system & concentrate on flexibility & appropriate market designs.
+			- But keep other options alive (nuclear fission, natural gas + CCUS, and develop new concepts via R&D e.g., fusion); do not overreact, be cost-effective & save capital for investments in energy transition.
+			- **Be ambitious but realistic**
+				- Plan / consider ‘timely’ phase out of fossil fuels; do not act blindly; current economies are built upon fossil fuels; and need natural gas as transition fuel for flexibility.
+- ## Renewable flows, conversion, conventions
+- ### Characteristics
+	- ==Capacity factor== (or load factor) [-]
+		- $CF = \frac{\int_0^{8760}Pdt}{P_{inst}\cdot 8760 h}$
+		- *the ratio of the actual output of the plant over a period of time to its maximum possible output if it were running at full capacity during that same period of time. It is usually expressed as a percentage and is a measure of how efficiently the plant is operating over that time period*
+	- ==Effective Number of Operating Hours== (ENOH) [h]
+		- $ENOH = \frac{\int_0^{8760}Pdt}{P_{inst}} = CF\cdot 8760h$
+		- *The effective number of hours the plant should run at full capacity to equal its yearly output in MWh*
