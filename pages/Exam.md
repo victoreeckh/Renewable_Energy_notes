@@ -102,7 +102,23 @@
 	  collapsed:: true
 		- Intro
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
-			- Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph? #intro_EX
+			- Second question a graph of LCOE for PV and wind was given.
+				- What is LCOE
+					- ((646fb863-d1ec-428a-9bae-255c696dd80f))
+				- what is WACC
+					- *Opportunity cost of capital*
+				- why does LCOE curves go down for PV and wind
+					- *Technological Advancements: Advances in solar panel and wind turbine technologies have significantly increased their efficiency and energy output -> increases denominator*
+						- *Also caused by learning curve effect*
+						- *Driven by subsidies, tax incentives and other policies*
+					- *Economies of Scale: The increasing deployment of solar and wind power installations worldwide has led to economies of scale. As the manufacturing and installation volumes have risen, the costs associated with producing solar panels and wind turbines have decreased.*
+						- *Capital expense (annuity) will decrease*
+					- *Learning curve effect: cumulative experience and production volume, the costs of renewable energy technologies tend to decrease*
+						- *e.g. O&M will decrease*
+					- *No or little cost of carbon, cost of fuel*
+				- why is LCOE dependent of WACC
+					- LCOE is the average price
+				- what are the green diamonds on the graph? What is missing on the right hand side graph? #intro_EX
 				-
 		- Solar PV #PV_EX
 		  collapsed:: true

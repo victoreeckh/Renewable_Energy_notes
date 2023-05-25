@@ -3,6 +3,7 @@
 	  collapsed:: true
 		- $$LCOE = \frac{Sum\; of\; costs\; over\; lifetime}{Sum\; of\; electrical\; energy\; produced\; over lifetime}$$
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
+		  id:: 64365249-7e8f-4ebd-a8f4-e04c2dc01ba3
 		- Increasing need towards accurate Energy Yield modelling, instead of subsidies
 	- Mono->bifacial cell
 		- until 5y ago

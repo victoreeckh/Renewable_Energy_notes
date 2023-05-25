@@ -93,8 +93,10 @@
 			- all of the costs of the action, no matter who experiences them
 	- ### Past cost evolution of renewable technologies
 		- #### Levelized cost of electricity
+		  id:: 646fb863-d1ec-428a-9bae-255c696dd80f
 			- *The LCOE is defined as the fictitious average electricity price during its operation hours and needed over the lifetime of the plant to break even the full (investment and operational) costs for the investor (including the desired rate of return which is included in the discount rate r)*
 			- $LCOE = p_{MWh} = \frac{\sum_t[(Capital_t+O\&M_t+Fuel_t+Carbon_t+D_t)\cdot (1+r)^{-t}]}{\sum_t MWh (1+r)^{-t}}$
+			  id:: 7b8106f7-aa4b-4b0c-9ff0-7b17fd9c8fff
 				- ![image.png](../assets/image_1685043324920_0.png)
 			- A higher capacity factor means the power plant is producing electricity for a larger portion of the time. This leads to more kilowatt-hours of electricity being generated, which helps spread the fixed costs (such as capital costs) over a larger energy output, reducing the LCOE
 	- ### Past costs suggesting future cost ‘projections’ for renewable technologies
