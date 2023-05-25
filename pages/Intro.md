@@ -107,6 +107,15 @@
 			- At high shares, they operate mostly at times when prices are low (often self-caused!)
 			- At lower shares, they are ‘price takers’, but operation depends on meteorological conditions
 			- Dispatchable REES can shift operation to high price moments!
-		- Price of fossil fuels
-		- often natural gas. Since gas often sets the wholesale price Price of CO2; related to carbon intensity of power mix
+		- Price of fossil fuels - often natural gas. Since gas often sets the wholesale price
+		- Price of CO2; related to carbon intensity of power mix
+	- Value of REES due to #.ol
+		- Avoided costs of electricity purchase.
+		- Deliver and sell electric power to the grid
+		- Mostly 1 > 2 if for 2 market prices are used.
+			- No difference when “net metering” (i.e., meter running backwards.)
+		- But local consumers will have to pay for fixed part of ‘system’ or ‘grid’ costs (expected to increase in the future) -> eg “capacity tariff”
+-
+-
+-
 - ## [[intro_EX]]

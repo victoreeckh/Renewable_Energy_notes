@@ -100,9 +100,10 @@
 			- Draw TS diagrams for both parts of the system
 	- ### 19 June 2019
 	  collapsed:: true
-		- Intro #intro_EX
-		  collapsed:: true
-			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph?
+		- Intro
+			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
+			- Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph? #intro_EX
+				-
 		- Solar PV #PV_EX
 		  collapsed:: true
 			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean. Explain why there is a theorerical maximum efficiency for a given bandgap. Why can multijunctions increase efficiency?
