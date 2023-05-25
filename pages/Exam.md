@@ -174,7 +174,8 @@
 				  and number the state points as given in the figure below.
 				- The efficiency of this power plant is relatively low. Often, the configuration is changed to improve this efficiency. Explain how it is changed and draw the temperature-entropy diagram of the improved cycle.
 	- ### 6 June 2015
-		- PV #PV_EX
+	  collapsed:: true
+		- PV #Solar_thermal_EX
 			- Explain functioning of solar pond: 1 page
 		- Hydro #Hydro_EX
 			- How to gain renewable energy from sea, if you have to stay within 5 km of the beach and you can’t build high walls and the level of the sea changes quickly.
@@ -190,21 +191,114 @@
 			- Extra capacity of solar installed right in the middle of 2012.
 			- Wind is installed linearly over the year.
 			- the total produced energy of wind and solar are … and ….
-		- Geothermal: Binary power plant (dual pressure) was given
-		- 5.1. for what fluid is it typically used? Multiple possible
-		- a waterdominated (T<150degrees)
-		- b waterdominated (T>150degrees)
-		- c vapor dominated
-		- 5.2 draw the log p – h diagram and the turbines in the right way
-		- 5.3 draw Q-T diagram if you can assume the brine runs CONSEQUENTLY through:
-		  HPE, HPPH, LPE, LPPH.
-		- 6. PV: what goes wrong with the perturb and observe algorithm? Which component
-		  is affected most by a passing cloud: the direct or the indirect component? Does
-		  it change the frequency distribution of the incoming radiation?
-		- Perturb and observe fails in fast changing weather conditions. It works
-		  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
-		  decrease, V will be increased during the next measurement to increase P and get
-		  closer to Pmax. Otherwise, V will be decreased to get closer to Pmax. + draw
-		  slide 9
-		- When solar radiation increases, Pmax increases and we could end up on
-		  the wrong side of the graph giving the wrong commands.
+		- Geothermal: Binary power plant (dual pressure) was given #geothermal_EX
+		  collapsed:: true
+			- for what fluid is it typically used? Multiple possible
+				- water dominated (T<150degrees)
+				- water dominated (T>150degrees)
+				- vapor dominated
+			- draw the log p – h diagram and the turbines in the right way
+			- draw Q-T diagram if you can assume the brine runs CONSEQUENTLY through:
+			  HPE, HPPH, LPE, LPPH.
+		- PV: #PV_EX
+		  collapsed:: true
+			- what goes wrong with the perturb and observe algorithm? Which component
+			  is affected most by a passing cloud: the direct or the indirect component? Does
+			  it change the frequency distribution of the incoming radiation?
+			- Perturb and observe fails in fast changing weather conditions. It works
+			  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
+			  decrease, V will be increased during the next measurement to increase P and get
+			  closer to Pmax. Otherwise, V will be decreased to get closer to Pmax. + draw
+			  slide 9
+			- When solar radiation increases, Pmax increases and we could end up on
+			  the wrong side of the graph giving the wrong commands.
+		- Renewable Energy:
+		  collapsed:: true
+		  What are two reasons landfillgas is not a long-term option? One reason I can
+		  come up with is that direct combustion of landfills produces more energy.
+		  Is there someone who has a clear view on this?
+			- ![image.png](../assets/image_1685033017859_0.png){:height 579, :width 348}
+	- ### 24 August 2014
+	  collapsed:: true
+		- Solar Thermal #Solar_thermal_EX
+		  collapsed:: true
+			- 1)How do you get to a payback ratio of 16 years for a vacuum plate collector vs a electrical boiler
+				- Why is this incorrect? What should it be and why?
+			- 2) Why should the absorber of a vacuum plate collector have a reflection coefficient of 1 above a wavelength of 3 µm?
+		- #PV_EX
+		  collapsed:: true
+			- J_0=10 fA/cm²
+			  I=0.040 A/cm² at AM1.5 (100mW/cm²)
+			  T=300K #.ol
+				- Compute the I-V characteristic
+				- Calculate open circuit voltage
+				- Calculate fill factor
+				- Calculate efficiency
+				- How does the efficiency change if the temperature changes from 300K to 350K
+				- What is the physical meaning of I_0?
+		- Wind #wind_EX
+		  collapsed:: true
+			- A histogram with with windspeeds is given
+				- 1) Calculate nominal Power of the windmill
+				- 2) Calculate capacity factor
+				- 3) Calculate energy yield of a year
+		- Biofuels #Biofuels_EX
+		  collapsed:: true
+			- Explain mixing ethanol with gasoline in low and high concentrations
+			- What are the 4 major feedstocks of ethanol?
+		- Hydro #Hydro_EX
+		  collapsed:: true
+			- Design a hydro power plant for the Schelde in Antwerp? No environmental restrictions
+			- Design a hydro power plant in Norway for a fjord in Norway
+		- Geothermal #geothermal_EX
+		  collapsed:: true
+			- A picture of a  geothermal plant given
+				- 1) For what temperature is this design? wet steam <150°, wet steam > 150° or dry steam
+				- 2) Draw T-s
+				  diagram
+				- 3) The plant has a low efficiency, how can the e
+	- ### 6 June 2014
+		- Question 1: #intro_EX
+			- Consider an island, without electrical interconnections with other countries
+			  Requirement 20% of the end energy = renewable.
+			  The end energy consists of 26% (of which is 10% renewable) for transport, 53%
+			  for heating (of which 19.6% renewable), 21% electrical energy.
+			  peak demand is 80GW
+			  lowest demand 40GW
+			  annual electricity consumption = 630TWh/a
+			  renewable electricity = 1/3 biomass and hydro; 1/3 PV; 1/3 wind
+			  ENOH for wind = 2333h/a
+			  ENOH for PV = 1000h/a
+				- a.) How much capacity for wind and PV?
+				- b.) Low demand and a lot of sun + wind. What happens?
+				- c.) Assume peak 80GW and no sun +wind. How does the system react? How much
+				  dispatchable capacity is needed?
+				- d.) What does this all mean for the total production capacity of the entire
+				  elec. system?
+		- Question 2: #PV_EX
+		  collapsed:: true
+			- Given: Short circuit current = 35mA/cm^2 and J_0 = 10^-14 A/cm^2, T = 350K,
+			  BoltzmanCte = 1.4*10^-23
+				- 1. Compute V_oc
+				- 2. Compute V_oc if shunt resistance is not neglected, R_shunt = 100 ohm.cm^2
+		- Question 3: #wind_EX
+			- Given: P_nom = 1MW, Speed wind = 11m/s, lamba = 7, C_L=1.5, angle of attack =
+			  10°
+			- Calculate blade chord length and twist angle at 0.2R; 0.5R and 1R (R=radius of
+			  turbine)
+		- Question 4:
+			- Discuss the 3 types of biofuels that can be produced from vegetable oils which
+			  properties are important? What is the impact applicability of these fuels in
+			  combustion engines?
+		- Question 5:
+		- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
+		  aspect at different energy vectors, their interaction, time and space issues
+		  and the global system. (max 1 page)
+		- Question 6:
+		- 1.) Picture of geothermal power plant -> give T-s-diagram
+		- 2.) 40% of all geothermal power plants are binary, but installed capacity is
+		  only 6.6%. Where does this mismatch come from?
+		- 3.) Two different types of geothermal heat sources exist:
+		- a. give the name of the classical heat source type (just name)
+		- b. give the name and the working principle of the heat source type, which can
+		  be used when the classical one is not possible.
