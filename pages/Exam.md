@@ -128,4 +128,83 @@
 				- What is the overall effiency? (electricity - methane - electricity) Why?
 				- Some people would leave out the last step of the methane process and use the intermediate gas instead. Give one advantage and disadvantage of both.
 	- ### 5 June 2015
-		-
+	  collapsed:: true
+		- BIOMASS #Biomass_EX
+		  collapsed:: true
+			- What is the “zero-yield” distance?
+			- What are the two reasons that landfill gas not a long-term energy option? Consider the case of a region/country that aims at high environmental standards like Flanders/Belgium.
+			- Consider the situation of Belgian (average) meteorological conditions. On an annual basis, there is a total energetic accumulation of 230 GJ in a generic set of crops/plants that is grown on 1 ha of land. What is the energetic efficiency of the biomasss growth, defined as the energetic contents of the crops/plants divided by the incoming solar energy on the same surface area? Explain.
+		- PV #PV_EX
+		  collapsed:: true
+			- Given: A diode with J0 = 10-16 A/cm²
+			- Under AM1.5 illumination, this cell gives a current of 20 mA/cm²
+				- Compute the illuminated I-V-characteristic under AM1.5 (100 mW/cm²) illumination and T=300K (the value of Boltzmann constant = 1.4 * 10-23 m² kg s-2 K-1)
+				- What is the open-circuit voltage of this cell?
+				- What is the max fill factor of this cell? (ideality factor = 1)
+				- What is the efficiency of this cell?
+				- How does this compare to the
+				  efficiency of a typical crystalline Si solar cell?
+				- What is the physical meaning of J0?
+		- Wind #wind_EX
+		  collapsed:: true
+			- ![image.png](../assets/image_1685032449301_0.png)
+			- (looked more or less like this)
+			- Consider an off-shore wind project for which a measured wind histogram at 15m is available (cf. Figure). The average roughness length of the sea at that site corresponds to 0.002m. We want to build a large offshore turbine on this site with a hub height of 130m and a rotor diameter of 150m. The estimated power coefficient of the turbine corresponds to 0.45. Furthermore, the cut-in wind speed is 3 m/s, and the cut-out wind speed is 25 m/s. The rated power of the turbine is 6MW. Estimate the expected capacity factor of this wind turbine. [Note: It is sufficient to sample the histogram at 6 to 8 well-selected points to demonstrate the approach]
+		- Electrical Storage #storage_EX
+		  collapsed:: true
+			- Compare the usefulness, technical as well as economical, of energy storage by means of an “energy island” on the one hand and batteries on the other hand in the frame of renewable electricity integration? [max. 1 page]
+		- TES #Solar_thermal_EX
+		  collapsed:: true
+			- In the context of thermal energy storage (TES) both energy density and power density
+			  are crucial.
+				- Define energy density. Which properties determine the energy density of a TES system?
+				- Define power density. Which properties impact the power density of a TES system?
+				- What is the typical ratio of energy density between a thermochemical storage material (TCM) and water (typically at a ΔT of 70°C)
+				- How can the power density of a phase change material (PCM) be improved? [max. 1 page]
+		- Geothermal Energy #geothermal_EX
+		  collapsed:: true
+			- In the figure below, the scheme of a geothermal power plant is given. #.ol-nested
+			- ![image.png](../assets/image_1685032701790_0.png)
+				- For which type of geothermal heat source is this power plant typically used (multiple choices possible):
+					- Liquid-dominated field with a brine temperature lower than 150°C
+					- Liquid-dominated field with a brine
+					  temperature higher than 150°C
+					- Vapor-dominated field
+				- Draw a temperature-entropy diagram
+				  and number the state points as given in the figure below.
+				- The efficiency of this power plant is relatively low. Often, the configuration is changed to improve this efficiency. Explain how it is changed and draw the temperature-entropy diagram of the improved cycle.
+	- ### 6 June 2015
+		- PV #PV_EX
+			- Explain functioning of solar pond: 1 page
+		- Hydro #Hydro_EX
+			- How to gain renewable energy from sea, if you have to stay within 5 km of the beach and you can’t build high walls and the level of the sea changes quickly.
+		- Wind turbine: #wind_EX
+		  collapsed:: true
+			- Given: angle of attack =10degrees, CL=1.5, P=2MW, wind speed =11m/s, tip speed
+			  ratio = 7,
+				- determine the pitch angle at 0.2R, 0.5R and R, and the cord length and determine the number of blades
+		- Enoh of wind and solar if: #intro_EX
+		  collapsed:: true
+			- End 2011: .. GW solar, 28.8GW wind
+			- End 2012: … GW solar and 29.9 GW wind
+			- Extra capacity of solar installed right in the middle of 2012.
+			- Wind is installed linearly over the year.
+			- the total produced energy of wind and solar are … and ….
+		- Geothermal: Binary power plant (dual pressure) was given
+		- 5.1. for what fluid is it typically used? Multiple possible
+		- a waterdominated (T<150degrees)
+		- b waterdominated (T>150degrees)
+		- c vapor dominated
+		- 5.2 draw the log p – h diagram and the turbines in the right way
+		- 5.3 draw Q-T diagram if you can assume the brine runs CONSEQUENTLY through:
+		  HPE, HPPH, LPE, LPPH.
+		- 6. PV: what goes wrong with the perturb and observe algorithm? Which component
+		  is affected most by a passing cloud: the direct or the indirect component? Does
+		  it change the frequency distribution of the incoming radiation?
+		- Perturb and observe fails in fast changing weather conditions. It works
+		  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
+		  decrease, V will be increased during the next measurement to increase P and get
+		  closer to Pmax. Otherwise, V will be decreased to get closer to Pmax. + draw
+		  slide 9
+		- When solar radiation increases, Pmax increases and we could end up on
+		  the wrong side of the graph giving the wrong commands.
