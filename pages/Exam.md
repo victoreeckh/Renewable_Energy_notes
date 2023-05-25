@@ -58,8 +58,7 @@
 	- ### 4 June 2021
 	  collapsed:: true
 		- Intro #intro_EX
-			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the
-			  right figure?
+			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the right figure?
 		- PV #PV_EX
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
 		- TES #Solar_thermal_EX
@@ -395,3 +394,5 @@
 		- De 6de was een vd circuits van geothermal. #geothermal_EX
 			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
 		- De 7e ging over dat extra boek op internet dat we moesten lezen. Wat er fout was aan de groene "stack", een fout die MacKay zelf toegaf ook #intro_EX
+- ## Per Chapter
+	- ### [[intro_EX]]
