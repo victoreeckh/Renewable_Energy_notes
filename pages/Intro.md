@@ -62,10 +62,12 @@
 			- **Be ambitious but realistic**
 				- Plan / consider ‘timely’ phase out of fossil fuels; do not act blindly; current economies are built upon fossil fuels; and need natural gas as transition fuel for flexibility.
 - ## Renewable flows, conversion, conventions
-- ### Characteristics
-	- ==Capacity factor== (or load factor) [-]
-		- $CF = \frac{\int_0^{8760}Pdt}{P_{inst}\cdot 8760 h}$
-		- *the ratio of the actual output of the plant over a period of time to its maximum possible output if it were running at full capacity during that same period of time. It is usually expressed as a percentage and is a measure of how efficiently the plant is operating over that time period*
-	- ==Effective Number of Operating Hours== (ENOH) [h]
-		- $ENOH = \frac{\int_0^{8760}Pdt}{P_{inst}} = CF\cdot 8760h$
-		- *The effective number of hours the plant should run at full capacity to equal its yearly output in MWh*
+	- ### Characteristics
+		- ==Capacity factor== (or load factor) [-]
+			- $CF = \frac{\int_0^{8760}Pdt}{P_{inst}\cdot 8760 h}$
+			- *the ratio of the actual output of the plant over a period of time to its maximum possible output if it were running at full capacity during that same period of time. It is usually expressed as a percentage and is a measure of how efficiently the plant is operating over that time period*
+		- ==Effective Number of Operating Hours== (ENOH) [h]
+			- $ENOH = \frac{\int_0^{8760}Pdt}{P_{inst}} = CF\cdot 8760h$
+			- *The effective number of hours the plant should run at full capacity to equal its yearly output in MWh*
+- ## Historical trends
+	-
