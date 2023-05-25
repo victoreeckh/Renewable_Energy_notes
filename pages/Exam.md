@@ -1,5 +1,6 @@
 - ## Old questions
 	- ### 22 June 2022
+	  collapsed:: true
 		- Intro: #intro_EX
 			- Explain how EU member states with low RES-potential reached their RES goal for 2020. So basically explain the statistical transfer of RES and give for one example the numbers of price and quantity.
 			- Graph of hydro production of the IEA was given, with the total production of 2019. What would be the total production in the BP graph and why?
