@@ -56,6 +56,7 @@
 		- Solar_thermal #Solar_thermal_EX
 			- waarom moet de reflectie coeff van een absorber gelijk zijn aan 1 vanaf 3µm? en die figuur op slide 55 van die kost met waarom 16 jaar, wat is daar fout aan en hoe beter?
 	- ### 4 June 2021
+	  collapsed:: true
 		- Intro #intro_EX
 			- Lcoe, wacc, figure from slides given, what are the green diamonds, what is missing in the
 			  right figure?
@@ -63,5 +64,68 @@
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
 		- TES #Solar_thermal_EX
 			- TES is important forcross-sectorial decarbonization, give four examples
-		-
+		- Hydrogen #Hydrogen_EX
+			- Fuel cells, which can be fueled with methane and which not, why?
+	- ### 19 June 2020
+	  collapsed:: true
+		- CSP #Solar_thermal_EX
+			- Give the 4 techs for CSP in a 2x2 grid schape and give on major advantage and disadvantage for each tech
+			- Give the 2 main components of solar collection efficiency
+			- Give the range of the efficiencies for each of the 4 techs
+			- If you could build a large PV plant in a suitable location, would you prefer CSP or PV and why?
+		- Wind #wind_EX
+			- Wind density diagram given at 60 meters (weibull distribution) , needed to be converted to 15m and you needed to get the nominal power from that and the estimated capacity factor
+		- Hydro #Hydro_EX
+			- Give 2 major reasons why big hydro can be unsustainable
+			- Give 2 major reasons why small hydro can be unsustainable
+		- Geothermal #geothermal_EX
+			- Hybrid plant given, explain workings in 10 lines
+			- Vapor or liquid field?
+			- Temperature range of field?
+			- What working fluids for what part of the system?
+			- Draw TS diagrams for both parts of the system
+	- ### 19 June 2019
+	  collapsed:: true
+		- Intro #intro_EX
+			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. Second question a graph of LCOE for PV and wind was given. What is LCOE, what is WACC, why does LCOE curves go down for PV and wind, why is LCOE dependent of WACC, what are the green diamonds on the graph? What is missing on the right hand side graph?
+		- Solar PV #PV_EX
+			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean. Explain why there is a theorerical maximum efficiency for a given bandgap. Why can multijunctions increase efficiency?
+		- Wind #wind_EX
+			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
+		- Geothermal #geothermal_EX
+			- asked you to draw an entire scheme for a hybrid plant (single flash + orc binary), draw TS diagrams for both. Is it vapor dominated or liquid dominated? what is the temperature range?
+		- Electric Storage #storage_EX
+			- Compare supercapacitors and batteries, how can these help renewable energy generation?
+		- Biofuels #Biofuels_EX
+			- What are the 3 types of biooils that can be produced from vegetable oils? What are the main parameters that describe them and their main differences?
+	- ### 14 June 2016
+	  collapsed:: true
+		- PV #PV_EX
+		  collapsed:: true
+			- Explain the problem of the perturb-and-observe control on a day with fast passing cumulus clouds. Do these clouds have the most effect on diffuse or direct light? Does this change the spectrum?
+		- Wind #wind_EX
+		  collapsed:: true
+			- Derive the expressions for Cp and Ct in function of a using the momentum theory. Use these expressions to determine the maximum value of both coefficients. Discuss the assumptions and limitations of this theory during the derivation.
+		- Electrical storage #storage_EX
+		  collapsed:: true
+			- You have the possibility of either using a battery at a house with a PV installation or placing it at the feeder on the distribution grid to which this household is connected. Discuss the benefits and problems of both options.
+		- Thermal storage #Solar_thermal_EX
+		  collapsed:: true
+			- Due to the increasing use of renewables more and more thermal storage applications are used. Does the use of thermals storage always lead to a gain? Discuss using 6 points.
+		- CSP #Solar_thermal_EX
+		  collapsed:: true
+			- Make a diagram depicting the four CSP technologies (according to receiver and focus type). Give the most important advantage & disadvantage of all types.
+				- The efficiency of a CSP consists of two parts, give them.
+				- What is the efficiency range of this type of plants? Which technology has the highest and lowest efficiency?
+				- Suppose you are a project manager in Arizona and you have to choose between a CSP or a large PV plant. Give one important advantage and disadvantage of CSP in comparison to PV and explain which option you would choose.
+		- Hydrogen - Power to Gas #Hydrogen_EX
+		  collapsed:: true
+			- Which of the above fuel cells can be fuelled directely with methane ? (AFC, PEMFC, PAFC, SOFC & MCFC)
+				- Which can be fuelled by methane using some additions? Which additions?
+				- Which one cannot be fuelled by methane in practice?
+				- Explain the idea of renewable methane?
+				- Which are the steps in the thought process?
+				- What is the overall effiency? (electricity - methane - electricity) Why?
+				- Some people would leave out the last step of the methane process and use the intermediate gas instead. Give one advantage and disadvantage of both.
+	- ### 5 June 2015
 		-
