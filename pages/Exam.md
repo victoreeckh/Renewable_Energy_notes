@@ -131,19 +131,23 @@
 		- Solar PV #PV_EX
 		  collapsed:: true
 			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean.
+			  background-color:: blue
 				- ((64341221-a033-4a55-b6e6-171f1a1c37a3))
 			- Explain why there is a theoretical maximum efficiency for a given bandgap.
+			  background-color:: blue
 				- *Shockley-Queisser limit*
 				- *Considers only radiative recombination mechanism*
 				- *It provides an upper bound on the amount of solar energy that can be converted into electrical energy by a solar cell under ideal conditions.*
 				- *Limit is mainly formed by*
-					- *Absorption limit -> long-wavelength losses*
+					- *Absorption limit -> incomplete absorption*
 					- *thermalization limit -> excess-energy losses*
 					- *Other inevitable loss factors*
+						- *Long-wavelength losses*
 						- *Voltage factor*
 						- *FF*
 				- *Shockley queissler limit* $\approx 30\%$
 			- Why can multijunctions increase efficiency?
+				- *Multijunction cells try to increase the limited efficiency of single cells (Shockley-Queisser) by increasing absorption. Absorption in a single cell is limited by long-wavelength *
 		- Wind #wind_EX
 		  collapsed:: true
 			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
