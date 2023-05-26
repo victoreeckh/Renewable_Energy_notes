@@ -44,3 +44,8 @@
 			- Drastic changes in a few seconds
 			- Short-term variations in diffuse radiation are smaller
 		- Is important for the design of the PV-system
+	- Overcast
+		- No direct beam
+		- Influenced by height, type and depth of clouds
+		- Short-term variations are far less than with partially clouded skies
+		- Overcast cloud transmittance relative to clear sky values
