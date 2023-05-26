@@ -8,5 +8,8 @@
 		- ![image.png](../assets/image_1685087834582_0.png){:height 225, :width 417}
 			- Energy levels above Ef have a small but finite probability to be occupied by an electron, whereas energy levels below Ef have a small but finite probability to be empty
 			- $E_f = \frac{E_{gap}}{2}$
-		-
+		- physical interpretation
+			- At higher temperatures, there is a finite probability that bonds are broken and electrons are becoming free to move around in the lattice (these are called conduction band electrons)
+			- These electrons leave behind a ‘vacancy’ which can also move (by movement of valence band electrons)
+	- Conduction
 		-
