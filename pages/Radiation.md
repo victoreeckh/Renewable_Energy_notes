@@ -49,3 +49,38 @@
 		- Influenced by height, type and depth of clouds
 		- Short-term variations are far less than with partially clouded skies
 		- Overcast cloud transmittance relative to clear sky values
+- ### Photovoltaics
+	- Structure
+		- Solar cell
+		  collapsed:: true
+			- Basic building block
+		- Solar module
+		  collapsed:: true
+			- Smallest useful unit
+		- String
+		  collapsed:: true
+			- Number of PV modules in series
+		- Array
+		  collapsed:: true
+			- Number of strings
+		- PV system
+		  collapsed:: true
+			- Arrays
+			- + Balance-of-System
+				- Electronics (+storage) + wiring + support structures + Labour
+			-
+	- Performance
+		- Power (of cells, modules and systems) in watt-peak (Wp)
+		  collapsed:: true
+			- typically 200-300 Wp/module
+		- Efficiency (of cells, modules and systems) in %
+		  collapsed:: true
+			- typically 10-20%
+		- Performance ratio
+			- (average) ac efficiency / STC dc efficiency of modules or system (typically 0.8 with STC = Standard Test Conditions)
+		- Electricity yield in kWh / Wp (usually per year)
+		  collapsed:: true
+			- (BE, NL: typically 0.75-0.95 kWh/Wp·yr)
+		- Capacity factor
+		  collapsed:: true
+			- equivalent # hours ac peak power per year / # hours in a year (NL, BE: typically 9%)
