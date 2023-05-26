@@ -28,4 +28,13 @@
 	  collapsed:: true
 		- the path length which light takes through the atmosphere normalized to the shortest possible path length (that is, when the sun is directly overhead)
 		- The air mass is the secant (1/cos \theta) of the angle with zenith
-	-
+- ### Conditions
+	- Cloudless
+		- Global irradiation is function of
+			- Latitude of the site
+			- Clarity of the atmosphere
+				- Described by the Linke Turbidity Factor
+					- dust, pollution, humidity decrease beam irradiation and increase the diffuse component
+					- Beam irradiance increases with decreasing Linke Turbidity factor
+					- Beam irradiance decreases with decreasing Linke Turbidity factor
+				-
