@@ -112,6 +112,7 @@
 				  collapsed:: true
 					- *Opportunity cost of capital*
 				- why does LCOE curves go down for PV and wind
+				  collapsed:: true
 					- *Technological Advancements: Advances in solar panel and wind turbine technologies have significantly increased their efficiency and energy output*
 						- *-> increases denominator*
 						- *->decreases CapEX*
@@ -126,8 +127,7 @@
 				- why is LCOE dependent of WACC
 				  collapsed:: true
 					- *LCOE is the average price during operation hours needed to break even over the lifetime of the plant. It thus makes the balance of the needed future revenue against the projected future costs of the plant. When calculating future money streams, one should account for the time-price value of money and therefore discount the streams to the present (NPV) as money is worth less in the future than it is today. This discount is embodied by the WACC, which can be seen as the opportunity cost of capital. Therefore using another discount (WACC) value will give other results in terms of average price needed to break even. This shows the dependency.*
-				- what are the green diamonds on the graph? What is missing on the right hand side graph? #intro_EX
-				-
+				- what are the green diamonds on the graph? What is missing on the right hand side graph?
 		- Solar PV #PV_EX
 		  collapsed:: true
 			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean. Explain why there is a theorerical maximum efficiency for a given bandgap. Why can multijunctions increase efficiency?

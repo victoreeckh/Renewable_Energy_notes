@@ -1,9 +1,11 @@
 - ### context
 	- **BIPV**
+	  collapsed:: true
 		- Building Integrated Photovoltaics
 		- Integrate PV cells/modules in structural building elements
 		- <->BAPV (building applied voltaics): Placed on existing structures
 	- **Why?**
+	  collapsed:: true
 		- Climate awareness
 		  collapsed:: true
 			- Reduce the use of fossil fuels and increase the share of renewable energy generation
@@ -23,6 +25,7 @@
 			- Can be scarce in urban areas
 			- Too small to cover building’s energy demand
 	- **Build-up**
+	  collapsed:: true
 		- BIPVs all connected to ==Module Level Converters== (MLC)
 			- Module level MPPT
 			  collapsed:: true
@@ -66,10 +69,12 @@
 	- ![image.png](../assets/image_1681285206277_0.png)
 		- **Input profile**
 		- **PV technology** (DOF)
+		  collapsed:: true
 			- Cristaline Si
 				- Regular, Half, Shingled Cell
 			- Thin film technologies
 		- **MLC**
+		  collapsed:: true
 			- Boost converter
 			- Topology (DOF)
 				- depends on maximum gain
@@ -106,6 +111,7 @@
 					- Lost energy -> look at remaining energy production
 					- For mono-Si at $$90^{\circ}$$, Derating up to 50% has low impact on yearly energy yield
 		- **Cabling**
+		  collapsed:: true
 			- Selection
 				- Max current rating (=thermal limit!)
 				- Max voltage drop along the line
@@ -113,8 +119,10 @@
 			- -> combining equations allows to determine suitable voltage levels (sl.20)
 				- Cable thickness (DOF)
 		- **Voltage balancing converter**
+		  collapsed:: true
 			- Not custom designed -> fixed design
 - ### Case Study
+  collapsed:: true
 	- Minder important ->Zie slides
 	- System efficiency
 		- Low in the beginning
