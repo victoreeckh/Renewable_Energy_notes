@@ -156,6 +156,8 @@
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
 		- FF depends on $$V_{OC}$$
 			- Different materials have different $$V_{OC}$$s
+			- ![image.png](../assets/image_1685110541267_0.png){:height 131, :width 325}
+		- $FF_{max}$ -> zie form.
 	- Efficiency $$\eta$$
 		- $$
 		  \begin{equation*}
