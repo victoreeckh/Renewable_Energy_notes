@@ -160,6 +160,7 @@
 			- ![image.png](../assets/image_1685110541267_0.png){:height 131, :width 325}
 		- $FF_{max}$ -> zie form.
 	- Efficiency $$\eta$$
+	  id:: 64341221-a033-4a55-b6e6-171f1a1c37a3
 		- $$
 		  \begin{equation*}
 		  \begin{aligned}

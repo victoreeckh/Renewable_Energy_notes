@@ -130,7 +130,11 @@
 				- what are the green diamonds on the graph? What is missing on the right hand side graph?
 		- Solar PV #PV_EX
 		  collapsed:: true
-			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean. Explain why there is a theorerical maximum efficiency for a given bandgap. Why can multijunctions increase efficiency?
+			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean.
+				- ((64341221-a033-4a55-b6e6-171f1a1c37a3))
+			- Explain why there is a theoretical maximum efficiency for a given bandgap.
+				- Long-wavelength, excess-energy losses, Voltage factor and fill factor are inevitable loss factors
+			- Why can multijunctions increase efficiency?
 		- Wind #wind_EX
 		  collapsed:: true
 			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
@@ -394,6 +398,7 @@
 			- ii explain qualitatively why there is a maximum efficiency for a given bandgap
 			- iii explain how multi junction cells reduce the losses from term 1 and 2 (long
 			  wavelength & thermalisation losses)
+				- *Zie 2019*
 		- #wind_EX
 		  collapsed:: true
 			- Derive the expressions for Cp and Ct and the Betz limit of both
