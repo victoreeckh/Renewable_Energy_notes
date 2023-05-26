@@ -1,9 +1,7 @@
 - #### Diode under illumination: qualitative
-  collapsed:: true
 	- First equilibrium concentration of carriers in both conduction (excited through heat e.g.) and valence band (determined by intrinsic concentration of carriers in semiconductor)
 		- No external factors
 	- ==Photovoltaic effect==
-	  collapsed:: true
 		- external illumination: solar light
 			- penetratrion of photons (depth is function of absorption coefficient)
 		- absorption of fotons, causing excitation of charge carrier (electrons) to a higher-energy state
@@ -15,7 +13,6 @@
 			- Use p-n junction (inherent potential difference) to establish potential difference
 			- Electrical field in the depletion layer
 	- Photovoltaic cell
-	  collapsed:: true
 		- rear side: metal cover
 			- to close system
 		- front: fingerstructure
@@ -46,8 +43,6 @@
 			- Very few diffusion majority carriers from n->p
 			- With negative $$V$$, $$I_D = I_0$$
 				- With: $$I_0$$ limited by thermally generated minority carriers which diffuse to junction, then drift from p-> n
-		-
-			-
 	- Diode under illumination
 		- Carrier generation
 			- Absorption of photons→creation of excess carriers
@@ -69,11 +64,7 @@
 						- Shift from Q1->Q4: Deliver $$P$$ to environment
 			- See sl. 14
 				- Diffusion is determined by concentration profiles of minority carriers in quasi neutral regions
-			-
-			-
-			-
 - #### Diode under illumination: quantitative
-  collapsed:: true
 	- Simplified 1-D description of diode under illumination
 		- ![image.png](../assets/image_1681128127398_0.png){:height 89, :width 224}
 			- In p-type region
@@ -83,7 +74,6 @@
 		- ![image.png](../assets/image_1681128185816_0.png){:height 91, :width 262}
 			- in n-type region (analogous)
 		- Diode under illumination and no bias
-		  collapsed:: true
 			- Boundary conditions:
 				- ![image.png](../assets/image_1681128241169_0.png){:height 67, :width 255}
 					- in p-type region
@@ -97,7 +87,6 @@
 			- Solution:
 				- ![image.png](../assets/image_1681128441322_0.png){:height 198, :width 222}
 		- Diode in the dark
-		  collapsed:: true
 			- ![image.png](../assets/image_1681128515423_0.png){:height 149, :width 241}
 				- No generation
 			- Boundary conditions
@@ -118,10 +107,7 @@
 				- Open circuit voltage: $$V_{oc}$$
 					- strong dependence on intrinsic carrier concentrations $$n_i$$
 					- Which is independent on $$T$$
-		-
-	-
 - #### Networkmodel
-  collapsed:: true
 	- Idea
 		- Start from photogenerated current (current source) $$I_{ph}$$
 			- losses:
@@ -135,7 +121,6 @@
 				- Shunt resistance
 					- leakage
 - #### Alternative collecting junction structures
-  collapsed:: true
 	- ==Heterojunctions==
 		- Emitter and base material are not necessarily based on the same material
 		- e.g.:
@@ -156,9 +141,7 @@
 			- Additional energy is needed for separation
 				- Electrical field (field-enhanced exciton dissociation)
 				- Dissociation at an hetero-interface
-				-
 - #### Definition of energy conversion efficiency
-  collapsed:: true
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
 		- FF depends on $$V_{OC}$$
 			- Different materials have different $$V_{OC}$$s

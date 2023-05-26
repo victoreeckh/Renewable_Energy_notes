@@ -37,7 +37,7 @@
 				- $p = n_i^2/N_D$
 		- p-type doping
 			- acceptors = group III elements
-			- => acceptor level $E_A$, close to valence band
+				- => acceptor level $E_A$, close to valence band
 			- Hole concentration = acceptor concentration -> majority carrier
 				- $p\approx N_A$
 			- Electron concentration -> minority carrier
@@ -45,12 +45,12 @@
 	- Recombination
 		- equilibrium
 			- $n = N_c exp(\frac{E_f-E_C}{kT})$
-			- $p = N_p exp(\frac{E_V-E_f}{kT})$
+			- $p = N_v exp(\frac{E_V-E_f}{kT})$
 			- $np = n_i^2 = N_cN_p exp(\frac{E_V-E_C}{kT})$
 		- non-equilibrium
 			- $n = N_c exp(\frac{E_{fn}-E_C}{kT})$
-			- $p = N_p exp(\frac{E_V-E_{fp}}{kT})$
-			- $E_{fn}\neq E_{fp}; np = n_i^2 = N_cN_p exp(\frac{E_{fn}-E_{fp}}{kT})$
+			- $p = N_v exp(\frac{E_V-E_{fp}}{kT})$
+			- $E_{fn}\neq E_{fp}; np = n_i^2 = N_cN_v exp(\frac{E_{fn}-E_{fp}}{kT})$
 			- Description
 				- Bulk recombination is described by bulk minority carrier lifetime
 				  id:: 647074e7-34dc-4175-a30a-253361673677
@@ -70,7 +70,7 @@
 			- n-type
 				- $U_p = \frac{p-p_{n0}}{\tau_p} = R- G_{th} = -\frac{dp}{dt}$
 				- $\Rightarrow \frac{dp}{dt}= -\frac{p-p_{n0}}{\tau_p} + G_{th}$
-					- $p_{n0}$: equilibrium electron concentration = $n_i^2/N_D$
+					- $p_{n0}$: equilibrium hole concentration = $n_i^2/N_D$
 					- $\tau_p$: hole minority carrier lifetime
 		- Mechanisms
 			- Shockley-Read-Hall (SRH G&R)
