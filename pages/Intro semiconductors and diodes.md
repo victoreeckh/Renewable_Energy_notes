@@ -43,4 +43,12 @@
 			- Electron concentration -> minority carrier
 				- $n = n_i^2/N_A$
 	- Recombination
+		- equilibrium
+			- $n = N_c exp(\frac{E_f-E_C}{kT})$
+			- $p = N_p exp(\frac{E_V-E_f}{kT})$
+			- $np = n_i^2 = N_cN_p exp(\frac{E_V-E_C}{kT})$
+		- non-equilibrium
+			- $n = N_c exp(\frac{E_{fn}-E_C}{kT})$
+			- $p = N_p exp(\frac{E_V-E_{fp}}{kT})$
+			- $E_{fn}\neq E_{fp}; np = n_i^2 = N_cN_p exp(\frac{E_{fn}-E_{fp}}{kT})$
 		-
