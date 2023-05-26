@@ -133,7 +133,12 @@
 			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean.
 				- ((64341221-a033-4a55-b6e6-171f1a1c37a3))
 			- Explain why there is a theoretical maximum efficiency for a given bandgap.
-				- Long-wavelength, excess-energy losses, Voltage factor and fill factor are inevitable loss factors
+				- Shockley-Queisser limit
+				- *Considers only radiative recombination mechanism*
+				- *It provides an upper bound on the amount of solar energy that can be converted into electrical energy by a solar cell under ideal conditions.*
+				- *Limit is mainly formed by*
+					-
+				- *Long-wavelength, excess-energy losses, Voltage factor and fill factor are inevitable loss factors*
 			- Why can multijunctions increase efficiency?
 		- Wind #wind_EX
 		  collapsed:: true
