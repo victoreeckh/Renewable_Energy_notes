@@ -33,8 +33,14 @@
 		- Global irradiation is function of
 			- Latitude of the site
 			- Clarity of the atmosphere
+			  collapsed:: true
 				- Described by the Linke Turbidity Factor
 					- dust, pollution, humidity decrease beam irradiation and increase the diffuse component
 					- Beam irradiance increases with decreasing Linke Turbidity factor
-					- Beam irradiance decreases with decreasing Linke Turbidity factor
-				-
+					- Diffuse irradiance decreases with decreasing Linke Turbidity factor
+					- Global irradiance increases with decreasing Linke Turbidity factor
+	- Partially clouded
+		- Direct beam irradiance is very variable
+			- Drastic changes in a few seconds
+			- Short-term variations in diffuse radiation are smaller
+		- Is important for the design of the PV-system
