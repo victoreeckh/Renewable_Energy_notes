@@ -189,7 +189,7 @@
 				- Diffusion length ($$L_D$$) not sufficiently large in comparison with thickness
 				- Low when using high quality Si
 			- Voltage factor
-				- No voltage higher than the $$V_{OC}$$ is extractable
+				- You can maximally extract the energy of the photons at $$V_{OC}$$
 			- FF
+				- Extracting at MPP, not $$V_{OC}$$
 		- around $$30\%$$ at most
-		-

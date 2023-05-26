@@ -86,3 +86,6 @@
 		- $J_n = q\mu_n(n\xi+\frac{kT}{q}\frac{dn}{dx})=-qn\mu_n\frac{d\varphi_n}{dx}$
 		- $J_p = q\mu_p(p\xi-\frac{kT}{p}\frac{dp}{dx})=-qp\mu_p\frac{d\varphi_p}{dx}$
 		- gradient of $\varphi_n$ and $\varphi_p$ (quasi-fermi level potentials) is driving force
+	- Diffusion length
+		- $L_p(n)$
+		- >The diffusion length affects the efficiency of carrier collection at the contacts or junctions within the PV cell. If the diffusion length is shorter than the dimensions of the cell or the distance to the collection contacts, then carriers will recombine before reaching the contacts, resulting in reduced collection efficiency and lower overall cell performance.
