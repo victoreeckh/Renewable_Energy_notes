@@ -156,6 +156,7 @@
 	- Fill factor: $$FF= \frac{V_M\cdot I_M}{V_{OC}\cdot I_{SC}}$$
 		- FF depends on $$V_{OC}$$
 			- Different materials have different $$V_{OC}$$s
+			- Mainly through $$V_{OC}$$-effect: bandgap becomes smaller at higher T
 			- ![image.png](../assets/image_1685110541267_0.png){:height 131, :width 325}
 		- $FF_{max}$ -> zie form.
 	- Efficiency $$\eta$$
@@ -172,6 +173,7 @@
 		- ![image.png](../assets/image_1681134301793_0.png){:height 241, :width 355} #.ol
 			- Long-wavelength losses
 				- Only photons with sufficient energy to let electrons bridge bandgap will be absorbed
+				- And lower irradiance at higher wavelengths
 			- Excess-energy losses
 				- Whole energy (of photons) above minimum of the conduction band will be lost through heat
 			- Shadowing
