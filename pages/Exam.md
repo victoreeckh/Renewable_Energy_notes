@@ -147,7 +147,9 @@
 						- *FF*
 				- *Shockley queissler limit* $\approx 30\%$
 			- Why can multijunctions increase efficiency?
-				- *Multijunction cells try to increase the limited efficiency of single cells (Shockley-Queisser) by increasing absorption. Absorption in a single cell is limited by long-wavelength *
+				- *Multijunction cells try to increase the limited efficiency of single cells (Shockley-Queisser) by increasing absorption. Absorption in a single cell is limited by long-wavelength (absorption limit, only photons with sufficient energy to let electron bridge bandgap are absorbed) and excess energy (thermalization limit, absorbed photons with energy higher than bandgap -> excess energy will be lost through heat dissipation). See figure.*
+				- *Multijunction cells try to reduce those limits and increase absorption by stacking multiple cells with different (increasing) bandgaps upon each other. The higher range of bandgaps allows to absorb photons with lower energy (higher wave length) ->decreases long-wavelength losses. Additionally photons with higher energies can be absorbed by subsequent cells with larger bandgaps which reduces thermalization (excess energy) losses. Finally as the thickness of the cell improves, also incomplete absorption losses decrease.*
+				-
 		- Wind #wind_EX
 		  collapsed:: true
 			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
