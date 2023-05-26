@@ -47,6 +47,8 @@
 			- Very few diffusion majority carriers from n->p
 			- With negative $$V$$, $$I_D = I_0$$
 				- With: $$I_0$$ limited by thermally generated minority carriers which diffuse to junction, then drift from p-> n
+		- Key message
+			- Current flowing in the device is essentially the diffusion current of holes and electrons in their respective quasi-neutral regions
 	- Diode under illumination
 		- Carrier generation
 			- Absorption of photons→creation of excess carriers
