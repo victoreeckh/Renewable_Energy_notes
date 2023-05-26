@@ -28,6 +28,10 @@
 			- Diffusion of many majority carriers from n->p
 			- Exponential increase $$I_D>I_{drift}$$
 			- (Current)diffusion in quasi-neutral region under influence of concentration gradient: $$-\frac{dp}{dx}$$ and $$\frac{dn}{dx}$$
+				- Forward voltage increases concentration of minority carriers in depletion layer
+				- Far away the concentration difference is zero
+					- n: holes from R->L ($j_n>0,j_p<0$)
+					- p: electrons from L->R ($j_n<0,j_p>0$)
 				- $$
 				  \begin{equation*}
 				  \left\{
