@@ -287,6 +287,8 @@
 						- If P decreases, than V counteracts the current change in V
 					- However P&O fails in rapidly varying weather conditions. If the granularity of the time of the changes is much smaller than that of the discrete time steps, than the algorithm could make wrong decisions because it reacts too slow.
 					- It affects the direct component as only direct irradiance is affected heavily in partially clouded situations
+					- Yes, it affects the spectrum
+						- Shorter wavelengths, such as blue and green light, are more easily scattered by clouds, leading to a larger proportion of diffuse light in the spectrum reaching the surface. As a result, the presence of clouds can cause a shift towards longer wavelengths in the overall spectrum of incoming irradiance.
 				- Antwoord burgieclan
 					- Perturb and observe fails in fast changing weather conditions. It works
 					  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or

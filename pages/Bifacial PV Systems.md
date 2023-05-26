@@ -1,6 +1,5 @@
 - **Intro**
 	- LCOE
-	  collapsed:: true
 		- $$LCOE = \frac{Sum\; of\; costs\; over\; lifetime}{Sum\; of\; electrical\; energy\; produced\; over lifetime}$$
 		- Global grid parity is almost reached: $$LCOE_{PV} = LCOE_{conventional\; resources}$$
 		  id:: 64365249-7e8f-4ebd-a8f4-e04c2dc01ba3
@@ -26,14 +25,12 @@
 			- Shading
 			- Non-uniformity -> mismatch between cells
 - **Light collection** #.ol
-  collapsed:: true
 	- Direct (front)
 	- Sky diffuse (front)
 	- Sky diffuse (back)
 	- Ground-reflected sky diffuse
 	- Ground-reflected direct
 - **Hard to predict**
-  collapsed:: true
 	- No consensus on gain estimates
 	- A lot of uncertainty
 		- Rear irradiance on rear side in non-uniform
