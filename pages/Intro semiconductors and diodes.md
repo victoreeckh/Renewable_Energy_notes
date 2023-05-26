@@ -33,9 +33,14 @@
 				- => donor level $E_D$, close te lower level of conduction band
 			- electron concentration = donor concentration -> majority carrier
 				- $n\approx N_D$
-			- Hole concentration
-				- $p = n_i^2/N_d$
+			- Hole concentration -> minority carrier
+				- $p = n_i^2/N_D$
 		- p-type doping
 			- acceptors = group III elements
 			- => acceptor level $E_A$, close to valence band
-			-
+			- Hole concentration = acceptor concentration -> majority carrier
+				- $p\approx N_A$
+			- Electron concentration -> minority carrier
+				- $n = n_i^2/N_A$
+	- Recombination
+		-
