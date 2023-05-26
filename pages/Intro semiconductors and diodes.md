@@ -12,4 +12,11 @@
 			- At higher temperatures, there is a finite probability that bonds are broken and electrons are becoming free to move around in the lattice (these are called conduction band electrons)
 			- These electrons leave behind a ‘vacancy’ which can also move (by movement of valence band electrons)
 	- Conduction
-		-
+		- In the conduction band, the conduction can be described by the movement of electrons
+		- In the valence band it is better to describe the conduction by the movement of the empty space (i.e a hole), although in reality it is the valence band electrons that are moving.
+		- The total current is the sum of electron and hole current: $J_{tot}=J_n+J_p$
+	- Drift current
+		- $J_{drift,n}=-qv_nn = q\mu_nn\xi=\sigma_n\xi$
+			- $\mu_n=electron\; mobility$
+			- $\xi = electrical\; field$
+			- $\sigma_n = conductivity$
