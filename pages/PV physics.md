@@ -107,14 +107,17 @@
 		- Diode under illumination
 			- Superposition of the previous
 				- $$J = J_1(x=0)+J_2(x=0)$$
-				- ![image.png](../assets/image_1685105413573_0.png){:height 97, :width 439}
+				- ![image.png](../assets/image_1685105413573_0.png){:height 85, :width 352}
 				- ![image.png](../assets/image_1681130005244_0.png){:height 139, :width 220}
 			- Effect of temperature
 				- Short circuit current: $$I_{sc}$$
 					- small increase
+						- Mainly through Eg-effect: bandgap becomes smaller at higher T
 				- Open circuit voltage: $$V_{oc}$$
 					- strong dependence on intrinsic carrier concentrations $$n_i$$
-					- Which is independent on $$T$$
+					- Which is dependent on $$T$$
+					- ![image.png](../assets/image_1685106096907_0.png){:height 136, :width 175}
+				- ![image.png](../assets/image_1685106184805_0.png){:height 65, :width 366}
 - #### Networkmodel
 	- Idea
 		- Start from photogenerated current (current source) $$I_{ph}$$
