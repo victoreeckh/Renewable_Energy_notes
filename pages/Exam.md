@@ -112,12 +112,13 @@
 				  collapsed:: true
 					- *Opportunity cost of capital*
 				- why does LCOE curves go down for PV and wind
-				  collapsed:: true
-					- *Technological Advancements: Advances in solar panel and wind turbine technologies have significantly increased their efficiency and energy output -> increases denominator*
+					- *Technological Advancements: Advances in solar panel and wind turbine technologies have significantly increased their efficiency and energy output*
+						- *-> increases denominator*
+						- *->decreases CapEX*
+						- *->increases lifetime (cost spread over longer period)*
 						- *Also caused by learning curve effect*
 						- *Driven by subsidies, tax incentives and other policies*
 					- *Economies of Scale: The increasing deployment of solar and wind power installations worldwide has led to economies of scale. As the manufacturing and installation volumes have risen, the costs associated with producing solar panels and wind turbines have decreased.*
-					  collapsed:: true
 						- *Capital expense (annuity) will decrease*
 					- *Learning curve effect: cumulative experience and production volume, the costs of renewable energy technologies tend to decrease*
 						- *e.g. O&M will decrease*
