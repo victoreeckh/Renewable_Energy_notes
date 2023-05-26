@@ -138,7 +138,8 @@
 				- *Shockley-Queisser limit*
 				- *Considers only radiative recombination mechanism (+ see other assumptions)*
 				- *It provides an upper bound on the amount of solar energy that can be converted into electrical energy by a solar cell under ideal conditions.*
-				- *In single cells there exists a trade-off between bandgap and extraction voltage. A higher bandgap allows higher absorbance (more photons witl)*
+				- *In single cells there exists a trade-off between bandgap and extraction voltage. A higher bandgap allows higher absorbance (more photons with lower energy absorbed), but extraction* 
+				    ($V_{OC}$) *happens at lower voltages, and vice versa*
 				- *Limit is mainly formed by*
 					- *Absorption limit -> incomplete absorption*
 					- *thermalization limit -> excess-energy losses*
