@@ -27,4 +27,15 @@
 				- $n=p=n_i=(N_cN_v)^{1/2}e^{-E_g/2kT}$
 				- Nc , Nv are effective density of states in conduction and valence
 				  bands
-		-
+	- The doped semiconductor equilibrium
+		- n-type doping
+			- donors = group V elements (P, As, Sb...)
+				- => donor level $E_D$, close te lower level of conduction band
+			- electron concentration = donor concentration -> majority carrier
+				- $n\approx N_D$
+			- Hole concentration
+				- $p = n_i^2/N_d$
+		- p-type doping
+			- acceptors = group III elements
+			- => acceptor level $E_A$, close to valence band
+			-
