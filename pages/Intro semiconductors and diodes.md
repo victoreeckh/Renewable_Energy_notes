@@ -78,5 +78,11 @@
 			- radiative (direct)
 			- Auger (multi-carrier)
 	- Diffusion current
-		- As a result of the movement of the
-		-
+		- As a result of the movement of the carriers equal to a change in carrier concentration
+		- $J_{diffusion,n} = qD_n\frac{dn}{dx}=q(\mu_n\frac{kT}{q})\frac{dn}{dx}$
+		- $J_{diffusion,p} = qD_p\frac{dp}{dx}=q(\mu_p\frac{kT}{q})\frac{dp}{dx}$
+	- Current equations in 1D
+		- $J_{tot} = J_{drift}+J_{diffusion}$
+		- $J_n = q\mu_n(n\xi+\frac{kT}{q}\frac{dn}{dx})=-qn\mu_n\frac{d\varphi_n}{dx}$
+		- $J_p = q\mu_p(p\xi+\frac{kT}{p}\frac{dp}{dx})=-qp\mu_p\frac{d\varphi_p}{dx}$
+		- gradient of $\varphi_n$ and $\varphi_p$ (quasi-fermi level potentials) is driving force
