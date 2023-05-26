@@ -279,16 +279,18 @@
 			  HPE, HPPH, LPE, LPPH.
 		- PV: #PV_EX
 		  collapsed:: true
-			- what goes wrong with the perturb and observe algorithm? Which component
-			  is affected most by a passing cloud: the direct or the indirect component? Does
-			  it change the frequency distribution of the incoming radiation?
-			- Perturb and observe fails in fast changing weather conditions. It works
-			  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
-			  decrease, V will be increased during the next measurement to increase P and get
-			  closer to Pmax. Otherwise, V will be decreased to get closer to Pmax. + draw
-			  slide 9
-			- When solar radiation increases, Pmax increases and we could end up on
-			  the wrong side of the graph giving the wrong commands.
+			- what goes wrong with the perturb and observe algorithm? Which component is affected most by a passing cloud: the direct or the indirect component? Does it change the frequency distribution of the incoming radiation?
+			  background-color:: blue
+				- Mijn antwoord
+					- Perturb and observe is a mppt algorithm that uses discrete measure
+				- Antwoord burgieclan
+					- Perturb and observe fails in fast changing weather conditions. It works
+					  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
+					  decrease, V will be increased during the next measurement to increase P and get
+					  closer to Pmax. Otherwise, V will be decreased to get closer to Pmax. + draw
+					  slide 9
+					- When solar radiation increases, Pmax increases and we could end up on
+					  the wrong side of the graph giving the wrong commands.
 		- Renewable Energy:
 		  collapsed:: true
 		  What are two reasons landfillgas is not a long-term option? One reason I can
