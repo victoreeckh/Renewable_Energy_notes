@@ -125,33 +125,33 @@
 			- -> go above Schockley-Queisser limit
 		- Latices should match (same lattice constant) to avoid defects
 		- Requires tunnel junction with nanofeature to guarantee series connections of the cells
-		- High concentration solar cells
-			- Idea:
-				- Replace solar cell by cheaper passive optical system like a lens or a mirror
-					- optimise cell area
-					- Only direct part (and not diffused part) can be concentrated
-				- Concentration increases efficiency ($$V_{OC} \sim ln(I_{sc})$$)
-				- Thus:
-				  $$
-				  \begin{equation*}
-				  \begin{aligned}
-				  J_{sc}&\rightarrow n\cdot J_{sc}\\
-				  P_{in}&\rightarrow n\cdot P_{in}\\
-				  V_{OC} &\sim ln(n)\Rightarrow FF \nearrow
-				  \end{aligned}
-				  \end{equation*}
-				  $$
-				  $$
-				  \begin{equation*}
-				  \left.
-				  \begin{aligned}
-				  V_{OC}&\nearrow\\
-				  FF&\nearrow
-				  \end{aligned}
-				  \right\}
-				  \Rightarrow \eta \nearrow\; (\pm 44\%)
-				  \end{equation*}
-				  $$
+	- High concentration solar cells
+		- Idea:
+			- Replace solar cell by cheaper passive optical system like a lens or a mirror
+				- optimise cell area
+				- Only direct part (and not diffused part) can be concentrated
+			- Concentration increases efficiency ($$V_{OC} \sim ln(I_{sc})$$)
+			- Thus:
+			  $$
+			  \begin{equation*}
+			  \begin{aligned}
+			  J_{sc}&\rightarrow n\cdot J_{sc}\\
+			  P_{in}&\rightarrow n\cdot P_{in}\\
+			  V_{OC} &\sim ln(n)\Rightarrow FF \nearrow
+			  \end{aligned}
+			  \end{equation*}
+			  $$
+			  $$
+			  \begin{equation*}
+			  \left.
+			  \begin{aligned}
+			  V_{OC}&\nearrow\\
+			  FF&\nearrow
+			  \end{aligned}
+			  \right\}
+			  \Rightarrow \eta \nearrow\; (\pm 44\%)
+			  \end{equation*}
+			  $$
 - ### PV module technology
 	- #### Si-PV modules
 		- STD cell
