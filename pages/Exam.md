@@ -37,8 +37,13 @@
 		- PV #PV_EX
 		  collapsed:: true
 			- What is the difference between bifacial and monofacial PV systems?
-				- Monofacial PV panels are the traditional and most common type of solar panels. They consist of a single layer of photovoltaic cells mounted on a supporting structure. These panels are designed to capture sunlight only from one side, usually the front or top surface of the panel. The front surface is where the active photovoltaic material is located, which converts sunlight into electricity. The back surface of a monofacial panel typically consists of a protective layer and a backing material
+				- Monofacial PV panels are the traditional and most common type of solar panels. They consist of a single layer of photovoltaic cells mounted on a supporting structure. These panels are designed to capture sunlight only from one side, usually the front or top surface of the panel. The front surface is where the active photovoltaic material is located, which converts sunlight into electricity. The back surface of a monofacial panel typically consists of a protective layer and a backing material, most commonly used is an Aluminium backside.
+					- ![image.png](../assets/image_1685135690572_0.png){:height 236, :width 216}
+				- Bifacial PV panels, on the other hand, are designed to capture sunlight from both the front and back surfaces of the panel. They feature photovoltaic cells on both sides, allowing them to generate electricity from sunlight that strikes the front surface as well as from sunlight that is reflected or diffused onto the back surface. Bifacial panels are typically constructed with a transparent or translucent backsheet or glass back cover, which allows light to pass through to the rear cells. Note that back side generation also requires the necessary busbars and fingering designs on the rear side.
 			- Why is it difficult to estimate the production of these systems?
+				- No consensus on gain estimates
+				- Lack of standardization in calculation methods
+				-
 			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
 		- Biofuels #Biofuels_EX
 		  collapsed:: true
