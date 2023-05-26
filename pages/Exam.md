@@ -43,7 +43,12 @@
 			- Why is it difficult to estimate the production of these systems?
 				- No consensus on gain estimates
 				- Lack of standardization in calculation methods
-				-
+				- A lot of uncertainty
+					- rear side irradiance is non-uniform and dependent on:
+						- characteristics on the ground
+						- shading
+						- location and stance of the modules
+						- Neigbouring PV systems
 			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
 		- Biofuels #Biofuels_EX
 		  collapsed:: true
