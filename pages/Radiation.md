@@ -1,0 +1,31 @@
+- ### Definitions
+	- Irradiance
+	  collapsed:: true
+		- Radiant power flow on a horizontal surface = radiant energy flow/unit time [W/m2]
+	- Irradiation
+	  collapsed:: true
+		- Integral of irradiation flux over any unit of time [hour, day, month, year, ...] [Wh/m2.x: x=hour, ...]
+	- The global radiation G is split into 2 components:
+	  collapsed:: true
+		- Beam or direct (B)
+		- Diffuse (D)
+	- Clearness Index
+	  collapsed:: true
+		- = Global radiation/extraterrestrial radiation
+	- Solar Constant
+	  collapsed:: true
+		- = Extraterrestrial irradiance of the solar beam = 1367 W/m2 (at mean solar distance)
+	- Three basic sky conditions:
+	  collapsed:: true
+		- cloudless, partially clouded and overcast. Statistical data are available for Europe
+	- Solar altitude
+	  collapsed:: true
+		- angular elevation of the centre of the solar disc above the horizontal plane
+	- Solar azimuth
+	  collapsed:: true
+		- horizontal angle between the vertical plane containing the centre of the solar disc and the vertical plane running in the true north-south direction
+	- Air mass
+	  collapsed:: true
+		- the path length which light takes through the atmosphere normalized to the shortest possible path length (that is, when the sun is directly overhead)
+		- The air mass is the secant (1/cos \theta) of the angle with zenith
+	-
