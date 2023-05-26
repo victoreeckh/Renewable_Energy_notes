@@ -77,5 +77,6 @@
 				- Through extra energy levels in Eg
 			- radiative (direct)
 			- Auger (multi-carrier)
-			-
-			-
+	- Diffusion current
+		- As a result of the movement of the
+		-
