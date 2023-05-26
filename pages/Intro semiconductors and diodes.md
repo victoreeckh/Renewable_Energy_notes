@@ -1,8 +1,12 @@
 - ## Semiconductors
 	- Energy bands in semiconductors
-		- Discrete energy levels of electrons disappear when atoms are placed in a crystal structure (energy bands are consequence of crystal periodicity)
+		- Discrete energy levels of electrons disappear when atoms are placed in a crystal structure, brought closer together (energy bands are consequence of crystal periodicity)
 	- Occupation probability of energy states
 		- $T=0^\circ K$ => all energy levels are filled up to the Fermilevel ($E_f$)
 		- $T>0^\circ K$ => electrons are excited to higher levels, according to the Fermi-Dirac distribution function f(E)
 			- $f(E) = \frac{1}{1+exp[(E-E_f)/kT]}$
-		- Energy levels above Ef have a small but finite probability to be occupied by an electron, whereas energy levels below Ef have a small but finite probability to be empty
+		- ![image.png](../assets/image_1685087834582_0.png){:height 225, :width 417}
+			- Energy levels above Ef have a small but finite probability to be occupied by an electron, whereas energy levels below Ef have a small but finite probability to be empty
+			- $E_f = \frac{E_{gap}}{2}$
+		-
+		-
