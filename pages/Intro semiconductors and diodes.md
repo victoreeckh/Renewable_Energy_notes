@@ -20,3 +20,11 @@
 			- $\mu_n=electron\; mobility$
 			- $\xi = electrical\; field$
 			- $\sigma_n = conductivity$
+	- Intrinsic carrier concentration
+		- Intrinsic semiconductors
+			- Pure and perfect semiconductor
+			- Each excited electron in the conduction band leaves behind an empty state (i.e. hole) in the valence band
+				- $n=p=n_i=(N_cN_v)^{1/2}e^{-E_g/2kT}$
+				- Nc , Nv are effective density of states in conduction and valence
+				  bands
+		-
