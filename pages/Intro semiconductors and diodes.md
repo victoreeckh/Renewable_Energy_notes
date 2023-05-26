@@ -51,4 +51,18 @@
 			- $n = N_c exp(\frac{E_{fn}-E_C}{kT})$
 			- $p = N_p exp(\frac{E_V-E_{fp}}{kT})$
 			- $E_{fn}\neq E_{fp}; np = n_i^2 = N_cN_p exp(\frac{E_{fn}-E_{fp}}{kT})$
-		-
+			- Description
+				- Bulk recombination is described by bulk minority carrier lifetime
+				  id:: 647074e7-34dc-4175-a30a-253361673677
+					- $n=n_0+\Delta n$
+					- $p=p_0+\Delta p$
+					- $R = (\frac{d\Delta n}{dt})_{rec} = (\frac{d\Delta p}{dt})_{rec} = \frac{-\Delta n}{\tau}$
+				- Surface recombination is described by surface recombination velocity
+					- $n_s=n_0+\Delta n_s$
+					- $p_s=p_0+\Delta p_s$
+			- Netto recombination
+				- Depends on deviation from equilibrium minority carrier concentration
+				- p-type
+					- $n_{p0}$: equilibrium electron concentration = $n_i^2/N_A$
+					- $\tau_n$: electron minority carrier lifetime
+					- $$$$
