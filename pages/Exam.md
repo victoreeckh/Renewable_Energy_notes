@@ -282,7 +282,11 @@
 			- what goes wrong with the perturb and observe algorithm? Which component is affected most by a passing cloud: the direct or the indirect component? Does it change the frequency distribution of the incoming radiation?
 			  background-color:: blue
 				- Mijn antwoord
-					- Perturb and observe is a mppt algorithm that uses discrete measure
+					- Perturb and observe is a mppt algorithm that uses measurements of current and voltage at discrete time steps in a closed loop control system to converge towards the voltage to extract maximum power. In short it determines its next voltage value based on the previous measurements. The computed change in power determines the direction of the next step while the voltage determines the magnitude of that step. (draw flow chart if spare time).
+						- If P increases, than V follows the current change in V (decrease, decrease further)
+						- If P decreases, than V counteracts the current change in V
+					- However P&O fails in rapidly varying weather conditions. If the granularity of the time of the changes is much smaller than that of the discrete time steps, than the algorithm could make wrong decisions because it reacts too slow.
+					- It affects the direct component as only direct irradiance is affected heavily in partially clouded situations
 				- Antwoord burgieclan
 					- Perturb and observe fails in fast changing weather conditions. It works
 					  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
