@@ -104,7 +104,7 @@
 	  collapsed:: true
 		- Intro
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
-			- Second question a graph of LCOE for PV and wind was given.
+			- Second question a graph of LCOE for PV and wind was given. #intro_EX
 				- What is LCOE
 				  collapsed:: true
 					- ((646fb863-d1ec-428a-9bae-255c696dd80f))
