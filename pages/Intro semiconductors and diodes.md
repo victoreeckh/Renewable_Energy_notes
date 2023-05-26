@@ -84,5 +84,5 @@
 	- Current equations in 1D
 		- $J_{tot} = J_{drift}+J_{diffusion}$
 		- $J_n = q\mu_n(n\xi+\frac{kT}{q}\frac{dn}{dx})=-qn\mu_n\frac{d\varphi_n}{dx}$
-		- $J_p = q\mu_p(p\xi+\frac{kT}{p}\frac{dp}{dx})=-qp\mu_p\frac{d\varphi_p}{dx}$
+		- $J_p = q\mu_p(p\xi-\frac{kT}{p}\frac{dp}{dx})=-qp\mu_p\frac{d\varphi_p}{dx}$
 		- gradient of $\varphi_n$ and $\varphi_p$ (quasi-fermi level potentials) is driving force
