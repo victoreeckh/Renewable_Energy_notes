@@ -60,16 +60,22 @@
 				- Surface recombination is described by surface recombination velocity
 					- $n_s=n_0+\Delta n_s$
 					- $p_s=p_0+\Delta p_s$
-			- Netto recombination and generation
-				- Depends on deviation from equilibrium minority carrier concentration
-				- p-type
-					- $U_n = \frac{n-n_{p0}}{\tau_n} = R- G_{th} = -\frac{dn}{dt}$
-					- $\Rightarrow \frac{dn}{dt}= -\frac{n-n_{p0}}{\tau_n} + G_{th}$
-						- $n_{p0}$: equilibrium electron concentration = $n_i^2/N_A$
-						- $\tau_n$: electron minority carrier lifetime
-				- n-type
-					- $U_p = \frac{p-p_{n0}}{\tau_p} = R- G_{th} = -\frac{dp}{dt}$
-					- $\Rightarrow \frac{dp}{dt}= -\frac{p-p_{n0}}{\tau_p} + G_{th}$
-						- $p_{n0}$: equilibrium electron concentration = $n_i^2/N_D$
-						- $\tau_p$: hole minority carrier lifetime
+		- Netto recombination and generation
+			- Depends on deviation from equilibrium minority carrier concentration
+			- p-type
+				- $U_n = \frac{n-n_{p0}}{\tau_n} = R- G_{th} = -\frac{dn}{dt}$
+				- $\Rightarrow \frac{dn}{dt}= -\frac{n-n_{p0}}{\tau_n} + G_{th}$
+					- $n_{p0}$: equilibrium electron concentration = $n_i^2/N_A$
+					- $\tau_n$: electron minority carrier lifetime
+			- n-type
+				- $U_p = \frac{p-p_{n0}}{\tau_p} = R- G_{th} = -\frac{dp}{dt}$
+				- $\Rightarrow \frac{dp}{dt}= -\frac{p-p_{n0}}{\tau_p} + G_{th}$
+					- $p_{n0}$: equilibrium electron concentration = $n_i^2/N_D$
+					- $\tau_p$: hole minority carrier lifetime
+		- Mechanisms
+			- Shockley-Read-Hall (SRH G&R)
+				- Through extra energy levels in Eg
+			- radiative (direct)
+			- Auger (multi-carrier)
+			-
 			-
