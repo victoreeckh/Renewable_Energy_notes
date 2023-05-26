@@ -175,7 +175,8 @@
 				- Only photons with sufficient energy to let electrons bridge bandgap will be absorbed
 				- And lower irradiance at higher wavelengths
 			- Excess-energy losses
-				- Whole energy (of photons) above minimum of the conduction band will be lost through heat
+				- Only a maximum energy $E_g$ can be absorbed from the photons
+				- You can't separate quasi-fermi potentials more than $E_g$
 			- Shadowing
 				- E.g. fingering pattern
 				- Can be limited through technology
