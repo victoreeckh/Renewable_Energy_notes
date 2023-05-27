@@ -439,10 +439,12 @@
 		- #wind_EX
 		  collapsed:: true
 			- Derive the expressions for Cp and Ct and the Betz limit of both
+				- *See notes*
 			- If you mount a wind turbine on an airplane, and the airplane flies at speed
 			  U_infinity on a day with no wind, which fraction of the used fuel energy can be
 			  recuperated in the turbine? (assume no friction losses from the airplane, ideal
 			  transmissions,...)
+				- *Experiences a relative speed of* $U_\infty$, *So same as inertial case with same windspeed, only world reference frame changed.* So I would answer $C_P\times \eta_{motor}$?
 		- #Solar_thermal_EX
 		  collapsed:: true
 			- The German regulator wants to subsidize storage for small scale PV production at residential houses. Why? Design a system for this storage. Which size should it be (order of
