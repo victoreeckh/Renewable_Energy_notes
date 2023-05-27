@@ -339,3 +339,4 @@
 				- bypass diodes allows the current from the unshaded panel to bypass the high resistance of the shaded panel
 				- blocking diode is needed to prevent current flowing from the battery back to the solar panel
 				- dust, sand, dirt, debris and snow lower output
+- ## [[Meteorology_EX]]
