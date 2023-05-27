@@ -21,7 +21,6 @@
 		- target capacity of 450GW
 		- Required installations (/y) should go times 4
 - Products
-  collapsed:: true
 	- Vestas V164 (2016, already outdated)
 	- Halliade-X 12MW
 		- onshore
