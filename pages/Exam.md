@@ -449,7 +449,7 @@
 		  collapsed:: true
 			- The German regulator wants to subsidize storage for small scale PV production at residential houses. Why? Design a system for this storage. Which size should it be (order of
 			  magnitude)?
-		- #Meteorology_EX
+		- #Meteorology_EX #[[Thermal Energy Storage (TES)]]
 		  collapsed:: true
 			- i Stratification is very important for the quality of energy stored in tanks
 			  for sensible heat storage. Why?
