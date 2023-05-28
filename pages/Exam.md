@@ -166,6 +166,7 @@
 			- Due to the increasing use of renewables more and more thermal storage applications are used. Does the use of thermals storage always lead to a gain? Discuss using 6 points.
 		- CSP #Solar_thermal_EX
 			- Make a diagram depicting the four CSP technologies (according to receiver and focus type). Give the most important advantage & disadvantage of all types.
+			  background-color:: blue
 				- The efficiency of a CSP consists of two parts, give them.
 					- *Zie 2019*
 				- What is the efficiency range of this type of plants? Which technology has the highest and lowest efficiency?
@@ -228,6 +229,7 @@
 			- Explain functioning of solar pond: 1 page
 			  background-color:: blue
 				- ((643bbf93-18be-485a-afd6-fb8b964a6c4b))
+				- ![image.png](../assets/image_1685283303729_0.png){:height 407, :width 529}
 		- Hydro #Hydro_EX
 			- How to gain renewable energy from sea, if you have to stay within 5 km of the beach and you can’t build high walls and the level of the sea changes quickly.
 		- Wind turbine: #wind_EX
@@ -379,7 +381,7 @@
 		- #Solar_thermal_EX
 			- The German regulator wants to subsidize storage for small scale PV production at residential houses. Why? Design a system for this storage. Which size should it be (order of
 			  magnitude)?
-		- #Meteorology_EX #[[Thermal Energy Storage (TES)]]
+		- #Meteorology_EX #Solar_thermal_EX
 			- i Stratification is very important for the quality of energy stored in tanks
 			  for sensible heat storage. Why?
 			- ii How can buoyancy induces mixing be reduced?
