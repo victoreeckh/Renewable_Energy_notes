@@ -5,6 +5,7 @@
 		- (less) Southern EU
 		- (Even less in) Middle EU countries
 - ### CSP Solar Receiver Technologies
+  id:: 643afa84-4773-43f3-9362-9b9762473cce
 	- Categories
 		- ==Linear Fresnel Reflector== (LFR)
 			- Long rows of flat or slightly curved mirrors (mimic total parabolic shape) to reflect the sun's rays onto a downward-facing linear, fixed receiver

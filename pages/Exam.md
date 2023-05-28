@@ -73,8 +73,13 @@
 	- ### 19 June 2020
 		- CSP #Solar_thermal_EX
 			- Give the 4 techs for CSP in a 2x2 grid schape and give on major advantage and disadvantage for each tech
+			  background-color:: blue
+				- ((643afa84-4773-43f3-9362-9b9762473cce))
 			- Give the 2 main components of solar collection efficiency
+				- $\eta_{carnot}$ of thermodynamic cycle
+				- 4
 			- Give the range of the efficiencies for each of the 4 techs
+				-
 			- If you could build a large PV plant in a suitable location, would you prefer CSP or PV and why?
 		- Wind #wind_EX
 			- Wind density diagram given at 60 meters (weibull distribution) , needed to be converted to 15m and you needed to get the nominal power from that and the estimated capacity factor
