@@ -40,7 +40,6 @@
 				- Concentration ratio $$\alpha_c$$: ratio of the radiant power density at the receiver divided by the radiant power density of the sun without any concentration
 	- Thermodynamic Cycle
 		- CSP Rankine Steam Cycle
-		  collapsed:: true
 			- ![image.png](../assets/image_1681592025230_0.png){:height 270, :width 503}
 			- Excess heat collected in the solar field is sent to the heat exchanger and warms the molten sats going from the cold tank to the hot tank. When needed, the heat from the hot tank can be returned to the heat transfer fluid and sent to the steam generator.
 			- Regimes
@@ -73,7 +72,6 @@
 		- Peak load
 			- need for large energy storage and large power turbine. Aims to generate a lot of electrical power when peak-load prices are high
 - ### Cost
-  collapsed:: true
 	- Costs
 		- 2011-2013: CapEx and LCOE were projected to decrease
 		- 2021:
