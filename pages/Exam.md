@@ -94,8 +94,12 @@
 		- Hydro #Hydro_EX
 			- Give 2 major reasons why big hydro can be unsustainable
 				- ((644404d6-04e3-49a0-8153-c2f722c40060))
-				-
 			- Give 2 major reasons why small hydro can be unsustainable
+				- Can disturb local fish stocks
+					- Have to provide fish protection measures
+					- e.g. fish ladder
+				- No economies of scale
+					- a lot of small scale powerplants will need more cabling, generators (With copper etc.) than one large power plant
 		- Geothermal #geothermal_EX
 			- Hybrid plant given, explain workings in 10 lines
 			- Vapor or liquid field?
