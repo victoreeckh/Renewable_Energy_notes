@@ -428,6 +428,19 @@
 		- De tweede vraag ging over zonnepanelen, een oefening, redelijk simpel als ge de formules snapt #PV_EX
 		- De derde was over windenergie, maar die kan ik nie herhalen #wind_EX
 		- De vierde was over hydroenergy, alle soorten (op land) bespreken naargeland hun geografische ligging. #Hydro_EX
+			- Large-scale
+				- Dam
+					- rivers
+					- lakes
+				- pump-hydro/reservoir
+					- Mountain power plant
+				- run-of-river
+					- Power plant in plain
+					- Power plant in plain but with large height drop due to bend
+						- Natural waterfall
+			- small-scale
+				- small local rivers
+				- small local lakes
 		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #geothermal_EX
 		- De 6de was een vd circuits van geothermal. #geothermal_EX
 			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
