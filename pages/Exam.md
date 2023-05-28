@@ -202,8 +202,13 @@
 			- In the context of thermal energy storage (TES) both energy density and power density
 			  are crucial.
 				- Define energy density. Which properties determine the energy density of a TES system?
+					- *Amount of heat that can be stored per unit volume*
+						- *dependent on the thermal capacity of the medium and* $\Delta T$ *allowed, or the latent heat or the reaction heat*
 				- Define power density. Which properties impact the power density of a TES system?
+					- *rate at which heat can be absorbed or released*
+					- *dependent on thermal conductivity and convective heat transfer rates*
 				- What is the typical ratio of energy density between a thermochemical storage material (TCM) and water (typically at a ΔT of 70°C)
+					- *20-to-1 ?* (±100/±)
 				- How can the power density of a phase change material (PCM) be improved? [max. 1 page]
 		- Geothermal Energy #geothermal_EX
 			- In the figure below, the scheme of a geothermal power plant is given. #.ol-nested
