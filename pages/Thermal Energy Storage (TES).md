@@ -103,6 +103,7 @@
 						- Potential for economical large scale and long term (seasonal) storage
 						- Amount of energy stored depends on allowable temperature change, thermal conductivity, natural ground water flow
 				- ==Solar Ponds==
+				  id:: 643bbf93-18be-485a-afd6-fb8b964a6c4b
 					- Surface water (ponds or lakes) used to collect and store solar heat, with very little losses
 					- As a result of the fact that Solar ponds contain salt solutions
 						- Salinity gradient results in higher salt concentrations (and thus

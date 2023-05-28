@@ -167,7 +167,9 @@
 		- CSP #Solar_thermal_EX
 			- Make a diagram depicting the four CSP technologies (according to receiver and focus type). Give the most important advantage & disadvantage of all types.
 				- The efficiency of a CSP consists of two parts, give them.
+					- *Zie 2019*
 				- What is the efficiency range of this type of plants? Which technology has the highest and lowest efficiency?
+					- *Zie 2019*
 				- Suppose you are a project manager in Arizona and you have to choose between a CSP or a large PV plant. Give one important advantage and disadvantage of CSP in comparison to PV and explain which option you would choose.
 		- Hydrogen - Power to Gas #Hydrogen_EX
 			- Which of the above fuel cells can be fuelled directely with methane ? (AFC, PEMFC, PAFC, SOFC & MCFC)
@@ -224,6 +226,8 @@
 	- ### 6 June 2015
 		- PV #Solar_thermal_EX
 			- Explain functioning of solar pond: 1 page
+			  background-color:: blue
+				- ((643bbf93-18be-485a-afd6-fb8b964a6c4b))
 		- Hydro #Hydro_EX
 			- How to gain renewable energy from sea, if you have to stay within 5 km of the beach and you can’t build high walls and the level of the sea changes quickly.
 		- Wind turbine: #wind_EX
