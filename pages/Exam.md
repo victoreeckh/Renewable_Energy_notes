@@ -76,11 +76,19 @@
 			  background-color:: blue
 				- ((643afa84-4773-43f3-9362-9b9762473cce))
 			- Give the 2 main components of solar collection efficiency
-				- $\eta_{carnot}$ of thermodynamic cycle
-				- 4
+				- $\eta_{carnot}$ of thermodynamic cycle, increases with increasing $T$
+					- depends therefore on the chosen cycle
+				- $\eta_{capt}$, decreases with increasing $T$
+				- -> global maximum exists
 			- Give the range of the efficiencies for each of the 4 techs
-				-
+				- Peak efficiency
+					- LFR: $18-22\%$
+					- Tower : $20-27\%$
+					- PT: $23-27\%$
+					- PD: $20-30\%$
 			- If you could build a large PV plant in a suitable location, would you prefer CSP or PV and why?
+				- *PV, lower pay-back-period to win back my investment as technology is cheaper (LCOE)*
+				-
 		- Wind #wind_EX
 			- Wind density diagram given at 60 meters (weibull distribution) , needed to be converted to 15m and you needed to get the nominal power from that and the estimated capacity factor
 		- Hydro #Hydro_EX
