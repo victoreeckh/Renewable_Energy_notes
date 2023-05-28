@@ -1,3 +1,4 @@
 - ### [[Solar Thermal Energy]]
 - ### [[Concentrated Solar Power]]
 - ### [[Thermal Energy Storage (TES)]]
+- ### [[Solar_thermal_EX]]

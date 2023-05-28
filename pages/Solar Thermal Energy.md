@@ -1,5 +1,4 @@
 - ### Introduction
-  collapsed:: true
 	- Solar thermal collectors
 	- Solar Irradiance
 		- Characteristic figures
@@ -16,7 +15,6 @@
 			- ![image.png](../assets/image_1681565327214_0.png){:height 203, :width 413}
 				- For absorber (absorber plate): $$\tau=0$$
 			- Collector Aperture Area
-			  collapsed:: true
 				- The aperture area of a (concentrating) solar collector is the area of the
 				  opening into which the insolation passes.
 				- The size of this area does not include any area reduction due to the angle
@@ -34,8 +32,7 @@
 				- coating on inside cover glass to avoid IR transparency
 				- put insulation behind absorber to limit heat loss
 			- Efficiency $$\eta$$
-				- collapsed:: true
-				  $$
+				- $$
 				  \begin{equation*}
 				  \begin{aligned}
 				  \eta &= \frac{Useful\; heat\; recovered}{Incoming\; irradiated\; energy}\\
@@ -65,7 +62,6 @@
 				- above: heat exchanger that condenses alcohol
 				- liquid alcohol descends (often through a wick – capillary effect)
 			- Configurations
-			  collapsed:: true
 				- Vertical (standard)
 				- Tilted
 				- Horizontal
@@ -88,7 +84,6 @@
 				- If $$T_{user}\; too\; low$$: auxiliary heating (6)
 				- If $$T_{user}\; too\; high$$: mixing city water (9)
 		- Necessary precautions
-		  collapsed:: true
 			- against freezing
 				- glycol filling
 				- “emptying” provision (for winter season)
