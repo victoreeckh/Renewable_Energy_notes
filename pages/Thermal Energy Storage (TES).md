@@ -162,7 +162,9 @@
 			- Applications in power sector
 				- in combination with CSP: heat can be stored during the day and discharged at night to drive a turbine and maintain continuous electricity production
 	- **Stratification**
+	  id:: 643c5ded-471d-43db-b1ed-7f11ae66911d
 		- *stratification refers to the separation of hot and cold fluids in a storage tank. This separation occurs due to differences in fluid density caused by temperature variations*
+		  id:: 643c5f97-f934-4c67-802d-dc222e677cdf
 		- CBA
 			- (+) Allows increase of energy quality (exergy) within a store
 			- (+) Easier to store collected heat

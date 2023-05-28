@@ -384,6 +384,7 @@
 		- #Meteorology_EX #Solar_thermal_EX
 			- i Stratification is very important for the quality of energy stored in tanks
 			  for sensible heat storage. Why?
+				- ((643c5ded-471d-43db-b1ed-7f11ae66911d))
 			- ii How can buoyancy induces mixing be reduced?
 		- #geothermal_EX
 			- a given design scheme of a geothermal plant (of a dual pressure plant)
