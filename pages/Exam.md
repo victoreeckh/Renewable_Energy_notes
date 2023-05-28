@@ -58,6 +58,9 @@
 			  ontbrekende waardes goeie aannames)
 		- Hydro #Hydro_EX
 			- Doe een SWOT analyse van een floating PV
+				- Strenghts
+					- (+) better performance than regular PV due to cooling effect of the ocean (15% more yield)
+					-
 		- Solar_thermal #Solar_thermal_EX
 			- waarom moet de reflectie coeff van een absorber gelijk zijn aan 1 vanaf 3µm? en die figuur op slide 55 van die kost met waarom 16 jaar, wat is daar fout aan en hoe beter?
 	- ### 4 June 2021
