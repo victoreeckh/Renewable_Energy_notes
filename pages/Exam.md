@@ -305,7 +305,21 @@
 			- What are the 4 major feedstocks of ethanol?
 		- Hydro #Hydro_EX
 			- Design a hydro power plant for the Schelde in Antwerp? No environmental restrictions
+				- Large scale
+				- run-of-river powerplant
+					- Relatively large flow rate in combination with low hydraulic pressure head
+					- -> $n_s = n\frac{Q^{1/2}}{H^{3/4}}$ will be high -> Kaplan turbine
+					- In combination with synchronous generator with salient poles
+						- high amount of pole pairs as rotational speed will be much lower than grid frequency
 			- Design a hydro power plant in Norway for a fjord in Norway
+				- Large scale
+				- Reservoir/pumped hydro/dam type
+				- Relatively low (to medium) flow rate, but high hydraulic pressure head
+				- -> $n_s = n\frac{Q^{1/2}}{H^{3/4}}$ will be high -> Francis or Pelton
+					- But Francis is more efficient and more industry standard
+				- In combination with synchronous generator with salient poles
+					- high amount of pole pairs as rotational speed will be much lower than grid frequency
+				- Maybe also foresee, reversible pump/motor duality to use the reservoir as a storage mechanism
 		- Geothermal #geothermal_EX
 			- A picture of a  geothermal plant given
 				- 1) For what temperature is this design? wet steam <150°, wet steam > 150° or dry steam
@@ -439,8 +453,9 @@
 					- Power plant in plain but with large height drop due to bend
 						- Natural waterfall
 			- small-scale
-				- small local rivers
-				- small local lakes
+				- Waterwheels
+					- small local rivers
+					- small local lakes
 		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #geothermal_EX
 		- De 6de was een vd circuits van geothermal. #geothermal_EX
 			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
