@@ -93,9 +93,7 @@
 			- Wind density diagram given at 60 meters (weibull distribution) , needed to be converted to 15m and you needed to get the nominal power from that and the estimated capacity factor
 		- Hydro #Hydro_EX
 			- Give 2 major reasons why big hydro can be unsustainable
-				- Dam
-					- Loss of biodiversity
-					- Massive amounts concrete needed -> a lot of emissions
+				- ((644404d6-04e3-49a0-8153-c2f722c40060))
 				-
 			- Give 2 major reasons why small hydro can be unsustainable
 		- Geothermal #geothermal_EX
