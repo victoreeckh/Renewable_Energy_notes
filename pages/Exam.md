@@ -67,7 +67,7 @@
 		- PV #PV_EX
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
 		- TES #Solar_thermal_EX
-			- TES is important forcross-sectorial decarbonization, give four examples
+			- TES is important for cross-sectorial decarbonization, give four examples
 		- Hydrogen #Hydrogen_EX
 			- Fuel cells, which can be fueled with methane and which not, why?
 	- ### 19 June 2020
@@ -199,8 +199,8 @@
 		- Electrical Storage #storage_EX
 			- Compare the usefulness, technical as well as economical, of energy storage by means of an “energy island” on the one hand and batteries on the other hand in the frame of renewable electricity integration? [max. 1 page]
 		- TES #Solar_thermal_EX
-			- In the context of thermal energy storage (TES) both energy density and power density
-			  are crucial.
+			- In the context of thermal energy storage (TES) both energy density and power density are crucial.
+			  background-color:: blue
 				- Define energy density. Which properties determine the energy density of a TES system?
 					- *Amount of heat that can be stored per unit volume*
 						- *dependent on the thermal capacity of the medium and* $\Delta T$ *allowed, or the latent heat or the reaction heat*
@@ -208,7 +208,7 @@
 					- *rate at which heat can be absorbed or released*
 					- *dependent on thermal conductivity and convective heat transfer rates*
 				- What is the typical ratio of energy density between a thermochemical storage material (TCM) and water (typically at a ΔT of 70°C)
-					- *20-to-1 ?* (±100/±)
+					- *20-to-1 ?* (±100/±5.8)
 				- How can the power density of a phase change material (PCM) be improved? [max. 1 page]
 		- Geothermal Energy #geothermal_EX
 			- In the figure below, the scheme of a geothermal power plant is given. #.ol-nested
