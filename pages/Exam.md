@@ -600,7 +600,7 @@
 				- Waterwheels
 					- small local rivers
 					- small local lakes
-		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #geothermal_EX
+		- De vijfde ging moest ge uitleggen wat ge wist over GEOTABS. #Solar_thermal_EX
 		- De 6de was een vd circuits van geothermal. #geothermal_EX
 			- Moest ge een Ts diagram maken en ook TQ diagram van een gegeven circuit
 		- De 7e ging over dat extra boek op internet dat we moesten lezen. Wat er fout was aan de groene "stack", een fout die MacKay zelf toegaf ook #intro_EX

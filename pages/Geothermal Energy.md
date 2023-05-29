@@ -1,3 +1,4 @@
+- [[geothermal_EX]]
 - Deep Geothermal Energy
 - ### Intro
 	- Thermal energy (“heat”) of the earth
