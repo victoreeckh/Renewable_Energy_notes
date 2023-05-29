@@ -190,6 +190,33 @@
 			- asked you to draw an entire scheme for a hybrid plant (single flash + orc binary), draw TS diagrams for both. Is it vapor dominated or liquid dominated? what is the temperature range?
 		- Electric Storage #storage_EX
 			- Compare supercapacitors and batteries, how can these help renewable energy generation?
+			  background-color:: blue
+				- Both
+					- storage can offer the flexibility needed to equate demand and supply
+					- Even more important in the renewable context of intermittent generation that makes the supply curve unpredictable
+				- Supercapacitors
+					- Electromagnetic storage device that stores electric energy in the electric field between two electrodes separated with a dielectric/electrolyte
+					- (+) high power density
+					- (-) low energy density
+					- (-) costly
+					- Mainly because of last reason, not widely deployed
+						- Had some applications in hybrid buses but now pushed out of the market too
+				- Battery
+					- Definition
+						- Induced redox reaction results in current flowing in a closed circuit
+						- Li-ion batteries have the best properties for static storage
+							- Acceptable efficiencies
+							- High power and energy densities
+					- Useful
+						- Local storage
+							- as it is modular, compact and has high power/energy density
+							- Self consumption of PV
+								- Shift and levelize own demand curve
+					- Technical
+						- mature
+						- on-market
+					- Economical
+						- Available technologies become cheaper but still no cheap alternatives for large scale storage
 		- Biofuels #Biofuels_EX
 			- What are the 3 types of biooils that can be produced from vegetable oils? What are the main parameters that describe them and their main differences?
 	- ### 14 June 2016
@@ -278,7 +305,9 @@
 							- High power and energy densities
 					- Useful
 						- Local storage
-							- as it is mod
+							- as it is modular, compact and has high power/energy density
+							- Self consumption of PV
+								- Shift and levelize own demand curve
 					- Technical
 						- mature
 						- on-market
