@@ -8,6 +8,7 @@
 				- *Includes primary energy consumption + non energy (feedstock) consumption*
 		- Wind: Explain the control mechanism for a modern wind turbine. (max. 3 pages) #wind_EX
 		- Storage: Do you get more sustainable energy production, when you combine a battery with a PV system? What might be a negative effect? (max. 1 page) #storage_EX
+			- sl. 17
 		- Geothermal: #geothermal_EX
 			- Layout of a double flash power plant was given. Name the plant and does this work on a primarily liquid-well or steam-well?
 			- Draw and explain the turbine in more detail. (So give the drawing where the turbine is split with a mixer in between)
