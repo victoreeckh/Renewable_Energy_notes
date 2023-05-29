@@ -481,6 +481,18 @@
 			- Discuss the 3 types of biofuels that can be produced from vegetable oils which
 			  properties are important? What is the impact applicability of these fuels in
 			  combustion engines?
+			- Important properties
+				- LHV
+					- Lower LHV indicates more volumetric fuel consumption for same energy use -> smaller radius with same tank volume
+						- implicates fuel tank, tubes, injection
+				- cetane number
+					- Indicates speed of self-ignition in a diesel engine.
+					- Lower cetane number results in less stable/qualityful combustion
+						- -> more
+				- viscosity
+					- Measure of a fuel's resistance to flow, dependent on temperature
+					- -> high viscosity impacts pumping and atomization of the fuel during injection => combustion quality
+					-
 		- Question 5: #Solar_thermal_EX
 			- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
 			  aspect at different energy vectors, their interaction, time and space issues
