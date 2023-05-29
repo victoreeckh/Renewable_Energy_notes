@@ -250,6 +250,7 @@
 			- Consider an off-shore wind project for which a measured wind histogram at 15m is available (cf. Figure). The average roughness length of the sea at that site corresponds to 0.002m. We want to build a large offshore turbine on this site with a hub height of 130m and a rotor diameter of 150m. The estimated power coefficient of the turbine corresponds to 0.45. Furthermore, the cut-in wind speed is 3 m/s, and the cut-out wind speed is 25 m/s. The rated power of the turbine is 6MW. Estimate the expected capacity factor of this wind turbine. [Note: It is sufficient to sample the histogram at 6 to 8 well-selected points to demonstrate the approach]
 		- Electrical Storage #storage_EX
 			- Compare the usefulness, technical as well as economical, of energy storage by means of an “energy island” on the one hand and batteries on the other hand in the frame of renewable electricity integration? [max. 1 page]
+				-
 		- TES #Solar_thermal_EX
 			- In the context of thermal energy storage (TES) both energy density and power density are crucial.
 			  background-color:: blue
