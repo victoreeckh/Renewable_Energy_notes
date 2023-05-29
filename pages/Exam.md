@@ -259,6 +259,7 @@
 	- ### 5 June 2015
 		- BIOMASS #Biomass_EX
 			- What is the “zero-yield” distance?
+				- *= the distance over which a fossil-fueled vehicle emits as much CO2 as the CO2 contents of the biomass*
 			- What are the two reasons that landfill gas not a long-term energy option? Consider the case of a region/country that aims at high environmental standards like Flanders/Belgium.
 			- Consider the situation of Belgian (average) meteorological conditions. On an annual basis, there is a total energetic accumulation of 230 GJ in a generic set of crops/plants that is grown on 1 ha of land. What is the energetic efficiency of the biomasss growth, defined as the energetic contents of the crops/plants divided by the incoming solar energy on the same surface area? Explain.
 		- PV #PV_EX
