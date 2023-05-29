@@ -1,3 +1,4 @@
+- [[Biomass_EX]]
 - ### Introduction
 	- #### Generations
 		- 1-st generation: bio mass also used for food supply
