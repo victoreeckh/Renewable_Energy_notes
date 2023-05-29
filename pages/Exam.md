@@ -263,7 +263,16 @@
 				- *= the distance over which a fossil-fueled vehicle emits as much CO2 as the CO2 contents of the biomass*
 			- What are the two reasons that landfill gas not a long-term energy option? Consider the case of a region/country that aims at high environmental standards like Flanders/Belgium.
 				- Declining landfill gas flow rate
+				- Low technical/theoretical potential (TWh/y)
 			- Consider the situation of Belgian (average) meteorological conditions. On an annual basis, there is a total energetic accumulation of 230 GJ in a generic set of crops/plants that is grown on 1 ha of land. What is the energetic efficiency of the biomasss growth, defined as the energetic contents of the crops/plants divided by the incoming solar energy on the same surface area? Explain.
+				- $230GJ/ha$
+				- $\eta \approx 20-40\%$
+				- Only need incident irradiance
+					- Solar constant is $1368W/m^2$, but is at TOA
+					- ->annual irradiated solar energy density in Belgium is $\approx 1kW/m^2$
+					- 1000h sun, so $1000kWh_{th}/m^2$
+					- and $1ha=100\times 100 = 10^4mˆ2$
+				-
 		- PV #PV_EX
 			- Given: A diode with J0 = 10-16 A/cm²
 			- Under AM1.5 illumination, this cell gives a current of 20 mA/cm²
