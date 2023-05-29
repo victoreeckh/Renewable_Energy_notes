@@ -152,6 +152,7 @@
 				- → Also links to lubrication in the fuel system
 			- **Fuels**
 				- ==Biodiesel/Fatty acid methyl ester (FAME)==
+				  id:: 646e5d9f-f183-4027-8b4a-fa231c0059c9
 					- Fuel properties
 						- Heating value (by volume) 9% lower than diesel
 						- Cetane value similar to diesel
@@ -165,6 +166,7 @@
 								- Compatibility with particulate filter systems (because of post-injection)
 								- Shorter service interval
 				- ==Pure vegetable oil (PVO)==
+				  id:: 646e5e68-5665-4345-acb6-6117272c5f23
 					- Fuel properties
 						- Heating value (by volume) 4% lower than diesel
 						- Cetane value lower than diesel => lower combustion stability
@@ -175,6 +177,7 @@
 					- Production in smaller scale installations (short chain), lower cost than biodiesel
 					- Pure plant oil consumption in Germany peaked in 2007 at 0.7 million tonnes
 				- ==Hydrotreated vegetable oil (HVO)==
+				  id:: 646e5ed6-886e-4855-91e2-783cab26bb1c
 					- Synthetic diesel (like FT diesel) => DROP-IN BIOFUEL
 					- Fully compatible with diesel fuel, with superior properties
 						- Higher cetane number
@@ -183,6 +186,7 @@
 					- Two options for production
 						- Dedicated production where hydrogen is available (close to refineries)
 						- Use crude oil refinery process (mix few % of veg. oil in hydrotreating facilities)
+						  id:: 646e5fdb-1f68-4a48-8520-93b1ad16867d
 					- Vehicle emissions: Reduction in NOx (up to 10%), CO and PM emissions (up to 30%)
 				- ==Fischer-Tropsch diesel==
 					- From gasified lignocellulosic biomass

@@ -478,21 +478,30 @@
 			- Calculate blade chord length and twist angle at 0.2R; 0.5R and 1R (R=radius of
 			  turbine)
 		- Question 4: #Biofuels_EX
-			- Discuss the 3 types of biofuels that can be produced from vegetable oils which
-			  properties are important? What is the impact applicability of these fuels in
-			  combustion engines?
+			- Discuss the 3 types of biofuels that can be produced from vegetable oils which properties are important? What is the impact applicability of these fuels in combustion engines?
+			  background-color:: blue
 			- Important properties
 				- LHV
 					- Lower LHV indicates more volumetric fuel consumption for same energy use -> smaller radius with same tank volume
-						- implicates fuel tank, tubes, injection
+						- implicates fuel tank (larger), tubes (larger), injection system...
 				- cetane number
 					- Indicates speed of self-ignition in a diesel engine.
 					- Lower cetane number results in less stable/qualityful combustion
-						- -> more
+						- -> more robust, solid tubes, engine framework
 				- viscosity
 					- Measure of a fuel's resistance to flow, dependent on temperature
 					- -> high viscosity impacts pumping and atomization of the fuel during injection => combustion quality
-					-
+					- High viscosity can require
+						- additives for cold start properties
+						- extra lubrication/lubrication additives
+						- preheating -> structural changes, engine conversion needed
+			- Fuels
+				- Biodiesel/FAME
+					- ((646e5d9f-f183-4027-8b4a-fa231c0059c9))
+				- Pure vegetable Oil
+					- ((646e5e68-5665-4345-acb6-6117272c5f23)) )
+				- Hydrotreated vegetable oil
+					- ((646e5ed6-886e-4855-91e2-783cab26bb1c))
 		- Question 5: #Solar_thermal_EX
 			- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
 			  aspect at different energy vectors, their interaction, time and space issues
