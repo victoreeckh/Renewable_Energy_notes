@@ -46,6 +46,8 @@
 			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
 		- Biofuels #Biofuels_EX
 			- Give at least four characteristics that are important for alcohol-based biofuels for otto engines. Also give the name of these fuels. Discuss briefly how the characteristics influence the working principle.
+			  background-color:: blue
+				- ((646e54d7-a058-4a57-b4ea-07753c1ec75e))
 		- Q4
 			- Explain chemical looping (calcium looping) and give a schematic indicating the charging and discharging process?
 			- What are the main properties and strengths?
