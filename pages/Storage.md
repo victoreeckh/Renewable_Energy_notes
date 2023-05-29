@@ -1,4 +1,4 @@
--
+- ### [[storage_EX]]
 - ### Overview and general characteristics
 	- Why needed?
 		- Solve electrical imbalance in space and time

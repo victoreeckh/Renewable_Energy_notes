@@ -198,6 +198,18 @@
 			- Derive the expressions for Cp and Ct in function of a using the momentum theory. Use these expressions to determine the maximum value of both coefficients. Discuss the assumptions and limitations of this theory during the derivation.
 		- Electrical storage #storage_EX
 			- You have the possibility of either using a battery at a house with a PV installation or placing it at the feeder on the distribution grid to which this household is connected. Discuss the benefits and problems of both options.
+			  background-color:: blue
+				- Substation devaluators
+					- Complex islanding
+					- Storage size
+					- Location
+					- Medium security risk
+				- Residential devaluators
+					- safety concerns
+					- no load diversity
+					- no cost sharing
+					- little grid benefits
+					- no standardization
 		- Thermal storage #Solar_thermal_EX
 			- Due to the increasing use of renewables more and more thermal storage applications are used. Does the use of thermals storage always lead to a gain? Discuss using 6 points.
 		- CSP #Solar_thermal_EX
