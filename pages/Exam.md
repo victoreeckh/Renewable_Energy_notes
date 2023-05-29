@@ -250,7 +250,23 @@
 			- Consider an off-shore wind project for which a measured wind histogram at 15m is available (cf. Figure). The average roughness length of the sea at that site corresponds to 0.002m. We want to build a large offshore turbine on this site with a hub height of 130m and a rotor diameter of 150m. The estimated power coefficient of the turbine corresponds to 0.45. Furthermore, the cut-in wind speed is 3 m/s, and the cut-out wind speed is 25 m/s. The rated power of the turbine is 6MW. Estimate the expected capacity factor of this wind turbine. [Note: It is sufficient to sample the histogram at 6 to 8 well-selected points to demonstrate the approach]
 		- Electrical Storage #storage_EX
 			- Compare the usefulness, technical as well as economical, of energy storage by means of an “energy island” on the one hand and batteries on the other hand in the frame of renewable electricity integration? [max. 1 page]
-				-
+				- Energy island
+					- ((644434c5-a6be-4994-a54a-906bc62b063b))
+					- ((64444551-f71c-4154-ae46-dd359ef65825))
+					- Definition
+						- *solution to buffer energy in a pumped storage at sea in artificial “atoll”*
+							- inner water level can be pumped up (e.g. store wind power) and released again
+						- Can be combined with other storage methods too
+					- Useful
+						- Can be valuable as substation for zones further at sea -> but maybe better to use real islands for this
+							- proximity to the
+						- Can be useful for storage of large capacities in the absence of the geographical possibilities in-land
+					- Technical
+						- Feasible in theory, but no mature technology
+						- very resource intensive dredging process
+					- Economical
+						- Not cost efficient
+				- Both
 		- TES #Solar_thermal_EX
 			- In the context of thermal energy storage (TES) both energy density and power density are crucial.
 			  background-color:: blue

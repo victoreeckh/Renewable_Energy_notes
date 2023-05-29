@@ -45,6 +45,7 @@
 			- Not really long-term (security of supply context)
 			- Limited power control flexibility (pumping), specifically around 0 MW (dewatering)
 		- Energy island
+		  id:: 64444551-f71c-4154-ae46-dd359ef65825
 			- ((644434c5-a6be-4994-a54a-906bc62b063b))
 			- Recently proposed project (JD: will never be built)
 			- Proven (mature) technology in a new innovative context
