@@ -555,6 +555,7 @@
 						- + $T$ too low to maintain steam for internal reforming?
 			- B
 				- i give the idea of renewable methane
+					-
 				- ii give the different thought steps in the process
 				- iii give an order of magnitude of the overal efficiency after the cycle is
 				  closed (electricity --> CH4 --> electricity)
