@@ -22,8 +22,12 @@
 				- The output is then sent to the condenser
 			- Explain the working principle of the plant.
 				- Adding multiple separation + expansion to increase power output for same geothermal conditions.
-				-
+				- Geofluid from liquid dominated field is used to generate mechanical power. The two-phase fluid undergoes a separation ("flashing") twice and is correspondedly expanded in a turbine twice as well, respectively at higher and lower pressure.
+				- The geofluid is extracted from the production well and separated for a first time in the cyclone separator. The steam part is sent to the high pressure turbine for a first expansion. The condensed liquid is sent to the second separator ("flasher"), there again the steam phase is extracted and sent towards the turbines. There it is mixed with the output of the HP turbine and sent to expand in the LP turbine. The other, liquid part at the second flasher, is sent to inject again at the injection well.
+				- The output of the LP turbine is condensed to liquid form again and sent to a cool tower or to the injection well as well
+				- The turbine rotation drives the generators, and allow them to produce electricity
 			- Give the T-s diagram.
+				- ![image.png](../assets/image_1685431891045_0.png){:height 285, :width 400}
 	- ### 11 June 2022
 		- Q1
 			- Part 1
@@ -589,6 +593,7 @@
 			- c) Er zijn 2 typen van bron? (liquid
 			  dominated en vapordominated)
 				- Geef de naam van de klassieke warmtebron.
+					- hydrothermal geothermal resource
 				- Wat is de andere warmtebron en hoe wordt
 				  die ontgonnen? ( Enhanced geothermal systems)
 	- ### Random
