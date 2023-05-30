@@ -15,8 +15,14 @@
 			- Draw and explain the turbine in more detail. (So give the drawing where the turbine is split with a mixer in between)
 				- Figure
 					- ![image.png](../assets/image_1685430909144_0.png){:height 323, :width 204}
-				-
+				- First the high temperature/pressure steam is expanded in the high pressure turbine (expansion in two-phase region)
+					- The steam originates from the steam part of the separated two-phase geofluid, separated by the cyclone separator
+				- Second, the output at the high pressure outlet is mixed with the steam originating from the second flash
+				- The mixture is brought to the inlet of the low pressure turbine where it is again expanded (in the two phase region) to lower pressure
+				- The output is then sent to the condenser
 			- Explain the working principle of the plant.
+				- Adding multiple separation + expansion to increase power output for same geothermal conditions.
+				-
 			- Give the T-s diagram.
 	- ### 11 June 2022
 		- Q1
