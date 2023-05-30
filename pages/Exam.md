@@ -593,9 +593,11 @@
 			- c) Er zijn 2 typen van bron? (liquid
 			  dominated en vapordominated)
 				- Geef de naam van de klassieke warmtebron.
-					- hydrothermal geothermal resource
-				- Wat is de andere warmtebron en hoe wordt
-				  die ontgonnen? ( Enhanced geothermal systems)
+					- hydrothermal geothermal resource -> heat source is a (geothermal) reservoir
+						- = large body of permeable rocks at a depth accessible by drilling, containing large amounts of fluids, water or steam
+				- Wat is de andere warmtebron en hoe wordt die ontgonnen? ( Enhanced geothermal systems)
+					- Enhanced/engineered geothermal -> heat source is hot rock
+						- EGS technology is centred on engineering and creating large heat exchange areas in hot rock. The process involves enhancing permeability by opening pre-existing fractures and/or creating new fractures. Heat is extracted by pumping a transfer medium, typically water, down a borehole into the hot fractured rock and then pumping the heated fluid up another borehole to a power plant, from where it is pumped back down (recirculated) to repeat the cycle.
 	- ### Random
 		- De eerste vraag ging over ENOH berekenen. #intro_EX
 		- De tweede vraag ging over zonnepanelen, een oefening, redelijk simpel als ge de formules snapt #PV_EX
