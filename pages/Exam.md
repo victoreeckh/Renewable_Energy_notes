@@ -563,14 +563,26 @@
 				  background-color:: blue
 					- Increasing renewable generation capacity (through regulation) increases intermittent generation and therefore uncertainty. As this can result in periods with low demand and high generation (negative residual demand), the excess energy should be stored to level the residual demand. In the absence of efficient long term storage options, one can produce renewable methane with the superfluous energy to avoid negative pricing.
 					- This renewable methane can be used as a substitute for natural gas, used for heat or electricity generation. Or it can be used as a storage medium to later recover the energy from.
-					- The cycle goes as follows:
+					- The cycle goes as follows: #.ol-nested
 						- Excess electricity is used to create H_2 from electrolysis
-							- Note that also electricity can be used from the balancing of CCGT/OCGT can be used that run on the created renewable methane
+						  Note that also electricity can be used from the balancing of CCGT/OCGT can be used that run on the created renewable methane
 						- $CO_2$ is captured from neighbouring plants on the same site (with which balancing is done), CCS or obtained from biomass, waste
-						-
+						- renewable methane is created (Sabatier/methanation)
+							- renewable methane can be stored -> later discharged with fuel cell (e.g. MCFC)
+							- renewable methane can be used to generate electricity with the (balancing) on site CHP plant
+							- renewable methane can be injected in the natural gas network for (domestic) heat and transport
+						- figure
+						  collapsed:: true
+							- ![image.png](../assets/image_1685449485401_0.png){:height 319, :width 391}
 				- iii give an order of magnitude of the overal efficiency after the cycle is
+				  background-color:: blue
 				  closed (electricity --> CH4 --> electricity)
+					- $\eta_{El\rightarrow CH_4} = \eta_{electrolysis}\times \eta_{methanation} = \pm 0.7 \times \pm0.8$
+					- $\eta_{CH_4\rightarrow El} = \pm 0.65$
+					- $\Rightarrow \eta_{tot} = \pm 0.35$
 				- iv what is the biggest cost and uncertainty for renewable methane?
+				  background-color:: blue
+					- The maturity of the fuel cell technology
 		- #PV_EX
 			- i give a physical interpretation of the different terms in the efficiency for
 			  PV panels (equation was given)
