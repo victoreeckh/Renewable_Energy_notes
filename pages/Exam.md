@@ -13,6 +13,8 @@
 			- Layout of a double flash power plant was given. Name the plant and does this work on a primarily liquid-well or steam-well?
 				- Liquid well
 			- Draw and explain the turbine in more detail. (So give the drawing where the turbine is split with a mixer in between)
+				- Figure
+					- ![image.png](../assets/image_1685430909144_0.png){:height 323, :width 204}
 				-
 			- Explain the working principle of the plant.
 			- Give the T-s diagram.
