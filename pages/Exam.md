@@ -555,8 +555,11 @@
 						- + $T$ too low to maintain steam for internal reforming?
 			- B
 				- i give the idea of renewable methane
-					-
+					- Renewable methane is a synthetic substitute for natural gas that is produced from renewable sources, but can also be seen as a way to store energy (long term). The renewable methane is obtained with methanation (sabatier reaction).
+					  $CO_2+4H_2\rightarrow CH_4 +2H_2O$
+					  The $H_2$ is originated from performing electrolysis (with renewable, curtailed/excess energy), while the $CO_2$ is captured from neighbouring plants on the same site (with which balancing is done), CCS or obtained from biomass, waste
 				- ii give the different thought steps in the process
+					-
 				- iii give an order of magnitude of the overal efficiency after the cycle is
 				  closed (electricity --> CH4 --> electricity)
 				- iv what is the biggest cost and uncertainty for renewable methane?
