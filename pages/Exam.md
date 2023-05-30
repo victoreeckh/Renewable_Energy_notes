@@ -11,7 +11,9 @@
 			- sl. 17
 		- Geothermal: #geothermal_EX
 			- Layout of a double flash power plant was given. Name the plant and does this work on a primarily liquid-well or steam-well?
+				- Liquid well
 			- Draw and explain the turbine in more detail. (So give the drawing where the turbine is split with a mixer in between)
+				-
 			- Explain the working principle of the plant.
 			- Give the T-s diagram.
 	- ### 11 June 2022
