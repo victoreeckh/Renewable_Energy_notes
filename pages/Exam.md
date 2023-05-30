@@ -41,10 +41,9 @@
 				- ![image.png](../assets/image_1685431891045_0.png){:height 285, :width 400}
 	- ### 11 June 2022
 	  collapsed:: true
-		- Q1
+		- Q1 #Solar_thermal_EX
 		  collapsed:: true
 			- Part 1
-			  collapsed:: true
 				- ![image.png](../assets/image_1685030967237_0.png)
 				- ![image.png](../assets/image_1685030973548_0.png)
 				- What is on the x axis of the first image?
@@ -53,7 +52,6 @@
 				- What is dominant in A?
 				- Indicate the vacuum curve
 			- Part 2
-			  collapsed:: true
 				- ![image.png](../assets/image_1685031083020_0.png)
 				- Explain the colors on this graph and what it means for the capital cost and the capacity factor
 				- Explain the asymmetry for capacity factor
@@ -85,7 +83,7 @@
 			  background-color:: blue
 			  collapsed:: true
 				- ((646e54d7-a058-4a57-b4ea-07753c1ec75e))
-		- Q4
+		- Q4 #Solar_thermal_EX
 		  collapsed:: true
 			- Explain chemical looping (calcium looping) and give a schematic indicating the charging and discharging process?
 			- What are the main properties and strengths?
@@ -217,7 +215,6 @@
 	- ### 19 June 2019
 	  collapsed:: true
 		- Intro
-		  collapsed:: true
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
 			- Second question a graph of LCOE for PV and wind was given. #intro_EX
 			  collapsed:: true
@@ -570,7 +567,7 @@
 					  slide 9
 					- When solar radiation increases, Pmax increases and we could end up on
 					  the wrong side of the graph giving the wrong commands.
-		- Renewable Energy:
+		- Renewable Energy: #Biomass_EX 
 		  collapsed:: true
 		  What are two reasons landfillgas is not a long-term option? One reason I can
 		  come up with is that direct combustion of landfills produces more energy.
@@ -882,7 +879,6 @@
 					  collapsed:: true
 						- EGS technology is centred on engineering and creating large heat exchange areas in hot rock. The process involves enhancing permeability by opening pre-existing fractures and/or creating new fractures. Heat is extracted by pumping a transfer medium, typically water, down a borehole into the hot fractured rock and then pumping the heated fluid up another borehole to a power plant, from where it is pumped back down (recirculated) to repeat the cycle.
 	- ### Random
-	  collapsed:: true
 		- De eerste vraag ging over ENOH berekenen. #intro_EX
 		- De tweede vraag ging over zonnepanelen, een oefening, redelijk simpel als ge de formules snapt #PV_EX
 		- De derde was over windenergie, maar die kan ik nie herhalen #wind_EX
