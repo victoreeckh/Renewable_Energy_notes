@@ -532,6 +532,7 @@
 		- #Hydrogen_EX
 			- A for AFC, PEMFC, PAFC, MCFC and SOFC.
 				- i which ones can easily be fueled with methane and why?
+				-
 				- ii which ones can be fueled with methane with some changes and why? What do you
 				  need to add?
 				- iii which fuel cell can't be used after reforming CH4 (in practice) and why?
