@@ -57,21 +57,15 @@
 				- Explain the asymmetry for capacity factor
 				- Explain the asymmetry for the economic lifetime
 		- PV #PV_EX
-		  collapsed:: true
 			- What is the difference between bifacial and monofacial PV systems?
-			  collapsed:: true
 				- Monofacial PV panels are the traditional and most common type of solar panels. They consist of a single layer of photovoltaic cells mounted on a supporting structure. These panels are designed to capture sunlight only from one side, usually the front or top surface of the panel. The front surface is where the active photovoltaic material is located, which converts sunlight into electricity. The back surface of a monofacial panel typically consists of a protective layer and a backing material, most commonly used is an Aluminium backside.
-				  collapsed:: true
 					- ![image.png](../assets/image_1685135690572_0.png){:height 236, :width 216}
 				- Bifacial PV panels, on the other hand, are designed to capture sunlight from both the front and back surfaces of the panel. They feature photovoltaic cells on both sides, allowing them to generate electricity from sunlight that strikes the front surface as well as from sunlight that is reflected or diffused onto the back surface. Bifacial panels are typically constructed with a transparent or translucent backsheet or glass back cover, which allows light to pass through to the rear cells. Note that back side generation also requires the necessary busbars and fingering designs on the rear side.
 			- Why is it difficult to estimate the production of these systems?
-			  collapsed:: true
 				- No consensus on gain estimates
 				- Lack of standardization in calculation methods
 				- A lot of uncertainty
-				  collapsed:: true
 					- rear side irradiance is non-uniform and dependent on:
-					  collapsed:: true
 						- characteristics on the ground
 						- shading
 						- location and stance of the modules
@@ -214,6 +208,30 @@
 			- Draw TS diagrams for both parts of the system
 	- ### 19 June 2019
 	  collapsed:: true
+		- Solar PV #PV_EX
+			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean.
+			  background-color:: blue
+				- ((64341221-a033-4a55-b6e6-171f1a1c37a3))
+			- Explain why there is a theoretical maximum efficiency for a given bandgap.
+			  background-color:: blue
+				- *Shockley-Queisser limit*
+				- *Considers only radiative recombination mechanism (+ see other assumptions)*
+				- *It provides an upper bound on the amount of solar energy that can be converted into electrical energy by a solar cell under ideal conditions.*
+				- *In single cells there exists a trade-off between bandgap and extraction voltage. A higher bandgap allows higher absorbance (more photons with lower energy absorbed), but extraction* 
+				    ($V_{OC}$) *happens at lower voltages, and vice versa*
+				- *Limit is mainly formed by*
+					- *Absorption limit -> incomplete absorption*
+					- *thermalization limit -> excess-energy losses*
+					- *Other inevitable loss factors*
+						- *Long-wavelength losses*
+						- *Voltage factor*
+						- *FF*
+				- *Shockley queissler limit* $\approx 30\%$
+			- Why can multijunctions increase efficiency?
+			  background-color:: blue
+				- *Multijunction cells try to increase the limited efficiency of single cells (Shockley-Queisser) by increasing absorption. Absorption in a single cell is limited by long-wavelength (absorption limit, only photons with sufficient energy to let electron bridge bandgap are absorbed) and excess energy (thermalization limit, absorbed photons with energy higher than bandgap -> excess energy will be lost through heat dissipation). See figure.*
+				- *Multijunction cells try to reduce those limits and increase absorption by stacking multiple cells with different (increasing) bandgaps upon each other. The higher range of bandgaps allows to absorb photons with lower energy (higher wave length) ->decreases long-wavelength losses. Additionally photons with higher energies can be absorbed by subsequent cells with larger bandgaps which reduces thermalization (excess energy) losses. Finally as the thickness of the cell improves, also incomplete absorption losses decrease.*
+				-
 		- Intro
 			- Dhassler: past exam question about fuel cells which can use methane (CH4) and which can with adjustments, and which cant. #Hydrogen_EX
 			- Second question a graph of LCOE for PV and wind was given. #intro_EX
@@ -244,36 +262,6 @@
 				  collapsed:: true
 					- *LCOE is the average price during operation hours needed to break even over the lifetime of the plant. It thus makes the balance of the needed future revenue against the projected future costs of the plant. When calculating future money streams, one should account for the time-price value of money and therefore discount the streams to the present (NPV) as money is worth less in the future than it is today. This discount is embodied by the WACC, which can be seen as the opportunity cost of capital. Therefore using another discount (WACC) value will give other results in terms of average price needed to break even. This shows the dependency.*
 				- what are the green diamonds on the graph? What is missing on the right hand side graph?
-		- Solar PV #PV_EX
-		  collapsed:: true
-			- same as past exam question where he gives the equation for the efficiency of the solar cell and you have to explain what all the terms mean.
-			  background-color:: blue
-			  collapsed:: true
-				- ((64341221-a033-4a55-b6e6-171f1a1c37a3))
-			- Explain why there is a theoretical maximum efficiency for a given bandgap.
-			  background-color:: blue
-			  collapsed:: true
-				- *Shockley-Queisser limit*
-				- *Considers only radiative recombination mechanism (+ see other assumptions)*
-				- *It provides an upper bound on the amount of solar energy that can be converted into electrical energy by a solar cell under ideal conditions.*
-				- *In single cells there exists a trade-off between bandgap and extraction voltage. A higher bandgap allows higher absorbance (more photons with lower energy absorbed), but extraction* 
-				    ($V_{OC}$) *happens at lower voltages, and vice versa*
-				- *Limit is mainly formed by*
-				  collapsed:: true
-					- *Absorption limit -> incomplete absorption*
-					- *thermalization limit -> excess-energy losses*
-					- *Other inevitable loss factors*
-					  collapsed:: true
-						- *Long-wavelength losses*
-						- *Voltage factor*
-						- *FF*
-				- *Shockley queissler limit* $\approx 30\%$
-			- Why can multijunctions increase efficiency?
-			  background-color:: blue
-			  collapsed:: true
-				- *Multijunction cells try to increase the limited efficiency of single cells (Shockley-Queisser) by increasing absorption. Absorption in a single cell is limited by long-wavelength (absorption limit, only photons with sufficient energy to let electron bridge bandgap are absorbed) and excess energy (thermalization limit, absorbed photons with energy higher than bandgap -> excess energy will be lost through heat dissipation). See figure.*
-				- *Multijunction cells try to reduce those limits and increase absorption by stacking multiple cells with different (increasing) bandgaps upon each other. The higher range of bandgaps allows to absorb photons with lower energy (higher wave length) ->decreases long-wavelength losses. Additionally photons with higher energies can be absorbed by subsequent cells with larger bandgaps which reduces thermalization (excess energy) losses. Finally as the thickness of the cell improves, also incomplete absorption losses decrease.*
-				-
 		- Wind #wind_EX
 		  collapsed:: true
 			- Some Crazy question for you to derive an equation a' and torque using Cq (yes CQ, not CT or CP).
@@ -543,23 +531,17 @@
 			- draw Q-T diagram if you can assume the brine runs CONSEQUENTLY through:
 			  HPE, HPPH, LPE, LPPH.
 		- PV: #PV_EX
-		  collapsed:: true
 			- what goes wrong with the perturb and observe algorithm? Which component is affected most by a passing cloud: the direct or the indirect component? Does it change the frequency distribution of the incoming radiation?
 			  background-color:: blue
-			  collapsed:: true
 				- Mijn antwoord
-				  collapsed:: true
 					- Perturb and observe is a mppt algorithm that uses measurements of current and voltage at discrete time steps in a closed loop control system to converge towards the voltage to extract maximum power. In short it determines its next voltage value based on the previous measurements. The computed change in power determines the direction of the next step while the voltage determines the magnitude of that step. (draw flow chart if spare time).
-					  collapsed:: true
 						- If P increases, than V follows the current change in V (decrease, decrease further)
 						- If P decreases, than V counteracts the current change in V
 					- However P&O fails in rapidly varying weather conditions. If the granularity of the time of the changes is much smaller than that of the discrete time steps, than the algorithm could make wrong decisions because it reacts too slow.
 					- It affects the direct component as only direct irradiance is affected heavily in partially clouded situations
 					- Yes, it affects the spectrum
-					  collapsed:: true
 						- Shorter wavelengths, such as blue and green light, are more easily scattered by clouds, leading to a larger proportion of diffuse light in the spectrum reaching the surface. As a result, the presence of clouds can cause a shift towards longer wavelengths in the overall spectrum of incoming irradiance.
 				- Antwoord burgieclan
-				  collapsed:: true
 					- Perturb and observe fails in fast changing weather conditions. It works
 					  by measuring V(t) and I(t) at discrete time steps. If both P and V increase or
 					  decrease, V will be increased during the next measurement to increase P and get
@@ -582,9 +564,7 @@
 				- Why is this incorrect? What should it be and why?
 			- 2) Why should the absorber of a vacuum plate collector have a reflection coefficient of 1 above a wavelength of 3 µm?
 		- #PV_EX
-		  collapsed:: true
 			- J_0=10 fA/cm²
-			  collapsed:: true
 			  I=0.040 A/cm² at AM1.5 (100mW/cm²)
 			  T=300K #.ol
 				- Compute the I-V characteristic
