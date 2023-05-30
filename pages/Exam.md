@@ -590,6 +590,8 @@
 		- geothermal #geothermal_EX
 			- a) Schema: maak TS diagram van bovenstaande tekening (double flash plant). Duid alle nummers aan.
 			- b) Hoewel binaire energiebronnen 56% uitmaken van de totale hoeveelheid centrales, leveren ze maar 6% van de totale geproduceerde elektriciteit aan geothermische energie. Van waar komt deze discrepantie (5 regels max)
+				- Binary geothermal power plants tend to have smaller individual capacity compared to other types of geothermal power plants, such as flash steam plants
+				- Low average power rating per unit
 			- c) Er zijn 2 typen van bron? (liquid
 			  dominated en vapordominated)
 				- Geef de naam van de klassieke warmtebron.
