@@ -532,9 +532,19 @@
 		- #Hydrogen_EX
 			- A for AFC, PEMFC, PAFC, MCFC and SOFC.
 				- i which ones can easily be fueled with methane and why?
-				-
+					- MCFC (Molten carbonate FC)
+						- A high T ($650^\circ C$) FC, that uses molten salt as electrolyte
+						- The electrolyte allows $CO_2$ in the reaction scheme and offers the right conditions for internal reforming to happen. Which means that other fuels like methane can be used, as the reforming reaction gives the wanted $H_2$ reagens.
+						- $CH_4 + 2H_2O \rightarrow CO_2+ 4H_2$
+						- Method for producing syngas by reaction of hydrocarbons with water
+					- SOFC (Solid Oxide FC)
+						- A high T ($1000^\circ C$) FC, that uses a solid oxide electrolyte
+						- Same as above
 				- ii which ones can be fueled with methane with some changes and why? What do you
 				  need to add?
+					- Phosphoric Acid FC
+						- Why? Acid in electrolyte allows $CO_2$, and thus $CO_2$ holding fuels
+						-
 				- iii which fuel cell can't be used after reforming CH4 (in practice) and why?
 			- B
 				- i give the idea of renewable methane
