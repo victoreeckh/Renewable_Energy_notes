@@ -531,6 +531,7 @@
 	- ### 17 June 2014
 		- #Hydrogen_EX
 			- A for AFC, PEMFC, PAFC, MCFC and SOFC.
+			  background-color:: blue
 				- i which ones can easily be fueled with methane and why?
 					- MCFC (Molten carbonate FC)
 						- A high T ($650^\circ C$) FC, that uses molten salt as electrolyte
@@ -544,8 +545,14 @@
 				  need to add?
 					- Phosphoric Acid FC
 						- Why? Acid in electrolyte allows $CO_2$, and thus $CO_2$ holding fuels
-						-
+						- $T$ of $200^\circ C$, should be enough to produce steam for the internal reforming, otherwise a heating and steam source should be added (+energy for the endothermic reaction)
+						- To assure the process chemical reforming catalysts can always be added (e.g. Ni)
 				- iii which fuel cell can't be used after reforming CH4 (in practice) and why?
+					- Alkaline FC
+						- The KOH electrolyte doesn't tolerate $CO_2$ as it reacts with it
+						- + $T$ too low to maintain steam for internal reforming?
+					- Proton exchange membrane FC
+						- + $T$ too low to maintain steam for internal reforming?
 			- B
 				- i give the idea of renewable methane
 				- ii give the different thought steps in the process
