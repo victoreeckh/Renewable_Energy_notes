@@ -735,11 +735,24 @@
 					- Molten salt TES tanks allows to shift and level supply curve, by power generation of stored thermal energy at off-peak production hours/peak consumption hours
 					- Increases capacity factor
 				- Conceptual
-					- Earlier: elec. -> heat
-						-
-			-
-				-
-			-
+					- Earlier
+						- elec. -> heat
+							- Electricity generation from
+								- fossil fuels
+								- renewable energy
+									- excess can be used to produce and store heat
+							- No temporal buffer -> yes (decoupling)
+								- instantaneous demand must equal supply -> temporal decoupling by electrical storage, but also by thermal storage
+							- No spatial buffer -> yes spatial buffer (decoupling)
+								- produce thermal energy near electricity generator and transport heat (e.g. reaction products of TCM)
+								- Transport electricity -> heating by end-user, and store at end user
+						- Excess heat -> elec. -> store electricity
+					- Now Heat -> stored as heat, TES
+						- Industrial
+							- integrate new renewable energy sources
+								- CSP + molten salts
+						- Domestic heating
+							- tabs
 		- Question 6: #geothermal_EX
 		  collapsed:: true
 			- 1.) Picture of geothermal power plant -> give T-s-diagram
