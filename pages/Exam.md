@@ -160,6 +160,7 @@
 		- TES #Solar_thermal_EX
 		  collapsed:: true
 			- TES is important for cross-sectorial decarbonization, give four examples
+				-
 		- Hydrogen #Hydrogen_EX
 		  collapsed:: true
 			- Fuel cells, which can be fueled with methane and which not, why?
@@ -472,23 +473,24 @@
 					  collapsed:: true
 						- Available technologies become cheaper but still no cheap alternatives for large scale storage
 		- TES #Solar_thermal_EX
-		  collapsed:: true
 			- In the context of thermal energy storage (TES) both energy density and power density are crucial.
 			  background-color:: blue
-			  collapsed:: true
 				- Define energy density. Which properties determine the energy density of a TES system?
-				  collapsed:: true
 					- *Amount of heat that can be stored per unit volume*
-					  collapsed:: true
 						- *dependent on the thermal capacity of the medium and* $\Delta T$ *allowed, or the latent heat or the reaction heat*
 				- Define power density. Which properties impact the power density of a TES system?
-				  collapsed:: true
 					- *rate at which heat can be absorbed or released*
 					- *dependent on thermal conductivity and convective heat transfer rates*
 				- What is the typical ratio of energy density between a thermochemical storage material (TCM) and water (typically at a ΔT of 70°C)
-				  collapsed:: true
 					- *20-to-1 ?* (±100/±5.8)
 				- How can the power density of a phase change material (PCM) be improved? [max. 1 page]
+					- increase surface of heat exchange
+					- Use encapsulated PCM
+						- the heat transfer fluid is circulated through a bed of PCM capsules, modules
+						- Way to overcome thermal conductivity problem and avoid leakage
+						- combines sensible and latent storage
+							- PCM -> latent
+							- heat transfer fluid that changes temperature -> sensible
 		- Geothermal Energy #geothermal_EX
 		  collapsed:: true
 			- In the figure below, the scheme of a geothermal power plant is given. #.ol-nested
