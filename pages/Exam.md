@@ -51,8 +51,9 @@
 				- What do these lines represent?
 					- Thermal efficiencies of flat plate solar collectors, with and without cover glass
 				- What is on the x axis of the other image?
-					-
+					- $T_f-T_0$
 				- What is dominant in A?
+					- No cover glass at lower $T_F$, and cover glass at higher $T_F$
 				- Indicate the vacuum curve
 			- Part 2
 				- ![image.png](../assets/image_1685031083020_0.png)
