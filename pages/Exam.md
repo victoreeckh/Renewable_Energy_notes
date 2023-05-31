@@ -708,14 +708,38 @@
 			- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
 			  aspect at different energy vectors, their interaction, time and space issues
 			  and the global system. (max 1 page)
+				- Vectors
+					- sensible -> store heat as internal energy in the temperature difference of the the heat storage medium. Vectors are therefore molecules.
+						- Water
+						- Solid
+						- Thermal oil
+						- Molten salt
+					- PCM -> store heat as latent heat by phase changing pcms
+						- Eutectic mixtures (sub zero)
+						- Low T
+							- Water
+							- Parrafine
+						- high T
+							- binary and ternary inorganic salts
+					- TCM
+						- chemical reactions
+						- thermochemical sorption process
 				- Decoupling heating and cooling demand from immediate power generation and supply availability
-					- Locally
+					- Locally (DHC)
 						- Store locally produced heat surplus in
 							- TTES/solid (short term)
 							- ATES (long, seasonal)
 					- globally
-						- industry can use
+						- industry can use TCM techniques
 				- Integration of renewable energy sources
+					- Molten salt TES tanks allows to shift and level supply curve, by power generation of stored thermal energy at off-peak production hours/peak consumption hours
+					- Increases capacity factor
+				- Conceptual
+					- Earlier: elec. -> heat
+						-
+			-
+				-
+			-
 		- Question 6: #geothermal_EX
 		  collapsed:: true
 			- 1.) Picture of geothermal power plant -> give T-s-diagram
