@@ -47,8 +47,11 @@
 				- ![image.png](../assets/image_1685030967237_0.png)
 				- ![image.png](../assets/image_1685030973548_0.png)
 				- What is on the x axis of the first image?
+					- $T^* = \frac{T_F-T_0}{G}$, normalized temperature
 				- What do these lines represent?
+					- Thermal efficiencies of flat plate solar collectors, with and without cover glass
 				- What is on the x axis of the other image?
+					-
 				- What is dominant in A?
 				- Indicate the vacuum curve
 			- Part 2
@@ -139,6 +142,10 @@
 		- Solar_thermal #Solar_thermal_EX
 		  collapsed:: true
 			- waarom moet de reflectie coeff van een absorber gelijk zijn aan 1 vanaf 3µm? en die figuur op slide 55 van die kost met waarom 16 jaar, wat is daar fout aan en hoe beter?
+				- T limit energy losses from emission of infra red radiation a material with a low emission coefficient for the infra red wave lengths should be chosen.
+				- Infrared wave lengths usually start at $3\mu m$
+				- A low emission coefficient is equivalent with a low absorption coefficient (Kirchoff), and therefore equivalent with a high reflection coefficient $\rho = 1-\alpha$, conservation of radiation
+				- 16 year is achieved without accounting for the discount factor, and thus the time value of the savings in running costs. If you do account for it, pbt becomes infinite
 	- ### 4 June 2021
 	  collapsed:: true
 		- Intro #intro_EX
