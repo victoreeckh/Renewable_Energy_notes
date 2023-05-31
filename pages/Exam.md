@@ -160,6 +160,10 @@
 		- TES #Solar_thermal_EX
 		  collapsed:: true
 			- TES is important for cross-sectorial decarbonization, give four examples
+				- Chemical looping with carbon capture
+				- GEOTABS to replace (to some extent) natural gas heating
+				- Molten salt as sensible TES allows integration of the renewable CSP as a power generating method
+					- -> less use of fossil
 				-
 		- Hydrogen #Hydrogen_EX
 		  collapsed:: true
