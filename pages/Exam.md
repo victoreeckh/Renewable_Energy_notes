@@ -158,12 +158,14 @@
 		  collapsed:: true
 			- same question as below, diode with j0 given, find v_oc, FFmax, efficiency, compare with typical efficiency
 		- TES #Solar_thermal_EX
+		  background-color:: blue
 		  collapsed:: true
-			- TES is important for cross-sectorial decarbonization, give four examples
+			- TES is important for cross-sectorial decarbonization, give four examples #.ol
 				- Chemical looping with carbon capture
 				- GEOTABS to replace (to some extent) natural gas heating
 				- Molten salt as sensible TES allows integration of the renewable CSP as a power generating method
-					- -> less use of fossil
+					- -> less use of fossil fuel for renewable generation -> decarbonization
+				- ATES can be used as district heating/cooling instead of natural gas variant
 				-
 		- Hydrogen #Hydrogen_EX
 		  collapsed:: true
@@ -706,6 +708,14 @@
 			- TES allows decoupling of thermal and electrical energy fluxes. Discuss this
 			  aspect at different energy vectors, their interaction, time and space issues
 			  and the global system. (max 1 page)
+				- Decoupling heating and cooling demand from immediate power generation and supply availability
+					- Locally
+						- Store locally produced heat surplus in
+							- TTES/solid (short term)
+							- ATES (long, seasonal)
+					- globally
+						- industry can use
+				- Integration of renewable energy sources
 		- Question 6: #geothermal_EX
 		  collapsed:: true
 			- 1.) Picture of geothermal power plant -> give T-s-diagram
