@@ -81,10 +81,8 @@
 						- Neigbouring PV systems
 			- What is the typical gain of this bifacial module compared to a monofacial? What is the reason of these gain?
 		- Biofuels #Biofuels_EX
-		  collapsed:: true
 			- Give at least four characteristics that are important for alcohol-based biofuels for otto engines. Also give the name of these fuels. Discuss briefly how the characteristics influence the working principle.
 			  background-color:: blue
-			  collapsed:: true
 				- ((646e54d7-a058-4a57-b4ea-07753c1ec75e))
 		- Q4 #Solar_thermal_EX
 		  collapsed:: true
@@ -556,6 +554,10 @@
 		  collapsed:: true
 			- Explain mixing ethanol with gasoline in low and high concentrations
 			- What are the 4 major feedstocks of ethanol?
+				- Corn
+				- sugarcane
+				- ligno cellulosic biomass
+				- wheat, starch
 		- Hydro #Hydro_EX
 			- Design a hydro power plant for the Schelde in Antwerp? No environmental restrictions
 				- Large scale
@@ -616,41 +618,29 @@
 			- Calculate blade chord length and twist angle at 0.2R; 0.5R and 1R (R=radius of
 			  turbine)
 		- Question 4: #Biofuels_EX
-		  collapsed:: true
 			- Discuss the 3 types of biofuels that can be produced from vegetable oils which properties are important? What is the impact applicability of these fuels in combustion engines?
 			  background-color:: blue
 			- Important properties
-			  collapsed:: true
 				- LHV
-				  collapsed:: true
 					- Lower LHV indicates more volumetric fuel consumption for same energy use -> smaller radius with same tank volume
-					  collapsed:: true
 						- implicates fuel tank (larger), tubes (larger), injection system...
 				- cetane number
-				  collapsed:: true
 					- Indicates speed of self-ignition in a diesel engine.
 					- Lower cetane number results in less stable/qualityful combustion
-					  collapsed:: true
 						- -> more robust, solid tubes, engine framework
 				- viscosity
-				  collapsed:: true
 					- Measure of a fuel's resistance to flow, dependent on temperature
 					- -> high viscosity impacts pumping and atomization of the fuel during injection => combustion quality
 					- High viscosity can require
-					  collapsed:: true
 						- additives for cold start properties
 						- extra lubrication/lubrication additives
 						- preheating -> structural changes, engine conversion needed
 			- Fuels
-			  collapsed:: true
 				- Biodiesel/FAME
-				  collapsed:: true
 					- ((646e5d9f-f183-4027-8b4a-fa231c0059c9))
 				- Pure vegetable Oil
-				  collapsed:: true
-					- ((646e5e68-5665-4345-acb6-6117272c5f23)) )
+					- ((646e5e68-5665-4345-acb6-6117272c5f23)))
 				- Hydrotreated vegetable oil
-				  collapsed:: true
 					- ((646e5ed6-886e-4855-91e2-783cab26bb1c))
 		- Question 5: #Solar_thermal_EX
 		  collapsed:: true
