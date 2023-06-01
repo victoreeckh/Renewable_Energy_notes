@@ -370,12 +370,12 @@
 				- $230GJ/ha$
 				- $\eta \approx 20-40\%$
 				- Only need incident irradiance
-				  collapsed:: true
 					- Solar constant is $1368W/m^2$, but is at TOA
 					- ->annual irradiated solar energy density in Belgium is $\approx 1kW/m^2$
 					- 1000h sun, so $1000kWh_{th}/m^2$
 					- and $1ha=100\times 100 = 10^4mˆ2$
-				- $\Rightarrow = \frac{230\times 10^9 \times 0.3 \times 3600}{1000\times 10^3\times 10^4}=$
+				- $\Rightarrow = \frac{230\times 10^9 \times 0.3}{1000\times 10^3\times 10^4\times 3600}=0.192\%$
+				-
 				-
 		- PV #PV_EX
 		  collapsed:: true
@@ -524,6 +524,8 @@
 		  What are two reasons landfillgas is not a long-term option? One reason I can
 		  come up with is that direct combustion of landfills produces more energy.
 		  Is there someone who has a clear view on this?
+			- Soil pollution
+			- Methane content decreases over time
 			- ![image.png](../assets/image_1685033017859_0.png){:height 579, :width 348}
 	- ### 24 August 2014
 	  collapsed:: true
