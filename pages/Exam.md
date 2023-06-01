@@ -839,24 +839,17 @@
 		  collapsed:: true
 			- Bespreek de warmteopslag (TES). Hoe kan TES de warmte- en electriciteitsflux loskoppelen? (bespreek vectoren, tijd en ruimteopslag ...)
 		- geothermal #geothermal_EX
-		  collapsed:: true
 			- a) Schema: maak TS diagram van bovenstaande tekening (double flash plant). Duid alle nummers aan.
 			- b) Hoewel binaire energiebronnen 56% uitmaken van de totale hoeveelheid centrales, leveren ze maar 6% van de totale geproduceerde elektriciteit aan geothermische energie. Van waar komt deze discrepantie (5 regels max)
-			  collapsed:: true
 				- Binary geothermal power plants tend to have smaller individual capacity compared to other types of geothermal power plants, such as flash steam plants
 				- Low average power rating per unit
 			- c) Er zijn 2 typen van bron? (liquid
-			  collapsed:: true
 			  dominated en vapordominated)
 				- Geef de naam van de klassieke warmtebron.
-				  collapsed:: true
 					- hydrothermal geothermal resource -> heat source is a (geothermal) reservoir
-					  collapsed:: true
 						- = large body of permeable rocks at a depth accessible by drilling, containing large amounts of fluids, water or steam
 				- Wat is de andere warmtebron en hoe wordt die ontgonnen? ( Enhanced geothermal systems)
-				  collapsed:: true
 					- Enhanced/engineered geothermal -> heat source is hot rock
-					  collapsed:: true
 						- EGS technology is centred on engineering and creating large heat exchange areas in hot rock. The process involves enhancing permeability by opening pre-existing fractures and/or creating new fractures. Heat is extracted by pumping a transfer medium, typically water, down a borehole into the hot fractured rock and then pumping the heated fluid up another borehole to a power plant, from where it is pumped back down (recirculated) to repeat the cycle.
 	- ### Random
 		- De eerste vraag ging over ENOH berekenen. #intro_EX
